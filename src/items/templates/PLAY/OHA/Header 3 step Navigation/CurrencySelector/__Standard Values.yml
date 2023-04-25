@@ -1,0 +1,19 @@
+﻿---
+ID: "a32719b5-88ec-49fa-a963-99f6cd563325"
+Parent: "8065aa2a-fd02-4802-a8e9-19e8bf85af1a"
+Template: "8065aa2a-fd02-4802-a8e9-19e8bf85af1a"
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/CurrencySelector/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {C83C8564-64DB-4364-A4F6-EDB5392F2D48}
+    {A00EAAC8-5EA8-41EE-B41D-18E3A32F9D7F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "44c4e70a-a050-4ffc-9c0b-16b13d7f3808"

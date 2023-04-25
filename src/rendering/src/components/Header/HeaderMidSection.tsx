@@ -1,5 +1,4 @@
 import {
-  withDatasourceCheck,
   ImageField,
   Image,
   RichTextField,
@@ -7,7 +6,7 @@ import {
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
 import ALink from 'components/feature/custom-link';
-import SearchBox from 'components/common/partials/search-box';
+// import SearchBox from 'components/common/partials/search-box';
 
 type HeaderMidSectionProps = ComponentProps & {
   fields: {
@@ -29,7 +28,7 @@ const HeaderMidSection = (props: HeaderMidSectionProps): JSX.Element => (
             <Image field={props.fields.Logo} />
           </ALink>
 
-          {<SearchBox />}
+          {/* {<SearchBox />} */}
         </div>
 
         <div className="header-right">
@@ -60,5 +59,6 @@ const HeaderMidSection = (props: HeaderMidSectionProps): JSX.Element => (
     </div>
   </header>
 );
+export const Default = HeaderMidSection;
 
-export default withDatasourceCheck()<HeaderMidSectionProps>(HeaderMidSection);
+// export default withDatasourceCheck()<HeaderMidSectionProps>(HeaderMidSection);

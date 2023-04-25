@@ -3,6 +3,10 @@ ID: "105ab476-3edf-5a27-a49a-a5604bb6aca2"
 Parent: "99536ff1-02bf-5b2e-a94a-1bbba4cf50fa"
 Template: "1f476f1c-822a-5a88-8f7e-2431b77d1b70"
 Path: "/sitecore/content/PLAY/playwebsite/home/Page Components/Speaker Line-up Section"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
 Languages:
 - Language: en
   Versions:
@@ -20,4 +24,4 @@ Languages:
         <link id="{1F4B781B-F2A5-5647-99DF-C0C369162C4D}" linktype="internal" text="View All Speakers" querystring="" url="/PLAY/playwebsite/home/speakers" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4175cf82-9f8e-4011-abc9-92889998b8d7"
+      Value: "5acf1575-d06b-4050-9256-55e07d54733c"

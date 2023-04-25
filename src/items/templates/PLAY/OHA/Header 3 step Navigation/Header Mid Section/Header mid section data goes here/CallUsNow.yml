@@ -1,0 +1,20 @@
+﻿---
+ID: "0c0cef81-2018-4295-9f79-710a3b773854"
+Parent: "664a656d-b6de-44e8-aa3f-cd362a3bde2b"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/Header Mid Section/Header mid section data goes here/CallUsNow
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Rich Text
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f287ee03-c28d-4fa2-b7d3-7c75e17bba80"

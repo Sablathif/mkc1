@@ -2,7 +2,7 @@
 ID: "faa0d916-c6fa-4991-a845-e97d9d30efc8"
 Parent: "e779162a-2319-4591-8c81-d396d4b37a20"
 Template: "61be6f7d-3a37-45f8-924f-f8fedc8f7a05"
-Path: /sitecore/content/PLAY/playwebsite/home/OHA Landing Page/Page Components/Deal Section/Fashions
+Path: /sitecore/content/PLAY/playwebsite/home/Page Components/Deal Section/Fashions
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder

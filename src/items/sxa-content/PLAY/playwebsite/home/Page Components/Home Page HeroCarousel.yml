@@ -1,15 +1,15 @@
 ﻿---
 ID: "cdb898b2-2155-4fec-a237-dfbd14d84717"
-Parent: "a1b5cb63-177e-4cb2-ad39-de7be30bd30f"
+Parent: "99536ff1-02bf-5b2e-a94a-1bbba4cf50fa"
 Template: "3a9aef2b-bb55-5719-a5f8-13f8caeeb422"
-Path: /sitecore/content/PLAY/playwebsite/home/OHA Landing Page/Page Components/Home Page HeroCarousel
+Path: /sitecore/content/PLAY/playwebsite/home/Page Components/Home Page HeroCarousel
 SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 1200
+  Value: 50
 Languages:
 - Language: en
   Versions:
@@ -29,4 +29,4 @@ Languages:
       Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ff141cd2-1139-4699-9f5f-bdcf96d06106"
+      Value: "951afd3d-d620-45ce-8b70-0925762efc67"
