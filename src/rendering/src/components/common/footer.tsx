@@ -2,6 +2,7 @@ import { Image, Link, RichText, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import ALink from 'components/feature/custom-link';
 export default function Footer(props) {
   const data = props.props;
+  console.log(data);
   return (
     <footer className="footer">
       <div className="container">
@@ -68,22 +69,22 @@ export default function Footer(props) {
                 </ul>
               </div>
             </div>
-            {/* {data?.fields?.FooterNavigation?.map((datanav, index) => (
+            {data?.fields?.FooterNavigation?.map((datanav, index) => (
               <div className="col-lg-3 col-md-6" key={index}>
                 <div className="widget ml-lg-4">
                   <h4 className="widget-title">{datanav.fields.NavigationName.value}</h4>
                   <ul className="widget-body">
-                    {datanav.fields.FooterNavigationList?.map((datalist, index) => (
+                    {/* {datanav.fields.FooterNavigationList?.map((datalist, index) => (
                       <li key={index}>
                         <ALink href={datalist.fields.LinkUrl.value.url}>
                           {datalist.fields.LinkUrl.value.text}
                         </ALink>
                       </li>
-                    ))}
+                    ))} */}
                   </ul>
                 </div>
               </div>
-            ))} */}
+            ))}
             <div className="col-lg-3 col-md-6">
               <div className="widget widget-instagram">
                 <h4 className="widget-title">
