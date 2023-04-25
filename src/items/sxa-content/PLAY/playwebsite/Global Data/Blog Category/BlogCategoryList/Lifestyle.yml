@@ -1,0 +1,16 @@
+﻿---
+ID: "eb0c9399-75d7-465d-8681-9d26d3f767fe"
+Parent: "9c179467-d422-4a12-83ad-7bcf6a9d890f"
+Template: "5de099be-a1f8-4d18-ae74-57e8d6d92861"
+Path: /sitecore/content/PLAY/playwebsite/Global Data/Blog Category/BlogCategoryList/Lifestyle
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "84027dda-43b3-4191-9be3-296772abb4f7"
+    - ID: "e4cf0ad2-697e-4e4f-a13e-e87a99eb64a0"
+      Hint: blogCategory
+      Value: Lifestyle

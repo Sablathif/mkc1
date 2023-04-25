@@ -1,0 +1,20 @@
+﻿---
+ID: "48efa154-00f0-4a6b-a269-c7fd30f39d18"
+Parent: "6d820a87-4ccd-42d3-821b-c7ce1ae48078"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Project/PLAY/OHA/BlogDetail/BlogDetail
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: BlogDetail
+- ID: "f6677a49-0a1d-4bad-b8ba-4f0f22bdee64"
+  Hint: Additional compatible templates
+  Value: "{F20E7C85-7105-5375-A3D0-42FD54D93287}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aecc049f-4436-4eb7-9c2a-f7025622c075"

@@ -1,0 +1,13 @@
+﻿---
+ID: "7f827334-3668-45c8-83dd-57c93f7a85d6"
+Parent: "fd8c1a7b-d41d-4c6b-bee1-5bb0f1ffb368"
+Template: "645317fe-3c05-4cde-93ec-8a1989204d29"
+Path: "/sitecore/content/PLAY/playwebsite/Global Data/Banner Type/banner-4"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "06d2349b-bc79-4ba0-940f-fdb5de13d183"

@@ -1,0 +1,13 @@
+﻿---
+ID: "26aa37c5-3ec1-418e-9842-a3b1a938c8f5"
+Parent: "3a9aef2b-bb55-5719-a5f8-13f8caeeb422"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/HeroCarousel/Carousel Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "74814822-253b-4399-8edb-ed96c340ea1b"

@@ -1,0 +1,20 @@
+﻿---
+ID: "d0500c4f-864f-4c54-a933-fa4b4e06b982"
+Parent: "ff8d6cce-91ba-484a-9fc5-72fe63392dfb"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Instagram/Footer Instagram/Image
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Image
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6ac57687-a3f2-4a10-93fa-a5f6a82d2dcf"

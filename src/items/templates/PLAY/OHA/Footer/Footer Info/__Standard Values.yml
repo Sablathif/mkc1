@@ -1,0 +1,17 @@
+﻿---
+ID: "e8ad38d9-aeda-4078-9011-00917004d261"
+Parent: "c47023f3-27d1-4a7d-a598-b04e53973ad6"
+Template: "c47023f3-27d1-4a7d-a598-b04e53973ad6"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/__Standard Values
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7c03af94-9c22-43ac-9fe3-a1acf9f6e9d9"

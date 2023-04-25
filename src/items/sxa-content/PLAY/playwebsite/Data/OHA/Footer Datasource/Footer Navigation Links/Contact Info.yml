@@ -1,0 +1,24 @@
+﻿---
+ID: "c138d98f-417a-4f3b-84fe-d25d9eb9edb8"
+Parent: "e52d9078-216a-4f9f-b21f-a98e2bb8916c"
+Template: "d62efcd7-f1eb-49e2-904b-0bc5b252b133"
+Path: /sitecore/content/PLAY/playwebsite/Data/OHA/Footer Datasource/Footer Navigation Links/Contact Info
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "56737bb8-0e28-4485-95c7-477f9d4d9e5f"
+      Hint: FooterNavigationList
+      Value: |
+        {2DB16F83-33B6-4AE1-8F8E-8218164B695B}
+        {D7D2859E-6A7D-4DC1-ACB0-4F3C7DE9E9DF}
+        {BAF3B435-BD99-400D-8144-AF759679110F}
+        {3F0B3C6A-BE30-47BD-8689-F49635F5CEA9}
+        {76576416-077D-4625-886D-8CE6791025F7}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "46d2bd78-10a3-4a84-905d-d6fc85574758"
+    - ID: "b6484b56-c890-4d42-8a53-66b4880ff7a3"
+      Hint: NavigationName
+      Value: Contact Info

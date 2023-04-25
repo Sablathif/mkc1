@@ -1,0 +1,20 @@
+﻿---
+ID: "50e9c68e-711a-47f9-82c8-58b51efa89e3"
+Parent: "32f64bf6-c84b-4204-9909-8c209412756a"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Links/Link Details/HideInFooter
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Checkbox
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "35a3af42-c0bb-4e68-9e07-3f29cebde435"

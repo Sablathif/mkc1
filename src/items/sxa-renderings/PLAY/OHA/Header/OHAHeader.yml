@@ -1,0 +1,20 @@
+﻿---
+ID: "120c9216-eaa5-474f-9cdc-60959e31a697"
+Parent: "dd88ac67-b641-49da-bbd5-cb670a72c7b4"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Project/PLAY/OHA/Header/OHAHeader
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: OHAHeader
+- ID: "f6677a49-0a1d-4bad-b8ba-4f0f22bdee64"
+  Hint: Additional compatible templates
+  Value: "{C44F459C-7D7B-425B-8B9B-317C8CC2966B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dda9bd54-e531-4a05-aec3-ce94124f4da8"

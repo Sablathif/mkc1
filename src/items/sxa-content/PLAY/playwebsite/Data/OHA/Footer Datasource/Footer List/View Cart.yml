@@ -1,0 +1,17 @@
+﻿---
+ID: "d7d2859e-6a7d-4dc1-acb0-4f3c7de9e9df"
+Parent: "91bebaca-e3ca-457f-a906-d097590b05f5"
+Template: "619ec087-f367-40cb-9bee-25920c1b8a5c"
+Path: /sitecore/content/PLAY/playwebsite/Data/OHA/Footer Datasource/Footer List/View Cart
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5bc38ca3-1dff-4fd9-ac6e-0225395d8d17"
+      Hint: LinkUrl
+      Value: |
+        <link text="View Cart" linktype="external" url="http://www.google.com" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6bf594cc-9e47-4ccc-9b88-89dfd319ea01"

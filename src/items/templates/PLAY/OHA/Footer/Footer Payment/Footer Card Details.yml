@@ -1,0 +1,13 @@
+﻿---
+ID: "33fe95e3-a277-485e-aeb9-973db30bc9c6"
+Parent: "3220f0be-9993-4325-80a5-ad687f5cd29e"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Payment/Footer Card Details
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "83b26370-8c3d-48da-86c5-6fe4d0f5479a"

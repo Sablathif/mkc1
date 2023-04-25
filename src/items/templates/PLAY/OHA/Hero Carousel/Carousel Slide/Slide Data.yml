@@ -1,0 +1,13 @@
+﻿---
+ID: "e82b0fbf-ddc2-425f-9805-b5a7b18870e5"
+Parent: "13569147-2edd-4482-9bfe-9b3f6a589c92"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/Carousel Slide/Slide Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b00a27c9-8eed-4bc6-8dea-ac459ed934a0"

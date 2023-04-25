@@ -1,0 +1,13 @@
+﻿---
+ID: "b853b769-25ce-4ac7-9ab9-8f1452ee636e"
+Parent: "8b22419e-28b8-48d9-8519-4e9dc195e77f"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/PostType/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dbc777b1-32b1-4781-b13b-d0a8a3fb1b8b"

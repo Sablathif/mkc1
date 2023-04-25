@@ -1,0 +1,25 @@
+﻿---
+ID: "599645ec-e5c9-4b25-a0eb-8c482ecca83e"
+Parent: "6653e4a4-6288-4ec5-bb14-e71bac437f2b"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/Blog Detail/Detail Page/Title
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4a9fcbfc-e7d0-405f-95cc-84073a344af3"
+  - Version: 2
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c37a8a3e-6829-4a86-8c20-9baafe1120b4"

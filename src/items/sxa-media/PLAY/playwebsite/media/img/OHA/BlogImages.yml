@@ -1,0 +1,13 @@
+﻿---
+ID: "79d83a2f-0a1b-4bf0-91f1-32a92646edc0"
+Parent: "db1f0926-bd07-42b3-87d8-0f1ee2aecb89"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/PLAY/playwebsite/media/img/OHA/BlogImages
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5b394c90-46ff-4c71-b0c0-230f05451862"

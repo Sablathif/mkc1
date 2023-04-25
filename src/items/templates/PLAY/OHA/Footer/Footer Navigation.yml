@@ -1,0 +1,17 @@
+﻿---
+ID: "d62efcd7-f1eb-49e2-904b-0bc5b252b133"
+Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Navigation
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6874ff99-4e1a-4fc4-9313-e014c688daa9"

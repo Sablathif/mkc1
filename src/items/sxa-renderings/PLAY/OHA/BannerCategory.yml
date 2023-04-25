@@ -1,0 +1,13 @@
+﻿---
+ID: "6dce5fd7-c2c7-42bf-8789-e85d0c94a0a5"
+Parent: "efe36ba6-8d0d-4c92-a824-841bc97b47f3"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Project/PLAY/OHA/BannerCategory
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c0681f45-912b-4663-a7bb-dcd3cc2f0a9d"

@@ -1,0 +1,23 @@
+﻿---
+ID: "84d48cdf-4483-5d49-a77a-ce9999b1da98"
+Parent: "dd88ac67-b641-49da-bbd5-cb670a72c7b4"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Project/PLAY/OHA/Header/HeaderBottom
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: HeaderBottom
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Value: 
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{45437A50-6CBA-547F-8B99-D86ED06A6454}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "190999cf-0551-4ec9-a962-da6ae2cb5d2c"

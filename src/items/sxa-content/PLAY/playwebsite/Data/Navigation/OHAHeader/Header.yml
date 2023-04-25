@@ -1,0 +1,154 @@
+﻿---
+ID: "5b188c88-d2e3-46eb-a843-70a6f24595b6"
+Parent: "8279c496-fed0-46fa-b2b1-5f902e271c8d"
+Template: "c44f459c-7d7b-425b-8b9b-317c8cc2966b"
+Path: /sitecore/content/PLAY/playwebsite/Data/Navigation/OHAHeader/Header
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6ae136fd-142a-44cd-bfda-9ab011b2c8da"
+    - ID: "bda8c797-b553-49b8-8ea5-e3fb1479ecdf"
+      Hint: header
+      Value: |
+        <header class="header">
+        <div class="header-bottom d-lg-show">
+        <div class="container">
+        <div class="header-left">
+        <nav class="main-nav">
+        <ul class="menu">
+            <li id="menu-home" class="active"><a href="/react/riode/demo-1/">Home</a></li>
+            <li class="submenu  ">
+            <a href="/react/riode/demo-1/shop/">Categories</a>
+            <div class="megamenu">
+            <div class="row">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-4">
+            <h4 class="menu-title">Variations 1</h4>
+            <ul>
+                <li><a href="/react/riode/demo-1/shop/banner-sidebar/">Banner With Sidebar</a></li>
+                <li><a href="/react/riode/demo-1/shop/boxed-banner/">Boxed Banner</a></li>
+                <li><a href="/react/riode/demo-1/shop/infinite-scroll/">Infinite Ajaxscroll</a></li>
+                <li><a href="/react/riode/demo-1/shop/horizontal-filter/">Horizontal Filter</a></li>
+                <li><a href="/react/riode/demo-1/shop/navigation-filter/">Navigation Filter<span class="tip tip-hot">Hot</span></a></li>
+                <li><a href="/react/riode/demo-1/shop/off-canvas-filter/">Off-Canvas Filter</a></li>
+                <li><a href="/react/riode/demo-1/shop/right-sidebar/">Right Toggle Sidebar</a></li>
+            </ul>
+            </div>
+            <div class="col-6 col-sm-4 col-md-3 col-lg-4">
+            <h4 class="menu-title">Variations 2</h4>
+            <ul>
+                <li><a href="/react/riode/demo-1/shop/grid/3cols/">3 Columns Mode<span class="tip tip-new">New</span></a></li>
+                <li><a href="/react/riode/demo-1/shop/grid/4cols/">4 Columns Mode</a></li>
+                <li><a href="/react/riode/demo-1/shop/grid/5cols/">5 Columns Mode</a></li>
+                <li><a href="/react/riode/demo-1/shop/grid/6cols/">6 Columns Mode</a></li>
+                <li><a href="/react/riode/demo-1/shop/grid/7cols/">7 Columns Mode</a></li>
+                <li><a href="/react/riode/demo-1/shop/grid/8cols/">8 Columns Mode</a></li>
+                <li><a href="/react/riode/demo-1/shop/?type=list">List Mode</a></li>
+            </ul>
+            </div>
+            <div class="col-6 col-sm-4 col-md-3 col-lg-4 menu-banner menu-banner1 banner banner-fixed">
+            <figure><img src="./images/menu/banner-1.jpg" alt="Menu banner" width="221" height="330" /></figure>
+            <div class="banner-content y-50">
+            <h4 class="banner-subtitle font-weight-bold text-primary ls-m">Sale.</h4>
+            <h3 class="banner-title font-weight-bold"><span class="text-uppercase">Up to</span>70% Off</h3>
+            <a class="btn btn-link btn-underline" href="/react/riode/demo-1/shop/">shop now<em class="d-icon-arrow-right"></em></a>
+            </div>
+            </div>
+            </div>
+            </div>
+            </li>
+            <li class="submenu  ">
+            <a href="/react/riode/demo-1/product/default/fashionable-leather-satchel/">Products</a>
+            <div class="megamenu">
+            <div class="row">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-4">
+            <h4 class="menu-title">Product Pages</h4>
+            <ul>
+                <li><a href="/react/riode/demo-1/product/default/fashionable-overnight-bag/">Simple Product</a></li>
+                <li><a href="/react/riode/demo-1/product/default/cavin-fashion-suede-handbag/">Variable Product</a></li>
+                <li><a href="/react/riode/demo-1/product/default/mackintosh-poket-backpack/">Sale Product</a></li>
+                <li><a href="/react/riode/demo-1/product/default/cavin-klein-fashion-sheepskin-handbag/">Feature &amp; On Sale</a></li>
+                <li><a href="/react/riode/demo-1/product/left-sidebar/fashionable-leather-satchel/">With Left Sidebar</a></li>
+                <li><a href="/react/riode/demo-1/product/right-sidebar/fashionable-leather-satchel/">With Right Sidebar</a></li>
+                <li><a href="/react/riode/demo-1/product/sticky-cart/fashionable-leather-satchel/">Add Cart Sticky<span class="tip tip-hot">Hot</span></a></li>
+                <li><a href="/react/riode/demo-1/product/tab-inside/fashionable-leather-satchel/">Tab Inside</a></li>
+            </ul>
+            </div>
+            <div class="col-6 col-sm-4 col-md-3 col-lg-4">
+            <h4 class="menu-title">Product Layouts</h4>
+            <ul>
+                <li><a href="/react/riode/demo-1/product/grid/fashionable-leather-satchel/">Grid Images<span class="tip tip-new">New</span></a></li>
+                <li><a href="/react/riode/demo-1/product/masonry/fashionable-hooded-coat/">Masonry</a></li>
+                <li><a href="/react/riode/demo-1/product/gallery/fashionable-leather-satchel/">Gallery Type</a></li>
+                <li><a href="/react/riode/demo-1/product/full-width/fashionable-leather-satchel/">Full Width Layout</a></li>
+                <li><a href="/react/riode/demo-1/product/sticky-info/fashionable-leather-satchel/">Sticky Info</a></li>
+                <li><a href="/react/riode/demo-1/product/sticky-both/fashionable-leather-satchel/">Left &amp; Right Sticky</a></li>
+                <li><a href="/react/riode/demo-1/product/horizontal/fashionable-leather-satchel/">Horizontal Thumb</a></li>
+                <li><a href="/react/riode/demo-1/">Build Your Own</a></li>
+            </ul>
+            </div>
+            <div class="col-6 col-sm-4 col-md-3 col-lg-4 menu-banner menu-banner2 banner banner-fixed">
+            <figure><img src="./images/menu/banner-2.jpg" alt="Menu banner" width="221" height="330" /></figure>
+            <div class="banner-content x-50 text-center">
+            <h3 class="banner-title text-white text-uppercase">Sunglasses</h3>
+            <h4 class="banner-subtitle font-weight-bold text-white mb-0">$23.00 - $120.00</h4>
+            </div>
+            </div>
+            </div>
+            </div>
+            </li>
+            <li class="submenu  ">
+            <a href="/react/riode/demo-1#">Pages</a>
+            <ul>
+                <li><a href="/react/riode/demo-1/pages/about-us/">About</a></li>
+                <li><a href="/react/riode/demo-1/pages/contact-us/">Contact Us</a></li>
+                <li><a href="/react/riode/demo-1/pages/account/">My Account</a></li>
+                <li><a href="/react/riode/demo-1/pages/faqs/">FAQs</a></li>
+                <li><a href="/react/riode/demo-1/pages/404/">Error 404</a></li>
+                <li><a href="/react/riode/demo-1/pages/coming-soon/">Coming Soon</a></li>
+            </ul>
+            </li>
+            <li class="submenu  ">
+            <a href="/react/riode/demo-1/blog/classic/">Blog</a>
+            <ul>
+                <li><a href="/react/riode/demo-1/blog/classic/">Classic</a></li>
+                <li><a href="/react/riode/demo-1/blog/listing/">Listing</a></li>
+                <li class="submenu">
+                <a href="/react/riode/demo-1/blog/grid/2cols/">Grid</a>
+                <ul>
+                    <li><a href="/react/riode/demo-1/blog/grid/2cols/">Grid 2 columns</a></li>
+                </ul>
+                </li>
+                <li class="submenu">
+                <a href="/react/riode/demo-1/blog/masonry/2cols/">Masonry</a>
+                <ul>
+                    <li><a href="/react/riode/demo-1/blog/masonry/2cols/">Masonry 2 columns</a></li>
+                </ul>
+                </li>
+                <li class="submenu">
+                <a href="/react/riode/demo-1/blog/mask/grid/">Mask</a>
+                <ul>
+                    <li><a href="/react/riode/demo-1/blog/mask/grid/">Blog mask grid</a></li>
+                    <li><a href="/react/riode/demo-1/blog/mask/masonry/">Blog mask masonry</a></li>
+                </ul>
+                </li>
+                <li><a href="/react/riode/demo-1/blog/single/pellentesque-fusce-suscipit/">Single Post</a></li>
+            </ul>
+            </li>
+            <li class=" d-xl-show submenu">
+            <a href="/react/riode/demo-1/elements/">Elements</a>
+            <ul>
+                <li><a href="/react/riode/demo-1/elements/products/">Products</a></li>
+            </ul>
+            </li>
+            <li><a href="/react/riode/demo-1/pages/about-us/">About Us</a></li>
+        </ul>
+        </nav>
+        </div>
+        <div class="header-right"><a href="/react/riode/demo-1#"><em class="d-icon-card"></em>Special Offers</a><a href="https://d-themes.com/buynow/riodereact" class="ml-6">Buy Riode!</a></div>
+        </div>
+        </div>
+        </header>

@@ -1,0 +1,23 @@
+﻿---
+ID: "56737bb8-0e28-4485-95c7-477f9d4d9e5f"
+Parent: "690391c8-9f5f-4448-8c9e-31ecd5545c54"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Navigation/Footer Navigation Details/FooterNavigationList
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: /sitecore/content/OneWebHeadless/DefaultSite/Home/Data/Footer Datasource/Footer List
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Multilist
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4650979b-1752-4aa7-a60a-3ac768d02938"

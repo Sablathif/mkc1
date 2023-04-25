@@ -1,0 +1,30 @@
+﻿---
+ID: "4de464fc-2e6f-452b-9327-72b35efa276a"
+Parent: "9f53d5d6-d189-49a6-856b-80832765bab8"
+Template: "3ac3e39c-768f-4bd8-8265-9162a307cffb"
+Path: /sitecore/media library/Project/PLAY/playwebsite/media/img/OHA/Blog/BlogImageList
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3a1f4909-a43c-4ff2-aef3-e7b47d514bb1"
+      Hint: image
+      Value: |
+        {00AD8300-83EE-4667-8DBD-F59A7777AF93}
+        {2F1DE314-B0B8-40EB-B202-C2EB9650059C}
+        {BED85220-0910-4E69-856C-04C766EE703C}
+        {95BEF671-4C54-4509-B35A-7427F232459E}
+        {EE0AED9A-22F5-4F25-90B4-261F8A0A9C34}
+        {807F1790-0B1B-4D99-919F-8B4A13C38650}
+        {E3519DCE-0F2C-41E3-A554-DE06D64DD1C3}
+        {DEEB85D3-94BA-4F28-A85C-793940BF1B55}
+        {18184D7B-DB4A-4444-A507-EEC88A0A06F4}
+        {2E0647D4-0D77-4477-A6D8-E9C2E6D0DF3C}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bb628838-e676-4252-b55e-47ccffb63a5c"

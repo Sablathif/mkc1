@@ -1,0 +1,20 @@
+﻿---
+ID: "819c5ccc-843d-4b4b-91d2-84a7809ee862"
+Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/video
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: General Link
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 900
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e6e27db4-004f-425e-91c6-741bccb49a01"

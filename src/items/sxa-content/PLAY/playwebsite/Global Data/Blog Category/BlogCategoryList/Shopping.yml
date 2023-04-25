@@ -1,0 +1,16 @@
+﻿---
+ID: "51905792-0e58-4fb6-bb92-f9d1224c2960"
+Parent: "9c179467-d422-4a12-83ad-7bcf6a9d890f"
+Template: "5de099be-a1f8-4d18-ae74-57e8d6d92861"
+Path: /sitecore/content/PLAY/playwebsite/Global Data/Blog Category/BlogCategoryList/Shopping
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9878ef0c-82c6-4bf3-92e6-b35546844d04"
+    - ID: "e4cf0ad2-697e-4e4f-a13e-e87a99eb64a0"
+      Hint: blogCategory
+      Value: Shopping

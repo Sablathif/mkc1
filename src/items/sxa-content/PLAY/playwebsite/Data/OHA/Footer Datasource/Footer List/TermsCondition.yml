@@ -1,0 +1,17 @@
+﻿---
+ID: "85f7f5c2-50cc-488f-8b3c-836d87c216bb"
+Parent: "91bebaca-e3ca-457f-a906-d097590b05f5"
+Template: "619ec087-f367-40cb-9bee-25920c1b8a5c"
+Path: /sitecore/content/PLAY/playwebsite/Data/OHA/Footer Datasource/Footer List/TermsCondition
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5bc38ca3-1dff-4fd9-ac6e-0225395d8d17"
+      Hint: LinkUrl
+      Value: |
+        <link text="Terms &amp; Condition" linktype="external" url="http://www.google.com" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "87a23c98-a993-4b65-883a-c0dce02dc752"

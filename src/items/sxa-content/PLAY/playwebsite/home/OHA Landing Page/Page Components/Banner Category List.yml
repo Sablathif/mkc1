@@ -1,0 +1,21 @@
+﻿---
+ID: "07b8ebb9-38eb-4fe2-9ae0-5902a5bb95dd"
+Parent: "a1b5cb63-177e-4cb2-ad39-de7be30bd30f"
+Template: "72b37029-b132-4e64-bd9e-94eeb0d7fbdc"
+Path: /sitecore/content/PLAY/playwebsite/home/OHA Landing Page/Page Components/Banner Category List
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "871f817f-c51c-4d5d-8634-153b5c9c881f"
+    - ID: "eb83c82e-5bd7-4174-9995-ca3351ea2f53"
+      Hint: Banners
+      Value: |
+        {A30F47AB-7329-4069-B498-F2C26F7E49BD}
+        {BBA5B821-C78C-494D-8582-53BD089DE4D5}
+    - ID: "f4f51284-54e4-4804-8bcc-103fb0cea3ca"
+      Hint: BannerTitle
+      Value: Banner Category

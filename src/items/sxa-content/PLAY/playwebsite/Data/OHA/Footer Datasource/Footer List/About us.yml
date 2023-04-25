@@ -1,0 +1,17 @@
+﻿---
+ID: "23a3579a-82d5-431c-8b2b-50584405a264"
+Parent: "91bebaca-e3ca-457f-a906-d097590b05f5"
+Template: "619ec087-f367-40cb-9bee-25920c1b8a5c"
+Path: /sitecore/content/PLAY/playwebsite/Data/OHA/Footer Datasource/Footer List/About us
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5bc38ca3-1dff-4fd9-ac6e-0225395d8d17"
+      Hint: LinkUrl
+      Value: |
+        <link text="About us" linktype="external" url="http://www.google.com" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4384a65b-df46-4726-8e7b-437d05d43d46"

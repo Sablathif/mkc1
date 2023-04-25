@@ -1,0 +1,55 @@
+﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\page-structure-placeholders\PageStructure.yml
+ID: "2a617006-d38a-4e03-9fa2-738221980f03"
+Parent: "d69b80b0-7203-4efe-803a-2b75a2c21a01"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/layout/Placeholder Settings/Feature/Experience Accelerator/PageStructure
+Signature: oZC7toNzIwEAsuPtNjeZ9Pw6WS15HOBJDnlqm8wb3cY=
+Modified: 638175688247671107
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\page-structure-placeholders\PageStructure\edit-panel.yml
+ID: "4998e98d-ed09-48c6-a4fa-20fef0d113eb"
+Parent: "2a617006-d38a-4e03-9fa2-738221980f03"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Feature/Experience Accelerator/PageStructure/edit-panel"
+Signature: dVTbQEuLv52Df249dh1onQ93dG8c/Nz7NDPkxj5tqTI=
+Modified: 638175688248000873
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\page-structure-placeholders\PageStructure\container.yml
+ID: "cf6a13e0-2257-48c0-bdc1-3d2b297f574d"
+Parent: "2a617006-d38a-4e03-9fa2-738221980f03"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Feature/Experience Accelerator/PageStructure/container
+Signature: psSAC+NRqKfmp2yOCOVFe2ahnaW9CYRMsWIw38BPtYc=
+Modified: 638175688247912688
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\page-structure-placeholders\PageStructure\row.yml
+ID: "dd78cf08-4457-4489-93be-025ff5290f16"
+Parent: "2a617006-d38a-4e03-9fa2-738221980f03"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Feature/Experience Accelerator/PageStructure/row
+Signature: SCtBaHOUt4/9lvoEnwRfQedOYfV9+MfRwKnYjqQpf7s=
+Modified: 638175688248093782
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\page-structure-placeholders\PageStructure\column.yml
+ID: "638fd41a-df44-4289-b271-dd8c0dd0a302"
+Parent: "2a617006-d38a-4e03-9fa2-738221980f03"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Feature/Experience Accelerator/PageStructure/column
+Signature: IyHs4sHzabzITA2eCyLrxBqJe7cyujzs8CmySMjBQ4o=
+Modified: 638175688247754537
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\page-structure-placeholders\PageStructure\toggle.yml
+ID: "e1088de1-c522-4028-a278-da80916e24ec"
+Parent: "2a617006-d38a-4e03-9fa2-738221980f03"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: /sitecore/layout/Placeholder Settings/Feature/Experience Accelerator/PageStructure/toggle
+Signature: SrdVSBSdmB8q+ihnL9VleLe28eVD1qNxBzyE6MJZ3C8=
+Modified: 638175688248209398

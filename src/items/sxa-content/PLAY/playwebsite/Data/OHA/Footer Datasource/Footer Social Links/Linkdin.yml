@@ -1,0 +1,16 @@
+﻿---
+ID: "293fb848-2763-4c7c-b78d-a3d3d8bb48cc"
+Parent: "3b0b220e-2a4f-494e-8cd4-0a6aab67561f"
+Template: "cecbd542-e304-4ad4-82ec-5ed2d43b5df2"
+Path: /sitecore/content/PLAY/playwebsite/Data/OHA/Footer Datasource/Footer Social Links/Linkdin
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "45ddafe9-d8a1-4bc5-90e6-b5cdaee42325"
+      Hint: IconClass
+      Value: "social-link social-twitter fab fa-twitter"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0df22251-3cce-4433-8c1b-52eee15a8cbb"

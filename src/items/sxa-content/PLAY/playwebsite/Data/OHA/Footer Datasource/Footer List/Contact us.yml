@@ -1,0 +1,17 @@
+﻿---
+ID: "754d61d9-9ecc-4f4c-b8ee-613521675b43"
+Parent: "91bebaca-e3ca-457f-a906-d097590b05f5"
+Template: "619ec087-f367-40cb-9bee-25920c1b8a5c"
+Path: /sitecore/content/PLAY/playwebsite/Data/OHA/Footer Datasource/Footer List/Contact us
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "5bc38ca3-1dff-4fd9-ac6e-0225395d8d17"
+      Hint: LinkUrl
+      Value: |
+        <link text="Contact Us" linktype="external" url="http://www.google.com" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2a32a585-06e6-43d3-9462-00265a6ae52b"

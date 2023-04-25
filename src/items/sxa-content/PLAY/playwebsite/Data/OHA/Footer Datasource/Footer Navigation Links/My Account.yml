@@ -1,0 +1,24 @@
+﻿---
+ID: "4387f0bc-18de-4b9e-a835-1a4d2b227056"
+Parent: "e52d9078-216a-4f9f-b21f-a98e2bb8916c"
+Template: "d62efcd7-f1eb-49e2-904b-0bc5b252b133"
+Path: /sitecore/content/PLAY/playwebsite/Data/OHA/Footer Datasource/Footer Navigation Links/My Account
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "56737bb8-0e28-4485-95c7-477f9d4d9e5f"
+      Hint: FooterNavigationList
+      Value: |
+        {23A3579A-82D5-431C-8B2B-50584405A264}
+        {A24D0F1A-AC2B-4F7D-817B-A1F97FA6654C}
+        {7AA09F9D-B915-4E6D-BA19-545C6698D09E}
+        {409913E8-2D79-4601-A6A5-0B2267A7F581}
+        {85F7F5C2-50CC-488F-8B3C-836D87C216BB}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ed9bc60b-52e1-4650-99a7-72a38f4ed471"
+    - ID: "b6484b56-c890-4d42-8a53-66b4880ff7a3"
+      Hint: NavigationName
+      Value: My Account

@@ -1,0 +1,17 @@
+﻿---
+ID: "8ccbd51c-75bb-4748-8e6e-963bcaab8c74"
+Parent: "9b1b829c-d5fb-4662-a1e5-e81b8da98801"
+Template: "a2b7ac0c-307a-4e5d-8f7c-89856d62e853"
+Path: /sitecore/content/PLAY/playwebsite/Data/OHA/Footer Datasource/Footer Instagram/Image3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "435e8583-95bc-4323-8acc-f88cc9804e28"
+    - ID: "d0500c4f-864f-4c54-a933-fa4b4e06b982"
+      Hint: Image
+      Value: |
+        <image mediaid="{D45970E2-7289-46EF-82C9-B70FC9A42E09}" />

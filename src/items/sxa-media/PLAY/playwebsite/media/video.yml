@@ -1,0 +1,13 @@
+﻿---
+ID: "23dd982a-a351-4b3c-9994-51b6debe1b98"
+Parent: "d833a6f5-a42d-5e11-aa65-d59b73d2866e"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/PLAY/playwebsite/media/video
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7d5790e7-4e25-4108-84bc-1c09130270d3"

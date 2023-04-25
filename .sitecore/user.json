@@ -1,0 +1,23 @@
+{
+  "endpoints": {
+    "xmCloud": {
+      "allowWrite": false,
+      "host": "https://xmclouddeploy-api.sitecorecloud.io/",
+      "authority": "https://auth.sitecorecloud.io/",
+      "accessToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InpnbnhyQk9IaXJ0WXp4dnl1WVhNZyJ9.eyJodHRwczovL2F1dGguc2l0ZWNvcmVjbG91ZC5pby9jbGFpbXMvZW1haWwiOiJhc21pdGEucGFya2FyQGFsdHVkby5jbyIsImh0dHBzOi8vYXV0aC5zaXRlY29yZWNsb3VkLmlvL2NsYWltcy9yb2xlcyI6WyJbR2xvYmFsXVxcRXZlcnlvbmUiXSwiaHR0cHM6Ly9hdXRoLnNpdGVjb3JlY2xvdWQuaW8vY2xhaW1zL2NsaWVudF9uYW1lIjoiWE0gQ2xvdWQgRGVwbG95IChDTEkpIiwiaXNzIjoiaHR0cHM6Ly9hdXRoLnNpdGVjb3JlY2xvdWQuaW8vIiwic3ViIjoiYXV0aDB8NjQzODA5Y2VkODBhNzYwYzhlNjMwMDYwIiwiYXVkIjpbImh0dHBzOi8vYXBpLnNpdGVjb3JlY2xvdWQuaW8iLCJodHRwczovL29uZS1zYy1wcm9kdWN0aW9uLmV1LmF1dGgwLmNvbS91c2VyaW5mbyJdLCJpYXQiOjE2ODIzNDQ2NjYsImV4cCI6MTY4MjM0NTU2NiwiYXpwIjoiQ2hpOEV3ZkZuRWVqa3NrM1NlZDlobGFsR2lNOUIydjciLCJzY29wZSI6Im9wZW5pZCBlbWFpbCBwcm9maWxlIG9mZmxpbmVfYWNjZXNzIGlkZW50aXR5LnVzZXI6cmVhZCBpZGVudGl0eS51c2VyOnVwZGF0ZSBpZGVudGl0eS51c2VyX29yZ2FuaXphdGlvbnM6cmVhZCBiYWNrYm9uZS5ldmVudHM6cmVhZCBjb25uZWN0LnRva2VuczpjcmVhdGUgY29ubmVjdC5wb3J0YWw6cmVhZCBwbGF0Zm9ybS5yZWdpb25zOmxpc3QifQ.ZN6cMJsYAZ584IlmaxnTjWgSzwLa3Qi_Zlk2FQ-i1FmFYDXyitovBN-1TpCqxh5j4yiY08YXExjkPK_sooOvqMyzDIRoRnQABBE2QRYBpp5yKJVo3ajDXF9janjPkI_TjhqWDdy_AKJuXnIHKSHDRzfIQLl5Ai9rRNf2dhGsWro5YJY_ywUD7t-GcZ2gzsgK_Fc1VYatyOVGwCxqSCtIqwDt-s926Bp8iwb56ywrZKHghsY5sG6g5RsHKhoeICDsQRRmT17cNLgrCuu1WP5CI8zVpSgjYk9F6-V8RjMHUXU35PfY-dVPMinlElDnPFWYb3yTVF6e6Ij8FAPQ9nLpTA",
+      "refreshToken": "v1.MdpW1UG6sFbBJwxpeC5xOYnF2DrPNoJhUsflS9PIqTZIA4tncRD5m6fQe5kyVMwuESCjUNntd04hp5DdulY89Ko",
+      "clientId": "Chi8EwfFnEejksk3Sed9hlalGiM9B2v7",
+      "variables": {
+        "xmCloudMonitoringHost": "https://xmcloud-monitoring-api.sitecorecloud.io/"
+      },
+      "audience": "https://api.sitecorecloud.io"
+    },
+    "default": {
+      "ref": "xmcloud",
+      "allowWrite": true,
+      "host": "https://cm.xmcloudcm.localhost",
+      "variables": {}
+    }
+  },
+  "$schema": "./schemas/UserConfiguration.schema.json"
+}

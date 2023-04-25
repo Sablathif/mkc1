@@ -1,0 +1,67 @@
+import {
+  Text,
+  Field,
+  ImageField,
+  RichTextField,
+  Image,
+  RichText,
+} from '@sitecore-jss/sitecore-jss-nextjs';
+import ALink from 'components/feature/custom-link';
+import { ComponentProps } from 'lib/component-props';
+
+type BlogDetailProps = ComponentProps & {
+  fields: {
+    Image: ImageField;
+    Author: Field<string>;
+    Date: Field<string>;
+    Title: Field<string>;
+    Description: RichTextField;
+  };
+};
+
+const BlogDetail = (props: BlogDetailProps): JSX.Element => (
+  <div className="container">
+    <div className="row gutter-lg">
+      <div className="col-lg-12">
+        <div className="post post-single ">
+          <figure className="post-media">
+            <ALink
+              href="/react/riode/demo-1/blog/single/pellentesque-fusce-suscipit/#"
+              className={undefined}
+              content={undefined}
+              style={undefined}
+            >
+              <Image field={props.fields.Image} />
+            </ALink>
+          </figure>
+          <div className="post-details">
+            <div className="post-meta">
+              by
+              <Text field={props.fields.Author} />
+              on
+              <Text field={props.fields.Date} />
+              <ALink
+                className="post-comment"
+                href="/react/riode/demo-1/blog/single/pellentesque-fusce-suscipit/#"
+                content={undefined}
+                style={undefined}
+              >
+                <span>1</span> Comments
+              </ALink>
+            </div>
+            <div>
+              <h1>
+                <Text field={props.fields.Title} />
+              </h1>
+            </div>
+            <div>
+              <RichText field={props.fields.Description} />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+);
+export const Default = BlogDetail;
+// export default withDatasourceCheck()<BlogDetailProps>(BlogDetail);

@@ -1,0 +1,16 @@
+﻿---
+ID: "9564a401-ee9e-4463-978e-254b413e19c3"
+Parent: "980bbffa-378b-42df-8f34-b61102f9df5b"
+Template: "6b1aee01-9742-4c9c-a4e1-41c8dc4f4c2e"
+Path: /sitecore/content/PLAY/playwebsite/Global Data/Blog Type/Masonry 4 Columns
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "134a139e-c799-4bf8-b586-d653fc5e123f"
+    - ID: "d8ce9dff-c34e-4111-960f-9ca7af8f14e3"
+      Hint: blogType
+      Value: Masonry 4 Columns

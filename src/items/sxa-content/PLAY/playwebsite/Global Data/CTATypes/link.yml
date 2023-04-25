@@ -1,0 +1,16 @@
+﻿---
+ID: "8bb89914-f8b9-4a79-8524-7e64f5a50e1a"
+Parent: "1e8a00f9-0a19-4446-ba42-38645d3e9ca0"
+Template: "fc86e7b2-7acf-48b0-8f46-925a28b8deb4"
+Path: /sitecore/content/PLAY/playwebsite/Global Data/CTATypes/link
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "194fe019-8265-40d4-824a-3864cbdf8f1c"
+      Hint: Type
+      Value: link
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "61639102-fc02-4116-96f6-993f9a21da3d"

@@ -1,0 +1,13 @@
+﻿---
+ID: "690391c8-9f5f-4448-8c9e-31ecd5545c54"
+Parent: "d62efcd7-f1eb-49e2-904b-0bc5b252b133"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Navigation/Footer Navigation Details
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "25356a26-6123-4064-8fe3-e5340e07e442"

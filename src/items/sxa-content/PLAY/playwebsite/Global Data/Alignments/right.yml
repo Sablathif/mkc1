@@ -1,0 +1,16 @@
+﻿---
+ID: "c2b8ddf3-ce99-4aac-9b82-0b3cc106ac32"
+Parent: "5998d1c9-bc7f-48ef-acca-4ee58cf09b10"
+Template: "f6494595-ed5b-4e08-87b5-a7cfd46a0e18"
+Path: /sitecore/content/PLAY/playwebsite/Global Data/Alignments/right
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "03938d0c-0851-4976-ba1c-9c70cbaa699b"
+    - ID: "a51e47bf-66d8-427a-97b7-67bf510ac9ba"
+      Hint: Alignment
+      Value: right

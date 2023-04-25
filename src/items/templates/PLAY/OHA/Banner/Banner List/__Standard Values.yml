@@ -1,0 +1,17 @@
+﻿---
+ID: "40a69598-8a73-4665-a225-b56a7211861e"
+Parent: "4f5bd5b4-cdf8-4909-8dfa-8d9b1949c8c8"
+Template: "4f5bd5b4-cdf8-4909-8dfa-8d9b1949c8c8"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner List/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{61BE6F7D-3A37-45F8-924F-F8FEDC8F7A05}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "47bb14dc-56f5-48ba-8b8e-33d551e80c4b"

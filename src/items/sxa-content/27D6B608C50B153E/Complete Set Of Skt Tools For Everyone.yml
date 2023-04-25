@@ -1,0 +1,29 @@
+﻿---
+ID: "2be66cc4-5e5a-448b-b69a-0747321f106f"
+Parent: "452b1730-b918-4d0a-b0be-9e54c3ec7c87"
+Template: "fbe405da-7ac1-4d87-97a8-0abcb416242d"
+Path: /sitecore/content/PLAY/playwebsite/home/Complete Set Of Skt Tools For Everyone/Page Components/Complete Set Of Skt Tools For Everyone
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "009c22b8-63f2-4429-9198-c05ee4e65ab7"
+      Hint: Date
+      Value: 20230419T183000Z
+    - ID: "12f62101-7a23-40ab-bba8-a1a2c1732e85"
+      Hint: Image
+      Value: |
+        <image mediaid="{A7781A47-3140-4609-B02E-3E891C7A2E84}" />
+    - ID: "6b4d78f9-f5d9-4628-b628-7258768d7045"
+      Hint: Description
+      Value: Test Description
+    - ID: "8bccc5d5-0eec-43a7-a872-7083641349e8"
+      Hint: Title
+      Value: Test
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e553165-9bbf-49b5-a3d2-752539e78f7f"
+    - ID: "c5de69f9-04e4-440c-b288-8050c455c997"
+      Hint: Author
+      Value: John Doe
