@@ -1,8 +1,8 @@
 ﻿---
 ID: "e92c0fa3-eaaf-4493-8b8c-029504ec7c0c"
-Parent: "07b8ebb9-38eb-4fe2-9ae0-5902a5bb95dd"
+Parent: "e779162a-2319-4591-8c81-d396d4b37a20"
 Template: "61be6f7d-3a37-45f8-924f-f8fedc8f7a05"
-Path: /sitecore/content/PLAY/playwebsite/home/OHA Landing Page/Page Components/Banner Category List/Sale
+Path: /sitecore/content/PLAY/playwebsite/home/OHA Landing Page/Page Components/Deal Section/Sale
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder

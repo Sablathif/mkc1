@@ -1,15 +1,6 @@
 ﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY.yml
-ID: "348162cf-d211-43b5-a745-dc5c8f62d677"
-Parent: "825b30b4-b40b-422e-9920-23a1b6bda89c"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/PLAY
-Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
-Modified: 638175688320654530
----
-File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Headless Tenant.yml
 ID: "bfe54f03-2ca7-4f4f-867e-daef974bae4d"
 Parent: "348162cf-d211-43b5-a745-dc5c8f62d677"
@@ -17,6 +8,15 @@ Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
 Path: /sitecore/templates/Project/PLAY/Headless Tenant
 Signature: E/fibwhntx1uQrV5JnB82LBLCMqqvvJHRQ2BuN11lfg=
 Modified: 638175688320872411
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\JSS Settings.yml
+ID: "8e7f4f7d-8ac7-435a-bb13-8212313c98d4"
+Parent: "348162cf-d211-43b5-a745-dc5c8f62d677"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/JSS Settings
+Signature: 2ygyrArR7bSWX54YZBGeS8zofv8juaCgIVcSShZ2h1g=
+Modified: 638175688320999139
 ---
 File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA.yml
@@ -28,6 +28,33 @@ Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
 Modified: 638175955621121398
 ---
 File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Page Design Folder.yml
+ID: "a58ef6da-619e-4688-bb21-363038944569"
+Parent: "348162cf-d211-43b5-a745-dc5c8f62d677"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/Page Design Folder
+Signature: 59deRYVUEb0OZzWz5ukd4rsmrrsG5QR++HO2nzyDwr4=
+Modified: 638175688321119211
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Page Designs.yml
+ID: "7756380e-cb33-4213-b486-b73092696756"
+Parent: "348162cf-d211-43b5-a745-dc5c8f62d677"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/Page Designs
+Signature: 7S/dCUk6rsHB+yA/7SEss1t1ZK62yckUSzx9LG+gNkY=
+Modified: 638175688321225812
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Page.yml
+ID: "95cb88e7-8068-4a9c-9eeb-05f9a22c49d4"
+Parent: "348162cf-d211-43b5-a745-dc5c8f62d677"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/Page
+Signature: MDvucO6ARN2Ne40/m9tBuiwAnMxmJTLBHDWIIY/PozY=
+Modified: 638175688321321111
+---
+File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Partial Design Folder.yml
 ID: "6aa1ece5-d4a4-4458-a534-e6543863e341"
 Parent: "348162cf-d211-43b5-a745-dc5c8f62d677"
@@ -35,6 +62,33 @@ Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
 Path: /sitecore/templates/Project/PLAY/Partial Design Folder
 Signature: Cw8v3sejeSlzKr7yQ5rxlXKFI+Z2gqa8773gUZDAnN4=
 Modified: 638175688321411206
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Partial Designs.yml
+ID: "edd70716-2cb0-4c84-86be-1ad37a4c2c21"
+Parent: "348162cf-d211-43b5-a745-dc5c8f62d677"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/Partial Designs
+Signature: Fo4Z+IU1Cg2y/z64fE6wd+d45HC8KOfhbXkAWPUwQI4=
+Modified: 638175688321492051
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Rendering Parameters.yml
+ID: "98951a71-995e-4a47-bdaa-b17671387121"
+Parent: "348162cf-d211-43b5-a745-dc5c8f62d677"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/PLAY/Rendering Parameters
+Signature: wsz/kSMO52IVeiNk3C4A9iITRcvhh9B3c/7TlhLlpfM=
+Modified: 638175688321591000
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Headless Site\__Standard Values.yml
+ID: "60f29795-8c22-433e-8be1-a08c4fe84e34"
+Parent: "507b2363-3200-4cea-b238-3045731ba6a5"
+Template: "507b2363-3200-4cea-b238-3045731ba6a5"
+Path: /sitecore/templates/Project/PLAY/Headless Site/__Standard Values
+Signature: L90YMh1TpTaH5o47shge3FWoh1Jb/S1Rlyv80zCM7KI=
+Modified: 638175688321742549
 ---
 File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Headless Tenant\__Standard Values.yml
@@ -46,6 +100,33 @@ Signature: u7qZo1fhJytmTr7K+hQTeN+qIyFG+7yNyEX4QUAwInk=
 Modified: 638175688321905715
 ---
 File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\JSS Settings\__Standard Values.yml
+ID: "016a0a40-4ccb-47a9-83b9-8dabb97ef2f2"
+Parent: "8e7f4f7d-8ac7-435a-bb13-8212313c98d4"
+Template: "8e7f4f7d-8ac7-435a-bb13-8212313c98d4"
+Path: /sitecore/templates/Project/PLAY/JSS Settings/__Standard Values
+Signature: PvfL8TVH8oRd5lh+cDLvUlghCPI9hsUlU/rExNRLP98=
+Modified: 638175688322058081
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Background Type.yml
+ID: "59c0d21e-d5db-43b1-bfa3-9e3f6b715a6a"
+Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/PLAY/OHA/Background Type
+Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
+Modified: 638175955621141402
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner.yml
+ID: "f6c997e4-e883-4152-97a7-a2eaa1b12a00"
+Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner
+Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
+Modified: 638176821717802863
+---
+File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\BannerCategory.yml
 ID: "d70cda33-90df-4f03-922f-f43aecbf7758"
 Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
@@ -55,6 +136,33 @@ Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
 Modified: 638176821717809624
 ---
 File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog Detail.yml
+ID: "aa48895b-d874-489b-9cf6-40867797119c"
+Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail
+Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
+Modified: 638176821717819634
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog.yml
+ID: "6965d986-3d4c-440c-9d04-9d94862551fb"
+Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog
+Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
+Modified: 638175955621151408
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer.yml
+ID: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
+Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer
+Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
+Modified: 638176777970059867
+---
+File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Header.yml
 ID: "c3bcb79a-4f9c-4957-801a-fff556fb29e0"
 Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
@@ -62,6 +170,33 @@ Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
 Path: /sitecore/templates/Project/PLAY/OHA/Header
 Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
 Modified: 638176821717819634
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel.yml
+ID: "b2e1fbf3-f92d-4fac-aa55-990ef4c640e4"
+Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel
+Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
+Modified: 638175955621151408
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Page\Content.yml
+ID: "545b7bdb-9ab4-456a-a1cc-7e8833cff075"
+Parent: "95cb88e7-8068-4a9c-9eeb-05f9a22c49d4"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/Page/Content
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638175688322522618
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Page\__Standard Values.yml
+ID: "8dae20b0-93e0-469a-b672-923c36d8213e"
+Parent: "95cb88e7-8068-4a9c-9eeb-05f9a22c49d4"
+Template: "95cb88e7-8068-4a9c-9eeb-05f9a22c49d4"
+Path: /sitecore/templates/Project/PLAY/Page/__Standard Values
+Signature: hVSMrcYUI2AugZZH4nxD9X7dL0oxAHNmKhUe3/o4gFo=
+Modified: 638175688322621761
 ---
 File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Page Design Folder\__Standard Values.yml
@@ -82,130 +217,58 @@ Signature: jmWtn7hZqqO52UOO/C5amlTOUpmf0dCo0OVzBg72dYs=
 Modified: 638175688322368220
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Background Type\Background Type Folder.yml
-ID: "74aa146b-f8c7-45ee-9e51-bdd6300f76d3"
-Parent: "59c0d21e-d5db-43b1-bfa3-9e3f6b715a6a"
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Partial Design Folder\__Standard Values.yml
+ID: "599bd7d0-077f-48c8-ace7-e18d3ea41063"
+Parent: "6aa1ece5-d4a4-4458-a534-e6543863e341"
+Template: "6aa1ece5-d4a4-4458-a534-e6543863e341"
+Path: /sitecore/templates/Project/PLAY/Partial Design Folder/__Standard Values
+Signature: pLBLfZpxfiBsZoitawqdYsoPenOOs+YG/8lTLfhsXfM=
+Modified: 638175688323026190
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Partial Designs\__Standard Values.yml
+ID: "707e3005-11c9-4c0d-814e-eff5c52e2077"
+Parent: "edd70716-2cb0-4c84-86be-1ad37a4c2c21"
+Template: "edd70716-2cb0-4c84-86be-1ad37a4c2c21"
+Path: /sitecore/templates/Project/PLAY/Partial Designs/__Standard Values
+Signature: fD/42aGW76HtueE2W+LREACdpcDmOQ2ukCPDnvj4PF8=
+Modified: 638175688323185312
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Rendering Parameters\Base Rendering Parameters.yml
+ID: "4ece011d-d40e-4f5f-9852-7c6dd65374a5"
+Parent: "98951a71-995e-4a47-bdaa-b17671387121"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/PLAY/Rendering Parameters/Base Rendering Parameters
+Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
+Modified: 638175688323354220
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Rendering Parameters\FEAASComponent.yml
+ID: "86dd53eb-e83f-40ea-ade4-73466017fa66"
+Parent: "98951a71-995e-4a47-bdaa-b17671387121"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Background Type/Background Type Folder
-Signature: hHcRPYwTRbNnnxMytOBAb+xXidWJm6TH+3HsjkIVNZw=
-Modified: 638175955621186525
+Path: /sitecore/templates/Project/PLAY/Rendering Parameters/FEAASComponent
+Signature: KRp41XbcQrUleMps5RDPIfOoqrJKwBI/UV/ys/A1yNs=
+Modified: 638175688323482854
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Background Type\Background.yml
-ID: "645317fe-3c05-4cde-93ec-8a1989204d29"
-Parent: "59c0d21e-d5db-43b1-bfa3-9e3f6b715a6a"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Background Type/Background
-Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
-Modified: 638175955621176543
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\BannerCategory\Banner List.yml
-ID: "72b37029-b132-4e64-bd9e-94eeb0d7fbdc"
-Parent: "d70cda33-90df-4f03-922f-f43aecbf7758"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner List
-Signature: mj8CIChffklPnU/e7vXe/OsDpjJLu9Yym3D9BWMB6n4=
-Modified: 638176821717884475
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\BannerCategory\Banner.yml
-ID: "84d339d4-3ab1-40d4-b24a-7ec20138d6fc"
-Parent: "d70cda33-90df-4f03-922f-f43aecbf7758"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner
-Signature: WRwpzGvk1xzmfAtvjr//iFOvMtotCXSHD1vsBfh5lyk=
-Modified: 638176821717874427
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\BlogType.yml
-ID: "6b1aee01-9742-4c9c-a4e1-41c8dc4f4c2e"
-Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogType
-Signature: Kt93N4C8FFTCYp12rLoQ3EEpgbfRiPG0dI39iByUPKg=
-Modified: 638175955621248134
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\ImageList.yml
-ID: "3ac3e39c-768f-4bd8-8265-9162a307cffb"
-Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/ImageList
-Signature: /WyMXm182wjzn2f30iz/7d0W2wQPTo+rsvpEXbiAGfM=
-Modified: 638175955621258192
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Navigation.yml
-ID: "d62efcd7-f1eb-49e2-904b-0bc5b252b133"
-Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Navigation
-Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
-Modified: 638176777970109899
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Payment.yml
-ID: "3220f0be-9993-4325-80a5-ad687f5cd29e"
-Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Payment
-Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
-Modified: 638176777970109899
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Rendering Parameters\Base Rendering Parameters\Base Styling and Grid.yml
-ID: "7dd20ecb-6ac1-49ed-a6e2-c5d5327a0833"
-Parent: "4ece011d-d40e-4f5f-9852-7c6dd65374a5"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/Rendering Parameters/Base Rendering Parameters/Base Styling and Grid
-Signature: OKSwhNlPlV9tkPx294iezj14lAuXS1PWMw28/8hRoFs=
-Modified: 638175688323824196
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Rendering Parameters\Base Rendering Parameters\Base Styling.yml
-ID: "8ac52852-e0fe-4c29-8fea-09ede899403e"
-Parent: "4ece011d-d40e-4f5f-9852-7c6dd65374a5"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/Rendering Parameters/Base Rendering Parameters/Base Styling
-Signature: GSioPq9Ex3MyyOXLyJNKcgv1SQGx5FNsHtJljT1t8io=
-Modified: 638175688323914095
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner Branch\_name.yml
-ID: "de20228b-32cf-4fb0-bd36-46e91916345b"
-Parent: "7921e700-6073-4fc9-b864-7d2c97f410cc"
-Template: "4f5bd5b4-cdf8-4909-8dfa-8d9b1949c8c8"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner Branch/$name
-Signature: UzqVrPEJX9p1u6CCCmPglY01oTRUq56I+lcf5er5F+k=
-Modified: 638176821717934426
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner Folder\__Standard Values.yml
-ID: "9d715120-a16f-49d1-b3f5-31132a8b8bf2"
-Parent: "3b706afe-21af-4121-8163-a9b7fa13a299"
-Template: "3b706afe-21af-4121-8163-a9b7fa13a299"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner Folder/__Standard Values
-Signature: /MrVLSA7sykxk0R4BWSgi5icfsj0E6C3YYFO6Mwt+WY=
-Modified: 638176821718224044
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\BlogCategoryList\Data.yml
-ID: "056c6365-a57a-41aa-b7bd-ea3a5c626c9b"
-Parent: "0ac5a04e-11cd-4063-a9fc-c360dac332e8"
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog Detail\BlogDetail\Detail Page.yml
+ID: "6653e4a4-6288-4ec5-bb14-e71bac437f2b"
+Parent: "f20e7c85-7105-5375-a3d0-42fd54d93287"
 Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogCategoryList/Data
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638175955621339105
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/BlogDetail/Detail Page
+Signature: F+fxGh60hbNIhj4h7L9s0V6JK/e6eOv6zIZ3gfuWO3k=
+Modified: 638180097025323674
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\BlogImage\Data.yml
-ID: "802b1018-28e2-4e12-9d3a-42aa58cb1e2a"
-Parent: "836b74eb-d58b-42bd-8836-1b79eba49b5c"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogImage/Data
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638175955621348191
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog Detail\BlogDetail\__Standard Values.yml
+ID: "dc594dc9-5592-5643-8629-0b6e6c15082e"
+Parent: "f20e7c85-7105-5375-a3d0-42fd54d93287"
+Template: "f20e7c85-7105-5375-a3d0-42fd54d93287"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/BlogDetail/__Standard Values
+Signature: baH2/xfzIDNQ3+hEzUJ+6pDyZ33PAzX9R3dqyhSvDwY=
+Modified: 638180097025440245
 ---
 File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer CopyRight.yml
@@ -226,130 +289,31 @@ Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
 Modified: 638176777970129900
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Instagram Details.yml
-ID: "58cd520d-e480-44b0-90eb-f92911cdb411"
-Parent: "c47023f3-27d1-4a7d-a598-b04e53973ad6"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Instagram Details
-Signature: 1JMAHnD8HOW9giqx7KGwwRsTOlC2KSqjfrhMpGWxW8A=
-Modified: 638176777970129900
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Subscribe.yml
-ID: "d9823d4a-3503-49da-aff6-3c17729ee86f"
-Parent: "c47023f3-27d1-4a7d-a598-b04e53973ad6"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Subscribe
-Signature: ombKn5vZg+ZLBK2HOLOXTzH4IT/y4Q2ENdd3i7pFKNs=
-Modified: 638176777970139896
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Rendering Parameters\FEAASComponent\Fields\FEAASComponentHTML.yml
-ID: "3e1d82db-024b-4f31-a89f-ac012e9941ea"
-Parent: "0a875884-eeec-4165-8603-b21eb47a0c96"
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Data\FooterCardIcon.yml
+ID: "823401c6-e4e6-4222-8081-7f0be37814e9"
+Parent: "104c7e92-031b-43fc-943a-3e48204541b0"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/Rendering Parameters/FEAASComponent/Fields/FEAASComponentHTML
-Signature: z5SVQqBMZPmn9j8lOAgAcQwmLWt9E+pmcjRk9kgCPUw=
-Modified: 638175688324741793
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Data/FooterCardIcon
+Signature: 1RSDjNqMGcgwhKnH65mNzYg6NoZCRXD+QdhVOUp7G5E=
+Modified: 638176777970209900
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner\Content\BackgroundImage.yml
-ID: "47fd91ea-1825-442d-9373-7c5c805830c8"
-Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Data\FooterDescription.yml
+ID: "c150c562-a78c-4daa-8dfd-1a7224717cec"
+Parent: "104c7e92-031b-43fc-943a-3e48204541b0"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/BackgroundImage
-Signature: vKM4qhK1w9/eo5Q07Z0jPZ+cxAbesQTrAaztNmtRgso=
-Modified: 638176821718047020
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Data/FooterDescription
+Signature: 8UhhSd+Cy56zL1fS+MXXl/ayIJCtgeH/56IlShEbUBI=
+Modified: 638176777970199900
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner\Content\BannerType.yml
-ID: "71415def-af8c-4e49-9ec7-7abab3b5ff6a"
-Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Data\FooterLogo.yml
+ID: "e400fa72-bb35-4305-8597-f7dc57712cc0"
+Parent: "104c7e92-031b-43fc-943a-3e48204541b0"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/BannerType
-Signature: P3QabIZS7kJ9xE67KCfWel+qwCuHZu8+zUV818GX6lk=
-Modified: 638176821718037026
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner\Content\CTAFlag.yml
-ID: "0ce13285-e8c1-4894-81d8-8d80beddc675"
-Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/CTAFlag
-Signature: zFykxKbouW/5Lr6oITKZqJk0SR/Syst3o5iUZPn7Z0w=
-Modified: 638176821718037026
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\BannerCategory\Banner List\Banners\Banners.yml
-ID: "eb83c82e-5bd7-4174-9995-ca3351ea2f53"
-Parent: "a505d322-14ed-475f-aff2-b07b12131249"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner List/Banners/Banners
-Signature: LL52ujnBeKkZHy4hAwD7O/1OZEILe1f8WERaoRTpxh0=
-Modified: 638176821718159088
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\BannerCategory\Banner List\Banners\BannerTitle.yml
-ID: "f4f51284-54e4-4804-8bcc-103fb0cea3ca"
-Parent: "a505d322-14ed-475f-aff2-b07b12131249"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner List/Banners/BannerTitle
-Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
-Modified: 638176821718149160
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\Blog\Data\author.yml
-ID: "53c6dbd6-739a-457a-b2d5-b248d9321690"
-Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/author
-Signature: dmfVdyN5XYJv8lkaRSmKPh/ti8w3g7jRNeliHdWwIdA=
-Modified: 638175955621434516
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\Blog\Data\blogCategoryList.yml
-ID: "6c0dbf9c-6b79-426f-9842-39ec20e9ba0b"
-Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/blogCategoryList
-Signature: PwQW00R1S0nFloi4Im4peH4PtjDf63cY+td5zcIESVU=
-Modified: 638179412772138786
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\BlogCategoryList\Data\blogCategoryTitle.yml
-ID: "4fd0fca2-164e-42da-be8e-2dd25ce74c7d"
-Parent: "056c6365-a57a-41aa-b7bd-ea3a5c626c9b"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogCategoryList/Data/blogCategoryTitle
-Signature: DxIA1csTkrJn593QKys2KcPfmAmObGphqRejcGeSnFk=
-Modified: 638175955621554172
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\BlogImage\Data\blogImage.yml
-ID: "3dcc8551-3cb8-4e75-882f-40b2f10b3953"
-Parent: "802b1018-28e2-4e12-9d3a-42aa58cb1e2a"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogImage/Data/blogImage
-Signature: xWl7BJsd+ad/CqOMbEP2Y6ayNhWQ2lSz6/YyNyxncGc=
-Modified: 638175955621574190
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\BlogList\Data\blog.yml
-ID: "49612b19-da7c-4075-b016-3f2e8889d2c3"
-Parent: "09743876-51c9-4443-a33c-61b77d809398"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogList/Data/blog
-Signature: eNkwFGb6LPpekZ8e/obdYlnj75LIQwIGcZVoIkkcjOA=
-Modified: 638179412772138786
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\BlogList\Data\blogType.yml
-ID: "eb8d5bd3-c113-4462-9af5-0ce72e3ee4b0"
-Parent: "09743876-51c9-4443-a33c-61b77d809398"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogList/Data/blogType
-Signature: k12vhoixWqbqcHMnsaZgyr+azBYKKMQ7KbXbF0P9rW8=
-Modified: 638179412772148779
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Data/FooterLogo
+Signature: o5kQHj2LqHoVkZhqX1xS5Mg+YqEb1hHTOfaXuVxZdhI=
+Modified: 638176777970189871
 ---
 File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Data\FooterNavigation.yml
@@ -388,402 +352,6 @@ Signature: dmfVdyN5XYJv8lkaRSmKPh/ti8w3g7jRNeliHdWwIdA=
 Modified: 638176777970227230
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Header\Header\Content\header.yml
-ID: "bda8c797-b553-49b8-8ea5-e3fb1479ecdf"
-Parent: "fe33645a-6793-4e6e-8253-b3f1915433ca"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Header/Header/Content/header
-Signature: igfARzHCkfRE3ZsNGfogjw1VnePmKxREQ10ml31eeho=
-Modified: 638176821718224044
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\Carousel Slide\Slide Data\BackgroundColor.yml
-ID: "11d89a4e-5e7f-4375-a940-12cb7917d229"
-Parent: "e82b0fbf-ddc2-425f-9805-b5a7b18870e5"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/Carousel Slide/Slide Data/BackgroundColor
-Signature: dTuJjzejyyH/V9dLkN6mlizKFOSTB2FuugN735Vl94s=
-Modified: 638175955621737041
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\Carousel Slide\Slide Data\BackgroundImage.yml
-ID: "db7a0afd-5ae1-4e47-b496-b10e6cfb8ff2"
-Parent: "e82b0fbf-ddc2-425f-9805-b5a7b18870e5"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/Carousel Slide/Slide Data/BackgroundImage
-Signature: cGhqSYFVS7edZC95vLBtMu8LjZVE43pjVKduSmo3fpU=
-Modified: 638175955621704400
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\Carousel Slide\Slide Data\BackgroundType.yml
-ID: "9125f032-ee86-49d0-9632-e1a86d094767"
-Parent: "e82b0fbf-ddc2-425f-9805-b5a7b18870e5"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/Carousel Slide/Slide Data/BackgroundType
-Signature: s/F5kpJtdabuaT/50/q1O2rn4KHzT2qJ0IWfEK/1F3U=
-Modified: 638175955621726988
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Headless Site.yml
-ID: "507b2363-3200-4cea-b238-3045731ba6a5"
-Parent: "348162cf-d211-43b5-a745-dc5c8f62d677"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/Headless Site
-Signature: LdKqk259nIyFeEQFNRFmcyx3iXDUSlCncsN/NI+/IxI=
-Modified: 638175688320780063
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\JSS Settings.yml
-ID: "8e7f4f7d-8ac7-435a-bb13-8212313c98d4"
-Parent: "348162cf-d211-43b5-a745-dc5c8f62d677"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/JSS Settings
-Signature: 2ygyrArR7bSWX54YZBGeS8zofv8juaCgIVcSShZ2h1g=
-Modified: 638175688320999139
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Page.yml
-ID: "95cb88e7-8068-4a9c-9eeb-05f9a22c49d4"
-Parent: "348162cf-d211-43b5-a745-dc5c8f62d677"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/Page
-Signature: MDvucO6ARN2Ne40/m9tBuiwAnMxmJTLBHDWIIY/PozY=
-Modified: 638175688321321111
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Headless Site\__Standard Values.yml
-ID: "60f29795-8c22-433e-8be1-a08c4fe84e34"
-Parent: "507b2363-3200-4cea-b238-3045731ba6a5"
-Template: "507b2363-3200-4cea-b238-3045731ba6a5"
-Path: /sitecore/templates/Project/PLAY/Headless Site/__Standard Values
-Signature: L90YMh1TpTaH5o47shge3FWoh1Jb/S1Rlyv80zCM7KI=
-Modified: 638175688321742549
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner.yml
-ID: "f6c997e4-e883-4152-97a7-a2eaa1b12a00"
-Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner
-Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
-Modified: 638176821717802863
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer.yml
-ID: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
-Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer
-Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
-Modified: 638176777970059867
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Page\__Standard Values.yml
-ID: "8dae20b0-93e0-469a-b672-923c36d8213e"
-Parent: "95cb88e7-8068-4a9c-9eeb-05f9a22c49d4"
-Template: "95cb88e7-8068-4a9c-9eeb-05f9a22c49d4"
-Path: /sitecore/templates/Project/PLAY/Page/__Standard Values
-Signature: hVSMrcYUI2AugZZH4nxD9X7dL0oxAHNmKhUe3/o4gFo=
-Modified: 638175688322621761
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Partial Designs\__Standard Values.yml
-ID: "707e3005-11c9-4c0d-814e-eff5c52e2077"
-Parent: "edd70716-2cb0-4c84-86be-1ad37a4c2c21"
-Template: "edd70716-2cb0-4c84-86be-1ad37a4c2c21"
-Path: /sitecore/templates/Project/PLAY/Partial Designs/__Standard Values
-Signature: fD/42aGW76HtueE2W+LREACdpcDmOQ2ukCPDnvj4PF8=
-Modified: 638175688323185312
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Rendering Parameters\FEAASComponent.yml
-ID: "86dd53eb-e83f-40ea-ade4-73466017fa66"
-Parent: "98951a71-995e-4a47-bdaa-b17671387121"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/Rendering Parameters/FEAASComponent
-Signature: KRp41XbcQrUleMps5RDPIfOoqrJKwBI/UV/ys/A1yNs=
-Modified: 638175688323482854
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Rendering Parameters\PLAY Styling and Grid.yml
-ID: "742d06b0-3e34-4e15-bbac-fa2623268d96"
-Parent: "98951a71-995e-4a47-bdaa-b17671387121"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/Rendering Parameters/PLAY Styling and Grid
-Signature: Wg3E3c/eC1Q0muvnoGaRwL2F6OXxRbcbrGhrBNXARtY=
-Modified: 638175688323573077
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner List.yml
-ID: "4f5bd5b4-cdf8-4909-8dfa-8d9b1949c8c8"
-Parent: "f6c997e4-e883-4152-97a7-a2eaa1b12a00"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner List
-Signature: zAwLbrykxttbG3n+8nWE7X7DRoKybhsOz5bOlxJxu0E=
-Modified: 638176821717864447
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner.yml
-ID: "61be6f7d-3a37-45f8-924f-f8fedc8f7a05"
-Parent: "f6c997e4-e883-4152-97a7-a2eaa1b12a00"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner
-Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
-Modified: 638176821717842056
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\BlogImage.yml
-ID: "836b74eb-d58b-42bd-8836-1b79eba49b5c"
-Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogImage
-Signature: Gnnrf2O7RfDrYiw6Mc8AJYZ/i88drgPkye0f4GV2kuY=
-Modified: 638175955621228146
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\BlogList.yml
-ID: "c1501a98-ec27-40e6-87db-9a405adf61fa"
-Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogList
-Signature: mj8CIChffklPnU/e7vXe/OsDpjJLu9Yym3D9BWMB6n4=
-Modified: 638175955621238147
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Instagram.yml
-ID: "a2b7ac0c-307a-4e5d-8f7c-89856d62e853"
-Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Instagram
-Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
-Modified: 638176777970089906
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Links.yml
-ID: "619ec087-f367-40cb-9bee-25920c1b8a5c"
-Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Links
-Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
-Modified: 638176777970099898
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Page\Content\Content.yml
-ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
-Parent: "545b7bdb-9ab4-456a-a1cc-7e8833cff075"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/Page/Content/Content
-Signature: kAI1WqqRfKjaF/AaDO+QWRsdJZbjzzCwCcs9y/CfHsI=
-Modified: 638175688322769496
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Page\Content\Title.yml
-ID: "17707054-bc28-496c-925f-e614ba18f3e0"
-Parent: "545b7bdb-9ab4-456a-a1cc-7e8833cff075"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/Page/Content/Title
-Signature: DxIA1csTkrJn593QKys2KcPfmAmObGphqRejcGeSnFk=
-Modified: 638175688322873453
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Background Type\Background Type Folder\__Standard Values.yml
-ID: "9787466e-a3cf-4ef5-8718-0644ad6ec2e0"
-Parent: "74aa146b-f8c7-45ee-9e51-bdd6300f76d3"
-Template: "74aa146b-f8c7-45ee-9e51-bdd6300f76d3"
-Path: /sitecore/templates/Project/PLAY/OHA/Background Type/Background Type Folder/__Standard Values
-Signature: Z3Vc6co7v92lPZHOnld1WWlauVLmvPDhfEuG2JwXfNA=
-Modified: 638175955621781260
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner\Content.yml
-ID: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
-Parent: "61be6f7d-3a37-45f8-924f-f8fedc8f7a05"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638176821717924425
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\Blog\Data.yml
-ID: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
-Parent: "0b8a5ed2-fb6c-412f-a64b-cbeac7e3c3af"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638175955621308212
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\BlogCategory\Data.yml
-ID: "83cef1bf-67fc-4181-8f5a-6d8d71b5dd70"
-Parent: "5de099be-a1f8-4d18-ae74-57e8d6d92861"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogCategory/Data
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638175955621328224
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog Detail\Blog Detail\Detail Page.yml
-ID: "6653e4a4-6288-4ec5-bb14-e71bac437f2b"
-Parent: "f20e7c85-7105-5375-a3d0-42fd54d93287"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/Blog Detail/Detail Page
-Signature: F+fxGh60hbNIhj4h7L9s0V6JK/e6eOv6zIZ3gfuWO3k=
-Modified: 638179412772058795
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog Detail\BlogDetail\__Standard Values.yml
-ID: "dc594dc9-5592-5643-8629-0b6e6c15082e"
-Parent: "f20e7c85-7105-5375-a3d0-42fd54d93287"
-Template: "f20e7c85-7105-5375-a3d0-42fd54d93287"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/BlogDetail/__Standard Values
-Signature: baH2/xfzIDNQ3+hEzUJ+6pDyZ33PAzX9R3dqyhSvDwY=
-Modified: 638179412772158793
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Payment\Footer Card Details.yml
-ID: "33fe95e3-a277-485e-aeb9-973db30bc9c6"
-Parent: "3220f0be-9993-4325-80a5-ad687f5cd29e"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Payment/Footer Card Details
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638176777970179900
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Social Media\Social Media Detials.yml
-ID: "07b2ca97-183e-4fbf-9ebf-45d3a5fb2386"
-Parent: "cecbd542-e304-4ad4-82ec-5ed2d43b5df2"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Social Media/Social Media Detials
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638176777970179900
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Header\Header\Content.yml
-ID: "fe33645a-6793-4e6e-8253-b3f1915433ca"
-Parent: "c44f459c-7d7b-425b-8b9b-317c8cc2966b"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Header/Header/Content
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638176821717981936
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\Carousel Slide\Slide Data.yml
-ID: "e82b0fbf-ddc2-425f-9805-b5a7b18870e5"
-Parent: "13569147-2edd-4482-9bfe-9b3f6a589c92"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/Carousel Slide/Slide Data
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638175955621403317
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner\Content\SubTitle.yml
-ID: "52538d72-9bea-455f-8707-7a81d0a53508"
-Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/SubTitle
-Signature: oD/p7YUnOqkpNkqLr7juywP80CnpMijcWWQ/rmyCdnU=
-Modified: 638176821717996974
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner\Content\Title.yml
-ID: "0b0ec71f-866d-42f1-940d-905d676de684"
-Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/Title
-Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
-Modified: 638176821717991939
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner Branch\_name\Banner.yml
-ID: "bdf28a46-8da9-41f8-9489-10734660d2ea"
-Parent: "de20228b-32cf-4fb0-bd36-46e91916345b"
-Template: "61be6f7d-3a37-45f8-924f-f8fedc8f7a05"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner Branch/$name/Banner
-Signature: rIOSOTdsFf2RwiXMw9VVHofW55L817j+BgwAmZG2gDM=
-Modified: 638176821718057016
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner List\Banners\Banners.yml
-ID: "e4f4ae10-0e66-4e6a-af4c-11fec20ff37f"
-Parent: "cf0a8a65-0442-4158-9703-abd2246604a9"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner List/Banners/Banners
-Signature: 1TNi5kZlBLhGaVy3Xch2cefhBOy52HSVmJmreOt2sKQ=
-Modified: 638176821718079038
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\Blog\Data\blogimages.yml
-ID: "1670a234-cf87-431c-8264-548949417903"
-Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/blogimages
-Signature: h5KAjAedWWQUMK/3wM3LbFKu79Bz0KJtfBuOB+xShRw=
-Modified: 638179412771838795
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\Blog\Data\comment.yml
-ID: "d38f4785-8c9d-4ee7-ae06-64ab2946f5be"
-Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/comment
-Signature: oD/p7YUnOqkpNkqLr7juywP80CnpMijcWWQ/rmyCdnU=
-Modified: 638175955621454592
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\Blog\Data\ctaLink.yml
-ID: "01f53240-7eea-4dfe-859f-9387b216b8de"
-Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/ctaLink
-Signature: z86I66hME8XjpzPK1K7laegF0sZW/dD8It1ElvVheR8=
-Modified: 638175955621505120
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\Blog\Data\ctaText.yml
-ID: "6a6ae7eb-51e0-4a2c-8331-e71c5c0cf763"
-Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/ctaText
-Signature: +AeWDlIvOMBNNCBd7/t8GVSYgIHL4SUQcPXvukjv/sg=
-Modified: 638175955621495110
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\BlogType\Data\blogType.yml
-ID: "d8ce9dff-c34e-4111-960f-9ca7af8f14e3"
-Parent: "38fc5f9c-298c-41af-9394-c2c5fcedb3fc"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogType/Data/blogType
-Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
-Modified: 638175955621619370
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\ImageList\Data\image.yml
-ID: "3a1f4909-a43c-4ff2-aef3-e7b47d514bb1"
-Parent: "74bdead0-ecaf-4fb2-a85b-4085f9998875"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/ImageList/Data/image
-Signature: KQrvmwhMCKzLi2vAYjnQnPoEbtMRzhzzpKKfb7xSU7k=
-Modified: 638179412772158793
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\PostType\Data\postType.yml
-ID: "75b74bed-27f3-4b49-b1f2-86d1ed5e5524"
-Parent: "b853b769-25ce-4ac7-9ab9-8f1452ee636e"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/PostType/Data/postType
-Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
-Modified: 638175955621639324
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog Detail\Blog Detail\Detail Page\Author.yml
-ID: "01a40e95-016e-464a-b752-78a2300474bb"
-Parent: "6653e4a4-6288-4ec5-bb14-e71bac437f2b"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/Blog Detail/Detail Page/Author
-Signature: ArYkGyjP1rjXGMhAhHawBy870mfptQljqmHxcm+675w=
-Modified: 638179412772068798
----
-File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Subscribe\PlaceholderText.yml
 ID: "52690a69-1e26-4833-9890-a8a04b12397c"
 Parent: "d9823d4a-3503-49da-aff6-3c17729ee86f"
@@ -818,6 +386,114 @@ Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
 Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Subscribe/SubscribeTitle
 Signature: oD/p7YUnOqkpNkqLr7juywP80CnpMijcWWQ/rmyCdnU=
 Modified: 638176777970257222
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Instagram\Footer Instagram\Image.yml
+ID: "d0500c4f-864f-4c54-a933-fa4b4e06b982"
+Parent: "ff8d6cce-91ba-484a-9fc5-72fe63392dfb"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Instagram/Footer Instagram/Image
+Signature: xWl7BJsd+ad/CqOMbEP2Y6ayNhWQ2lSz6/YyNyxncGc=
+Modified: 638176777970277223
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Links\Link Details\HideInFooter.yml
+ID: "50e9c68e-711a-47f9-82c8-58b51efa89e3"
+Parent: "32f64bf6-c84b-4204-9909-8c209412756a"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Links/Link Details/HideInFooter
+Signature: qwPXKOJVjXOK2JTloHcBeKb7/2SaWshN+YLviRQIcqE=
+Modified: 638176777970297223
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Links\Link Details\LinkUrl.yml
+ID: "5bc38ca3-1dff-4fd9-ac6e-0225395d8d17"
+Parent: "32f64bf6-c84b-4204-9909-8c209412756a"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Links/Link Details/LinkUrl
+Signature: WZt6bz7i5WM+vkFz7Vk96k2gq+hqzKVe+ZrqdNnwjW0=
+Modified: 638176777970287223
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Navigation\Footer Navigation Details\FooterNavigationList.yml
+ID: "56737bb8-0e28-4485-95c7-477f9d4d9e5f"
+Parent: "690391c8-9f5f-4448-8c9e-31ecd5545c54"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Navigation/Footer Navigation Details/FooterNavigationList
+Signature: kTY8hP5c28yhMoB5tjiGmCE82Jjlh5gMxY4YIUDl0cU=
+Modified: 638176777970297223
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Navigation\Footer Navigation Details\NavigationName.yml
+ID: "b6484b56-c890-4d42-8a53-66b4880ff7a3"
+Parent: "690391c8-9f5f-4448-8c9e-31ecd5545c54"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Navigation/Footer Navigation Details/NavigationName
+Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
+Modified: 638176777970297223
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Payment\Footer Card Details\Icon.yml
+ID: "e783e9f6-5945-4bdc-bf02-c101dbd929f7"
+Parent: "33fe95e3-a277-485e-aeb9-973db30bc9c6"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Payment/Footer Card Details/Icon
+Signature: xWl7BJsd+ad/CqOMbEP2Y6ayNhWQ2lSz6/YyNyxncGc=
+Modified: 638176777970312287
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Social Media\Social Media Detials\IconClass.yml
+ID: "45ddafe9-d8a1-4bc5-90e6-b5cdaee42325"
+Parent: "07b2ca97-183e-4fbf-9ebf-45d3a5fb2386"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Social Media/Social Media Detials/IconClass
+Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
+Modified: 638176777970322372
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Social Media\Social Media Detials\Link.yml
+ID: "f20c8297-cfd3-4015-aad9-61168cf21832"
+Parent: "07b2ca97-183e-4fbf-9ebf-45d3a5fb2386"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Social Media/Social Media Detials/Link
+Signature: M7wfPP7IbS8Dc5Y74ynBBDu4jJ9qTeaWoOZ5cT3VRSc=
+Modified: 638176777970332369
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Header\Header\Content\header.yml
+ID: "bda8c797-b553-49b8-8ea5-e3fb1479ecdf"
+Parent: "fe33645a-6793-4e6e-8253-b3f1915433ca"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Header/Header/Content/header
+Signature: igfARzHCkfRE3ZsNGfogjw1VnePmKxREQ10ml31eeho=
+Modified: 638176821718224044
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\Carousel Slide\Slide Data\BackgroundColor.yml
+ID: "11d89a4e-5e7f-4375-a940-12cb7917d229"
+Parent: "e82b0fbf-ddc2-425f-9805-b5a7b18870e5"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/Carousel Slide/Slide Data/BackgroundColor
+Signature: dTuJjzejyyH/V9dLkN6mlizKFOSTB2FuugN735Vl94s=
+Modified: 638175955621737041
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\Carousel Slide\Slide Data\BackgroundImage.yml
+ID: "db7a0afd-5ae1-4e47-b496-b10e6cfb8ff2"
+Parent: "e82b0fbf-ddc2-425f-9805-b5a7b18870e5"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/Carousel Slide/Slide Data/BackgroundImage
+Signature: cGhqSYFVS7edZC95vLBtMu8LjZVE43pjVKduSmo3fpU=
+Modified: 638175955621704400
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\Carousel Slide\Slide Data\BackgroundType.yml
+ID: "9125f032-ee86-49d0-9632-e1a86d094767"
+Parent: "e82b0fbf-ddc2-425f-9805-b5a7b18870e5"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/Carousel Slide/Slide Data/BackgroundType
+Signature: s/F5kpJtdabuaT/50/q1O2rn4KHzT2qJ0IWfEK/1F3U=
+Modified: 638175955621726988
 ---
 File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\Carousel Slide\Slide Data\BackgroundVideo.yml
@@ -856,94 +532,103 @@ Signature: bHeH33vRgUl+eLq8nxintdD3VUO8x83RLTMdBQNeV2M=
 Modified: 638175955621747053
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Page Designs.yml
-ID: "7756380e-cb33-4213-b486-b73092696756"
-Parent: "348162cf-d211-43b5-a745-dc5c8f62d677"
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\Carousel Slide\Slide Data\SubTitle.yml
+ID: "56e48e65-6acf-4608-abe4-dccf91a122c5"
+Parent: "e82b0fbf-ddc2-425f-9805-b5a7b18870e5"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/Carousel Slide/Slide Data/SubTitle
+Signature: oD/p7YUnOqkpNkqLr7juywP80CnpMijcWWQ/rmyCdnU=
+Modified: 638175955621679328
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\Carousel Slide\Slide Data\Tag1.yml
+ID: "6a82472b-646c-4586-b551-0e3f2d3ac617"
+Parent: "e82b0fbf-ddc2-425f-9805-b5a7b18870e5"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/Carousel Slide/Slide Data/Tag1
+Signature: dmfVdyN5XYJv8lkaRSmKPh/ti8w3g7jRNeliHdWwIdA=
+Modified: 638175955621649322
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\Carousel Slide\Slide Data\Tag2.yml
+ID: "9f500056-5dcc-4391-9207-60ef253f90f0"
+Parent: "e82b0fbf-ddc2-425f-9805-b5a7b18870e5"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/Carousel Slide/Slide Data/Tag2
+Signature: 3W4ugp2bky4+Cs4wm1RtfPqsxXhIl+GGoz+9gKdxMt0=
+Modified: 638175955621659325
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\Carousel Slide\Slide Data\Title.yml
+ID: "ac741893-1fce-42d6-a37c-2adb0b72c651"
+Parent: "e82b0fbf-ddc2-425f-9805-b5a7b18870e5"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/Carousel Slide/Slide Data/Title
+Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
+Modified: 638175955621669325
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\HeroCarousel\Carousel Data\Slides.yml
+ID: "35f22051-5d55-4d35-b8b6-54e897b83dc5"
+Parent: "26aa37c5-3ec1-418e-9842-a3b1a938c8f5"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/HeroCarousel/Carousel Data/Slides
+Signature: YKWrmVTyl1SwbrCAD4xn7H0QyaekWKGuAAvXRegeUa0=
+Modified: 638175955621757623
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Folder.yml
+ID: "8212731d-f3a6-4098-b22b-d50940643b6d"
+Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/Page Designs
-Signature: 7S/dCUk6rsHB+yA/7SEss1t1ZK62yckUSzx9LG+gNkY=
-Modified: 638175688321225812
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Folder
+Signature: hhqctUjyjSC972jh17J/A2+aZDcAUmwRpYVdP/ycvVY=
+Modified: 638176777970079911
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Rendering Parameters.yml
-ID: "98951a71-995e-4a47-bdaa-b17671387121"
-Parent: "348162cf-d211-43b5-a745-dc5c8f62d677"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/PLAY/Rendering Parameters
-Signature: wsz/kSMO52IVeiNk3C4A9iITRcvhh9B3c/7TlhLlpfM=
-Modified: 638175688321591000
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Background Type.yml
-ID: "59c0d21e-d5db-43b1-bfa3-9e3f6b715a6a"
-Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/PLAY/OHA/Background Type
-Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
-Modified: 638175955621141402
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog.yml
-ID: "6965d986-3d4c-440c-9d04-9d94862551fb"
-Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog
-Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
-Modified: 638175955621151408
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Page\Content.yml
-ID: "545b7bdb-9ab4-456a-a1cc-7e8833cff075"
-Parent: "95cb88e7-8068-4a9c-9eeb-05f9a22c49d4"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/Page/Content
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638175688322522618
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Rendering Parameters\Base Rendering Parameters.yml
-ID: "4ece011d-d40e-4f5f-9852-7c6dd65374a5"
-Parent: "98951a71-995e-4a47-bdaa-b17671387121"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/PLAY/Rendering Parameters/Base Rendering Parameters
-Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
-Modified: 638175688323354220
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner Branch.yml
-ID: "7921e700-6073-4fc9-b864-7d2c97f410cc"
-Parent: "f6c997e4-e883-4152-97a7-a2eaa1b12a00"
-Template: "35e75c72-4985-4e09-88c3-0eac6cd1e64f"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner Branch
-Signature: FO1lEvstlRnAD0PNXyQPHloO9+ZZs9dM+w/uIMriel0=
-Modified: 638176821717854367
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\Blog.yml
-ID: "0b8a5ed2-fb6c-412f-a64b-cbeac7e3c3af"
-Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Info.yml
+ID: "c47023f3-27d1-4a7d-a598-b04e53973ad6"
+Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog
-Signature: QiYTlx6P4jHWxdqX1G6WfgHyI7vIJTLbq4+CmjauepU=
-Modified: 638175955621196547
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info
+Signature: issZmBNi47BdTgwFG5iOW9GQCDJbYMjOflvTQH2zAzI=
+Modified: 638176777970089906
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\PostType.yml
-ID: "8b22419e-28b8-48d9-8519-4e9dc195e77f"
-Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Instagram.yml
+ID: "a2b7ac0c-307a-4e5d-8f7c-89856d62e853"
+Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/PostType
-Signature: UEfqzRYOaawNE6f4NBSq+PmRm4hNeBh0HXtWCWfB4a8=
-Modified: 638175955621268183
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Instagram
+Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
+Modified: 638176777970089906
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog Detail\Blog Detail.yml
-ID: "f20e7c85-7105-5375-a3d0-42fd54d93287"
-Parent: "aa48895b-d874-489b-9cf6-40867797119c"
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Links.yml
+ID: "619ec087-f367-40cb-9bee-25920c1b8a5c"
+Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/Blog Detail
-Signature: IVGuuzUQajWpfhGrsLKrZ9RTZJfphHEfoOSV44iqHOA=
-Modified: 638179412772058795
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Links
+Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
+Modified: 638176777970099898
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Navigation.yml
+ID: "d62efcd7-f1eb-49e2-904b-0bc5b252b133"
+Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Navigation
+Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
+Modified: 638176777970109899
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Payment.yml
+ID: "3220f0be-9993-4325-80a5-ad687f5cd29e"
+Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Payment
+Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
+Modified: 638176777970109899
 ---
 File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Social Media.yml
@@ -964,6 +649,60 @@ Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
 Modified: 638176821717914444
 ---
 File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\Carousel Slide.yml
+ID: "13569147-2edd-4482-9bfe-9b3f6a589c92"
+Parent: "b2e1fbf3-f92d-4fac-aa55-990ef4c640e4"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/Carousel Slide
+Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
+Modified: 638175955621278195
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\HeroCarousel.yml
+ID: "3a9aef2b-bb55-5719-a5f8-13f8caeeb422"
+Parent: "b2e1fbf3-f92d-4fac-aa55-990ef4c640e4"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/HeroCarousel
+Signature: K4Jab91M/XGkkS7tLIIc8O/2/p3Jf5Dvtwpkzs/BlOw=
+Modified: 638175955621288213
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Page\Content\Content.yml
+ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
+Parent: "545b7bdb-9ab4-456a-a1cc-7e8833cff075"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/Page/Content/Content
+Signature: kAI1WqqRfKjaF/AaDO+QWRsdJZbjzzCwCcs9y/CfHsI=
+Modified: 638175688322769496
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Page\Content\Title.yml
+ID: "17707054-bc28-496c-925f-e614ba18f3e0"
+Parent: "545b7bdb-9ab4-456a-a1cc-7e8833cff075"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/Page/Content/Title
+Signature: DxIA1csTkrJn593QKys2KcPfmAmObGphqRejcGeSnFk=
+Modified: 638175688322873453
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Rendering Parameters\Base Rendering Parameters\Base Styling and Grid.yml
+ID: "7dd20ecb-6ac1-49ed-a6e2-c5d5327a0833"
+Parent: "4ece011d-d40e-4f5f-9852-7c6dd65374a5"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/Rendering Parameters/Base Rendering Parameters/Base Styling and Grid
+Signature: OKSwhNlPlV9tkPx294iezj14lAuXS1PWMw28/8hRoFs=
+Modified: 638175688323824196
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Rendering Parameters\Base Rendering Parameters\Base Styling.yml
+ID: "8ac52852-e0fe-4c29-8fea-09ede899403e"
+Parent: "4ece011d-d40e-4f5f-9852-7c6dd65374a5"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/Rendering Parameters/Base Rendering Parameters/Base Styling
+Signature: GSioPq9Ex3MyyOXLyJNKcgv1SQGx5FNsHtJljT1t8io=
+Modified: 638175688323914095
+---
+File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Rendering Parameters\FEAASComponent\Fields.yml
 ID: "0a875884-eeec-4165-8603-b21eb47a0c96"
 Parent: "86dd53eb-e83f-40ea-ade4-73466017fa66"
@@ -980,6 +719,60 @@ Template: "86dd53eb-e83f-40ea-ade4-73466017fa66"
 Path: /sitecore/templates/Project/PLAY/Rendering Parameters/FEAASComponent/__Standard Values
 Signature: oEd6+09+JGAHIv92/+GO+1Uj8ySOr8dEHZjz4cO00fY=
 Modified: 638175688324591703
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Rendering Parameters\PLAY Styling\__Standard Values.yml
+ID: "63878fd4-39e0-40ea-b01a-c64294587e4c"
+Parent: "3c13bf6c-32dd-4f40-bcc9-208b47f21bb5"
+Template: "3c13bf6c-32dd-4f40-bcc9-208b47f21bb5"
+Path: /sitecore/templates/Project/PLAY/Rendering Parameters/PLAY Styling/__Standard Values
+Signature: rKIkb0eGpT2DlQ6OFowIcQEpfVzn0WBmVTlWex2Tpg0=
+Modified: 638175688325085155
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Rendering Parameters\PLAY Styling and Grid\__Standard Values.yml
+ID: "28609a9b-97ad-425f-80cd-c4092a75c86a"
+Parent: "742d06b0-3e34-4e15-bbac-fa2623268d96"
+Template: "742d06b0-3e34-4e15-bbac-fa2623268d96"
+Path: /sitecore/templates/Project/PLAY/Rendering Parameters/PLAY Styling and Grid/__Standard Values
+Signature: kj7fAxaTnt8iyW53nmNg2c5owrFsMYPypWlCCY3h2eg=
+Modified: 638175688324904424
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Background Type\Background Type Folder\__Standard Values.yml
+ID: "9787466e-a3cf-4ef5-8718-0644ad6ec2e0"
+Parent: "74aa146b-f8c7-45ee-9e51-bdd6300f76d3"
+Template: "74aa146b-f8c7-45ee-9e51-bdd6300f76d3"
+Path: /sitecore/templates/Project/PLAY/OHA/Background Type/Background Type Folder/__Standard Values
+Signature: Z3Vc6co7v92lPZHOnld1WWlauVLmvPDhfEuG2JwXfNA=
+Modified: 638175955621781260
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner\Content.yml
+ID: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
+Parent: "61be6f7d-3a37-45f8-924f-f8fedc8f7a05"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638176821717924425
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner Branch\_name.yml
+ID: "de20228b-32cf-4fb0-bd36-46e91916345b"
+Parent: "7921e700-6073-4fc9-b864-7d2c97f410cc"
+Template: "4f5bd5b4-cdf8-4909-8dfa-8d9b1949c8c8"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner Branch/$name
+Signature: UzqVrPEJX9p1u6CCCmPglY01oTRUq56I+lcf5er5F+k=
+Modified: 638176821717934426
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner Folder\__Standard Values.yml
+ID: "9d715120-a16f-49d1-b3f5-31132a8b8bf2"
+Parent: "3b706afe-21af-4121-8163-a9b7fa13a299"
+Template: "3b706afe-21af-4121-8163-a9b7fa13a299"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner Folder/__Standard Values
+Signature: /MrVLSA7sykxk0R4BWSgi5icfsj0E6C3YYFO6Mwt+WY=
+Modified: 638176821718224044
 ---
 File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner List\Banners.yml
@@ -1000,6 +793,60 @@ Signature: Ls+M+143c1D7vfqCmtBD9Oj+hrzZdkkvD+IDOB6umO8=
 Modified: 638176821718234092
 ---
 File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\BannerCategory\Banner\Content.yml
+ID: "5f1378e0-dc5b-4bad-8942-d86969b20ec0"
+Parent: "84d339d4-3ab1-40d4-b24a-7ec20138d6fc"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner/Content
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638176821717954421
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\BannerCategory\Banner List\Banners.yml
+ID: "a505d322-14ed-475f-aff2-b07b12131249"
+Parent: "72b37029-b132-4e64-bd9e-94eeb0d7fbdc"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner List/Banners
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638176821717961896
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\Blog\Data.yml
+ID: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
+Parent: "0b8a5ed2-fb6c-412f-a64b-cbeac7e3c3af"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638175955621308212
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\BlogCategory\Data.yml
+ID: "83cef1bf-67fc-4181-8f5a-6d8d71b5dd70"
+Parent: "5de099be-a1f8-4d18-ae74-57e8d6d92861"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogCategory/Data
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638175955621328224
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\BlogCategoryList\Data.yml
+ID: "056c6365-a57a-41aa-b7bd-ea3a5c626c9b"
+Parent: "0ac5a04e-11cd-4063-a9fc-c360dac332e8"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogCategoryList/Data
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638175955621339105
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\BlogImage\Data.yml
+ID: "802b1018-28e2-4e12-9d3a-42aa58cb1e2a"
+Parent: "836b74eb-d58b-42bd-8836-1b79eba49b5c"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogImage/Data
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638175955621348191
+---
+File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\BlogList\Data.yml
 ID: "09743876-51c9-4443-a33c-61b77d809398"
 Parent: "c1501a98-ec27-40e6-87db-9a405adf61fa"
@@ -1016,6 +863,24 @@ Template: "e269fbb5-3750-427a-9149-7aa950b49301"
 Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogType/Data
 Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
 Modified: 638175955621368179
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Instagram Details.yml
+ID: "58cd520d-e480-44b0-90eb-f92911cdb411"
+Parent: "c47023f3-27d1-4a7d-a598-b04e53973ad6"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Instagram Details
+Signature: 1JMAHnD8HOW9giqx7KGwwRsTOlC2KSqjfrhMpGWxW8A=
+Modified: 638176777970129900
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Subscribe.yml
+ID: "d9823d4a-3503-49da-aff6-3c17729ee86f"
+Parent: "c47023f3-27d1-4a7d-a598-b04e53973ad6"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Subscribe
+Signature: ombKn5vZg+ZLBK2HOLOXTzH4IT/y4Q2ENdd3i7pFKNs=
+Modified: 638176777970139896
 ---
 File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Info\__Standard Values.yml
@@ -1036,22 +901,130 @@ Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
 Modified: 638176777970149889
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Rendering Parameters\Base Rendering Parameters\Base Styling\__Standard Values.yml
-ID: "7c871351-28a5-42e8-932a-052618547dd6"
-Parent: "8ac52852-e0fe-4c29-8fea-09ede899403e"
-Template: "8ac52852-e0fe-4c29-8fea-09ede899403e"
-Path: /sitecore/templates/Project/PLAY/Rendering Parameters/Base Rendering Parameters/Base Styling/__Standard Values
-Signature: oJ53z3+NXNPkRPncgIhapO4ARZg0Izn5lUPHvdMFJv4=
-Modified: 638175688324328890
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\BlogCategoryList\Data\blogCategoryTitle.yml
+ID: "4fd0fca2-164e-42da-be8e-2dd25ce74c7d"
+Parent: "056c6365-a57a-41aa-b7bd-ea3a5c626c9b"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogCategoryList/Data/blogCategoryTitle
+Signature: DxIA1csTkrJn593QKys2KcPfmAmObGphqRejcGeSnFk=
+Modified: 638175955621554172
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Rendering Parameters\Base Rendering Parameters\Base Styling and Grid\__Standard Values.yml
-ID: "cbb8008b-0063-4229-805e-c4993b258ceb"
-Parent: "7dd20ecb-6ac1-49ed-a6e2-c5d5327a0833"
-Template: "7dd20ecb-6ac1-49ed-a6e2-c5d5327a0833"
-Path: /sitecore/templates/Project/PLAY/Rendering Parameters/Base Rendering Parameters/Base Styling and Grid/__Standard Values
-Signature: +FjM2aKMcB9Zk7dnKmR2gT6A+BR9A1ARDiGzqs7goGQ=
-Modified: 638175688324128535
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\BlogImage\Data\blogImage.yml
+ID: "3dcc8551-3cb8-4e75-882f-40b2f10b3953"
+Parent: "802b1018-28e2-4e12-9d3a-42aa58cb1e2a"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogImage/Data/blogImage
+Signature: xWl7BJsd+ad/CqOMbEP2Y6ayNhWQ2lSz6/YyNyxncGc=
+Modified: 638175955621574190
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\BlogList\Data\blog.yml
+ID: "49612b19-da7c-4075-b016-3f2e8889d2c3"
+Parent: "09743876-51c9-4443-a33c-61b77d809398"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogList/Data/blog
+Signature: eNkwFGb6LPpekZ8e/obdYlnj75LIQwIGcZVoIkkcjOA=
+Modified: 638179412772138786
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\BlogList\Data\blogType.yml
+ID: "eb8d5bd3-c113-4462-9af5-0ce72e3ee4b0"
+Parent: "09743876-51c9-4443-a33c-61b77d809398"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogList/Data/blogType
+Signature: k12vhoixWqbqcHMnsaZgyr+azBYKKMQ7KbXbF0P9rW8=
+Modified: 638179412772148779
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\BlogType\Data\blogType.yml
+ID: "d8ce9dff-c34e-4111-960f-9ca7af8f14e3"
+Parent: "38fc5f9c-298c-41af-9394-c2c5fcedb3fc"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogType/Data/blogType
+Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
+Modified: 638175955621619370
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\ImageList\Data\image.yml
+ID: "3a1f4909-a43c-4ff2-aef3-e7b47d514bb1"
+Parent: "74bdead0-ecaf-4fb2-a85b-4085f9998875"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/ImageList/Data/image
+Signature: KQrvmwhMCKzLi2vAYjnQnPoEbtMRzhzzpKKfb7xSU7k=
+Modified: 638179412772158793
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\PostType\Data\postType.yml
+ID: "75b74bed-27f3-4b49-b1f2-86d1ed5e5524"
+Parent: "b853b769-25ce-4ac7-9ab9-8f1452ee636e"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/PostType/Data/postType
+Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
+Modified: 638175955621639324
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog Detail\Blog Detail\Detail Page\Author.yml
+ID: "c5de69f9-04e4-440c-b288-8050c455c997"
+Parent: "fba65b78-91c8-463b-bf03-cf6a5e43d1d7"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/Blog Detail/Detail Page/Author
+Signature: oD/p7YUnOqkpNkqLr7juywP80CnpMijcWWQ/rmyCdnU=
+Modified: 638180097025343677
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\ImageList\Data.yml
+ID: "74bdead0-ecaf-4fb2-a85b-4085f9998875"
+Parent: "3ac3e39c-768f-4bd8-8265-9162a307cffb"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/ImageList/Data
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638175955621378187
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\PostType\Data.yml
+ID: "b853b769-25ce-4ac7-9ab9-8f1452ee636e"
+Parent: "8b22419e-28b8-48d9-8519-4e9dc195e77f"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/PostType/Data
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638175955621393252
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog Detail\Blog Detail\Detail Page.yml
+ID: "fba65b78-91c8-463b-bf03-cf6a5e43d1d7"
+Parent: "fbe405da-7ac1-4d87-97a8-0abcb416242d"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/Blog Detail/Detail Page
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638180097025313679
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner\Content\Description.yml
+ID: "e90ca7ff-8416-449c-8372-98d865400789"
+Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/Description
+Signature: eHVEFm2+NBoqzb4H+s/qBmZeC6d4bDvz66g0CedWt78=
+Modified: 638176821718007015
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner Branch\_name\Banner.yml
+ID: "bdf28a46-8da9-41f8-9489-10734660d2ea"
+Parent: "de20228b-32cf-4fb0-bd36-46e91916345b"
+Template: "61be6f7d-3a37-45f8-924f-f8fedc8f7a05"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner Branch/$name/Banner
+Signature: rIOSOTdsFf2RwiXMw9VVHofW55L817j+BgwAmZG2gDM=
+Modified: 638176821718057016
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner List\Banners\Banners.yml
+ID: "e4f4ae10-0e66-4e6a-af4c-11fec20ff37f"
+Parent: "cf0a8a65-0442-4158-9703-abd2246604a9"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner List/Banners/Banners
+Signature: 1TNi5kZlBLhGaVy3Xch2cefhBOy52HSVmJmreOt2sKQ=
+Modified: 638176821718079038
 ---
 File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner List\Banners\BannerTitle.yml
@@ -1108,6 +1081,330 @@ Signature: 6qX9mstQnwRXVUPALkh4nVMQcVn3lo+fSBdGfpceNGI=
 Modified: 638176821718109124
 ---
 File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\BannerCategory\Banner\Content\SubTitle.yml
+ID: "a179b108-27f8-47c7-b885-c923324511b1"
+Parent: "5f1378e0-dc5b-4bad-8942-d86969b20ec0"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner/Content/SubTitle
+Signature: oD/p7YUnOqkpNkqLr7juywP80CnpMijcWWQ/rmyCdnU=
+Modified: 638176821718099113
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\BannerCategory\Banner\Content\Title.yml
+ID: "55491cfc-5cc9-41de-b3b1-7f5d3aa9ccfc"
+Parent: "5f1378e0-dc5b-4bad-8942-d86969b20ec0"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner/Content/Title
+Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
+Modified: 638176821718099113
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog Detail\BlogDetail\Detail Page\Author.yml
+ID: "01a40e95-016e-464a-b752-78a2300474bb"
+Parent: "6653e4a4-6288-4ec5-bb14-e71bac437f2b"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/BlogDetail/Detail Page/Author
+Signature: ArYkGyjP1rjXGMhAhHawBy870mfptQljqmHxcm+675w=
+Modified: 638180097025405109
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog Detail\BlogDetail\Detail Page\Date.yml
+ID: "bc123ba0-350f-495d-a0df-a0249442ce67"
+Parent: "6653e4a4-6288-4ec5-bb14-e71bac437f2b"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/BlogDetail/Detail Page/Date
+Signature: VEauE9dZPsHwQIMB3iaFcaRUY1qwSaNFGzq8djOYinM=
+Modified: 638180097025405109
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog Detail\BlogDetail.yml
+ID: "f20e7c85-7105-5375-a3d0-42fd54d93287"
+Parent: "aa48895b-d874-489b-9cf6-40867797119c"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/BlogDetail
+Signature: IVGuuzUQajWpfhGrsLKrZ9RTZJfphHEfoOSV44iqHOA=
+Modified: 638180097025293614
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Links\Link Details.yml
+ID: "32f64bf6-c84b-4204-9909-8c209412756a"
+Parent: "619ec087-f367-40cb-9bee-25920c1b8a5c"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Links/Link Details
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638176777970159891
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Navigation\Footer Navigation Details.yml
+ID: "690391c8-9f5f-4448-8c9e-31ecd5545c54"
+Parent: "d62efcd7-f1eb-49e2-904b-0bc5b252b133"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Navigation/Footer Navigation Details
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638176777970169896
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Payment\Footer Card Details.yml
+ID: "33fe95e3-a277-485e-aeb9-973db30bc9c6"
+Parent: "3220f0be-9993-4325-80a5-ad687f5cd29e"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Payment/Footer Card Details
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638176777970179900
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Social Media\Social Media Detials.yml
+ID: "07b2ca97-183e-4fbf-9ebf-45d3a5fb2386"
+Parent: "cecbd542-e304-4ad4-82ec-5ed2d43b5df2"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Social Media/Social Media Detials
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638176777970179900
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Header\Header\Content.yml
+ID: "fe33645a-6793-4e6e-8253-b3f1915433ca"
+Parent: "c44f459c-7d7b-425b-8b9b-317c8cc2966b"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Header/Header/Content
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638176821717981936
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\Carousel Slide\Slide Data.yml
+ID: "e82b0fbf-ddc2-425f-9805-b5a7b18870e5"
+Parent: "13569147-2edd-4482-9bfe-9b3f6a589c92"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/Carousel Slide/Slide Data
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638175955621403317
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\HeroCarousel\Carousel Data.yml
+ID: "26aa37c5-3ec1-418e-9842-a3b1a938c8f5"
+Parent: "3a9aef2b-bb55-5719-a5f8-13f8caeeb422"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/HeroCarousel/Carousel Data
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638175955621414392
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\HeroCarousel\__Standard Values.yml
+ID: "2e28a014-39eb-53f7-b579-0da44621b500"
+Parent: "3a9aef2b-bb55-5719-a5f8-13f8caeeb422"
+Template: "3a9aef2b-bb55-5719-a5f8-13f8caeeb422"
+Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/HeroCarousel/__Standard Values
+Signature: +LdO7lCDZ0EHlc3DURWkJGWI+Q6dd0NUpNtDDuGUDcQ=
+Modified: 638175955621794724
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Rendering Parameters\Base Rendering Parameters\Base Styling\__Standard Values.yml
+ID: "7c871351-28a5-42e8-932a-052618547dd6"
+Parent: "8ac52852-e0fe-4c29-8fea-09ede899403e"
+Template: "8ac52852-e0fe-4c29-8fea-09ede899403e"
+Path: /sitecore/templates/Project/PLAY/Rendering Parameters/Base Rendering Parameters/Base Styling/__Standard Values
+Signature: oJ53z3+NXNPkRPncgIhapO4ARZg0Izn5lUPHvdMFJv4=
+Modified: 638175688324328890
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Rendering Parameters\Base Rendering Parameters\Base Styling and Grid\__Standard Values.yml
+ID: "cbb8008b-0063-4229-805e-c4993b258ceb"
+Parent: "7dd20ecb-6ac1-49ed-a6e2-c5d5327a0833"
+Template: "7dd20ecb-6ac1-49ed-a6e2-c5d5327a0833"
+Path: /sitecore/templates/Project/PLAY/Rendering Parameters/Base Rendering Parameters/Base Styling and Grid/__Standard Values
+Signature: +FjM2aKMcB9Zk7dnKmR2gT6A+BR9A1ARDiGzqs7goGQ=
+Modified: 638175688324128535
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Rendering Parameters\FEAASComponent\Fields\FEAASComponentHTML.yml
+ID: "3e1d82db-024b-4f31-a89f-ac012e9941ea"
+Parent: "0a875884-eeec-4165-8603-b21eb47a0c96"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/Rendering Parameters/FEAASComponent/Fields/FEAASComponentHTML
+Signature: z5SVQqBMZPmn9j8lOAgAcQwmLWt9E+pmcjRk9kgCPUw=
+Modified: 638175688324741793
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner\Content\BackgroundImage.yml
+ID: "47fd91ea-1825-442d-9373-7c5c805830c8"
+Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/BackgroundImage
+Signature: vKM4qhK1w9/eo5Q07Z0jPZ+cxAbesQTrAaztNmtRgso=
+Modified: 638176821718047020
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner\Content\BannerType.yml
+ID: "71415def-af8c-4e49-9ec7-7abab3b5ff6a"
+Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/BannerType
+Signature: P3QabIZS7kJ9xE67KCfWel+qwCuHZu8+zUV818GX6lk=
+Modified: 638176821718037026
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner\Content\CTAFlag.yml
+ID: "0ce13285-e8c1-4894-81d8-8d80beddc675"
+Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/CTAFlag
+Signature: zFykxKbouW/5Lr6oITKZqJk0SR/Syst3o5iUZPn7Z0w=
+Modified: 638176821718037026
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner\Content\CTALink.yml
+ID: "43736d85-57c3-4220-8972-9d4759c156ff"
+Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/CTALink
+Signature: mypWiw/CaavbsFZkQkr3Ew1O4ltBr9K2J8yFI4usYZI=
+Modified: 638176821718017017
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner\Content\CTAText.yml
+ID: "df08957b-e019-4862-a95f-707922cc2b17"
+Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/CTAText
+Signature: CS+et9Yt47GWTrRaHAhd4ibZ9MeOxuwPmm8BkDWE4F8=
+Modified: 638176821718007015
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner\Content\CTAType.yml
+ID: "71dcee88-aeba-40df-891b-6e85101bb19b"
+Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/CTAType
+Signature: cgmObfvtWIbxONDKCeCEaxIGTCiaMrhsxge51CwriuI=
+Modified: 638176821718027017
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner\Content\SubTitle.yml
+ID: "52538d72-9bea-455f-8707-7a81d0a53508"
+Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/SubTitle
+Signature: oD/p7YUnOqkpNkqLr7juywP80CnpMijcWWQ/rmyCdnU=
+Modified: 638176821717996974
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner\Content\Title.yml
+ID: "0b0ec71f-866d-42f1-940d-905d676de684"
+Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/Title
+Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
+Modified: 638176821717991939
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\BannerCategory\Banner\Content\CTAType.yml
+ID: "e8866718-f520-4f6c-b8a8-aded5c63eae3"
+Parent: "5f1378e0-dc5b-4bad-8942-d86969b20ec0"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner/Content/CTAType
+Signature: FHp+cnPFpldwEwERPbzNZ8QGJ0GKpTNj6BfBPTmOEqA=
+Modified: 638176821718129094
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\BannerCategory\Banner\Content\Description.yml
+ID: "3861009c-90e9-4484-94ac-e9ce5c9bb0d9"
+Parent: "5f1378e0-dc5b-4bad-8942-d86969b20ec0"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner/Content/Description
+Signature: 8UhhSd+Cy56zL1fS+MXXl/ayIJCtgeH/56IlShEbUBI=
+Modified: 638176821718109124
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\BannerCategory\Banner List\Banners\Banners.yml
+ID: "eb83c82e-5bd7-4174-9995-ca3351ea2f53"
+Parent: "a505d322-14ed-475f-aff2-b07b12131249"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner List/Banners/Banners
+Signature: LL52ujnBeKkZHy4hAwD7O/1OZEILe1f8WERaoRTpxh0=
+Modified: 638176821718159088
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\BannerCategory\Banner List\Banners\BannerTitle.yml
+ID: "f4f51284-54e4-4804-8bcc-103fb0cea3ca"
+Parent: "a505d322-14ed-475f-aff2-b07b12131249"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner List/Banners/BannerTitle
+Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
+Modified: 638176821718149160
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\Blog\Data\author.yml
+ID: "53c6dbd6-739a-457a-b2d5-b248d9321690"
+Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/author
+Signature: dmfVdyN5XYJv8lkaRSmKPh/ti8w3g7jRNeliHdWwIdA=
+Modified: 638175955621434516
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\Blog\Data\blogCategoryList.yml
+ID: "6c0dbf9c-6b79-426f-9842-39ec20e9ba0b"
+Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/blogCategoryList
+Signature: PwQW00R1S0nFloi4Im4peH4PtjDf63cY+td5zcIESVU=
+Modified: 638179412772138786
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\Blog\Data\blogimages.yml
+ID: "1670a234-cf87-431c-8264-548949417903"
+Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/blogimages
+Signature: h5KAjAedWWQUMK/3wM3LbFKu79Bz0KJtfBuOB+xShRw=
+Modified: 638179412771838795
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\Blog\Data\comment.yml
+ID: "d38f4785-8c9d-4ee7-ae06-64ab2946f5be"
+Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/comment
+Signature: oD/p7YUnOqkpNkqLr7juywP80CnpMijcWWQ/rmyCdnU=
+Modified: 638175955621454592
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\Blog\Data\ctaLink.yml
+ID: "01f53240-7eea-4dfe-859f-9387b216b8de"
+Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/ctaLink
+Signature: z86I66hME8XjpzPK1K7laegF0sZW/dD8It1ElvVheR8=
+Modified: 638175955621505120
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\Blog\Data\ctaText.yml
+ID: "6a6ae7eb-51e0-4a2c-8331-e71c5c0cf763"
+Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/ctaText
+Signature: +AeWDlIvOMBNNCBd7/t8GVSYgIHL4SUQcPXvukjv/sg=
+Modified: 638175955621495110
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\Blog\Data\date.yml
+ID: "3b32ddd8-cba3-4f47-8e51-00d5afbab3d4"
+Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/date
+Signature: j2/0TNYu4pdWhL99MY//EC7ypgxAiRvryiXNrCXn1Vo=
+Modified: 638175955621444595
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\Blog\Data\description.yml
+ID: "dee18293-2839-4fcc-bc8f-e2aba1882f15"
+Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/description
+Signature: 5HKU97HdccTw5KHLo1/JHAhMHbOe23ZNZU9bVWt7pbE=
+Modified: 638175955621484586
+---
+File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\Blog\Data\postType.yml
 ID: "8fd5f032-4da3-4422-9f8b-2476f85b346d"
 Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
@@ -1144,6 +1441,33 @@ Signature: hB/fISIT55VjG5j0pHD/aeOI7VIl41p+tghJ4FH8KKI=
 Modified: 638175955621564212
 ---
 File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog Detail\BlogDetail\Detail Page\Description.yml
+ID: "b2482950-04a1-433b-bb34-b27b64ee63c0"
+Parent: "6653e4a4-6288-4ec5-bb14-e71bac437f2b"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/BlogDetail/Detail Page/Description
+Signature: YM0yHDA94dQGC003oF+RYuYRVyr5fHs7400PKDrYi8s=
+Modified: 638180097025430241
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog Detail\BlogDetail\Detail Page\Image.yml
+ID: "0ed1b546-4713-470c-bccd-2c02e3d0dede"
+Parent: "6653e4a4-6288-4ec5-bb14-e71bac437f2b"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/BlogDetail/Detail Page/Image
+Signature: L1NVOt2se2CZxw/PltHOyXB1QCSLHcRLb7im9cPnaEc=
+Modified: 638180097025385141
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog Detail\BlogDetail\Detail Page\Title.yml
+ID: "599645ec-e5c9-4b25-a0eb-8c482ecca83e"
+Parent: "6653e4a4-6288-4ec5-bb14-e71bac437f2b"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/BlogDetail/Detail Page/Title
+Signature: tN/SqP/BaZsH2eeQF5dKLXCqA8kyG8MzRIstp7EmGCI=
+Modified: 638180097025420170
+---
+File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer CopyRight\FooterCopyrightText.yml
 ID: "a9b7ee6b-d85f-4cff-aa25-55367f6ad240"
 Parent: "6c0fe1bb-2ff7-49d9-994b-232064f73092"
@@ -1153,130 +1477,31 @@ Signature: igfARzHCkfRE3ZsNGfogjw1VnePmKxREQ10ml31eeho=
 Modified: 638176777970247221
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Data\FooterCardIcon.yml
-ID: "823401c6-e4e6-4222-8081-7f0be37814e9"
-Parent: "104c7e92-031b-43fc-943a-3e48204541b0"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Data/FooterCardIcon
-Signature: 1RSDjNqMGcgwhKnH65mNzYg6NoZCRXD+QdhVOUp7G5E=
-Modified: 638176777970209900
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY.yml
+ID: "348162cf-d211-43b5-a745-dc5c8f62d677"
+Parent: "825b30b4-b40b-422e-9920-23a1b6bda89c"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/PLAY
+Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
+Modified: 638175688320654530
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Data\FooterDescription.yml
-ID: "c150c562-a78c-4daa-8dfd-1a7224717cec"
-Parent: "104c7e92-031b-43fc-943a-3e48204541b0"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Data/FooterDescription
-Signature: 8UhhSd+Cy56zL1fS+MXXl/ayIJCtgeH/56IlShEbUBI=
-Modified: 638176777970199900
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Data\FooterLogo.yml
-ID: "e400fa72-bb35-4305-8597-f7dc57712cc0"
-Parent: "104c7e92-031b-43fc-943a-3e48204541b0"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Data/FooterLogo
-Signature: o5kQHj2LqHoVkZhqX1xS5Mg+YqEb1hHTOfaXuVxZdhI=
-Modified: 638176777970189871
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Navigation\Footer Navigation Details\NavigationName.yml
-ID: "b6484b56-c890-4d42-8a53-66b4880ff7a3"
-Parent: "690391c8-9f5f-4448-8c9e-31ecd5545c54"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Navigation/Footer Navigation Details/NavigationName
-Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
-Modified: 638176777970297223
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Payment\Footer Card Details\Icon.yml
-ID: "e783e9f6-5945-4bdc-bf02-c101dbd929f7"
-Parent: "33fe95e3-a277-485e-aeb9-973db30bc9c6"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Payment/Footer Card Details/Icon
-Signature: xWl7BJsd+ad/CqOMbEP2Y6ayNhWQ2lSz6/YyNyxncGc=
-Modified: 638176777970312287
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Social Media\Social Media Detials\IconClass.yml
-ID: "45ddafe9-d8a1-4bc5-90e6-b5cdaee42325"
-Parent: "07b2ca97-183e-4fbf-9ebf-45d3a5fb2386"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Social Media/Social Media Detials/IconClass
-Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
-Modified: 638176777970322372
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Social Media\Social Media Detials\Link.yml
-ID: "f20c8297-cfd3-4015-aad9-61168cf21832"
-Parent: "07b2ca97-183e-4fbf-9ebf-45d3a5fb2386"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Social Media/Social Media Detials/Link
-Signature: M7wfPP7IbS8Dc5Y74ynBBDu4jJ9qTeaWoOZ5cT3VRSc=
-Modified: 638176777970332369
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\HeroCarousel\Carousel Data\Slides.yml
-ID: "35f22051-5d55-4d35-b8b6-54e897b83dc5"
-Parent: "26aa37c5-3ec1-418e-9842-a3b1a938c8f5"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/HeroCarousel/Carousel Data/Slides
-Signature: YKWrmVTyl1SwbrCAD4xn7H0QyaekWKGuAAvXRegeUa0=
-Modified: 638175955621757623
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Page Design Folder.yml
-ID: "a58ef6da-619e-4688-bb21-363038944569"
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Headless Site.yml
+ID: "507b2363-3200-4cea-b238-3045731ba6a5"
 Parent: "348162cf-d211-43b5-a745-dc5c8f62d677"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/Page Design Folder
-Signature: 59deRYVUEb0OZzWz5ukd4rsmrrsG5QR++HO2nzyDwr4=
-Modified: 638175688321119211
+Path: /sitecore/templates/Project/PLAY/Headless Site
+Signature: LdKqk259nIyFeEQFNRFmcyx3iXDUSlCncsN/NI+/IxI=
+Modified: 638175688320780063
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Partial Designs.yml
-ID: "edd70716-2cb0-4c84-86be-1ad37a4c2c21"
-Parent: "348162cf-d211-43b5-a745-dc5c8f62d677"
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Rendering Parameters\PLAY Styling and Grid.yml
+ID: "742d06b0-3e34-4e15-bbac-fa2623268d96"
+Parent: "98951a71-995e-4a47-bdaa-b17671387121"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/Partial Designs
-Signature: Fo4Z+IU1Cg2y/z64fE6wd+d45HC8KOfhbXkAWPUwQI4=
-Modified: 638175688321492051
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\JSS Settings\__Standard Values.yml
-ID: "016a0a40-4ccb-47a9-83b9-8dabb97ef2f2"
-Parent: "8e7f4f7d-8ac7-435a-bb13-8212313c98d4"
-Template: "8e7f4f7d-8ac7-435a-bb13-8212313c98d4"
-Path: /sitecore/templates/Project/PLAY/JSS Settings/__Standard Values
-Signature: PvfL8TVH8oRd5lh+cDLvUlghCPI9hsUlU/rExNRLP98=
-Modified: 638175688322058081
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog Detail.yml
-ID: "aa48895b-d874-489b-9cf6-40867797119c"
-Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail
-Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
-Modified: 638176821717819634
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel.yml
-ID: "b2e1fbf3-f92d-4fac-aa55-990ef4c640e4"
-Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel
-Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
-Modified: 638175955621151408
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Partial Design Folder\__Standard Values.yml
-ID: "599bd7d0-077f-48c8-ace7-e18d3ea41063"
-Parent: "6aa1ece5-d4a4-4458-a534-e6543863e341"
-Template: "6aa1ece5-d4a4-4458-a534-e6543863e341"
-Path: /sitecore/templates/Project/PLAY/Partial Design Folder/__Standard Values
-Signature: pLBLfZpxfiBsZoitawqdYsoPenOOs+YG/8lTLfhsXfM=
-Modified: 638175688323026190
+Path: /sitecore/templates/Project/PLAY/Rendering Parameters/PLAY Styling and Grid
+Signature: Wg3E3c/eC1Q0muvnoGaRwL2F6OXxRbcbrGhrBNXARtY=
+Modified: 638175688323573077
 ---
 File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Rendering Parameters\PLAY Styling.yml
@@ -1288,6 +1513,33 @@ Signature: uh2Im5Hzh5b0NML0MDW8uo2jdlmfnHjvbAKfcMCTQWE=
 Modified: 638175688323672852
 ---
 File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Background Type\Background Type Folder.yml
+ID: "74aa146b-f8c7-45ee-9e51-bdd6300f76d3"
+Parent: "59c0d21e-d5db-43b1-bfa3-9e3f6b715a6a"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Background Type/Background Type Folder
+Signature: hHcRPYwTRbNnnxMytOBAb+xXidWJm6TH+3HsjkIVNZw=
+Modified: 638175955621186525
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Background Type\Background.yml
+ID: "645317fe-3c05-4cde-93ec-8a1989204d29"
+Parent: "59c0d21e-d5db-43b1-bfa3-9e3f6b715a6a"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Background Type/Background
+Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
+Modified: 638175955621176543
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner Branch.yml
+ID: "7921e700-6073-4fc9-b864-7d2c97f410cc"
+Parent: "f6c997e4-e883-4152-97a7-a2eaa1b12a00"
+Template: "35e75c72-4985-4e09-88c3-0eac6cd1e64f"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner Branch
+Signature: FO1lEvstlRnAD0PNXyQPHloO9+ZZs9dM+w/uIMriel0=
+Modified: 638176821717854367
+---
+File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner Folder.yml
 ID: "3b706afe-21af-4121-8163-a9b7fa13a299"
 Parent: "f6c997e4-e883-4152-97a7-a2eaa1b12a00"
@@ -1295,6 +1547,51 @@ Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
 Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner Folder
 Signature: 1jWp7C9AQHvqTZXVCFim8PdVY2vw2/E7aadnRnKfG5A=
 Modified: 638176821717842056
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner List.yml
+ID: "4f5bd5b4-cdf8-4909-8dfa-8d9b1949c8c8"
+Parent: "f6c997e4-e883-4152-97a7-a2eaa1b12a00"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner List
+Signature: zAwLbrykxttbG3n+8nWE7X7DRoKybhsOz5bOlxJxu0E=
+Modified: 638176821717864447
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner.yml
+ID: "61be6f7d-3a37-45f8-924f-f8fedc8f7a05"
+Parent: "f6c997e4-e883-4152-97a7-a2eaa1b12a00"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner
+Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
+Modified: 638176821717842056
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\BannerCategory\Banner List.yml
+ID: "72b37029-b132-4e64-bd9e-94eeb0d7fbdc"
+Parent: "d70cda33-90df-4f03-922f-f43aecbf7758"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner List
+Signature: mj8CIChffklPnU/e7vXe/OsDpjJLu9Yym3D9BWMB6n4=
+Modified: 638176821717884475
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\BannerCategory\Banner.yml
+ID: "84d339d4-3ab1-40d4-b24a-7ec20138d6fc"
+Parent: "d70cda33-90df-4f03-922f-f43aecbf7758"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner
+Signature: WRwpzGvk1xzmfAtvjr//iFOvMtotCXSHD1vsBfh5lyk=
+Modified: 638176821717874427
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\Blog.yml
+ID: "0b8a5ed2-fb6c-412f-a64b-cbeac7e3c3af"
+Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog
+Signature: QiYTlx6P4jHWxdqX1G6WfgHyI7vIJTLbq4+CmjauepU=
+Modified: 638175955621196547
 ---
 File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\BlogCategory.yml
@@ -1315,220 +1612,58 @@ Signature: MS/0JCK4/+ABbjdd27VYE0Ohk/iANnVqsBZlCo2SSdA=
 Modified: 638175955621218136
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Folder.yml
-ID: "8212731d-f3a6-4098-b22b-d50940643b6d"
-Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\BlogImage.yml
+ID: "836b74eb-d58b-42bd-8836-1b79eba49b5c"
+Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Folder
-Signature: hhqctUjyjSC972jh17J/A2+aZDcAUmwRpYVdP/ycvVY=
-Modified: 638176777970079911
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogImage
+Signature: Gnnrf2O7RfDrYiw6Mc8AJYZ/i88drgPkye0f4GV2kuY=
+Modified: 638175955621228146
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Info.yml
-ID: "c47023f3-27d1-4a7d-a598-b04e53973ad6"
-Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\BlogList.yml
+ID: "c1501a98-ec27-40e6-87db-9a405adf61fa"
+Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info
-Signature: issZmBNi47BdTgwFG5iOW9GQCDJbYMjOflvTQH2zAzI=
-Modified: 638176777970089906
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogList
+Signature: mj8CIChffklPnU/e7vXe/OsDpjJLu9Yym3D9BWMB6n4=
+Modified: 638175955621238147
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\Carousel Slide.yml
-ID: "13569147-2edd-4482-9bfe-9b3f6a589c92"
-Parent: "b2e1fbf3-f92d-4fac-aa55-990ef4c640e4"
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\BlogType.yml
+ID: "6b1aee01-9742-4c9c-a4e1-41c8dc4f4c2e"
+Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/Carousel Slide
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogType
+Signature: Kt93N4C8FFTCYp12rLoQ3EEpgbfRiPG0dI39iByUPKg=
+Modified: 638175955621248134
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\ImageList.yml
+ID: "3ac3e39c-768f-4bd8-8265-9162a307cffb"
+Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/ImageList
+Signature: /WyMXm182wjzn2f30iz/7d0W2wQPTo+rsvpEXbiAGfM=
+Modified: 638175955621258192
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\PostType.yml
+ID: "8b22419e-28b8-48d9-8519-4e9dc195e77f"
+Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/PostType
+Signature: UEfqzRYOaawNE6f4NBSq+PmRm4hNeBh0HXtWCWfB4a8=
+Modified: 638175955621268183
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog Detail\Blog Detail.yml
+ID: "fbe405da-7ac1-4d87-97a8-0abcb416242d"
+Parent: "aa48895b-d874-489b-9cf6-40867797119c"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/Blog Detail
 Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
-Modified: 638175955621278195
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\HeroCarousel.yml
-ID: "3a9aef2b-bb55-5719-a5f8-13f8caeeb422"
-Parent: "b2e1fbf3-f92d-4fac-aa55-990ef4c640e4"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/HeroCarousel
-Signature: K4Jab91M/XGkkS7tLIIc8O/2/p3Jf5Dvtwpkzs/BlOw=
-Modified: 638175955621288213
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Rendering Parameters\PLAY Styling\__Standard Values.yml
-ID: "63878fd4-39e0-40ea-b01a-c64294587e4c"
-Parent: "3c13bf6c-32dd-4f40-bcc9-208b47f21bb5"
-Template: "3c13bf6c-32dd-4f40-bcc9-208b47f21bb5"
-Path: /sitecore/templates/Project/PLAY/Rendering Parameters/PLAY Styling/__Standard Values
-Signature: rKIkb0eGpT2DlQ6OFowIcQEpfVzn0WBmVTlWex2Tpg0=
-Modified: 638175688325085155
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\Rendering Parameters\PLAY Styling and Grid\__Standard Values.yml
-ID: "28609a9b-97ad-425f-80cd-c4092a75c86a"
-Parent: "742d06b0-3e34-4e15-bbac-fa2623268d96"
-Template: "742d06b0-3e34-4e15-bbac-fa2623268d96"
-Path: /sitecore/templates/Project/PLAY/Rendering Parameters/PLAY Styling and Grid/__Standard Values
-Signature: kj7fAxaTnt8iyW53nmNg2c5owrFsMYPypWlCCY3h2eg=
-Modified: 638175688324904424
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\BannerCategory\Banner\Content.yml
-ID: "5f1378e0-dc5b-4bad-8942-d86969b20ec0"
-Parent: "84d339d4-3ab1-40d4-b24a-7ec20138d6fc"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner/Content
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638176821717954421
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\BannerCategory\Banner List\Banners.yml
-ID: "a505d322-14ed-475f-aff2-b07b12131249"
-Parent: "72b37029-b132-4e64-bd9e-94eeb0d7fbdc"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner List/Banners
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638176821717961896
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\ImageList\Data.yml
-ID: "74bdead0-ecaf-4fb2-a85b-4085f9998875"
-Parent: "3ac3e39c-768f-4bd8-8265-9162a307cffb"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/ImageList/Data
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638175955621378187
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\PostType\Data.yml
-ID: "b853b769-25ce-4ac7-9ab9-8f1452ee636e"
-Parent: "8b22419e-28b8-48d9-8519-4e9dc195e77f"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/PostType/Data
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638175955621393252
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Links\Link Details.yml
-ID: "32f64bf6-c84b-4204-9909-8c209412756a"
-Parent: "619ec087-f367-40cb-9bee-25920c1b8a5c"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Links/Link Details
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638176777970159891
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Navigation\Footer Navigation Details.yml
-ID: "690391c8-9f5f-4448-8c9e-31ecd5545c54"
-Parent: "d62efcd7-f1eb-49e2-904b-0bc5b252b133"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Navigation/Footer Navigation Details
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638176777970169896
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\HeroCarousel\Carousel Data.yml
-ID: "26aa37c5-3ec1-418e-9842-a3b1a938c8f5"
-Parent: "3a9aef2b-bb55-5719-a5f8-13f8caeeb422"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/HeroCarousel/Carousel Data
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638175955621414392
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\HeroCarousel\__Standard Values.yml
-ID: "2e28a014-39eb-53f7-b579-0da44621b500"
-Parent: "3a9aef2b-bb55-5719-a5f8-13f8caeeb422"
-Template: "3a9aef2b-bb55-5719-a5f8-13f8caeeb422"
-Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/HeroCarousel/__Standard Values
-Signature: +LdO7lCDZ0EHlc3DURWkJGWI+Q6dd0NUpNtDDuGUDcQ=
-Modified: 638175955621794724
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner\Content\CTALink.yml
-ID: "43736d85-57c3-4220-8972-9d4759c156ff"
-Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/CTALink
-Signature: mypWiw/CaavbsFZkQkr3Ew1O4ltBr9K2J8yFI4usYZI=
-Modified: 638176821718017017
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner\Content\CTAText.yml
-ID: "df08957b-e019-4862-a95f-707922cc2b17"
-Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/CTAText
-Signature: CS+et9Yt47GWTrRaHAhd4ibZ9MeOxuwPmm8BkDWE4F8=
-Modified: 638176821718007015
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner\Content\CTAType.yml
-ID: "71dcee88-aeba-40df-891b-6e85101bb19b"
-Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/CTAType
-Signature: cgmObfvtWIbxONDKCeCEaxIGTCiaMrhsxge51CwriuI=
-Modified: 638176821718027017
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Banner\Banner\Content\Description.yml
-ID: "e90ca7ff-8416-449c-8372-98d865400789"
-Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/Description
-Signature: eHVEFm2+NBoqzb4H+s/qBmZeC6d4bDvz66g0CedWt78=
-Modified: 638176821718007015
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\BannerCategory\Banner\Content\CTAType.yml
-ID: "e8866718-f520-4f6c-b8a8-aded5c63eae3"
-Parent: "5f1378e0-dc5b-4bad-8942-d86969b20ec0"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner/Content/CTAType
-Signature: FHp+cnPFpldwEwERPbzNZ8QGJ0GKpTNj6BfBPTmOEqA=
-Modified: 638176821718129094
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\BannerCategory\Banner\Content\Description.yml
-ID: "3861009c-90e9-4484-94ac-e9ce5c9bb0d9"
-Parent: "5f1378e0-dc5b-4bad-8942-d86969b20ec0"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner/Content/Description
-Signature: 8UhhSd+Cy56zL1fS+MXXl/ayIJCtgeH/56IlShEbUBI=
-Modified: 638176821718109124
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\BannerCategory\Banner\Content\SubTitle.yml
-ID: "a179b108-27f8-47c7-b885-c923324511b1"
-Parent: "5f1378e0-dc5b-4bad-8942-d86969b20ec0"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner/Content/SubTitle
-Signature: oD/p7YUnOqkpNkqLr7juywP80CnpMijcWWQ/rmyCdnU=
-Modified: 638176821718099113
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\BannerCategory\Banner\Content\Title.yml
-ID: "55491cfc-5cc9-41de-b3b1-7f5d3aa9ccfc"
-Parent: "5f1378e0-dc5b-4bad-8942-d86969b20ec0"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner/Content/Title
-Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
-Modified: 638176821718099113
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\Blog\Data\date.yml
-ID: "3b32ddd8-cba3-4f47-8e51-00d5afbab3d4"
-Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/date
-Signature: j2/0TNYu4pdWhL99MY//EC7ypgxAiRvryiXNrCXn1Vo=
-Modified: 638175955621444595
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\Blog\Data\description.yml
-ID: "dee18293-2839-4fcc-bc8f-e2aba1882f15"
-Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/description
-Signature: 5HKU97HdccTw5KHLo1/JHAhMHbOe23ZNZU9bVWt7pbE=
-Modified: 638175955621484586
+Modified: 638180097025278572
 ---
 File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog\Blog\Data\heading.yml
@@ -1550,108 +1685,36 @@ Modified: 638179412772128781
 ---
 File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog Detail\Blog Detail\Detail Page\Date.yml
-ID: "bc123ba0-350f-495d-a0df-a0249442ce67"
-Parent: "6653e4a4-6288-4ec5-bb14-e71bac437f2b"
+ID: "009c22b8-63f2-4429-9198-c05ee4e65ab7"
+Parent: "fba65b78-91c8-463b-bf03-cf6a5e43d1d7"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
 Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/Blog Detail/Detail Page/Date
-Signature: VEauE9dZPsHwQIMB3iaFcaRUY1qwSaNFGzq8djOYinM=
-Modified: 638179412772068798
+Signature: WNHh5HvzOnoIEFkOy8leCQHE/5Oy1JIXEMDNvs44FEk=
+Modified: 638180097025353737
 ---
 File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog Detail\Blog Detail\Detail Page\Description.yml
-ID: "b2482950-04a1-433b-bb34-b27b64ee63c0"
-Parent: "6653e4a4-6288-4ec5-bb14-e71bac437f2b"
+ID: "6b4d78f9-f5d9-4628-b628-7258768d7045"
+Parent: "fba65b78-91c8-463b-bf03-cf6a5e43d1d7"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
 Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/Blog Detail/Detail Page/Description
-Signature: YM0yHDA94dQGC003oF+RYuYRVyr5fHs7400PKDrYi8s=
-Modified: 638179412772068798
+Signature: WUcYzD9Od5W3exTXkIuxbXcHbAp3CwqTPbX6fiKKVWk=
+Modified: 638180097025363729
 ---
 File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog Detail\Blog Detail\Detail Page\Image.yml
-ID: "0ed1b546-4713-470c-bccd-2c02e3d0dede"
-Parent: "6653e4a4-6288-4ec5-bb14-e71bac437f2b"
+ID: "12f62101-7a23-40ab-bba8-a1a2c1732e85"
+Parent: "fba65b78-91c8-463b-bf03-cf6a5e43d1d7"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
 Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/Blog Detail/Detail Page/Image
-Signature: L1NVOt2se2CZxw/PltHOyXB1QCSLHcRLb7im9cPnaEc=
-Modified: 638179412772068798
+Signature: xWl7BJsd+ad/CqOMbEP2Y6ayNhWQ2lSz6/YyNyxncGc=
+Modified: 638180097025333678
 ---
 File: |
   C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Blog Detail\Blog Detail\Detail Page\Title.yml
-ID: "599645ec-e5c9-4b25-a0eb-8c482ecca83e"
-Parent: "6653e4a4-6288-4ec5-bb14-e71bac437f2b"
+ID: "8bccc5d5-0eec-43a7-a872-7083641349e8"
+Parent: "fba65b78-91c8-463b-bf03-cf6a5e43d1d7"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
 Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/Blog Detail/Detail Page/Title
-Signature: tN/SqP/BaZsH2eeQF5dKLXCqA8kyG8MzRIstp7EmGCI=
-Modified: 638179412772068798
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Instagram\Footer Instagram\Image.yml
-ID: "d0500c4f-864f-4c54-a933-fa4b4e06b982"
-Parent: "ff8d6cce-91ba-484a-9fc5-72fe63392dfb"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Instagram/Footer Instagram/Image
-Signature: xWl7BJsd+ad/CqOMbEP2Y6ayNhWQ2lSz6/YyNyxncGc=
-Modified: 638176777970277223
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Links\Link Details\HideInFooter.yml
-ID: "50e9c68e-711a-47f9-82c8-58b51efa89e3"
-Parent: "32f64bf6-c84b-4204-9909-8c209412756a"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Links/Link Details/HideInFooter
-Signature: qwPXKOJVjXOK2JTloHcBeKb7/2SaWshN+YLviRQIcqE=
-Modified: 638176777970297223
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Links\Link Details\LinkUrl.yml
-ID: "5bc38ca3-1dff-4fd9-ac6e-0225395d8d17"
-Parent: "32f64bf6-c84b-4204-9909-8c209412756a"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Links/Link Details/LinkUrl
-Signature: WZt6bz7i5WM+vkFz7Vk96k2gq+hqzKVe+ZrqdNnwjW0=
-Modified: 638176777970287223
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Footer\Footer Navigation\Footer Navigation Details\FooterNavigationList.yml
-ID: "56737bb8-0e28-4485-95c7-477f9d4d9e5f"
-Parent: "690391c8-9f5f-4448-8c9e-31ecd5545c54"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Navigation/Footer Navigation Details/FooterNavigationList
-Signature: kTY8hP5c28yhMoB5tjiGmCE82Jjlh5gMxY4YIUDl0cU=
-Modified: 638176777970297223
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\Carousel Slide\Slide Data\SubTitle.yml
-ID: "56e48e65-6acf-4608-abe4-dccf91a122c5"
-Parent: "e82b0fbf-ddc2-425f-9805-b5a7b18870e5"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/Carousel Slide/Slide Data/SubTitle
-Signature: oD/p7YUnOqkpNkqLr7juywP80CnpMijcWWQ/rmyCdnU=
-Modified: 638175955621679328
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\Carousel Slide\Slide Data\Tag1.yml
-ID: "6a82472b-646c-4586-b551-0e3f2d3ac617"
-Parent: "e82b0fbf-ddc2-425f-9805-b5a7b18870e5"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/Carousel Slide/Slide Data/Tag1
-Signature: dmfVdyN5XYJv8lkaRSmKPh/ti8w3g7jRNeliHdWwIdA=
-Modified: 638175955621649322
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\Carousel Slide\Slide Data\Tag2.yml
-ID: "9f500056-5dcc-4391-9207-60ef253f90f0"
-Parent: "e82b0fbf-ddc2-425f-9805-b5a7b18870e5"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/Carousel Slide/Slide Data/Tag2
-Signature: 3W4ugp2bky4+Cs4wm1RtfPqsxXhIl+GGoz+9gKdxMt0=
-Modified: 638175955621659325
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\templates\PLAY\OHA\Hero Carousel\Carousel Slide\Slide Data\Title.yml
-ID: "ac741893-1fce-42d6-a37c-2adb0b72c651"
-Parent: "e82b0fbf-ddc2-425f-9805-b5a7b18870e5"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/Carousel Slide/Slide Data/Title
-Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
-Modified: 638175955621669325
+Signature: 6qX9mstQnwRXVUPALkh4nVMQcVn3lo+fSBdGfpceNGI=
+Modified: 638180097025363729
