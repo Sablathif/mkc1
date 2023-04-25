@@ -1,745 +1,7 @@
 ﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Vendor\Speakers.yml
-ID: "7cb01f1d-cbde-499d-89a5-75b2ae913f71"
-Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
-Template: "49652eb6-f98e-4114-b46a-925b9815578a"
-Path: /sitecore/system/Modules/CMP/Config/Vendor/Speakers
-Signature: rVdaPYLqgjvinv4H0WISf7fMeN7RkcBq2aG1RwYIGng=
-Modified: 638175688211204447
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Session.yml
-ID: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
-Parent: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
-Template: "e022206a-3482-46c2-8ddf-2f1c2c6c7b69"
-Path: /sitecore/system/Modules/CMP/Config/Session
-Signature: Pu5I2KFJ3kdGaU1GML02d1j971Udq3U+/IEgtgyc1kk=
-Modified: 638175688200605784
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Sponsor.yml
-ID: "e073f9a4-6376-4922-9786-580050546c22"
-Parent: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
-Template: "e022206a-3482-46c2-8ddf-2f1c2c6c7b69"
-Path: /sitecore/system/Modules/CMP/Config/Sponsor
-Signature: rnKkiFquPSwuJbiwgFSywQUNQN0FWfvHu2xC2fINB8A=
-Modified: 638175688200952627
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Activity Type\Content-Name.yml
-ID: "c1c43e5c-76a5-4145-8484-8793b832dacd"
-Parent: "111484ef-745d-4c33-90ab-c6f7314623b6"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: "/sitecore/system/Modules/CMP/Config/Activity Type/Content-Name"
-Signature: pHwhu8nMAUSzcnORAZMEi1PgILJvNE5IwsrX61HQ/VE=
-Modified: 638175688201533067
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Advertisements\Content-Name.yml
-ID: "a6496777-eae2-448d-9477-525d7c29160e"
-Parent: "71302bf9-eecf-4592-aeb5-1cad23f716e5"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: "/sitecore/system/Modules/CMP/Config/Advertisements/Content-Name"
-Signature: noyoAJdmLd1friIJTN8G5AE5ZzaTbObsxB3ZWYW4UNE=
-Modified: 638175688201901836
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Audience\Content-Name.yml
-ID: "68a50479-cf74-4fd3-8b40-fa2724c00554"
-Parent: "8d310148-9ed3-4d12-b60e-154d0e044ef3"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: "/sitecore/system/Modules/CMP/Config/Audience/Content-Name"
-Signature: pHwhu8nMAUSzcnORAZMEi1PgILJvNE5IwsrX61HQ/VE=
-Modified: 638175688202520478
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Day\Name.yml
-ID: "c1473c50-406a-4cb5-94f0-7998f6e142ab"
-Parent: "c7d179b3-6775-4742-84d4-3aa8374173e4"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Day/Name
-Signature: 8x03+aYrlkcVIYTe6+e+Y0rMLxsXZYeFyRfuXnWF1yg=
-Modified: 638175688202906865
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\News\Excerpt.yml
-ID: "273fdf8f-4116-4dd1-9940-9fd569dbee29"
-Parent: "832af3f6-e535-46e6-8944-2d02523b4c0c"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/News/Excerpt
-Signature: q487BcHBVEBFvB1I0F+6ygYdQb7DXL4a9pVd3MzVEx0=
-Modified: 638175688203659847
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\News\Image.yml
-ID: "010cd32c-f991-433e-bbc1-b822f65f05ce"
-Parent: "832af3f6-e535-46e6-8944-2d02523b4c0c"
-Template: "1c18fef2-0603-4012-9c03-f9ed654854c4"
-Path: /sitecore/system/Modules/CMP/Config/News/Image
-Signature: wo+aL0RhrVl8ZP95pM2trd4aVJ0EE87EstTZElwL2yA=
-Modified: 638175688203781926
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Room\Description.yml
-ID: "ac7e3094-f026-4a9e-b4d4-dd51639e36ee"
-Parent: "135d8169-227b-4ef4-8bc6-504e29ace4d8"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Room/Description
-Signature: ghHf4EyaIpmkDaIzW+n8uVsqUTn/okGEtTUMaqPbNC4=
-Modified: 638175688204428341
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Room\Name.yml
-ID: "77561eac-42bc-404f-92d5-2d8d33cba7ee"
-Parent: "135d8169-227b-4ef4-8bc6-504e29ace4d8"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Room/Name
-Signature: d3tE2a1IsE4yx8WxWSdp237+JpFrVtm7fCBJt0jBtLE=
-Modified: 638175688204537491
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Session\Name.yml
-ID: "3172b355-8856-4159-92d7-479b6669a02a"
-Parent: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Session/Name
-Signature: /7piPPpu6GHAY3ElF2CkdxwtnLNckiGTUtfEsUDgOoc=
-Modified: 638175688205631906
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Session\Page Title.yml
-ID: "eb786459-50cd-43f7-989a-54b8a1da1453"
-Parent: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Session/Page Title
-Signature: bDQ2CffACzNhBp4u7ofsXI5sH4aTyAUBWs7VSOWKVQQ=
-Modified: 638175688205730495
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Session\Vendors.yml
-ID: "2e99700b-f21e-44e0-ba27-44f28a5460a0"
-Parent: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
-Template: "49652eb6-f98e-4114-b46a-925b9815578a"
-Path: /sitecore/system/Modules/CMP/Config/Session/Vendors
-Signature: XL3oOgCqbPmPKVYevpJeos+7kgptSO/07FdnmpWSa4Y=
-Modified: 638175688206374553
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Session Type\Content-Name.yml
-ID: "f56eb5ba-16e5-465d-9b96-64bb37132631"
-Parent: "c3268052-2132-4002-a063-31b99cc91bb8"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: "/sitecore/system/Modules/CMP/Config/Session Type/Content-Name"
-Signature: vA4zB94JiVOwQnPSa9UxL9GpkJvheAJIqxvA4zKZn1U=
-Modified: 638175688204876301
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Speaker\Image.yml
-ID: "05bae5cd-3bd5-48a4-8c5c-1c6d314f3661"
-Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
-Template: "1c18fef2-0603-4012-9c03-f9ed654854c4"
-Path: /sitecore/system/Modules/CMP/Config/Speaker/Image
-Signature: JUPx1YWZlzMKjmdFSdKLjob+dHiKOwOnWJwLM0qRf98=
-Modified: 638175688207373062
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Speaker\Instagram Profile Link.yml
-ID: "042538b9-4057-47c6-a094-1df752dc0d5f"
-Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Speaker/Instagram Profile Link
-Signature: p931yeUm+wkZy9Kh1o6JWEjxozqPZ5Rjg2DWq5rw8JA=
-Modified: 638175688207470837
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Speaker\Page Title.yml
-ID: "aa2c366a-742d-4496-b7de-3b465c7943f3"
-Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Speaker/Page Title
-Signature: ayHpCLdoLKelEwsyavHnVV5rPCbW39nmMJJZynOQuD4=
-Modified: 638175688208014215
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Speaker\Sessions.yml
-ID: "104b7632-7c8c-47fd-b9fd-3376095fceaf"
-Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
-Template: "49652eb6-f98e-4114-b46a-925b9815578a"
-Path: /sitecore/system/Modules/CMP/Config/Speaker/Sessions
-Signature: gyrkwZwE2JSq0jfxLhwUFhfeIzxtFugwkHLgWgWbEco=
-Modified: 638175688208102833
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Sponsor\Level.yml
-ID: "66e4e199-996c-48fc-a93a-11c0393a7891"
-Parent: "e073f9a4-6376-4922-9786-580050546c22"
-Template: "49652eb6-f98e-4114-b46a-925b9815578a"
-Path: /sitecore/system/Modules/CMP/Config/Sponsor/Level
-Signature: mu1d4QqxnJqMQlHKOc5WIXLdp1n2XX12fIP8+YWGSWs=
-Modified: 638175688208877379
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Sponsor\Name.yml
-ID: "c05c9718-092d-466c-953a-0bec65427db8"
-Parent: "e073f9a4-6376-4922-9786-580050546c22"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Sponsor/Name
-Signature: hapFUPVAPotjmp5Xe0Kxsnnlom3pU6EY+G3MqwcB7QQ=
-Modified: 638175688208966941
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Timeslot\Name.yml
-ID: "8df89b5c-b86a-47e4-b8e3-dfc37fa979ef"
-Parent: "4e9b9f13-7613-44c9-8402-2943fec94906"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Timeslot/Name
-Signature: cKh07x/ixDgjSb1O+sBt16PmHIO4AC1cFhaTBO5g1f8=
-Modified: 638175688210033114
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Vendor\ActivityType.yml
-ID: "159dc020-efda-49d9-8cab-a30cd1a82024"
-Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
-Template: "49652eb6-f98e-4114-b46a-925b9815578a"
-Path: /sitecore/system/Modules/CMP/Config/Vendor/ActivityType
-Signature: m3+Pc5xng9VB4gBWB1A7SRQMjshWNch3RFEPkmyoWY0=
-Modified: 638175688210189094
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Vendor\Name.yml
-ID: "61c7f341-dd00-4a94-b393-4d42e5e7204b"
-Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Vendor/Name
-Signature: oLUg/TVmQs3A/TymkoE2zjXyZg1wO8xB/08Arcc2Fy4=
-Modified: 638175688210896686
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Vendor\Page Title.yml
-ID: "26993423-cb43-48be-b618-155078ae560d"
-Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Vendor/Page Title
-Signature: ayHpCLdoLKelEwsyavHnVV5rPCbW39nmMJJZynOQuD4=
-Modified: 638175688211013300
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Vendor\Sessions.yml
-ID: "9e5fa708-9591-44d8-bcaf-7ef5335d61b8"
-Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
-Template: "49652eb6-f98e-4114-b46a-925b9815578a"
-Path: /sitecore/system/Modules/CMP/Config/Vendor/Sessions
-Signature: 8TNxOkI8y7tfVZPeF/2jhMwrxqmrloVJ4e9nTOkcn78=
-Modified: 638175688211114496
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Vendor\Twitter Profile Link.yml
-ID: "3547410a-e961-462c-8d19-4f208035789e"
-Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Vendor/Twitter Profile Link
-Signature: 9Z8NB9qaE4CaEqyfHR1BK/qcoV+bBqBc1gYiqGeav8M=
-Modified: 638175688211304460
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Venue\Image.yml
-ID: "99c20bde-f312-4d46-a882-c27a7e156aa7"
-Parent: "6a77256e-9fe0-487a-981b-8ed69d148db5"
-Template: "1c18fef2-0603-4012-9c03-f9ed654854c4"
-Path: /sitecore/system/Modules/CMP/Config/Venue/Image
-Signature: O+zr32ImTConGcTbtluLMIWqYdpIg1xxN0LRqQp1m0c=
-Modified: 638175688211755883
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Venue\Description.yml
-ID: "ea6fb9e6-7658-4a5e-9cc4-ccc43c0ca080"
-Parent: "6a77256e-9fe0-487a-981b-8ed69d148db5"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Venue/Description
-Signature: SUNseQV6cg9Vq9z0tm7Na2XdcLooBhUMksEObJ63wDI=
-Modified: 638175688211655882
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Speaker.yml
-ID: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
-Parent: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
-Template: "e022206a-3482-46c2-8ddf-2f1c2c6c7b69"
-Path: /sitecore/system/Modules/CMP/Config/Speaker
-Signature: mXRgiJTdITw00WAVvW+WLxRUGo0bITvrSA6I8qE0FqE=
-Modified: 638175688200842524
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Advertisements.yml
-ID: "71302bf9-eecf-4592-aeb5-1cad23f716e5"
-Parent: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
-Template: "e022206a-3482-46c2-8ddf-2f1c2c6c7b69"
-Path: /sitecore/system/Modules/CMP/Config/Advertisements
-Signature: wnbxUwfibPkdzYg8STvCUm+sSBxdZVBzItHonazFzVc=
-Modified: 638175688199881360
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Vendor.yml
-ID: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
-Parent: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
-Template: "e022206a-3482-46c2-8ddf-2f1c2c6c7b69"
-Path: /sitecore/system/Modules/CMP/Config/Vendor
-Signature: Qn9pyJ+F51Phlj9hYn8l1qxBiIHRS+gT+KT0N4/pbsU=
-Modified: 638175688201217618
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Day.yml
-ID: "c7d179b3-6775-4742-84d4-3aa8374173e4"
-Parent: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
-Template: "e022206a-3482-46c2-8ddf-2f1c2c6c7b69"
-Path: /sitecore/system/Modules/CMP/Config/Day
-Signature: KqWZ1T5Osgc53wrpbvL83FXqCFdJN4Q3Pafr89ApPIw=
-Modified: 638175688200071747
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Advertisements\Body.yml
-ID: "91a52270-396a-4f29-ba12-ccda08469ba1"
-Parent: "71302bf9-eecf-4592-aeb5-1cad23f716e5"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Advertisements/Body
-Signature: fusiCWPPjUu0d44o29tTEls0jfJEyl9++jGAvba4s+I=
-Modified: 638175688201807707
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\News.yml
-ID: "832af3f6-e535-46e6-8944-2d02523b4c0c"
-Parent: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
-Template: "e022206a-3482-46c2-8ddf-2f1c2c6c7b69"
-Path: /sitecore/system/Modules/CMP/Config/News
-Signature: azOAqt4RVs3sytRikbznWvYDx/DqYou232LwekRzrn8=
-Modified: 638175688200311256
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Advertisements\Image.yml
-ID: "e2cd46e5-7019-4331-a2fa-bd4feed5c635"
-Parent: "71302bf9-eecf-4592-aeb5-1cad23f716e5"
-Template: "1c18fef2-0603-4012-9c03-f9ed654854c4"
-Path: /sitecore/system/Modules/CMP/Config/Advertisements/Image
-Signature: xui7bL4B9E/gKT91xza1957T+M+0eqkKdSpbgjZOvkI=
-Modified: 638175688202097205
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Session Type.yml
-ID: "c3268052-2132-4002-a063-31b99cc91bb8"
-Parent: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
-Template: "e022206a-3482-46c2-8ddf-2f1c2c6c7b69"
-Path: /sitecore/system/Modules/CMP/Config/Session Type
-Signature: K8pb+4eahIuUcC2tVr+Gk6Z63muld0aXdkdk7op/4rk=
-Modified: 638175688200514174
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Day\Content-Name.yml
-ID: "f44178e4-c4f2-48cb-9ddb-ad401bfa5edc"
-Parent: "c7d179b3-6775-4742-84d4-3aa8374173e4"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: "/sitecore/system/Modules/CMP/Config/Day/Content-Name"
-Signature: H/LMVtG88ShNs378nZIX1cmgVuFQnW7TcWd17cBdpPA=
-Modified: 638175688202801492
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Testimony.yml
-ID: "6c1b5e29-4ace-483a-8a84-333ae995b126"
-Parent: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
-Template: "e022206a-3482-46c2-8ddf-2f1c2c6c7b69"
-Path: /sitecore/system/Modules/CMP/Config/Testimony
-Signature: iTyYk++5F0vcugrDKo0eV9WqXTgJAOO10eclf1hHvYs=
-Modified: 638175688201043413
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\News\Content.yml
-ID: "881e3827-ec62-439d-8528-4a99fbd8e1ae"
-Parent: "832af3f6-e535-46e6-8944-2d02523b4c0c"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/News/Content
-Signature: ZgVgP2SzGQughwUsquihOmJs5F1uc1fj/QSmW8XWUp8=
-Modified: 638175688203569238
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Activity Type\Name.yml
-ID: "ad487508-f879-48fb-8eff-24dd6b26dbdb"
-Parent: "111484ef-745d-4c33-90ab-c6f7314623b6"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Activity Type/Name
-Signature: CwmM3zN0pJsd5Q2fb/iiRzoL0tvE56WiAek5fBRfDWo=
-Modified: 638175688201623173
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\News\Title.yml
-ID: "e0f9e213-d86e-4132-be95-7ae963aafde0"
-Parent: "832af3f6-e535-46e6-8944-2d02523b4c0c"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/News/Title
-Signature: qYO9uaxQ1Ud1D2z1Wx1pHUkU0B4NmeFaAneTfQiIE3U=
-Modified: 638175688204083422
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Advertisements\Eyebrow.yml
-ID: "b8ac9495-01b6-479e-9970-09555d22d96e"
-Parent: "71302bf9-eecf-4592-aeb5-1cad23f716e5"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Advertisements/Eyebrow
-Signature: qqEvVnkwu7fbvQWLeAT4R+u/FHHPXdzWN5j0/O9BIcs=
-Modified: 638175688202001935
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Room\Sessions.yml
-ID: "9b1fa9aa-9767-4204-8fc8-b391d697f87a"
-Parent: "135d8169-227b-4ef4-8bc6-504e29ace4d8"
-Template: "49652eb6-f98e-4114-b46a-925b9815578a"
-Path: /sitecore/system/Modules/CMP/Config/Room/Sessions
-Signature: Ps/HXNlpdLFU20rxR3ps5vdbB9hZBnG/NAlMDntWX+c=
-Modified: 638175688204642110
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Audience\Name.yml
-ID: "c7dad284-6471-4faf-9f3a-b55a2fa28c09"
-Parent: "8d310148-9ed3-4d12-b60e-154d0e044ef3"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Audience/Name
-Signature: ys+FkyFFP7d8Ci4U9xY/xbr0h3Nq+1sCcF3IvSuZ+ss=
-Modified: 638175688202650541
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Session\Content-Name.yml
-ID: "debfeac6-3eb9-4663-8b2a-5388d2b41dbd"
-Parent: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: "/sitecore/system/Modules/CMP/Config/Session/Content-Name"
-Signature: AbI/9im9lyq10xNOJG+gP5NRSDdNDrb0UQRiD2XeEXo=
-Modified: 638175688205238657
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Level\Content-Name.yml
-ID: "853d56c1-b563-495b-9165-c473d5ea34dc"
-Parent: "de19c6ae-c26c-4a1e-9498-7e70f742ffd0"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: "/sitecore/system/Modules/CMP/Config/Level/Content-Name"
-Signature: pHwhu8nMAUSzcnORAZMEi1PgILJvNE5IwsrX61HQ/VE=
-Modified: 638175688203101845
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Session\Day.yml
-ID: "fb87d4d2-de69-490f-a6dc-8615121f4e5d"
-Parent: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
-Template: "49652eb6-f98e-4114-b46a-925b9815578a"
-Path: /sitecore/system/Modules/CMP/Config/Session/Day
-Signature: OpE7NftKRAZmhVKbsTccX50f4NdEOQjob3geon2RDD0=
-Modified: 638175688205348912
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Level\Name.yml
-ID: "5d7eb488-bdb5-40ad-8cdc-31525fdef901"
-Parent: "de19c6ae-c26c-4a1e-9498-7e70f742ffd0"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Level/Name
-Signature: 4BYYhTXU2I3sbU8TtV4nw6ub6abYK7rtCfXkSxNTOWQ=
-Modified: 638175688203210772
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Session\Speakers.yml
-ID: "1353243c-3985-4fd1-a5c3-2900f6dc05aa"
-Parent: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
-Template: "49652eb6-f98e-4114-b46a-925b9815578a"
-Path: /sitecore/system/Modules/CMP/Config/Session/Speakers
-Signature: 6UEQ/xm8+Yw8XzGI3IWdGdf9GjP7leJ17KrkDogzX8Y=
-Modified: 638175688205993683
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\News\Page Title.yml
-ID: "0ce2a1a4-fad3-43d2-984b-6540d1f37fb9"
-Parent: "832af3f6-e535-46e6-8944-2d02523b4c0c"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/News/Page Title
-Signature: NopLF6pUXze/pR2xBzuCltvT4S+8pL6+Ykky1jWpV5Y=
-Modified: 638175688203896763
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Session\Sponsors.yml
-ID: "fab424ab-790a-478d-80da-f7519a2ab2e3"
-Parent: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
-Template: "49652eb6-f98e-4114-b46a-925b9815578a"
-Path: /sitecore/system/Modules/CMP/Config/Session/Sponsors
-Signature: 5TU55WxoZxhFMAaVx2PrevjmaoNWVn4/wxkiwGuj7xs=
-Modified: 638175688206081966
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\News\PublishDate.yml
-ID: "9d818833-a334-4f72-a60e-1c08daa298f2"
-Parent: "832af3f6-e535-46e6-8944-2d02523b4c0c"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/News/PublishDate
-Signature: aEe/qzwE5Edj99D/KOyA/dHbrwwcoFKGrNJ08emZTRw=
-Modified: 638175688203989657
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Speaker\Content-Name.yml
-ID: "c2d34c8a-af27-476b-83b6-6c028d18c622"
-Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: "/sitecore/system/Modules/CMP/Config/Speaker/Content-Name"
-Signature: wRoe/BWZIvLisr6k0mPGEpA/OEqmliTdYd7CuYXcA9U=
-Modified: 638175688206957938
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Room\Venue.yml
-ID: "45411b75-5e42-4bca-a33a-3632aa969db0"
-Parent: "135d8169-227b-4ef4-8bc6-504e29ace4d8"
-Template: "49652eb6-f98e-4114-b46a-925b9815578a"
-Path: /sitecore/system/Modules/CMP/Config/Room/Venue
-Signature: yOJTGSFuVAx/6oHBSBAdwMW6XE2dvdZlsb0XsVuGYX0=
-Modified: 638175688204725711
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Speaker\Description.yml
-ID: "fffda195-d240-45c9-b2ae-44270b23eb9f"
-Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Speaker/Description
-Signature: 4ifU0kMCr+XN+zt0EPcOc6AH0mkr+BTqnWmHvXSFXiM=
-Modified: 638175688207062694
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Session\Audience.yml
-ID: "794ee464-ba94-4586-b8de-395783a6cab1"
-Parent: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
-Template: "49652eb6-f98e-4114-b46a-925b9815578a"
-Path: /sitecore/system/Modules/CMP/Config/Session/Audience
-Signature: KQ9j0GlJVaistun/o+Skwy+ies7VG04CAs4MSxl5X6w=
-Modified: 638175688205123599
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Speaker\Location.yml
-ID: "f0772061-bba8-4541-a93d-572e17f83353"
-Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Speaker/Location
-Signature: +OigIQCS/cSmPgieeMfUqtFWuHeK1tz1ret8wfaK1mA=
-Modified: 638175688207808534
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Session\Premium.yml
-ID: "a6e3fdd9-1ca8-4fb1-9f77-e4fb3cfbaf37"
-Parent: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Session/Premium
-Signature: yknHgSJ+Xr27qNmJgyckCtXDd+3tKPt4mrAX2qEAMp4=
-Modified: 638175688205813122
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Speaker\Name.yml
-ID: "d26e1b22-6ea5-487c-b69d-d1a0cb1511d5"
-Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Speaker/Name
-Signature: f63r2I+6+HrRu5j1nqsWtHVj7+JUPHSnYnukg72jfwM=
-Modified: 638175688207904172
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Session\Rooms.yml
-ID: "3e49d2ff-6afa-4d5a-a437-a9e9e0fd63cd"
-Parent: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
-Template: "49652eb6-f98e-4114-b46a-925b9815578a"
-Path: /sitecore/system/Modules/CMP/Config/Session/Rooms
-Signature: qg/0maZZB/I4oSCZTjxpfP6m3iCy8uoIo7HpM2jbb/0=
-Modified: 638175688205903630
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Speaker Type\Content-Name.yml
-ID: "5912b0c5-0dde-4508-a307-3c13cef849cf"
-Parent: "8218b4e3-0fbe-4f04-96e8-6c4f1a94d126"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: "/sitecore/system/Modules/CMP/Config/Speaker Type/Content-Name"
-Signature: pHwhu8nMAUSzcnORAZMEi1PgILJvNE5IwsrX61HQ/VE=
-Modified: 638175688206574907
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Session Type\Name.yml
-ID: "18b22f90-757c-4ce9-9181-6e8743b545b9"
-Parent: "c3268052-2132-4002-a063-31b99cc91bb8"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Session Type/Name
-Signature: Aruox+QiXCu6YhrREbnBVs6ZVqCq5fZmlvHxZttfTRw=
-Modified: 638175688204967440
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Speaker Type\Name.yml
-ID: "c05dd359-6af8-44e8-a32f-4e1d3fc00be3"
-Parent: "8218b4e3-0fbe-4f04-96e8-6c4f1a94d126"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Speaker Type/Name
-Signature: QGzR0zSg5DsnV9OI1iiAWtO8e/rsocPA0CRuDGPrzD4=
-Modified: 638175688206682938
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Speaker\Company.yml
-ID: "d1fc3581-40d6-4299-810c-6a8bca111600"
-Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Speaker/Company
-Signature: zlUngzVYgfHYAI0EyKcAoEB/vsPuYguA54XGEALm7X0=
-Modified: 638175688206853024
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Sponsor\Speakers.yml
-ID: "92257a7f-b895-4843-918c-dd497e7bb33f"
-Parent: "e073f9a4-6376-4922-9786-580050546c22"
-Template: "49652eb6-f98e-4114-b46a-925b9815578a"
-Path: /sitecore/system/Modules/CMP/Config/Sponsor/Speakers
-Signature: gjnKl86ThXdpThzNoc0IEOgPsBFmAi7JPbsKUYAIjlM=
-Modified: 638175688209273911
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Speaker\JobTitle.yml
-ID: "dde3f56d-83e7-4157-b708-649c46aea14d"
-Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Speaker/JobTitle
-Signature: 7TTwnH/r3ve9EWqbQ6WJfIGCkVy2b8O/aD1Z3eNO6ug=
-Modified: 638175688207567424
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Sponsor\SponsorLogo.yml
-ID: "54184a65-f144-4d6c-89ca-5cec4bb794fc"
-Parent: "e073f9a4-6376-4922-9786-580050546c22"
-Template: "1c18fef2-0603-4012-9c03-f9ed654854c4"
-Path: /sitecore/system/Modules/CMP/Config/Sponsor/SponsorLogo
-Signature: w46WHImjmoNApqYrtq326OmXftwiaI8tmhDCyPoxbHU=
-Modified: 638175688209373411
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Speaker\Linkedin Profile Link.yml
-ID: "36b058e6-74f4-4c42-9651-e894268d5444"
-Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Speaker/Linkedin Profile Link
-Signature: NHvU8jURN0gyAPzzs2bsPzgowHJO+dLjhRNG86yf2ro=
-Modified: 638175688207648802
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Vendor\Level.yml
-ID: "e77eb52f-9b25-414f-9a5d-ddb01001f7fd"
-Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
-Template: "49652eb6-f98e-4114-b46a-925b9815578a"
-Path: /sitecore/system/Modules/CMP/Config/Vendor/Level
-Signature: ObLK719ypNT38Yu+U7XgZUTah1pTw6FkLBYLSvLMoQg=
-Modified: 638175688210689133
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Speaker\Twitter Profile Link.yml
-ID: "3b2b2e78-e2de-43d7-8796-bcdadd3146ab"
-Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Speaker/Twitter Profile Link
-Signature: 78k0sSXvpcuCvvP70/hVLfp64LLw6oGMPyn8/on3U00=
-Modified: 638175688208387380
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Vendor\Linkedin Profile Link.yml
-ID: "bc12b338-a193-49d4-8e99-8befbac3605b"
-Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Vendor/Linkedin Profile Link
-Signature: 6ne7tIOxILkduDmzJ+jWawmclcCYf0Psx6miip8+9eI=
-Modified: 638175688210809120
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Speaker\Vendors.yml
-ID: "e47c40cf-3788-4106-a293-1c6ea805d836"
-Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
-Template: "49652eb6-f98e-4114-b46a-925b9815578a"
-Path: /sitecore/system/Modules/CMP/Config/Speaker/Vendors
-Signature: EUvW5qUlbzkxJe9x4pb4BU7O4uW9diSgxfT+BFP0kUQ=
-Modified: 638175688208516515
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Vendor\VendorLogo.yml
-ID: "5d06e737-e416-4770-b66b-4143f9b24abd"
-Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
-Template: "1c18fef2-0603-4012-9c03-f9ed654854c4"
-Path: /sitecore/system/Modules/CMP/Config/Vendor/VendorLogo
-Signature: hIq+f1TmGuwOhlWxbj7kFQKO6+PYkBadRD5yeA7G1TI=
-Modified: 638175688211395317
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Sponsor\Page Title.yml
-ID: "a4a89809-7b86-41b4-b0f3-f9e78110b7c4"
-Parent: "e073f9a4-6376-4922-9786-580050546c22"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Sponsor/Page Title
-Signature: 7YJlH6LpU0soWZdmxsHDHOcU17RrVrKkmIUyWoABK5E=
-Modified: 638175688209073403
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Venue\Content-Name.yml
-ID: "31df636b-a49b-4b69-9a43-0a32013c04a2"
-Parent: "6a77256e-9fe0-487a-981b-8ed69d148db5"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: "/sitecore/system/Modules/CMP/Config/Venue/Content-Name"
-Signature: H/LMVtG88ShNs378nZIX1cmgVuFQnW7TcWd17cBdpPA=
-Modified: 638175688211534278
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Sponsor\Sessions.yml
-ID: "b27b0596-7e3e-48f3-9fb7-f7ee394b8931"
-Parent: "e073f9a4-6376-4922-9786-580050546c22"
-Template: "49652eb6-f98e-4114-b46a-925b9815578a"
-Path: /sitecore/system/Modules/CMP/Config/Sponsor/Sessions
-Signature: KMZ79pOH9SVwbihC1jb8D2G1xH+7XBixCRLiohIkmM8=
-Modified: 638175688209164330
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Vendor\Content-Name.yml
-ID: "2073e884-69e6-4859-969a-974d8c06a468"
-Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: "/sitecore/system/Modules/CMP/Config/Vendor/Content-Name"
-Signature: wRoe/BWZIvLisr6k0mPGEpA/OEqmliTdYd7CuYXcA9U=
-Modified: 638175688210280048
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Vendor\Description.yml
-ID: "2f9aa7c0-3dd6-4cf5-9884-ae2485ff48f8"
-Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Vendor/Description
-Signature: 6ddYtYBo8escTYNeOOrGVbliTjA6aVoDXp0WXptF8gc=
-Modified: 638175688210379178
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Vendor\Facebook Profile Link.yml
-ID: "c19de1fb-fe9d-4e37-b447-dbd49c0c9d96"
-Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Vendor/Facebook Profile Link
-Signature: +wO5yTpkUU/6PwTjsT5uUN6fY7o2TBLNYTjWpkDrEis=
-Modified: 638175688210479124
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Vendor\Instagram Profile Link.yml
-ID: "e5b4c6b9-0dad-4823-8560-8b0e8083e1aa"
-Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Vendor/Instagram Profile Link
-Signature: EuH0JzVmnZz1TerI27q9ZF20/3uYOI+w2G0jrIkkSsE=
-Modified: 638175688210589099
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config.yml
-ID: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
-Parent: "bbf6ffcd-cb4b-4363-a715-b2706e1b8ff9"
-Template: "8ce42210-cad0-44f8-8ada-d88834a7ed2e"
-Path: /sitecore/system/Modules/CMP/Config
-Signature: Kod5mMN3AzmgIS1/CZhugziKdEPMHoB9hm5BbEOGD/0=
-Modified: 638175688199614129
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Activity Type.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Activity Type.yml
 ID: "111484ef-745d-4c33-90ab-c6f7314623b6"
 Parent: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
 Template: "e022206a-3482-46c2-8ddf-2f1c2c6c7b69"
@@ -748,16 +10,25 @@ Signature: Xrt4eCu++fnuPVCOBq8buvaPR2cVvYhxSMreF5nx16w=
 Modified: 638175688199749309
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Audience.yml
-ID: "8d310148-9ed3-4d12-b60e-154d0e044ef3"
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Advertisements.yml
+ID: "71302bf9-eecf-4592-aeb5-1cad23f716e5"
 Parent: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
 Template: "e022206a-3482-46c2-8ddf-2f1c2c6c7b69"
-Path: /sitecore/system/Modules/CMP/Config/Audience
-Signature: ELYxGdDGBzxsw8bLK4hPiGOyjFwepQrD0MCr4zhl5Ks=
-Modified: 638175688199976597
+Path: /sitecore/system/Modules/CMP/Config/Advertisements
+Signature: wnbxUwfibPkdzYg8STvCUm+sSBxdZVBzItHonazFzVc=
+Modified: 638175688199881360
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Level.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Day.yml
+ID: "c7d179b3-6775-4742-84d4-3aa8374173e4"
+Parent: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
+Template: "e022206a-3482-46c2-8ddf-2f1c2c6c7b69"
+Path: /sitecore/system/Modules/CMP/Config/Day
+Signature: KqWZ1T5Osgc53wrpbvL83FXqCFdJN4Q3Pafr89ApPIw=
+Modified: 638175688200071747
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Level.yml
 ID: "de19c6ae-c26c-4a1e-9498-7e70f742ffd0"
 Parent: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
 Template: "e022206a-3482-46c2-8ddf-2f1c2c6c7b69"
@@ -766,7 +37,16 @@ Signature: 62OipPRGN4OIMOQHlTBnVamII2Zix2CiJRirFm9Z3AQ=
 Modified: 638175688200221772
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Room.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Session Type.yml
+ID: "c3268052-2132-4002-a063-31b99cc91bb8"
+Parent: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
+Template: "e022206a-3482-46c2-8ddf-2f1c2c6c7b69"
+Path: /sitecore/system/Modules/CMP/Config/Session Type
+Signature: K8pb+4eahIuUcC2tVr+Gk6Z63muld0aXdkdk7op/4rk=
+Modified: 638175688200514174
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Room.yml
 ID: "135d8169-227b-4ef4-8bc6-504e29ace4d8"
 Parent: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
 Template: "e022206a-3482-46c2-8ddf-2f1c2c6c7b69"
@@ -775,7 +55,16 @@ Signature: /yW/J3DkoPWrvesHe8TrIteLf/iIQ+2jnwne/+TNs4g=
 Modified: 638175688200411668
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Speaker Type.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Speaker.yml
+ID: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
+Parent: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
+Template: "e022206a-3482-46c2-8ddf-2f1c2c6c7b69"
+Path: /sitecore/system/Modules/CMP/Config/Speaker
+Signature: mXRgiJTdITw00WAVvW+WLxRUGo0bITvrSA6I8qE0FqE=
+Modified: 638175688200842524
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Speaker Type.yml
 ID: "8218b4e3-0fbe-4f04-96e8-6c4f1a94d126"
 Parent: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
 Template: "e022206a-3482-46c2-8ddf-2f1c2c6c7b69"
@@ -784,7 +73,7 @@ Signature: zz3tyoiaAIB8IiEeWjbeiWMuV/Cz9NEF3tIFmbBghNE=
 Modified: 638175688200722608
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Timeslot.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Timeslot.yml
 ID: "4e9b9f13-7613-44c9-8402-2943fec94906"
 Parent: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
 Template: "e022206a-3482-46c2-8ddf-2f1c2c6c7b69"
@@ -793,34 +82,79 @@ Signature: uujM8M9n7mH3VvkYNmQGlpDq1fI56XyTpyqfpD4TnNc=
 Modified: 638175688201129082
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Venue.yml
-ID: "6a77256e-9fe0-487a-981b-8ed69d148db5"
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Testimony.yml
+ID: "6c1b5e29-4ace-483a-8a84-333ae995b126"
 Parent: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
 Template: "e022206a-3482-46c2-8ddf-2f1c2c6c7b69"
-Path: /sitecore/system/Modules/CMP/Config/Venue
-Signature: /YtRK+9mzF+LqEGyfstnngrVbMZ5Ng3BJ6qHzuRvZ78=
-Modified: 638175688201356513
+Path: /sitecore/system/Modules/CMP/Config/Testimony
+Signature: iTyYk++5F0vcugrDKo0eV9WqXTgJAOO10eclf1hHvYs=
+Modified: 638175688201043413
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Advertisements\Slogan.yml
-ID: "19a2146f-1dd6-4c1e-8870-cf20ac1ea3c0"
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Activity Type\Name.yml
+ID: "ad487508-f879-48fb-8eff-24dd6b26dbdb"
+Parent: "111484ef-745d-4c33-90ab-c6f7314623b6"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Activity Type/Name
+Signature: CwmM3zN0pJsd5Q2fb/iiRzoL0tvE56WiAek5fBRfDWo=
+Modified: 638175688201623173
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Activity Type\Content-Name.yml
+ID: "c1c43e5c-76a5-4145-8484-8793b832dacd"
+Parent: "111484ef-745d-4c33-90ab-c6f7314623b6"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: "/sitecore/system/Modules/CMP/Config/Activity Type/Content-Name"
+Signature: pHwhu8nMAUSzcnORAZMEi1PgILJvNE5IwsrX61HQ/VE=
+Modified: 638175688201533067
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Advertisements\Eyebrow.yml
+ID: "b8ac9495-01b6-479e-9970-09555d22d96e"
 Parent: "71302bf9-eecf-4592-aeb5-1cad23f716e5"
 Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Advertisements/Slogan
-Signature: dc8i+yLGh/x0I0bK/QPkqs+GHDa/YIunIgdTCyRFNLc=
-Modified: 638175688202247026
+Path: /sitecore/system/Modules/CMP/Config/Advertisements/Eyebrow
+Signature: qqEvVnkwu7fbvQWLeAT4R+u/FHHPXdzWN5j0/O9BIcs=
+Modified: 638175688202001935
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Advertisements\Title.yml
-ID: "8ab4ca86-076d-4705-8de4-8096680eb6fa"
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Advertisements\Image.yml
+ID: "e2cd46e5-7019-4331-a2fa-bd4feed5c635"
 Parent: "71302bf9-eecf-4592-aeb5-1cad23f716e5"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Advertisements/Title
-Signature: 9uKdZAm7YlDcpZL3vekqL1i6zpUGJltTsCKAdLOqzrs=
-Modified: 638175688202362184
+Template: "1c18fef2-0603-4012-9c03-f9ed654854c4"
+Path: /sitecore/system/Modules/CMP/Config/Advertisements/Image
+Signature: xui7bL4B9E/gKT91xza1957T+M+0eqkKdSpbgjZOvkI=
+Modified: 638175688202097205
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\News\Audience.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Audience\Name.yml
+ID: "c7dad284-6471-4faf-9f3a-b55a2fa28c09"
+Parent: "8d310148-9ed3-4d12-b60e-154d0e044ef3"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Audience/Name
+Signature: ys+FkyFFP7d8Ci4U9xY/xbr0h3Nq+1sCcF3IvSuZ+ss=
+Modified: 638175688202650541
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Day\Content-Name.yml
+ID: "f44178e4-c4f2-48cb-9ddb-ad401bfa5edc"
+Parent: "c7d179b3-6775-4742-84d4-3aa8374173e4"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: "/sitecore/system/Modules/CMP/Config/Day/Content-Name"
+Signature: H/LMVtG88ShNs378nZIX1cmgVuFQnW7TcWd17cBdpPA=
+Modified: 638175688202801492
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Level\Content-Name.yml
+ID: "853d56c1-b563-495b-9165-c473d5ea34dc"
+Parent: "de19c6ae-c26c-4a1e-9498-7e70f742ffd0"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: "/sitecore/system/Modules/CMP/Config/Level/Content-Name"
+Signature: pHwhu8nMAUSzcnORAZMEi1PgILJvNE5IwsrX61HQ/VE=
+Modified: 638175688203101845
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\News\Audience.yml
 ID: "e634537f-70b7-4374-bddc-7bbfc29c7561"
 Parent: "832af3f6-e535-46e6-8944-2d02523b4c0c"
 Template: "49652eb6-f98e-4114-b46a-925b9815578a"
@@ -829,7 +163,16 @@ Signature: KOAdy3GXep+7OoNavpfMr0vt/Kf2rJnkLMETS46RbZA=
 Modified: 638175688203363668
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\News\Content-Name.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Level\Name.yml
+ID: "5d7eb488-bdb5-40ad-8cdc-31525fdef901"
+Parent: "de19c6ae-c26c-4a1e-9498-7e70f742ffd0"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Level/Name
+Signature: 4BYYhTXU2I3sbU8TtV4nw6ub6abYK7rtCfXkSxNTOWQ=
+Modified: 638175688203210772
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\News\Content-Name.yml
 ID: "ea1f46d5-8671-40e1-86f1-f88c7fee7432"
 Parent: "832af3f6-e535-46e6-8944-2d02523b4c0c"
 Template: "e43e2773-7a50-4145-a266-312024f27382"
@@ -838,16 +181,16 @@ Signature: iSQyNe4hRYZ/1EB7vQZ6WVcNannR3NitxbImiorX29o=
 Modified: 638175688203463772
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Room\Capacity.yml
-ID: "920a4a67-9640-4ec2-8d35-e4403353504f"
-Parent: "135d8169-227b-4ef4-8bc6-504e29ace4d8"
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\News\PublishDate.yml
+ID: "9d818833-a334-4f72-a60e-1c08daa298f2"
+Parent: "832af3f6-e535-46e6-8944-2d02523b4c0c"
 Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Room/Capacity
-Signature: xT2aL8msgYEOvLVYuo6HJvTQoKzGWERp4pkA+hf2At8=
-Modified: 638175688204245293
+Path: /sitecore/system/Modules/CMP/Config/News/PublishDate
+Signature: aEe/qzwE5Edj99D/KOyA/dHbrwwcoFKGrNJ08emZTRw=
+Modified: 638175688203989657
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Room\Content-Name.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Room\Content-Name.yml
 ID: "89a9e25f-141f-4ecc-ab3b-8d64586bce32"
 Parent: "135d8169-227b-4ef4-8bc6-504e29ace4d8"
 Template: "e43e2773-7a50-4145-a266-312024f27382"
@@ -856,16 +199,34 @@ Signature: H/LMVtG88ShNs378nZIX1cmgVuFQnW7TcWd17cBdpPA=
 Modified: 638175688204345341
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Session\Description.yml
-ID: "b78302f2-f9f3-4206-bce5-a67234f140f5"
-Parent: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\News\Title.yml
+ID: "e0f9e213-d86e-4132-be95-7ae963aafde0"
+Parent: "832af3f6-e535-46e6-8944-2d02523b4c0c"
 Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Session/Description
-Signature: zOHBZiy4oEiwByvEPBiPdSNVe4oPXnp4SQIePENS7eM=
-Modified: 638175688205439805
+Path: /sitecore/system/Modules/CMP/Config/News/Title
+Signature: qYO9uaxQ1Ud1D2z1Wx1pHUkU0B4NmeFaAneTfQiIE3U=
+Modified: 638175688204083422
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Session\Image.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Room\Description.yml
+ID: "ac7e3094-f026-4a9e-b4d4-dd51639e36ee"
+Parent: "135d8169-227b-4ef4-8bc6-504e29ace4d8"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Room/Description
+Signature: ghHf4EyaIpmkDaIzW+n8uVsqUTn/okGEtTUMaqPbNC4=
+Modified: 638175688204428341
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Session\Audience.yml
+ID: "794ee464-ba94-4586-b8de-395783a6cab1"
+Parent: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
+Template: "49652eb6-f98e-4114-b46a-925b9815578a"
+Path: /sitecore/system/Modules/CMP/Config/Session/Audience
+Signature: KQ9j0GlJVaistun/o+Skwy+ies7VG04CAs4MSxl5X6w=
+Modified: 638175688205123599
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Session\Image.yml
 ID: "37674fb5-d4db-4786-aa78-48a035c7fee4"
 Parent: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
 Template: "1c18fef2-0603-4012-9c03-f9ed654854c4"
@@ -874,16 +235,34 @@ Signature: oktWZoHabz1JZMeWO1TtjxuiAdhX2eflKGyKRf+i5nQ=
 Modified: 638175688205542566
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Session\Timeslots.yml
-ID: "02400172-8fe0-4c35-be0b-f8c0b7aa7c53"
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Session\Content-Name.yml
+ID: "debfeac6-3eb9-4663-8b2a-5388d2b41dbd"
 Parent: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
-Template: "49652eb6-f98e-4114-b46a-925b9815578a"
-Path: /sitecore/system/Modules/CMP/Config/Session/Timeslots
-Signature: mpuTFUcdbuTBtaoZFghNrdtLyh1AR7bsyK39928lIR0=
-Modified: 638175688206193523
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: "/sitecore/system/Modules/CMP/Config/Session/Content-Name"
+Signature: AbI/9im9lyq10xNOJG+gP5NRSDdNDrb0UQRiD2XeEXo=
+Modified: 638175688205238657
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Session\Type.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Session\Name.yml
+ID: "3172b355-8856-4159-92d7-479b6669a02a"
+Parent: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Session/Name
+Signature: /7piPPpu6GHAY3ElF2CkdxwtnLNckiGTUtfEsUDgOoc=
+Modified: 638175688205631906
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Session\Rooms.yml
+ID: "3e49d2ff-6afa-4d5a-a437-a9e9e0fd63cd"
+Parent: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
+Template: "49652eb6-f98e-4114-b46a-925b9815578a"
+Path: /sitecore/system/Modules/CMP/Config/Session/Rooms
+Signature: qg/0maZZB/I4oSCZTjxpfP6m3iCy8uoIo7HpM2jbb/0=
+Modified: 638175688205903630
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Session\Type.yml
 ID: "ba5167ed-dbe2-4ddb-a4e2-96695a0c70f3"
 Parent: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
 Template: "49652eb6-f98e-4114-b46a-925b9815578a"
@@ -892,16 +271,34 @@ Signature: HsgSybtjKoKn588JfowP6Biq+/a3ah0+nTpnNxhWJts=
 Modified: 638175688206283537
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Speaker\Facebook Profile Link.yml
-ID: "2d6d1728-44b0-4bf1-ac38-8bf513f8bb60"
-Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Speaker/Facebook Profile Link
-Signature: VxzcCVP9AYL/gBjeh9D827d/MnramHvUphSGcPr8ctU=
-Modified: 638175688207163257
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Session\Speakers.yml
+ID: "1353243c-3985-4fd1-a5c3-2900f6dc05aa"
+Parent: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
+Template: "49652eb6-f98e-4114-b46a-925b9815578a"
+Path: /sitecore/system/Modules/CMP/Config/Session/Speakers
+Signature: 6UEQ/xm8+Yw8XzGI3IWdGdf9GjP7leJ17KrkDogzX8Y=
+Modified: 638175688205993683
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Speaker\Featured.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Session\Vendors.yml
+ID: "2e99700b-f21e-44e0-ba27-44f28a5460a0"
+Parent: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
+Template: "49652eb6-f98e-4114-b46a-925b9815578a"
+Path: /sitecore/system/Modules/CMP/Config/Session/Vendors
+Signature: XL3oOgCqbPmPKVYevpJeos+7kgptSO/07FdnmpWSa4Y=
+Modified: 638175688206374553
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Speaker\Company.yml
+ID: "d1fc3581-40d6-4299-810c-6a8bca111600"
+Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Speaker/Company
+Signature: zlUngzVYgfHYAI0EyKcAoEB/vsPuYguA54XGEALm7X0=
+Modified: 638175688206853024
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Speaker\Featured.yml
 ID: "50161163-846b-46fb-8dc3-ae62a8fd2339"
 Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
 Template: "e43e2773-7a50-4145-a266-312024f27382"
@@ -910,7 +307,52 @@ Signature: OKUT4TmpxgQCKqcq/sYbv9fh0C3a3vH/cbFkEQBsLVs=
 Modified: 638175688207273661
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Speaker\Speaker Type.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Speaker\Content-Name.yml
+ID: "c2d34c8a-af27-476b-83b6-6c028d18c622"
+Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: "/sitecore/system/Modules/CMP/Config/Speaker/Content-Name"
+Signature: wRoe/BWZIvLisr6k0mPGEpA/OEqmliTdYd7CuYXcA9U=
+Modified: 638175688206957938
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Speaker\Image.yml
+ID: "05bae5cd-3bd5-48a4-8c5c-1c6d314f3661"
+Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
+Template: "1c18fef2-0603-4012-9c03-f9ed654854c4"
+Path: /sitecore/system/Modules/CMP/Config/Speaker/Image
+Signature: JUPx1YWZlzMKjmdFSdKLjob+dHiKOwOnWJwLM0qRf98=
+Modified: 638175688207373062
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Speaker\Linkedin Profile Link.yml
+ID: "36b058e6-74f4-4c42-9651-e894268d5444"
+Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Speaker/Linkedin Profile Link
+Signature: NHvU8jURN0gyAPzzs2bsPzgowHJO+dLjhRNG86yf2ro=
+Modified: 638175688207648802
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Speaker\Sessions.yml
+ID: "104b7632-7c8c-47fd-b9fd-3376095fceaf"
+Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
+Template: "49652eb6-f98e-4114-b46a-925b9815578a"
+Path: /sitecore/system/Modules/CMP/Config/Speaker/Sessions
+Signature: gyrkwZwE2JSq0jfxLhwUFhfeIzxtFugwkHLgWgWbEco=
+Modified: 638175688208102833
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Speaker\Location.yml
+ID: "f0772061-bba8-4541-a93d-572e17f83353"
+Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Speaker/Location
+Signature: +OigIQCS/cSmPgieeMfUqtFWuHeK1tz1ret8wfaK1mA=
+Modified: 638175688207808534
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Speaker\Speaker Type.yml
 ID: "69cc2878-3769-4c64-bbe9-438e4e204e0a"
 Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
 Template: "49652eb6-f98e-4114-b46a-925b9815578a"
@@ -919,25 +361,16 @@ Signature: nYH+amvdZcjy1j+ioljONWo8eMw6qOp8VwwYIvh27Ss=
 Modified: 638175688208207347
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Speaker\Sponsors.yml
-ID: "3ac80111-ec61-4831-bf6d-b2948c50cc06"
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Speaker\Vendors.yml
+ID: "e47c40cf-3788-4106-a293-1c6ea805d836"
 Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
 Template: "49652eb6-f98e-4114-b46a-925b9815578a"
-Path: /sitecore/system/Modules/CMP/Config/Speaker/Sponsors
-Signature: /NGOQCVq9vxFOgQXT3u2GcgM1jpcBH0bx7U4fd8TpMU=
-Modified: 638175688208296527
+Path: /sitecore/system/Modules/CMP/Config/Speaker/Vendors
+Signature: EUvW5qUlbzkxJe9x4pb4BU7O4uW9diSgxfT+BFP0kUQ=
+Modified: 638175688208516515
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Sponsor\Content-Name.yml
-ID: "00161d1d-d27c-4b81-acf6-b8d26946cb6f"
-Parent: "e073f9a4-6376-4922-9786-580050546c22"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: "/sitecore/system/Modules/CMP/Config/Sponsor/Content-Name"
-Signature: H/LMVtG88ShNs378nZIX1cmgVuFQnW7TcWd17cBdpPA=
-Modified: 638175688208687360
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Sponsor\Description.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Sponsor\Description.yml
 ID: "48e080e1-a010-406a-b662-3f6b38118453"
 Parent: "e073f9a4-6376-4922-9786-580050546c22"
 Template: "e43e2773-7a50-4145-a266-312024f27382"
@@ -946,34 +379,34 @@ Signature: N8TbY+S4OczDIqGpxpki6jJP501sTx0n5etHc+R8wfs=
 Modified: 638175688208776577
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Testimony\Content-Name.yml
-ID: "5f2b3f8c-77ae-44ec-af1b-167917216122"
-Parent: "6c1b5e29-4ace-483a-8a84-333ae995b126"
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Speaker Type\Content-Name.yml
+ID: "5912b0c5-0dde-4508-a307-3c13cef849cf"
+Parent: "8218b4e3-0fbe-4f04-96e8-6c4f1a94d126"
 Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: "/sitecore/system/Modules/CMP/Config/Testimony/Content-Name"
-Signature: H/LMVtG88ShNs378nZIX1cmgVuFQnW7TcWd17cBdpPA=
-Modified: 638175688209544329
+Path: "/sitecore/system/Modules/CMP/Config/Speaker Type/Content-Name"
+Signature: pHwhu8nMAUSzcnORAZMEi1PgILJvNE5IwsrX61HQ/VE=
+Modified: 638175688206574907
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Testimony\Name.yml
-ID: "013d4d9f-2cda-4976-919e-ddcd99e370a6"
-Parent: "6c1b5e29-4ace-483a-8a84-333ae995b126"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Testimony/Name
-Signature: qWwtfZzUkyBBxj0amTtfF9veJyrGkd1MPprh0ITYnHc=
-Modified: 638175688209663375
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Sponsor\Level.yml
+ID: "66e4e199-996c-48fc-a93a-11c0393a7891"
+Parent: "e073f9a4-6376-4922-9786-580050546c22"
+Template: "49652eb6-f98e-4114-b46a-925b9815578a"
+Path: /sitecore/system/Modules/CMP/Config/Sponsor/Level
+Signature: mu1d4QqxnJqMQlHKOc5WIXLdp1n2XX12fIP8+YWGSWs=
+Modified: 638175688208877379
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Testimony\Testimony.yml
-ID: "7614b93e-9b24-434e-9dbe-e83e104a55f1"
-Parent: "6c1b5e29-4ace-483a-8a84-333ae995b126"
-Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Testimony/Testimony
-Signature: FNY2IXfGkIj8aRpQBjEcBk1iwqWmffWJHnRCvdkYXWw=
-Modified: 638175688209771719
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Sponsor\Sessions.yml
+ID: "b27b0596-7e3e-48f3-9fb7-f7ee394b8931"
+Parent: "e073f9a4-6376-4922-9786-580050546c22"
+Template: "49652eb6-f98e-4114-b46a-925b9815578a"
+Path: /sitecore/system/Modules/CMP/Config/Sponsor/Sessions
+Signature: KMZ79pOH9SVwbihC1jb8D2G1xH+7XBixCRLiohIkmM8=
+Modified: 638175688209164330
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Timeslot\Content-Name.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Timeslot\Content-Name.yml
 ID: "64c17a80-b2cb-4da5-a97f-6dd46a490e8a"
 Parent: "4e9b9f13-7613-44c9-8402-2943fec94906"
 Template: "e43e2773-7a50-4145-a266-312024f27382"
@@ -982,7 +415,304 @@ Signature: pHwhu8nMAUSzcnORAZMEi1PgILJvNE5IwsrX61HQ/VE=
 Modified: 638175688209923081
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Venue\Name.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Sponsor\Speakers.yml
+ID: "92257a7f-b895-4843-918c-dd497e7bb33f"
+Parent: "e073f9a4-6376-4922-9786-580050546c22"
+Template: "49652eb6-f98e-4114-b46a-925b9815578a"
+Path: /sitecore/system/Modules/CMP/Config/Sponsor/Speakers
+Signature: gjnKl86ThXdpThzNoc0IEOgPsBFmAi7JPbsKUYAIjlM=
+Modified: 638175688209273911
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Timeslot\Name.yml
+ID: "8df89b5c-b86a-47e4-b8e3-dfc37fa979ef"
+Parent: "4e9b9f13-7613-44c9-8402-2943fec94906"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Timeslot/Name
+Signature: cKh07x/ixDgjSb1O+sBt16PmHIO4AC1cFhaTBO5g1f8=
+Modified: 638175688210033114
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Vendor\Description.yml
+ID: "2f9aa7c0-3dd6-4cf5-9884-ae2485ff48f8"
+Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Vendor/Description
+Signature: 6ddYtYBo8escTYNeOOrGVbliTjA6aVoDXp0WXptF8gc=
+Modified: 638175688210379178
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Vendor\Linkedin Profile Link.yml
+ID: "bc12b338-a193-49d4-8e99-8befbac3605b"
+Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Vendor/Linkedin Profile Link
+Signature: 6ne7tIOxILkduDmzJ+jWawmclcCYf0Psx6miip8+9eI=
+Modified: 638175688210809120
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Vendor\Facebook Profile Link.yml
+ID: "c19de1fb-fe9d-4e37-b447-dbd49c0c9d96"
+Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Vendor/Facebook Profile Link
+Signature: +wO5yTpkUU/6PwTjsT5uUN6fY7o2TBLNYTjWpkDrEis=
+Modified: 638175688210479124
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Vendor\Name.yml
+ID: "61c7f341-dd00-4a94-b393-4d42e5e7204b"
+Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Vendor/Name
+Signature: oLUg/TVmQs3A/TymkoE2zjXyZg1wO8xB/08Arcc2Fy4=
+Modified: 638175688210896686
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Vendor\Instagram Profile Link.yml
+ID: "e5b4c6b9-0dad-4823-8560-8b0e8083e1aa"
+Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Vendor/Instagram Profile Link
+Signature: EuH0JzVmnZz1TerI27q9ZF20/3uYOI+w2G0jrIkkSsE=
+Modified: 638175688210589099
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Vendor\Page Title.yml
+ID: "26993423-cb43-48be-b618-155078ae560d"
+Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Vendor/Page Title
+Signature: ayHpCLdoLKelEwsyavHnVV5rPCbW39nmMJJZynOQuD4=
+Modified: 638175688211013300
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Vendor\Level.yml
+ID: "e77eb52f-9b25-414f-9a5d-ddb01001f7fd"
+Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
+Template: "49652eb6-f98e-4114-b46a-925b9815578a"
+Path: /sitecore/system/Modules/CMP/Config/Vendor/Level
+Signature: ObLK719ypNT38Yu+U7XgZUTah1pTw6FkLBYLSvLMoQg=
+Modified: 638175688210689133
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Vendor\Sessions.yml
+ID: "9e5fa708-9591-44d8-bcaf-7ef5335d61b8"
+Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
+Template: "49652eb6-f98e-4114-b46a-925b9815578a"
+Path: /sitecore/system/Modules/CMP/Config/Vendor/Sessions
+Signature: 8TNxOkI8y7tfVZPeF/2jhMwrxqmrloVJ4e9nTOkcn78=
+Modified: 638175688211114496
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Venue\Size.yml
+ID: "e4d743dc-32db-49c5-b8a6-32eb3473c6a0"
+Parent: "6a77256e-9fe0-487a-981b-8ed69d148db5"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Venue/Size
+Signature: Wql0/n78pUgFMMb0z/0sxw12ErppSTtTOD0YH6PUIeA=
+Modified: 638175688212069776
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Vendor.yml
+ID: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
+Parent: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
+Template: "e022206a-3482-46c2-8ddf-2f1c2c6c7b69"
+Path: /sitecore/system/Modules/CMP/Config/Vendor
+Signature: Qn9pyJ+F51Phlj9hYn8l1qxBiIHRS+gT+KT0N4/pbsU=
+Modified: 638175688201217618
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Advertisements\Body.yml
+ID: "91a52270-396a-4f29-ba12-ccda08469ba1"
+Parent: "71302bf9-eecf-4592-aeb5-1cad23f716e5"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Advertisements/Body
+Signature: fusiCWPPjUu0d44o29tTEls0jfJEyl9++jGAvba4s+I=
+Modified: 638175688201807707
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Advertisements\Slogan.yml
+ID: "19a2146f-1dd6-4c1e-8870-cf20ac1ea3c0"
+Parent: "71302bf9-eecf-4592-aeb5-1cad23f716e5"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Advertisements/Slogan
+Signature: dc8i+yLGh/x0I0bK/QPkqs+GHDa/YIunIgdTCyRFNLc=
+Modified: 638175688202247026
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Day\Name.yml
+ID: "c1473c50-406a-4cb5-94f0-7998f6e142ab"
+Parent: "c7d179b3-6775-4742-84d4-3aa8374173e4"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Day/Name
+Signature: 8x03+aYrlkcVIYTe6+e+Y0rMLxsXZYeFyRfuXnWF1yg=
+Modified: 638175688202906865
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\News\Content.yml
+ID: "881e3827-ec62-439d-8528-4a99fbd8e1ae"
+Parent: "832af3f6-e535-46e6-8944-2d02523b4c0c"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/News/Content
+Signature: ZgVgP2SzGQughwUsquihOmJs5F1uc1fj/QSmW8XWUp8=
+Modified: 638175688203569238
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\News\Page Title.yml
+ID: "0ce2a1a4-fad3-43d2-984b-6540d1f37fb9"
+Parent: "832af3f6-e535-46e6-8944-2d02523b4c0c"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/News/Page Title
+Signature: NopLF6pUXze/pR2xBzuCltvT4S+8pL6+Ykky1jWpV5Y=
+Modified: 638175688203896763
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Room\Capacity.yml
+ID: "920a4a67-9640-4ec2-8d35-e4403353504f"
+Parent: "135d8169-227b-4ef4-8bc6-504e29ace4d8"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Room/Capacity
+Signature: xT2aL8msgYEOvLVYuo6HJvTQoKzGWERp4pkA+hf2At8=
+Modified: 638175688204245293
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Room\Venue.yml
+ID: "45411b75-5e42-4bca-a33a-3632aa969db0"
+Parent: "135d8169-227b-4ef4-8bc6-504e29ace4d8"
+Template: "49652eb6-f98e-4114-b46a-925b9815578a"
+Path: /sitecore/system/Modules/CMP/Config/Room/Venue
+Signature: yOJTGSFuVAx/6oHBSBAdwMW6XE2dvdZlsb0XsVuGYX0=
+Modified: 638175688204725711
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Session\Day.yml
+ID: "fb87d4d2-de69-490f-a6dc-8615121f4e5d"
+Parent: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
+Template: "49652eb6-f98e-4114-b46a-925b9815578a"
+Path: /sitecore/system/Modules/CMP/Config/Session/Day
+Signature: OpE7NftKRAZmhVKbsTccX50f4NdEOQjob3geon2RDD0=
+Modified: 638175688205348912
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Session\Description.yml
+ID: "b78302f2-f9f3-4206-bce5-a67234f140f5"
+Parent: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Session/Description
+Signature: zOHBZiy4oEiwByvEPBiPdSNVe4oPXnp4SQIePENS7eM=
+Modified: 638175688205439805
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Session\Sponsors.yml
+ID: "fab424ab-790a-478d-80da-f7519a2ab2e3"
+Parent: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
+Template: "49652eb6-f98e-4114-b46a-925b9815578a"
+Path: /sitecore/system/Modules/CMP/Config/Session/Sponsors
+Signature: 5TU55WxoZxhFMAaVx2PrevjmaoNWVn4/wxkiwGuj7xs=
+Modified: 638175688206081966
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Session\Timeslots.yml
+ID: "02400172-8fe0-4c35-be0b-f8c0b7aa7c53"
+Parent: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
+Template: "49652eb6-f98e-4114-b46a-925b9815578a"
+Path: /sitecore/system/Modules/CMP/Config/Session/Timeslots
+Signature: mpuTFUcdbuTBtaoZFghNrdtLyh1AR7bsyK39928lIR0=
+Modified: 638175688206193523
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Speaker\Instagram Profile Link.yml
+ID: "042538b9-4057-47c6-a094-1df752dc0d5f"
+Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Speaker/Instagram Profile Link
+Signature: p931yeUm+wkZy9Kh1o6JWEjxozqPZ5Rjg2DWq5rw8JA=
+Modified: 638175688207470837
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Speaker\JobTitle.yml
+ID: "dde3f56d-83e7-4157-b708-649c46aea14d"
+Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Speaker/JobTitle
+Signature: 7TTwnH/r3ve9EWqbQ6WJfIGCkVy2b8O/aD1Z3eNO6ug=
+Modified: 638175688207567424
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Speaker\Sponsors.yml
+ID: "3ac80111-ec61-4831-bf6d-b2948c50cc06"
+Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
+Template: "49652eb6-f98e-4114-b46a-925b9815578a"
+Path: /sitecore/system/Modules/CMP/Config/Speaker/Sponsors
+Signature: /NGOQCVq9vxFOgQXT3u2GcgM1jpcBH0bx7U4fd8TpMU=
+Modified: 638175688208296527
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Speaker\Twitter Profile Link.yml
+ID: "3b2b2e78-e2de-43d7-8796-bcdadd3146ab"
+Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Speaker/Twitter Profile Link
+Signature: 78k0sSXvpcuCvvP70/hVLfp64LLw6oGMPyn8/on3U00=
+Modified: 638175688208387380
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Sponsor\Name.yml
+ID: "c05c9718-092d-466c-953a-0bec65427db8"
+Parent: "e073f9a4-6376-4922-9786-580050546c22"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Sponsor/Name
+Signature: hapFUPVAPotjmp5Xe0Kxsnnlom3pU6EY+G3MqwcB7QQ=
+Modified: 638175688208966941
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Sponsor\Page Title.yml
+ID: "a4a89809-7b86-41b4-b0f3-f9e78110b7c4"
+Parent: "e073f9a4-6376-4922-9786-580050546c22"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Sponsor/Page Title
+Signature: 7YJlH6LpU0soWZdmxsHDHOcU17RrVrKkmIUyWoABK5E=
+Modified: 638175688209073403
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Vendor\ActivityType.yml
+ID: "159dc020-efda-49d9-8cab-a30cd1a82024"
+Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
+Template: "49652eb6-f98e-4114-b46a-925b9815578a"
+Path: /sitecore/system/Modules/CMP/Config/Vendor/ActivityType
+Signature: m3+Pc5xng9VB4gBWB1A7SRQMjshWNch3RFEPkmyoWY0=
+Modified: 638175688210189094
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Vendor\Content-Name.yml
+ID: "2073e884-69e6-4859-969a-974d8c06a468"
+Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: "/sitecore/system/Modules/CMP/Config/Vendor/Content-Name"
+Signature: wRoe/BWZIvLisr6k0mPGEpA/OEqmliTdYd7CuYXcA9U=
+Modified: 638175688210280048
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Vendor\Speakers.yml
+ID: "7cb01f1d-cbde-499d-89a5-75b2ae913f71"
+Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
+Template: "49652eb6-f98e-4114-b46a-925b9815578a"
+Path: /sitecore/system/Modules/CMP/Config/Vendor/Speakers
+Signature: rVdaPYLqgjvinv4H0WISf7fMeN7RkcBq2aG1RwYIGng=
+Modified: 638175688211204447
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Vendor\Twitter Profile Link.yml
+ID: "3547410a-e961-462c-8d19-4f208035789e"
+Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Vendor/Twitter Profile Link
+Signature: 9Z8NB9qaE4CaEqyfHR1BK/qcoV+bBqBc1gYiqGeav8M=
+Modified: 638175688211304460
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Venue\Name.yml
 ID: "7f90d9d0-783b-49f0-8dbe-b0b2111aa7af"
 Parent: "6a77256e-9fe0-487a-981b-8ed69d148db5"
 Template: "e43e2773-7a50-4145-a266-312024f27382"
@@ -991,7 +721,7 @@ Signature: 3eF/UxPM0aCKH7Yyd8EBc9dQ5KQm5FCORgU/rc6uEiw=
 Modified: 638175688211869327
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Venue\Rooms.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Venue\Rooms.yml
 ID: "dace4c21-a18e-4f30-a12e-0ba02edc7367"
 Parent: "6a77256e-9fe0-487a-981b-8ed69d148db5"
 Template: "49652eb6-f98e-4114-b46a-925b9815578a"
@@ -1000,10 +730,280 @@ Signature: v+6XuA5pRYv5gb/hncf4pOHr7p0+84eoaizbn4CX5HA=
 Modified: 638175688211973929
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\cmp-config\Config\Venue\Size.yml
-ID: "e4d743dc-32db-49c5-b8a6-32eb3473c6a0"
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config.yml
+ID: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
+Parent: "bbf6ffcd-cb4b-4363-a715-b2706e1b8ff9"
+Template: "8ce42210-cad0-44f8-8ada-d88834a7ed2e"
+Path: /sitecore/system/Modules/CMP/Config
+Signature: Kod5mMN3AzmgIS1/CZhugziKdEPMHoB9hm5BbEOGD/0=
+Modified: 638175688199614129
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Audience.yml
+ID: "8d310148-9ed3-4d12-b60e-154d0e044ef3"
+Parent: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
+Template: "e022206a-3482-46c2-8ddf-2f1c2c6c7b69"
+Path: /sitecore/system/Modules/CMP/Config/Audience
+Signature: ELYxGdDGBzxsw8bLK4hPiGOyjFwepQrD0MCr4zhl5Ks=
+Modified: 638175688199976597
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\News.yml
+ID: "832af3f6-e535-46e6-8944-2d02523b4c0c"
+Parent: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
+Template: "e022206a-3482-46c2-8ddf-2f1c2c6c7b69"
+Path: /sitecore/system/Modules/CMP/Config/News
+Signature: azOAqt4RVs3sytRikbznWvYDx/DqYou232LwekRzrn8=
+Modified: 638175688200311256
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Session.yml
+ID: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
+Parent: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
+Template: "e022206a-3482-46c2-8ddf-2f1c2c6c7b69"
+Path: /sitecore/system/Modules/CMP/Config/Session
+Signature: Pu5I2KFJ3kdGaU1GML02d1j971Udq3U+/IEgtgyc1kk=
+Modified: 638175688200605784
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Sponsor.yml
+ID: "e073f9a4-6376-4922-9786-580050546c22"
+Parent: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
+Template: "e022206a-3482-46c2-8ddf-2f1c2c6c7b69"
+Path: /sitecore/system/Modules/CMP/Config/Sponsor
+Signature: rnKkiFquPSwuJbiwgFSywQUNQN0FWfvHu2xC2fINB8A=
+Modified: 638175688200952627
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Venue.yml
+ID: "6a77256e-9fe0-487a-981b-8ed69d148db5"
+Parent: "f8843bf7-a31a-4f71-8900-abd56b8fe34c"
+Template: "e022206a-3482-46c2-8ddf-2f1c2c6c7b69"
+Path: /sitecore/system/Modules/CMP/Config/Venue
+Signature: /YtRK+9mzF+LqEGyfstnngrVbMZ5Ng3BJ6qHzuRvZ78=
+Modified: 638175688201356513
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Advertisements\Content-Name.yml
+ID: "a6496777-eae2-448d-9477-525d7c29160e"
+Parent: "71302bf9-eecf-4592-aeb5-1cad23f716e5"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: "/sitecore/system/Modules/CMP/Config/Advertisements/Content-Name"
+Signature: noyoAJdmLd1friIJTN8G5AE5ZzaTbObsxB3ZWYW4UNE=
+Modified: 638175688201901836
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Advertisements\Title.yml
+ID: "8ab4ca86-076d-4705-8de4-8096680eb6fa"
+Parent: "71302bf9-eecf-4592-aeb5-1cad23f716e5"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Advertisements/Title
+Signature: 9uKdZAm7YlDcpZL3vekqL1i6zpUGJltTsCKAdLOqzrs=
+Modified: 638175688202362184
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Audience\Content-Name.yml
+ID: "68a50479-cf74-4fd3-8b40-fa2724c00554"
+Parent: "8d310148-9ed3-4d12-b60e-154d0e044ef3"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: "/sitecore/system/Modules/CMP/Config/Audience/Content-Name"
+Signature: pHwhu8nMAUSzcnORAZMEi1PgILJvNE5IwsrX61HQ/VE=
+Modified: 638175688202520478
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\News\Excerpt.yml
+ID: "273fdf8f-4116-4dd1-9940-9fd569dbee29"
+Parent: "832af3f6-e535-46e6-8944-2d02523b4c0c"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/News/Excerpt
+Signature: q487BcHBVEBFvB1I0F+6ygYdQb7DXL4a9pVd3MzVEx0=
+Modified: 638175688203659847
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\News\Image.yml
+ID: "010cd32c-f991-433e-bbc1-b822f65f05ce"
+Parent: "832af3f6-e535-46e6-8944-2d02523b4c0c"
+Template: "1c18fef2-0603-4012-9c03-f9ed654854c4"
+Path: /sitecore/system/Modules/CMP/Config/News/Image
+Signature: wo+aL0RhrVl8ZP95pM2trd4aVJ0EE87EstTZElwL2yA=
+Modified: 638175688203781926
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Room\Name.yml
+ID: "77561eac-42bc-404f-92d5-2d8d33cba7ee"
+Parent: "135d8169-227b-4ef4-8bc6-504e29ace4d8"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Room/Name
+Signature: d3tE2a1IsE4yx8WxWSdp237+JpFrVtm7fCBJt0jBtLE=
+Modified: 638175688204537491
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Room\Sessions.yml
+ID: "9b1fa9aa-9767-4204-8fc8-b391d697f87a"
+Parent: "135d8169-227b-4ef4-8bc6-504e29ace4d8"
+Template: "49652eb6-f98e-4114-b46a-925b9815578a"
+Path: /sitecore/system/Modules/CMP/Config/Room/Sessions
+Signature: Ps/HXNlpdLFU20rxR3ps5vdbB9hZBnG/NAlMDntWX+c=
+Modified: 638175688204642110
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Session\Page Title.yml
+ID: "eb786459-50cd-43f7-989a-54b8a1da1453"
+Parent: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Session/Page Title
+Signature: bDQ2CffACzNhBp4u7ofsXI5sH4aTyAUBWs7VSOWKVQQ=
+Modified: 638175688205730495
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Session\Premium.yml
+ID: "a6e3fdd9-1ca8-4fb1-9f77-e4fb3cfbaf37"
+Parent: "d30ddb56-a0f7-4750-8a3a-79c58bf5162b"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Session/Premium
+Signature: yknHgSJ+Xr27qNmJgyckCtXDd+3tKPt4mrAX2qEAMp4=
+Modified: 638175688205813122
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Session Type\Content-Name.yml
+ID: "f56eb5ba-16e5-465d-9b96-64bb37132631"
+Parent: "c3268052-2132-4002-a063-31b99cc91bb8"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: "/sitecore/system/Modules/CMP/Config/Session Type/Content-Name"
+Signature: vA4zB94JiVOwQnPSa9UxL9GpkJvheAJIqxvA4zKZn1U=
+Modified: 638175688204876301
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Session Type\Name.yml
+ID: "18b22f90-757c-4ce9-9181-6e8743b545b9"
+Parent: "c3268052-2132-4002-a063-31b99cc91bb8"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Session Type/Name
+Signature: Aruox+QiXCu6YhrREbnBVs6ZVqCq5fZmlvHxZttfTRw=
+Modified: 638175688204967440
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Speaker\Description.yml
+ID: "fffda195-d240-45c9-b2ae-44270b23eb9f"
+Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Speaker/Description
+Signature: 4ifU0kMCr+XN+zt0EPcOc6AH0mkr+BTqnWmHvXSFXiM=
+Modified: 638175688207062694
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Speaker\Facebook Profile Link.yml
+ID: "2d6d1728-44b0-4bf1-ac38-8bf513f8bb60"
+Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Speaker/Facebook Profile Link
+Signature: VxzcCVP9AYL/gBjeh9D827d/MnramHvUphSGcPr8ctU=
+Modified: 638175688207163257
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Speaker\Name.yml
+ID: "d26e1b22-6ea5-487c-b69d-d1a0cb1511d5"
+Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Speaker/Name
+Signature: f63r2I+6+HrRu5j1nqsWtHVj7+JUPHSnYnukg72jfwM=
+Modified: 638175688207904172
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Speaker\Page Title.yml
+ID: "aa2c366a-742d-4496-b7de-3b465c7943f3"
+Parent: "6b835483-0d83-4a75-a4f2-7743cd6d588e"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Speaker/Page Title
+Signature: ayHpCLdoLKelEwsyavHnVV5rPCbW39nmMJJZynOQuD4=
+Modified: 638175688208014215
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Speaker Type\Name.yml
+ID: "c05dd359-6af8-44e8-a32f-4e1d3fc00be3"
+Parent: "8218b4e3-0fbe-4f04-96e8-6c4f1a94d126"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Speaker Type/Name
+Signature: QGzR0zSg5DsnV9OI1iiAWtO8e/rsocPA0CRuDGPrzD4=
+Modified: 638175688206682938
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Sponsor\Content-Name.yml
+ID: "00161d1d-d27c-4b81-acf6-b8d26946cb6f"
+Parent: "e073f9a4-6376-4922-9786-580050546c22"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: "/sitecore/system/Modules/CMP/Config/Sponsor/Content-Name"
+Signature: H/LMVtG88ShNs378nZIX1cmgVuFQnW7TcWd17cBdpPA=
+Modified: 638175688208687360
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Sponsor\SponsorLogo.yml
+ID: "54184a65-f144-4d6c-89ca-5cec4bb794fc"
+Parent: "e073f9a4-6376-4922-9786-580050546c22"
+Template: "1c18fef2-0603-4012-9c03-f9ed654854c4"
+Path: /sitecore/system/Modules/CMP/Config/Sponsor/SponsorLogo
+Signature: w46WHImjmoNApqYrtq326OmXftwiaI8tmhDCyPoxbHU=
+Modified: 638175688209373411
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Testimony\Content-Name.yml
+ID: "5f2b3f8c-77ae-44ec-af1b-167917216122"
+Parent: "6c1b5e29-4ace-483a-8a84-333ae995b126"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: "/sitecore/system/Modules/CMP/Config/Testimony/Content-Name"
+Signature: H/LMVtG88ShNs378nZIX1cmgVuFQnW7TcWd17cBdpPA=
+Modified: 638175688209544329
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Testimony\Name.yml
+ID: "013d4d9f-2cda-4976-919e-ddcd99e370a6"
+Parent: "6c1b5e29-4ace-483a-8a84-333ae995b126"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Testimony/Name
+Signature: qWwtfZzUkyBBxj0amTtfF9veJyrGkd1MPprh0ITYnHc=
+Modified: 638175688209663375
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Testimony\Testimony.yml
+ID: "7614b93e-9b24-434e-9dbe-e83e104a55f1"
+Parent: "6c1b5e29-4ace-483a-8a84-333ae995b126"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Testimony/Testimony
+Signature: FNY2IXfGkIj8aRpQBjEcBk1iwqWmffWJHnRCvdkYXWw=
+Modified: 638175688209771719
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Vendor\VendorLogo.yml
+ID: "5d06e737-e416-4770-b66b-4143f9b24abd"
+Parent: "331f7a34-cb11-4ac9-b7c0-c6867eb160e9"
+Template: "1c18fef2-0603-4012-9c03-f9ed654854c4"
+Path: /sitecore/system/Modules/CMP/Config/Vendor/VendorLogo
+Signature: hIq+f1TmGuwOhlWxbj7kFQKO6+PYkBadRD5yeA7G1TI=
+Modified: 638175688211395317
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Venue\Content-Name.yml
+ID: "31df636b-a49b-4b69-9a43-0a32013c04a2"
 Parent: "6a77256e-9fe0-487a-981b-8ed69d148db5"
 Template: "e43e2773-7a50-4145-a266-312024f27382"
-Path: /sitecore/system/Modules/CMP/Config/Venue/Size
-Signature: Wql0/n78pUgFMMb0z/0sxw12ErppSTtTOD0YH6PUIeA=
-Modified: 638175688212069776
+Path: "/sitecore/system/Modules/CMP/Config/Venue/Content-Name"
+Signature: H/LMVtG88ShNs378nZIX1cmgVuFQnW7TcWd17cBdpPA=
+Modified: 638175688211534278
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Venue\Description.yml
+ID: "ea6fb9e6-7658-4a5e-9cc4-ccc43c0ca080"
+Parent: "6a77256e-9fe0-487a-981b-8ed69d148db5"
+Template: "e43e2773-7a50-4145-a266-312024f27382"
+Path: /sitecore/system/Modules/CMP/Config/Venue/Description
+Signature: SUNseQV6cg9Vq9z0tm7Na2XdcLooBhUMksEObJ63wDI=
+Modified: 638175688211655882
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\cmp-config\Config\Venue\Image.yml
+ID: "99c20bde-f312-4d46-a882-c27a7e156aa7"
+Parent: "6a77256e-9fe0-487a-981b-8ed69d148db5"
+Template: "1c18fef2-0603-4012-9c03-f9ed654854c4"
+Path: /sitecore/system/Modules/CMP/Config/Venue/Image
+Signature: O+zr32ImTConGcTbtluLMIWqYdpIg1xxN0LRqQp1m0c=
+Modified: 638175688211755883

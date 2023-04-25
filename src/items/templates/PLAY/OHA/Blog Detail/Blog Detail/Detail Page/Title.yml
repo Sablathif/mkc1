@@ -1,6 +1,6 @@
 ﻿---
-ID: "599645ec-e5c9-4b25-a0eb-8c482ecca83e"
-Parent: "6653e4a4-6288-4ec5-bb14-e71bac437f2b"
+ID: "8bccc5d5-0eec-43a7-a872-7083641349e8"
+Parent: "fba65b78-91c8-463b-bf03-cf6a5e43d1d7"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
 Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/Blog Detail/Detail Page/Title
 SharedFields:
@@ -17,9 +17,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4a9fcbfc-e7d0-405f-95cc-84073a344af3"
-  - Version: 2
-    Fields:
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "c37a8a3e-6829-4a86-8c20-9baafe1120b4"
+      Value: "612fc27e-5572-4afe-9454-792576880fb2"

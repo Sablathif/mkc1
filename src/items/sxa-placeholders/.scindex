@@ -1,34 +1,7 @@
 ﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\sxa-placeholders\PLAY\jss-hero-section-content.yml
-ID: "0f285023-372b-46ae-93e5-a6b7f129fe8f"
-Parent: "b63fe2f1-b5ca-481f-8d7c-cc11bf1dabf8"
-Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
-Path: "/sitecore/layout/Placeholder Settings/Project/PLAY/jss-hero-section-content"
-Signature: IK0tvQy+NnINZJlAN8SFar7pJsHNqVhYxUFYIIKR5ns=
-Modified: 638175688313432084
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\sxa-placeholders\PLAY.yml
-ID: "b63fe2f1-b5ca-481f-8d7c-cc11bf1dabf8"
-Parent: "f5f0fbe3-61ad-4967-a5d8-8d760331d6a1"
-Template: "c3b037a0-46e5-4b67-ac7a-a144b962a56f"
-Path: /sitecore/layout/Placeholder Settings/Project/PLAY
-Signature: NjOWaTHKi7D8pNxUSqUnv+sou29aayhuImgq7BrUegc=
-Modified: 638175688312994651
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\sxa-placeholders\PLAY\jss-section-content.yml
-ID: "3acd7d8d-e5d3-5af6-ba34-bb869657e602"
-Parent: "b63fe2f1-b5ca-481f-8d7c-cc11bf1dabf8"
-Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
-Path: "/sitecore/layout/Placeholder Settings/Project/PLAY/jss-section-content"
-Signature: r+Ge/HwZmOTudVnTtoJ99BVmeV9NbFg4+FWbDlBUU4I=
-Modified: 638175688313619584
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\sxa-placeholders\PLAY\jss-footer.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\sxa-placeholders\PLAY\jss-footer.yml
 ID: "cc2cf2d1-033e-5d27-ba34-254d30f146cd"
 Parent: "b63fe2f1-b5ca-481f-8d7c-cc11bf1dabf8"
 Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
@@ -37,16 +10,7 @@ Signature: pFZveSNm9z70+d+Yt+UofZKo9Z7tzpaa9QUTDuJK2bg=
 Modified: 638175688313144704
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\sxa-placeholders\PLAY\jss-header-content.yml
-ID: "b0b0f437-11ab-50b9-93d7-9d73ea3c3bd0"
-Parent: "b63fe2f1-b5ca-481f-8d7c-cc11bf1dabf8"
-Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
-Path: "/sitecore/layout/Placeholder Settings/Project/PLAY/jss-header-content"
-Signature: 1es/aqbY8kL8O3fJ8IqS0ufhLPbiYJRTLeZimFTiWq0=
-Modified: 638175688313231735
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\sxa-placeholders\PLAY\jss-header.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\sxa-placeholders\PLAY\jss-header.yml
 ID: "2bdbf7a5-2830-586d-badb-95a33fa429a3"
 Parent: "b63fe2f1-b5ca-481f-8d7c-cc11bf1dabf8"
 Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
@@ -55,7 +19,43 @@ Signature: FzucqTwyFbGL8gaLEI28SLBu62GQ25QMj76OkkcmKwM=
 Modified: 638175688313331827
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\sxa-placeholders\PLAY\jss-main.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\sxa-placeholders\PLAY\jss-hero-section-content.yml
+ID: "0f285023-372b-46ae-93e5-a6b7f129fe8f"
+Parent: "b63fe2f1-b5ca-481f-8d7c-cc11bf1dabf8"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/PLAY/jss-hero-section-content"
+Signature: IK0tvQy+NnINZJlAN8SFar7pJsHNqVhYxUFYIIKR5ns=
+Modified: 638175688313432084
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\sxa-placeholders\PLAY\jss-section-content.yml
+ID: "3acd7d8d-e5d3-5af6-ba34-bb869657e602"
+Parent: "b63fe2f1-b5ca-481f-8d7c-cc11bf1dabf8"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/PLAY/jss-section-content"
+Signature: r+Ge/HwZmOTudVnTtoJ99BVmeV9NbFg4+FWbDlBUU4I=
+Modified: 638175688313619584
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\sxa-placeholders\PLAY.yml
+ID: "b63fe2f1-b5ca-481f-8d7c-cc11bf1dabf8"
+Parent: "f5f0fbe3-61ad-4967-a5d8-8d760331d6a1"
+Template: "c3b037a0-46e5-4b67-ac7a-a144b962a56f"
+Path: /sitecore/layout/Placeholder Settings/Project/PLAY
+Signature: NjOWaTHKi7D8pNxUSqUnv+sou29aayhuImgq7BrUegc=
+Modified: 638175688312994651
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\sxa-placeholders\PLAY\jss-header-content.yml
+ID: "b0b0f437-11ab-50b9-93d7-9d73ea3c3bd0"
+Parent: "b63fe2f1-b5ca-481f-8d7c-cc11bf1dabf8"
+Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
+Path: "/sitecore/layout/Placeholder Settings/Project/PLAY/jss-header-content"
+Signature: 1es/aqbY8kL8O3fJ8IqS0ufhLPbiYJRTLeZimFTiWq0=
+Modified: 638175688313231735
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\sxa-placeholders\PLAY\jss-main.yml
 ID: "83f8ccff-edaa-516b-bd68-71a16a354f42"
 Parent: "b63fe2f1-b5ca-481f-8d7c-cc11bf1dabf8"
 Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
@@ -64,7 +64,7 @@ Signature: 9mZTgW84TYq9fkjX2wvDZwLwBbIulruxsO7/TyGzP+k=
 Modified: 638175688313530068
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\sxa-placeholders\PLAY\jss-summit-features-content.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\sxa-placeholders\PLAY\jss-summit-features-content.yml
 ID: "c8c6efd2-e574-4fd9-8833-4c5d6a23042f"
 Parent: "b63fe2f1-b5ca-481f-8d7c-cc11bf1dabf8"
 Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"

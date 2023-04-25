@@ -1,43 +1,7 @@
 ﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\demo-workflow\Demo Workflow\Draft.yml
-ID: "f103752c-f458-47e0-b322-99785275bdb9"
-Parent: "8f0e1432-3729-462b-ad20-daf067694bcb"
-Template: "4b7e2da9-de43-4c83-88c3-02f042031d04"
-Path: /sitecore/system/Workflows/Demo Workflow/Draft
-Signature: Hp/S1N2lQtXCB2fZUkAUu76VX9z0i1Is2GC3kAt8lIA=
-Modified: 638175688213629954
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\demo-workflow\Demo Workflow\Approved\Auto Publish.yml
-ID: "4fd48b75-2d9c-4399-beda-1842c22328c3"
-Parent: "836e0687-cdff-4087-9e3b-c8ecafe11746"
-Template: "66882e97-c8aa-4e37-8901-7a8aa35ed2ed"
-Path: /sitecore/system/Workflows/Demo Workflow/Approved/Auto Publish
-Signature: DKhPcSKQCkSSzobSMAhxN7UGGKvhO7fRzELKGC7xsqE=
-Modified: 638175688213768986
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\demo-workflow\Demo Workflow\Awaiting Approval\Reject.yml
-ID: "3a1c4ca4-db3d-4b26-935a-1b7ad4e79271"
-Parent: "1a6f7d0e-f404-45bc-836f-8a16143daa16"
-Template: "cb01f9fc-c187-46b3-ab0b-97a8468d8303"
-Path: /sitecore/system/Workflows/Demo Workflow/Awaiting Approval/Reject
-Signature: yXeGpdWulO89gVf8UEYMgUXpSW7TMXV3wg6iS6A0Cuw=
-Modified: 638175688214041814
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\demo-workflow\Demo Workflow\Awaiting Approval\Approve.yml
-ID: "6b030ef4-8abc-4c85-a516-03c27fb243c9"
-Parent: "1a6f7d0e-f404-45bc-836f-8a16143daa16"
-Template: "cb01f9fc-c187-46b3-ab0b-97a8468d8303"
-Path: /sitecore/system/Workflows/Demo Workflow/Awaiting Approval/Approve
-Signature: ZRfLwF+t/XJ1g53qN3i4vJQhHy8vKbrMN5WSQQJ+BxI=
-Modified: 638175688213911819
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\demo-workflow\Demo Workflow\Approved.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\demo-workflow\Demo Workflow\Approved.yml
 ID: "836e0687-cdff-4087-9e3b-c8ecafe11746"
 Parent: "8f0e1432-3729-462b-ad20-daf067694bcb"
 Template: "4b7e2da9-de43-4c83-88c3-02f042031d04"
@@ -46,7 +10,16 @@ Signature: PzdDdLRQ7DJtQJRnrgAsH5RYzNd73QfFSGYxJyHlFoM=
 Modified: 638175688213433866
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\demo-workflow\Demo Workflow\Draft\__OnSave.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\demo-workflow\Demo Workflow\Awaiting Approval\Approve.yml
+ID: "6b030ef4-8abc-4c85-a516-03c27fb243c9"
+Parent: "1a6f7d0e-f404-45bc-836f-8a16143daa16"
+Template: "cb01f9fc-c187-46b3-ab0b-97a8468d8303"
+Path: /sitecore/system/Workflows/Demo Workflow/Awaiting Approval/Approve
+Signature: ZRfLwF+t/XJ1g53qN3i4vJQhHy8vKbrMN5WSQQJ+BxI=
+Modified: 638175688213911819
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\demo-workflow\Demo Workflow\Draft\__OnSave.yml
 ID: "3faa5f4e-a4ed-4f82-ace4-c2dd0ccf295b"
 Parent: "f103752c-f458-47e0-b322-99785275bdb9"
 Template: "cb01f9fc-c187-46b3-ab0b-97a8468d8303"
@@ -55,16 +28,7 @@ Signature: b7Xm4Zs+zCpTT1H8NbHO/TGn/Bs916kPrlcCixZYd8A=
 Modified: 638175688214463130
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\demo-workflow\Demo Workflow.yml
-ID: "8f0e1432-3729-462b-ad20-daf067694bcb"
-Parent: "05592656-56d7-4d85-aacf-30919ee494f9"
-Template: "1c0acc50-37be-4742-b43c-96a07a7410a5"
-Path: /sitecore/system/Workflows/Demo Workflow
-Signature: WZ9t+W54aP1N9W9lf6pcl7mjH9NRgJv27aHl3LN0XWA=
-Modified: 638175688213303613
----
-File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\demo-workflow\Demo Workflow\Awaiting Approval.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\demo-workflow\Demo Workflow\Awaiting Approval.yml
 ID: "1a6f7d0e-f404-45bc-836f-8a16143daa16"
 Parent: "8f0e1432-3729-462b-ad20-daf067694bcb"
 Template: "4b7e2da9-de43-4c83-88c3-02f042031d04"
@@ -73,7 +37,16 @@ Signature: ed1t077rbSyIwhPOzQJS0lGgSxtECHwEyzymaEYxSPQ=
 Modified: 638175688213539814
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\demo-workflow\Demo Workflow\Draft\Submit.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\demo-workflow\Demo Workflow\Approved\Auto Publish.yml
+ID: "4fd48b75-2d9c-4399-beda-1842c22328c3"
+Parent: "836e0687-cdff-4087-9e3b-c8ecafe11746"
+Template: "66882e97-c8aa-4e37-8901-7a8aa35ed2ed"
+Path: /sitecore/system/Workflows/Demo Workflow/Approved/Auto Publish
+Signature: DKhPcSKQCkSSzobSMAhxN7UGGKvhO7fRzELKGC7xsqE=
+Modified: 638175688213768986
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\demo-workflow\Demo Workflow\Draft\Submit.yml
 ID: "bf94549f-5b24-4cee-a5a7-192786e853f8"
 Parent: "f103752c-f458-47e0-b322-99785275bdb9"
 Template: "cb01f9fc-c187-46b3-ab0b-97a8468d8303"
@@ -82,7 +55,7 @@ Signature: SOs4AlMb4ftAhX1GKT1NxjEHa5v9Fba7hnljLpvpS/4=
 Modified: 638175688214365844
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\demo-workflow\Demo Workflow\Awaiting Approval\Approve\Validation Action.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\demo-workflow\Demo Workflow\Awaiting Approval\Approve\Validation Action.yml
 ID: "79e63f96-297c-46e4-81ea-99e704ef065e"
 Parent: "6b030ef4-8abc-4c85-a516-03c27fb243c9"
 Template: "419f8ffb-2713-4cec-86a7-7585a727fe25"
@@ -91,7 +64,34 @@ Signature: mjFqcnCoBc/UscITo0pH/aK+FjbRAXWqd8o366QYAmE=
 Modified: 638175688214206962
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\demo-workflow\Demo Workflow\Draft\__OnSave\Auto Submit Action.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\demo-workflow\Demo Workflow.yml
+ID: "8f0e1432-3729-462b-ad20-daf067694bcb"
+Parent: "05592656-56d7-4d85-aacf-30919ee494f9"
+Template: "1c0acc50-37be-4742-b43c-96a07a7410a5"
+Path: /sitecore/system/Workflows/Demo Workflow
+Signature: WZ9t+W54aP1N9W9lf6pcl7mjH9NRgJv27aHl3LN0XWA=
+Modified: 638175688213303613
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\demo-workflow\Demo Workflow\Draft.yml
+ID: "f103752c-f458-47e0-b322-99785275bdb9"
+Parent: "8f0e1432-3729-462b-ad20-daf067694bcb"
+Template: "4b7e2da9-de43-4c83-88c3-02f042031d04"
+Path: /sitecore/system/Workflows/Demo Workflow/Draft
+Signature: Hp/S1N2lQtXCB2fZUkAUu76VX9z0i1Is2GC3kAt8lIA=
+Modified: 638175688213629954
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\demo-workflow\Demo Workflow\Awaiting Approval\Reject.yml
+ID: "3a1c4ca4-db3d-4b26-935a-1b7ad4e79271"
+Parent: "1a6f7d0e-f404-45bc-836f-8a16143daa16"
+Template: "cb01f9fc-c187-46b3-ab0b-97a8468d8303"
+Path: /sitecore/system/Workflows/Demo Workflow/Awaiting Approval/Reject
+Signature: yXeGpdWulO89gVf8UEYMgUXpSW7TMXV3wg6iS6A0Cuw=
+Modified: 638175688214041814
+---
+File: |
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\demo-workflow\Demo Workflow\Draft\__OnSave\Auto Submit Action.yml
 ID: "634fc085-8f58-4126-88fe-20cd74ecb345"
 Parent: "3faa5f4e-a4ed-4f82-ace4-c2dd0ccf295b"
 Template: "26c54307-6d31-46cf-a96b-70678c4fef7d"
