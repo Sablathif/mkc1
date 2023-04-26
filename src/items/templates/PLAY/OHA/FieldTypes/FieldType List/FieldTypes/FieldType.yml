@@ -1,0 +1,23 @@
+﻿---
+ID: "417a4a13-ad90-47f1-8e89-8972fd8915bf"
+Parent: "9baea74d-82c5-4358-bca0-7fd9c8275f17"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/FieldTypes/FieldType List/FieldTypes/FieldType
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "query:$site/*[@@name='Data']//*[@@templatename='FieldType']"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Treelist
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f90bb7b2-a8c4-48ee-9719-e1f105d64d94"

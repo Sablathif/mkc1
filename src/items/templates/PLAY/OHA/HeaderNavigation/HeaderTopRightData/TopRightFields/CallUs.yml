@@ -1,0 +1,20 @@
+﻿---
+ID: "f5c9bfde-a947-429b-b10f-564f72682e20"
+Parent: "184db3d6-b711-4a71-bb8a-0c28a261777f"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/HeaderNavigation/HeaderTopRightData/TopRightFields/CallUs
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Rich Text
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a5b1253a-65fd-46f5-a07f-7653d53af1f0"

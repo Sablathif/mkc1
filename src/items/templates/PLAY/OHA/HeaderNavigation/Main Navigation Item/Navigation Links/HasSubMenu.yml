@@ -1,0 +1,24 @@
+﻿---
+ID: "0932460b-1823-4643-a4d8-c6365e522bbc"
+Parent: "e103b1d5-ea8e-4194-9807-7847b42c23d5"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/HeaderNavigation/Main Navigation Item/Navigation Links/HasSubMenu
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Checkbox
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Fields:
+  - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
+    Hint: Title
+    Value: Has Sub Menu
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e74560f2-d9fc-4b3b-92c7-674919fe6a18"

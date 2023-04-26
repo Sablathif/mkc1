@@ -1,0 +1,20 @@
+﻿---
+ID: "7506fab9-47aa-4b5f-b81d-06cb5cf59648"
+Parent: "6c33b5b2-b559-484a-a9ae-a8619e98613e"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/HeaderNavigation/Sub Navigation Item/Sub Navigation Links/Hot
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Checkbox
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "abecc43d-f141-42b1-975e-e42cb6715a7a"

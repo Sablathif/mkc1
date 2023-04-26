@@ -1,0 +1,13 @@
+﻿---
+ID: "25a27dbf-1b7b-4aa3-abc1-042917bb3c47"
+Parent: "5fe8866f-2056-4ad2-b893-9bc520fdcfed"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/CTAType/CTAType Folder/CTATypes
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a42d8031-7040-49af-8ccd-d8e5148b87ee"

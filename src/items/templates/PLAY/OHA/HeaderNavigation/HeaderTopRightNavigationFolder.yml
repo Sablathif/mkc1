@@ -1,0 +1,20 @@
+﻿---
+ID: "afcfa9ae-1299-45e5-b594-82b38cca0256"
+Parent: "b9a20133-f44c-45bd-aa9f-080d42cbc78f"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/HeaderNavigation/HeaderTopRightNavigationFolder
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{4BD4E56B-2E1F-47C4-928E-9C6F0426D665}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca176e0a-0841-42f7-9e4e-7848c5da323a"
