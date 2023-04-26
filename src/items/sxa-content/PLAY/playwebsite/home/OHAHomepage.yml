@@ -13,7 +13,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{3DDBD354-4943-4DBA-BE99-9978EE38F7BB}" />
+    <image mediaid="{D5B3B253-F52F-42F9-B24B-7E293475DA6F}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -51,9 +51,11 @@ Languages:
             </r>
             <r
               uid="{C2ADE467-204D-43E7-B33E-2AD93A76E67D}"
-              s:id="{120C9216-EAA5-474F-9CDC-60959E31A697}"
-              s:par="CacheClearingBehavior=Clear+on+publish&amp;CSSStyles"
-              s:ph="headless-main" />
+              s:ds="{8A767535-6321-49F9-B095-CC4322085C78}"
+              s:id="{17357260-BA85-52BA-8A4D-1BEC0E018665}"
+              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;CSSStyles"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
           </d>
         </r>
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
@@ -61,7 +63,7 @@ Languages:
       Value: "{F103752C-F458-47E0-B322-99785275BDB9}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e10b4238-43b2-462c-85b4-c11453e7ddf5"
+      Value: "9a944302-4420-4ed0-a05b-82b9bde70a30"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: OHAHomepage

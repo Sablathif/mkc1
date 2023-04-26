@@ -1,0 +1,13 @@
+﻿---
+ID: "b27685b9-7acb-4f1e-985b-60d133f1ebdd"
+Parent: "3093e530-bb68-4eb4-ba5a-53f3842a3bd6"
+Template: "645317fe-3c05-4cde-93ec-8a1989204d29"
+Path: /sitecore/content/PLAY/playwebsite/home/OHAHomepage/product/Data/Products/Color/Black
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "435ed847-62a4-4163-8cf3-5eaabc68594b"
