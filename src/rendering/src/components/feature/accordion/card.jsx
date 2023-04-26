@@ -2,7 +2,7 @@ import React from 'react';
 
 import ALink from '../custom-link';
 
-import SlideToggle from 'react-slide-toggle';
+import SlideToggle from "react-slide-toggle";
 // const preventDefault = (e) => {
 //   if (props.href === '#') {
 //     e.preventDefault();

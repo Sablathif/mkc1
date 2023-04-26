@@ -13,8 +13,7 @@ type BlogProps = ComponentProps & {
 
 const Blog = (Props: BlogProps): JSX.Element => (
   <>
-  
-  {/* <h1>
+    {/* <h1>
     HI
   </h1> */}
     {Props.fields.blogType.value.toLowerCase() == 'classic' ? (
@@ -22,11 +21,7 @@ const Blog = (Props: BlogProps): JSX.Element => (
     ) : (
       <></>
     )}
-    {Props.fields.blogType.value.toLowerCase() == 'listing' ? (
-      <Listing BlogProps={Props} />
-    ) : (
-      <></>
-    )}
+    {Props.fields.blogType.value.toLowerCase() == 'listing' ? <Listing BlogProps={Props} /> : <></>}
     {/* {Props.fields.blogType.value.toLowerCase() == 'grid 2 columns' ? (
       <BlogGrid2Column BlogProps={Props} />
     ) : (

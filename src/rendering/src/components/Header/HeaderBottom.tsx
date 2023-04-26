@@ -1,4 +1,4 @@
-import { Field, withDatasourceCheck, Link, LinkField } from '@sitecore-jss/sitecore-jss-nextjs';
+import { Field, Link, LinkField } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
 import Styles from './HeaderBottom.module.css';
 type HeaderBottomProps = ComponentProps & {

@@ -1,10 +1,4 @@
-import {
-  Text,
-  Field,
-  withDatasourceCheck,
-  LinkField,
-  Link,
-} from '@sitecore-jss/sitecore-jss-nextjs';
+import { Text, Field, LinkField, Link } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
 import ALink from 'components/feature/custom-link';
 
@@ -19,9 +13,9 @@ type HeaderTopProps = ComponentProps & {
     LanguageSelector: [children: { fields: { LinkData: LinkField } }];
     Contact: LinkField;
     NeedHelp: LinkField;
-    DisplaySignInLink: Field<any>;
+    DisplaySignInLink: any;
     signInLink: LinkField;
-    DisplayRegisterLink: Field<any>;
+    DisplayRegisterLink: any;
     RegisterLink: LinkField;
   };
 };
