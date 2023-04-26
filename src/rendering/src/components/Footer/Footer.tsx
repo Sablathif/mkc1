@@ -1,6 +1,6 @@
 import { ComponentProps } from 'lib/component-props';
 import FooterComp from 'components/common/footer';
-import { Field, ImageField, withDatasourceCheck } from '@sitecore-jss/sitecore-jss-nextjs';
+import { Field, ImageField } from '@sitecore-jss/sitecore-jss-nextjs';
 import { Suspense } from 'react';
 type FooterProps = ComponentProps & {
   fields: {
