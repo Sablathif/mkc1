@@ -31,5 +31,6 @@ const HeaderBottom = (props: HeaderBottomProps): JSX.Element => (
     </div>
   </div>
 );
+export const Default = HeaderBottom;
 
-export default withDatasourceCheck()<HeaderBottomProps>(HeaderBottom);
+// export default withDatasourceCheck()<HeaderBottomProps>(HeaderBottom);

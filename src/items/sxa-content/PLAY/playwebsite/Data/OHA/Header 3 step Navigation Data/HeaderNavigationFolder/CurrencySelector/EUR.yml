@@ -1,0 +1,21 @@
+﻿---
+ID: "293450ad-d639-4346-9e0d-aea6c94c7c42"
+Parent: "98e427ca-121b-4944-a64e-a5bf161bf39b"
+Template: "c83c8564-64db-4364-a4f6-edb5392f2d48"
+Path: /sitecore/content/PLAY/playwebsite/Data/OHA/Header 3 step Navigation Data/HeaderNavigationFolder/CurrencySelector/EUR
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aedf4b01-d2ad-4cb8-b39a-1300fda0b6c0"
+    - ID: "f1ed8043-a88c-4c5a-9d94-dc2d2e7131c6"
+      Hint: LinkData
+      Value: |
+        <link text="EUR" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{ABA2B256-3579-49AB-BFFD-39669B3119FF}" />

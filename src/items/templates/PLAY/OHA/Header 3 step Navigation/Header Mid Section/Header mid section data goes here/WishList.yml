@@ -1,0 +1,20 @@
+﻿---
+ID: "7030ca3d-52c0-40c1-b455-1f1a11520d4c"
+Parent: "664a656d-b6de-44e8-aa3f-cd362a3bde2b"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/Header Mid Section/Header mid section data goes here/WishList
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Checkbox
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "deb2da24-8641-4c07-a4dc-48f525d64d95"

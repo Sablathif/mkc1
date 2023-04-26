@@ -136,5 +136,6 @@ const HeaderTop = (props: HeaderTopProps): JSX.Element => {
     </header>
   );
 };
+export const Default = HeaderTop;
 
-export default withDatasourceCheck()<HeaderTopProps>(HeaderTop);
+// export default withDatasourceCheck()<HeaderTopProps>(HeaderTop);

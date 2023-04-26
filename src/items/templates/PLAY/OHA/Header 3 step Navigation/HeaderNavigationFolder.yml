@@ -1,0 +1,29 @@
+﻿---
+ID: "ab264316-8817-4f98-be52-da07e421163a"
+Parent: "17660589-81b2-4bb8-bc8e-1ede576af81a"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/HeaderNavigationFolder
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {E269FBB5-3750-427A-9149-7AA950B49301}
+    {8065AA2A-FD02-4802-A8E9-19E8BF85AF1A}
+    {905DBAE2-6A92-52ED-8F51-267C6769FBA4}
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{E4EAC8DB-FB9C-4AA8-9891-BE3699031686}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5118ad1d-57de-4273-a1b6-bf3fafeabde4"

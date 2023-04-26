@@ -1,0 +1,31 @@
+﻿---
+ID: "8065aa2a-fd02-4802-a8e9-19e8bf85af1a"
+Parent: "17660589-81b2-4bb8-bc8e-1ede576af81a"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/CurrencySelector
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Apps/32x32/Medal.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {E269FBB5-3750-427A-9149-7AA950B49301}
+    {C83C8564-64DB-4364-A4F6-EDB5392F2D48}
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{A32719B5-88EC-49FA-A963-99F6CD563325}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "75951fae-bcc1-43c5-8a36-fd8a67ad8f05"

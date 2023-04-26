@@ -1,0 +1,34 @@
+﻿---
+ID: "d75eae1a-c884-4409-8094-30a15570c686"
+Parent: "81f2ac67-5c2a-461e-bd6c-d40354767626"
+Template: "2ef61d92-c603-4a75-b9d9-371e02534bee"
+Path: /sitecore/content/PLAY/playwebsite/Data/OHA/Header 3 step Navigation Data/HeaderNavigationFolder/Header Bottom Data
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "178cc816-eeda-42b0-9060-ae19d5180278"
+      Hint: Buy
+      Value: |
+        <link text="Buy Riode!" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2D1D7ACA-9597-5CA6-85B2-9B04907E4298}" />
+    - ID: "45bb94af-0966-4ffa-a3fb-d944cd441836"
+      Hint: SpecialOffers
+      Value: |
+        <link text="Special Offers" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2D1D7ACA-9597-5CA6-85B2-9B04907E4298}" />
+    - ID: "8aaadfa7-fd22-4415-be09-ad8d7f59f1d0"
+      Hint: MainNavigationList
+      Value: |
+        {FACD50AD-3E5A-47AE-BC1A-87ADD108027B}
+        {54247269-BBF4-4CE7-ABA5-A4C5EB59ED6E}
+        {391E5263-FA00-428F-ACE1-6E9247DAC3AD}
+        {C9AF4CA2-2F37-4F78-9CA2-2AFED90274B3}
+        {0ABEA253-20F1-4D16-9E43-6214C7B51063}
+        {C52B14F0-490D-413A-86CA-4E2126EB89A1}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4b7422be-c679-4db3-a110-49eb9c2ded06"
