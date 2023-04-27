@@ -1,6 +1,6 @@
 import { Image, Link, RichText, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import ALink from 'components/feature/custom-link';
-export default function Footer(props:any) {
+export default function Footer(props: any) {
   const data = props.props;
   console.log(data);
   return (
@@ -50,26 +50,39 @@ export default function Footer(props:any) {
                 <ul className="widget-body">
                   <li>
                     <label>Phone: </label>
-                    <ALink href="tel:#" className={undefined} content={undefined} style={undefined}>Toll Free (123) 456-7890</ALink>
+                    <ALink href="tel:#" className={undefined} content={undefined} style={undefined}>
+                      Toll Free (123) 456-7890
+                    </ALink>
                   </li>
                   <li>
                     <label>Email: </label>
-                    <ALink href="mailto:mail@riode.com" className={undefined} content={undefined} style={undefined}>mail@riode.com</ALink>
+                    <ALink
+                      href="mailto:mail@riode.com"
+                      className={undefined}
+                      content={undefined}
+                      style={undefined}
+                    >
+                      mail@riode.com
+                    </ALink>
                   </li>
                   <li>
                     <label>Address: </label>
-                    <ALink href="#" className={undefined} content={undefined} style={undefined}>123 Street Name, City, England</ALink>
+                    <ALink href="#" className={undefined} content={undefined} style={undefined}>
+                      123 Street Name, City, England
+                    </ALink>
                   </li>
                   <li>
                     <label>WORKING DAYS / HOURS: </label>
                   </li>
                   <li>
-                    <ALink href="#" className={undefined} content={undefined} style={undefined}>Mon - Sun / 9:00 AM - 8:00 PM</ALink>
+                    <ALink href="#" className={undefined} content={undefined} style={undefined}>
+                      Mon - Sun / 9:00 AM - 8:00 PM
+                    </ALink>
                   </li>
                 </ul>
               </div>
             </div>
-            {data?.fields?.FooterNavigation?.map((datanav:any, index:any) => (
+            {data?.fields?.FooterNavigation?.map((datanav: any, index: any) => (
               <div className="col-lg-3 col-md-6" key={index}>
                 <div className="widget ml-lg-4">
                   <h4 className="widget-title">{datanav.fields.NavigationName.value}</h4>
@@ -91,7 +104,7 @@ export default function Footer(props:any) {
                   <Text field={data.fields.Title} />
                 </h4>
                 <figure className="widget-body row">
-                  {data?.fields?.FooterInstagram?.map((datainsta:any, index:any) => (
+                  {data?.fields?.FooterInstagram?.map((datainsta: any, index: any) => (
                     <div className="col-3" key={index}>
                       <Image field={datainsta.fields.Image} width="64" height="64" />
                     </div>
@@ -103,7 +116,7 @@ export default function Footer(props:any) {
         </div>
         <div className="footer-bottom">
           <div className="footer-left">
-            {data?.fields?.FooterCardIcon?.map((datapay:any, index:any) => (
+            {data?.fields?.FooterCardIcon?.map((datapay: any, index: any) => (
               <figure className="payment" key={index}>
                 <Image field={datapay.fields.Icon} />
               </figure>
@@ -115,11 +128,14 @@ export default function Footer(props:any) {
             {/* </p> Commented because of hydration error */}
           </div>
           <div className="footer-right">
-            {data?.fields?.FooterSocialLinks?.map((datasocial:any, index:any) => (
+            {data?.fields?.FooterSocialLinks?.map((datasocial: any, index: any) => (
               <div className="social-links" key={index}>
                 <ALink
                   href={datasocial.fields.Link.value.href}
-                  className={datasocial.fields.IconClass.value} children={undefined} content={undefined} style={undefined}                ></ALink>
+                  className={datasocial.fields.IconClass.value}
+                  content={undefined}
+                  style={undefined}
+                ><span></span></ALink>
               </div>
             ))}
           </div>

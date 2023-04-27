@@ -121,4 +121,4 @@ function CartMenu(props) {
 //   };
 // }
 // connect(mapStateToProps, { removeFromCart: cartActions.removeFromCart })
-export default (CartMenu);
+export default CartMenu;
