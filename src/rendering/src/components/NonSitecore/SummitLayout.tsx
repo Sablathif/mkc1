@@ -1,7 +1,7 @@
 import React, { PropsWithChildren, useEffect } from 'react';
 import Head from 'next/head';
 import { logViewEvent } from '../../services/BoxeverService';
-import { Default as Footer, FooterProps } from '../Navigation/FooterPlay';
+import { Default as Footer, FooterProps } from '../Navigation/Footer';
 import HeaderContent, { HeaderContentProps } from '../Navigation/HeaderContent';
 import HeaderCdpMessageBar from '../HeaderCdpMessageBar';
 import { Default as MainNavigation, MainNavigationProps } from '../Navigation/MainNavigation';

@@ -66,15 +66,9 @@
     "postcss-nested": "^5.0.5",
     "postcss-sassy-mixins": "^2.1.0",
     "react": "^18.1.0",
-    "react-awesome-reveal": "^4.2.3",
     "react-dom": "^18.1.0",
-    "react-lazy-load-image-component": "^1.5.6",
     "react-loading-skeleton": "^3.0.3",
-    "react-owl-carousel": "^2.3.3",
-    "react-owl-carousel2": "^0.3.0",
-    "react-redux": "^8.0.4",
-    "react-slide-toggle": "^0.3.5",
-    "react-sticky-box": "^2.0.4"
+    "react-redux": "^8.0.4"
   },
   "devDependencies": {
     "@graphql-codegen/cli": "^1.19.1",
@@ -99,7 +93,6 @@
     "@types/node": "^14.6.4",
     "@types/react": "^18.0.12",
     "@types/react-dom": "^18.0.5",
-    "@types/react-lazy-load-image-component": "^1.5.3",
     "@typescript-eslint/eslint-plugin": "^4.29.1",
     "@typescript-eslint/parser": "^4.29.1",
     "autoprefixer": "^10.4.2",

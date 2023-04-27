@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import { ParsedUrlQueryInput } from 'querystring';
 import { useEffect, useState } from 'react';
-import { HeaderProps } from './HeaderPlay';
+import { HeaderProps } from './Header';
 
 export type HeaderContentProps = HeaderProps & {
   pathname?: string;

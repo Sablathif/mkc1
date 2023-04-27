@@ -11,7 +11,7 @@ import {
   Default as SpeakerInformation,
   SpeakerInformationProps,
 } from '../../components/Speakers/SpeakerInformation';
-import { Default as Footer } from '../../components/Navigation/FooterPlay';
+import { Default as Footer } from '../../components/Navigation/Footer';
 import { SESSIONS } from '../mock-sessions';
 import { mockComponentFactory, mockFooterProps, mockHeaderProps } from './PageStoriesCommon';
 import { SitecoreContext } from '@sitecore-jss/sitecore-jss-nextjs';

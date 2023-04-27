@@ -4,7 +4,7 @@ import { ComponentStory, ComponentMeta } from '@storybook/react';
 import HeaderContent from '../../components/Navigation/HeaderContent';
 import HeaderCdpMessageBar from '../../components/HeaderCdpMessageBar';
 import { Default as SpeakerInformationPageHero } from '../../components/Speakers/SpeakerInformationPageHero';
-import { Default as Footer } from '../../components/Navigation/FooterPlay';
+import { Default as Footer } from '../../components/Navigation/Footer';
 import {
   Default as SessionInformation,
   SessionInformationProps,

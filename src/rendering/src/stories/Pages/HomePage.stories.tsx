@@ -12,7 +12,7 @@ import {
   Default as SelectedSponsorsGrid,
   SelectedSponsorsGridProps,
 } from '../../components/Sponsors/SelectedSponsorsGrid';
-import { Default as Footer } from '../../components/Navigation/FooterPlay';
+import { Default as Footer } from '../../components/Navigation/Footer';
 import { Sponsor } from 'src/types/sponsor';
 import { SitecoreContext } from '@sitecore-jss/sitecore-jss-nextjs';
 import { mockComponentFactory, mockFooterProps, mockHeaderProps } from './PageStoriesCommon';

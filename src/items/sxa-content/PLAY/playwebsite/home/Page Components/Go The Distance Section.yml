@@ -3,10 +3,6 @@ ID: "5f6adee8-f8e2-4a92-85e3-0c1d0a82faf1"
 Parent: "99536ff1-02bf-5b2e-a94a-1bbba4cf50fa"
 Template: "675a1839-6fe8-59a6-a1e4-6ccbdbf2e966"
 Path: /sitecore/content/PLAY/playwebsite/home/Page Components/Go The Distance Section
-SharedFields:
-- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
-  Hint: __Sortorder
-  Value: 300
 Languages:
 - Language: en
   Versions:
@@ -43,7 +39,7 @@ Languages:
         <image mediaid="{21C5D87C-3E77-4AFA-82FF-665B15EA7806}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8f95b3e9-e060-4dbb-895d-9866fbc06022"
+      Value: "6721f569-15be-42b5-9b45-e4379b8343f4"
     - ID: "a8282684-a5d5-57be-b6f6-a509c6ccdbe3"
       Hint: LeftTitle
       Value: 48 Talks and Workshops

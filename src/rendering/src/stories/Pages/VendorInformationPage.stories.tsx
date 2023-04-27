@@ -11,7 +11,7 @@ import {
   Default as VendorInformation,
   VendorInformationProps,
 } from '../../components/Vendors/VendorInformation';
-import { Default as Footer } from '../../components/Navigation/FooterPlay';
+import { Default as Footer } from '../../components/Navigation/Footer';
 import { mockComponentFactory, mockFooterProps, mockHeaderProps } from './PageStoriesCommon';
 import { SitecoreContext } from '@sitecore-jss/sitecore-jss-nextjs';
 import { SESSIONS } from '../mock-sessions';
