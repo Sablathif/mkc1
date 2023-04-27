@@ -1,11 +1,6 @@
 import { useEffect } from 'react';
 import { useRouter } from 'next/router';
-// import { connect } from 'react-redux';
-
 import ALink from '../../feature/custom-link';
-
-// import { cartActions } from '../../../store/cart';
-
 import { getTotalPrice, getCartCount, toDecimal } from '../../../utils';
 
 function CartMenu(props) {
