@@ -5,7 +5,7 @@ import OwlCarousel from '../../../feature/owl-carousel';
 import { productSlider } from '../../../../utils/data/carousel';
 // import { ProductTwo } from '../../../feature/product/product-two';
 function BestCollection(props) {
-  const { products, loading } = props;
+  const { /*products*/ loading } = props;
   return (
     <Reveal keyframes={fadeIn} delay={300} duration={1200} triggerOnce>
       <section className="product-wrapper container mt-6 mt-md-10 pt-4 pb-8">

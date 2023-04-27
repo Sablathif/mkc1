@@ -6,7 +6,7 @@ import OwlCarousel from 'components/feature/owl-carousel';
 import { mainSlider20 } from 'src/utils/data/carousel';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 
-function Classic(BlogProps) {
+function Classic(BlogProps: any) {
   const blog = BlogProps.BlogProps.fields.blog;
   return (
     <div className="page-content with-sidebar">
@@ -14,7 +14,7 @@ function Classic(BlogProps) {
         <div className="row gutter-lg">
           <div className="col-lg-12">
             <div className="posts">
-              {blog?.map((item, index) => (
+              {blog?.map((item: any, index: any) => (
                 <div
                   key={index}
                   className={
