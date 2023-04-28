@@ -1,8 +1,8 @@
 ﻿---
 ID: "2ece8b6e-1788-48db-be4c-bd5be855d0c1"
-Parent: "81bab944-6f14-4545-a5f9-f86e20d28a7d"
+Parent: "3f7bcebc-2694-45df-b1f0-9c4356fc6bb4"
 Template: "daf085e8-602e-43a6-8299-038ff171349f"
-Path: "/sitecore/media library/Project/PLAY/playwebsite/media/img/OHA/Banner/parallax/about-us/contact-us/elements"
+Path: /sitecore/media library/Project/PLAY/playwebsite/media/img/OHA/Banner/elements
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
