@@ -1,0 +1,20 @@
+﻿---
+ID: "effbd239-5b96-5d3c-9d0d-637d4135bacc"
+Parent: "237e0fe9-ac50-50e8-af89-67915c0b9435"
+Template: "237e0fe9-ac50-50e8-af89-67915c0b9435"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/HeroBanner Rendering Parameters/__Standard Values
+SharedFields:
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ed8a7c10-5f98-443c-8cd3-75f8da33a283"
+    - ID: "ed4d8251-855c-4263-a111-1b418a2eebdb"
+      Hint: BannerType
+      Value: SimpleBanner

@@ -6,11 +6,15 @@
         "includes": [
             {
                 "name": "sxa-content",
-                "path": "/sitecore/content/PLAY"
+                "path": "/sitecore/content/PLAY",
+                "scope": "itemAndDescendants",
+				"allowedPushOperations": "createUpdateAndDelete"
             },
             {
                 "name": "sxa-media",
-                "path": "/sitecore/media library/Project/PLAY"
+                "path": "/sitecore/media library/Project/PLAY",
+                "scope": "itemAndDescendants",
+				"allowedPushOperations": "createUpdateAndDelete"
             }
         ]
     }

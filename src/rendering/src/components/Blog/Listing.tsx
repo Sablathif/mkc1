@@ -7,8 +7,6 @@ import { LazyLoadImage } from 'react-lazy-load-image-component';
 
 function Listing(BlogProps: any) {
   const blog = BlogProps.BlogProps.fields.blog;
-  console.log(blog[0].fields.imageList);
-  console.log(blog[0].fields.blogimages);
   return (
     <div className="page-content with-sidebar">
       <div className="container">

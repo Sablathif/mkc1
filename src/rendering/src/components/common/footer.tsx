@@ -2,7 +2,6 @@ import { Image, Link, RichText, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import ALink from 'components/feature/custom-link';
 export default function Footer(props: any) {
   const data = props.props;
-  console.log(data);
   return (
     <footer className="footer">
       <div className="container">

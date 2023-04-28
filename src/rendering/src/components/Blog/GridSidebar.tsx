@@ -8,7 +8,6 @@ import { LazyLoadImage } from 'react-lazy-load-image-component';
 // import Sidebar from './Sidebar';
 function GridSidebar(BlogProps: any) {
   const blog = BlogProps.BlogProps.fields.blog;
-  console.log(blog);
   return (
     <div className="page-content with-sidebar">
       <div className="container">

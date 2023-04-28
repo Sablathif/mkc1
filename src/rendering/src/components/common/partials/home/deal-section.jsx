@@ -3,7 +3,7 @@ import Reveal from 'react-awesome-reveal';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import ALink from '../../../../components/feature/custom-link';
 import { fadeInLeftShorter } from '../../../../utils/data/keyframes';
-
+// import Media from 'components/common/media'
 function DealSection(props) {
   const banners = props.props.fields.Banners;
   //let bannerType = BannerType;
@@ -21,8 +21,9 @@ function DealSection(props) {
                   className={`banner banner-fixed banner-radius content-middle overlay-zoom ${data.fields.BannerType.value}`}
                 >
                   <figure>
+                    {/* <Media props={data.fields.BannerType.value}></Media> */}
                     <LazyLoadImage
-                      src={data.fields.BackgroundImage.value.src}
+                      src={'/-' + data.fields.BackgroundImage.value.src.split('/-').pop()}
                       alt="Banner Image"
                       effect="opacity, transform"
                       width={100}
