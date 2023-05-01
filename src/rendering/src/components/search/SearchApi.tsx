@@ -12,9 +12,9 @@ export async function search(query: any) {
   //let returnData = '';
 
   const graphQLClient: any = new GraphQLRequestClient(
-    'https://onewebacceleratorsc.dev.local/sitecore/api/graph/items/master',
+    'https://cm.xmcloudcm.localhost/sitecore/api/graph/edge/ide',
     {
-      apiKey: '{FA64975E-A617-4651-BA91-1CCB72E19FB7}',
+      apiKey: '{1047AEE5-9BCD-4DBF-9744-A26E12B79AB6}',
     }
   );
 
@@ -26,7 +26,7 @@ export async function search(query: any) {
           	
       ]
 
-        rootItem: "/sitecore/content/OneWebHeadless/DefaultSite/Home/product"
+        rootItem: "{0E8CFD79-ACFC-4CD7-B846-5A15A1443DD8}"
         
       ) {
         results {

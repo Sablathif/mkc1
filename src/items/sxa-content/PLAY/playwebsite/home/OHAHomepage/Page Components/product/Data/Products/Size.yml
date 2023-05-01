@@ -1,0 +1,17 @@
+﻿---
+ID: "f0894970-0452-4a34-ad5e-4db97a8ef932"
+Parent: "90737f37-53aa-4c0c-88f6-9bd14e2c1a28"
+Template: "8b788215-0b86-422c-8807-4d6321564391"
+Path: /sitecore/content/PLAY/playwebsite/home/OHAHomepage/Page Components/product/Data/Products/Size
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c547543b-3a98-459e-8dbc-6d41de4af6e5"

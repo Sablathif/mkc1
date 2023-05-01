@@ -3,35 +3,16 @@
 // import { startTransition, Suspense } from 'react';
 import SearchFilters from './ProductSearchFilters';
 import React, { createContext, useState, useEffect } from 'react';
-import { search } from './SearchApi';
+//import { search } from './SearchApi';
 import SearchResults from './SearchResult';
 import { useRouter } from 'next/router';
-// import { useLazyQuery } from '@apollo/react-hooks';
-//import ToolBox from '~/components/partials/shop/toolbox';
 import Pagination from '../feature/pagination';
-// import withApollo from '~/server/apollo';
-//import { GET_PRODUCTS } from '~/server/queries';
-// type SearchListingProps = ComponentProps & {
-//   fields: {
-//     heading: Field<string>;
-//   };
-// };
+
 export const SearchInfo = createContext();
 
 const SearchListing = (): JSX.Element => {
   const router = useRouter();
-  //const { itemsPerRow = 3, type = "left", isToolbox = true } = props;
   const query = router.query;
-  //const [ getProducts, { data, loading, error } ] = useLazyQuery( GET_PRODUCTS );
-  // const products = data && data.products.data;
-  // const gridClasses = {
-  //   3: 'cols-2 cols-sm-3',
-  //   4: 'cols-2 cols-sm-3 cols-md-4',
-  //   5: 'cols-2 cols-sm-3 cols-md-4 cols-xl-5',
-  //   6: 'cols-2 cols-sm-3 cols-md-4 cols-xl-6',
-  //   7: 'cols-2 cols-sm-3 cols-md-4 cols-lg-5 cols-xl-7',
-  //   8: 'cols-2 cols-sm-3 cols-md-4 cols-lg-5 cols-xl-8',
-  // };
   const [searchResultData, setResult] = useState([]);
   const [searchResultCount, setResultCount] = useState('undefined');
   const [Keyword, setKeyword] = useState();
@@ -43,25 +24,7 @@ const SearchListing = (): JSX.Element => {
     ? parseInt(searchResultCount / perPage) + (searchResultCount % perPage ? 1 : 0)
     : 1;
   const page = parseInt(query.page ? query.page : 1);
-  // const gridType = query.type ? query.type : 'grid';
-
-  // useEffect( () => {
-  //     getProducts( {
-  //         variables: {
-  //             search: query.search,
-  //             colors: query.colors ? query.colors.split( ',' ) : [],
-  //             sizes: query.sizes ? query.sizes.split( ',' ) : [],
-  //             brands: query.brands ? query.brands.split( ',' ) : [],
-  //             min_price: parseInt( query.min_price ),
-  //             max_price: parseInt( query.max_price ),
-  //             category: query.category,
-  //             tag: query.tag,
-  //             sortBy: query.sortby,
-  //             from: perPage * ( page - 1 ),
-  //             to: perPage * page
-  //         }
-  //     } );
-  // }, [ query ] )
+ 
   console.log(searchResultCount);
   useEffect(() => {
     typeof Query !== 'undefined'
@@ -132,4 +95,5 @@ const SearchListing = (): JSX.Element => {
   );
 };
 
-export default SearchListing;
+//export default SearchListing;
+export const Default = SearchListing;

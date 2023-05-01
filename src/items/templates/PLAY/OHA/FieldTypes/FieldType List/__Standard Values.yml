@@ -1,0 +1,17 @@
+﻿---
+ID: "37fcd252-31ec-4ce4-a432-319daef7323d"
+Parent: "d5821536-90da-4d2d-82e6-cc0a30c8a517"
+Template: "d5821536-90da-4d2d-82e6-cc0a30c8a517"
+Path: /sitecore/templates/Project/PLAY/OHA/FieldTypes/FieldType List/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{16537B81-137E-4177-98F8-ABB77DA951F1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "88188a7f-25e6-42ec-93e1-6aeba8e09d2f"

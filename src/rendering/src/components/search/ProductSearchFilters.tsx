@@ -22,8 +22,8 @@ const SearchFilters = (props: any): JSX.Element => {
   }, []);
   const getfilters = async () => {
     const graphQLClient = new GraphQLRequestClient(
-      'https://onewebacceleratorsc.dev.local/sitecore/api/graph/items/master',
-      { apiKey: '{FA64975E-A617-4651-BA91-1CCB72E19FB7}' }
+      'https://cm.xmcloudcm.localhost/sitecore/api/graph/edge/ide',
+      { apiKey: '{1047AEE5-9BCD-4DBF-9744-A26E12B79AB6}' }
     );
     const result: any = await graphQLClient.request(`query filterqurey{
     item(path:"{90737F37-53AA-4C0C-88F6-9BD14E2C1A28}"){

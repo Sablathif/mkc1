@@ -1,0 +1,13 @@
+﻿---
+ID: "ac822ddd-6af1-4d70-b59c-a74e8284e73e"
+Parent: "f6494595-ed5b-4e08-87b5-a7cfd46a0e18"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Align/Align/Content
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2f1ca1dc-f2cc-4af6-93ca-c85c824ec6c1"
