@@ -3,12 +3,11 @@ import {
   Field,
   ImageField,
   RichTextField,
-  Image,
   RichText,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import ALink from 'components/feature/custom-link';
 import { ComponentProps } from 'lib/component-props';
-import { LazyLoadComponent, LazyLoadImage } from 'react-lazy-load-image-component';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 
 type BlogDetailProps = ComponentProps & {
   fields: {

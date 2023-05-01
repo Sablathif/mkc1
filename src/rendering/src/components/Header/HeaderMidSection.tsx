@@ -1,6 +1,7 @@
-import { ImageField, Image, RichTextField, RichText } from '@sitecore-jss/sitecore-jss-nextjs';
+import { ImageField, RichTextField, RichText } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
 import ALink from 'components/feature/custom-link';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 // import SearchBox from 'components/common/partials/search-box';
 
 type HeaderMidSectionProps = ComponentProps & {
@@ -20,7 +21,13 @@ const HeaderMidSection = (props: HeaderMidSectionProps): JSX.Element => (
                 </ALink> */}
 
           <ALink href="/" className="logo" content={undefined} style={undefined}>
-            <Image field={props.fields.Logo} />
+            <LazyLoadImage
+              src={'/-' + props.fields.Logo.value.src.split('/-').pop()}
+              // alt={props?.fields?.Image?.value?.alt}
+              // width={props.fields.Image.value.width}
+              // height={props.fields.Image.value.height}
+            />
+            {/* <Image field={props.fields.Logo} /> */}
           </ALink>
 
           {/* {<SearchBox />} */}
