@@ -28,7 +28,7 @@ function Listing(BlogProps: any) {
                       <figure className="post-media">
                         <ALink href="#" className={undefined} content={undefined} style={undefined}>
                           <LazyLoadImage
-                            src={item.fields.blogimages.value.src}
+                            src={'/-' + item.fields.blogimages.value.src.split('/-').pop()}
                             alt={item.fields.blogimages.value.alt}
                             width={item.fields.blogimages.value.width}
                             height={item.fields.blogimages.value.height}
@@ -36,7 +36,7 @@ function Listing(BlogProps: any) {
                         </ALink>
                         <span className="video-play" onClick={videoHandler}></span>
                         <video width="380">
-                          <source src={item.fields.video.value?.href} type="video/mp4" />
+                          <source src={'/-' + item.fields.video.value?.href.split('/-').pop()} type="video/mp4" />
                         </video>
                       </figure>
                     </>
@@ -51,7 +51,7 @@ function Listing(BlogProps: any) {
                       >
                         <ALink href="#" className={undefined} content={undefined} style={undefined}>
                           <LazyLoadImage
-                            src={item.fields.blogimages.value.src}
+                            src={'/-' + item.fields.blogimages.value.src.split('/-').pop()}
                             alt={item.fields.blogimages.value.alt}
                             width={item.fields.blogimages.value.width}
                             height={item.fields.blogimages.value.height}
