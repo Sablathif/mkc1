@@ -135,7 +135,9 @@ export default function Footer(props: any) {
                   className={datasocial.fields.IconClass.value}
                   content={undefined}
                   style={undefined}
-                ><span></span></ALink>
+                >
+                  <span></span>
+                </ALink>
               </div>
             ))}
           </div>

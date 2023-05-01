@@ -60,7 +60,7 @@ Write-Host "Creating and uploading a deployment package..." -NoNewline
 $deployment = dotnet sitecore cloud deployment create --environment-id $environmentId --working-dir . --upload --no-watch --no-start --json | ConvertFrom-Json
 if ($deployment.Status -eq "Operation Failed") {
     Write-Host ""
-    Write-Error "Creation of deployment failed: $($deployment.Message)"
+    Write-Error "Creation of deployment failed: $($deployment)"
 }
 Write-Host " done."
 $deploymentId = $deployment.id
