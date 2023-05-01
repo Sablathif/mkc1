@@ -1,0 +1,17 @@
+﻿---
+ID: "1d3c3faf-439d-46d5-a0af-0c5e018da6dc"
+Parent: "6c3614a6-2e6e-4bbd-b84f-2568d221a909"
+Template: "687f1da8-c510-48bd-bc13-af46b616337a"
+Path: /sitecore/content/PLAY/playwebsite/Data/OHA/Header 3 step Navigation Data/HeaderNavigationFolder/MainNavigation/Blog
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fdbd208e-09cf-4348-9e94-46399a654372"
+    - ID: "bcdbf166-d7a5-4a34-8e6e-0bd04a79444f"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{A203E254-2CA4-413D-911C-F565FF3787B9}" />

@@ -163,11 +163,11 @@ Languages:
               s:ph="headless-main"
               s:ccb="Clear on publish" />
             <r
-              uid="{7704396A-3935-480B-AFB0-956CDC211DED}"
+              uid="{658A1737-04D2-4E92-B653-CBCC12F702A1}"
               p:after="*[1=2]"
-              s:ds="{160AEA32-5BCD-49A7-BA2B-BC92B29916B2}"
-              s:id="{A14C4BB9-06FA-4BC6-BD2F-4F0638D06211}"
-              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;CSSStyles"
+              s:ds="{B86D9C26-D532-485D-A051-FDE4B2655987}"
+              s:id="{48EFA154-00F0-4A6B-A269-C7FD30F39D18}"
+              s:par="CSSStyles"
               s:ph="headless-main"
               s:ccb="Clear on publish" />
             <r
@@ -202,7 +202,7 @@ Languages:
         </r>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "119c500a-4308-4780-b439-b685598a7382"
+      Value: "e3481fd9-640f-402d-8cda-0b47eb45ee5b"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Home
