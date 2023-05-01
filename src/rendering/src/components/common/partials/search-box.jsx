@@ -158,5 +158,5 @@ function SearchForm() {
     </div>
   );
 }
-
+export const Default = SearchForm;
 // export default withApollo({ ssr: typeof window === 'undefined' })(SearchForm);

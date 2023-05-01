@@ -1,11 +1,6 @@
 import { useEffect } from 'react';
 import { useRouter } from 'next/router';
-import { connect } from 'react-redux';
-
 import ALink from '../../feature/custom-link';
-
-// import { cartActions } from '../../../store/cart';
-
 import { getTotalPrice, getCartCount, toDecimal } from '../../../utils';
 
 function CartMenu(props) {
@@ -115,10 +110,10 @@ function CartMenu(props) {
   );
 }
 
-function mapStateToProps(state) {
-  return {
-    cartList: state.cart.data,
-  };
-}
+// function mapStateToProps(state) {
+//   return {
+//     cartList: state.cart.data,
+//   };
+// }
 // connect(mapStateToProps, { removeFromCart: cartActions.removeFromCart })
-export default (CartMenu);
+export default CartMenu;

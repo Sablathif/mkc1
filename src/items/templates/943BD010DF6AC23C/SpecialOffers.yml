@@ -1,0 +1,23 @@
+﻿---
+ID: "45bb94af-0966-4ffa-a3fb-d944cd441836"
+Parent: "7dcdfe4f-9a9f-4b4a-9af8-20df00109264"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/Header Bottom Navigation/Header Bottom section data goes here/SpecialOffers
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: 
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: General Link
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8688122b-ba8c-43c8-83ba-274e0f636fe3"

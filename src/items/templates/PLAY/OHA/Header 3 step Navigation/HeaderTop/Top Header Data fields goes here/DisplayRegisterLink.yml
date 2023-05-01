@@ -1,0 +1,20 @@
+﻿---
+ID: "a7aab7ba-9cae-4bd5-9ee2-c4549fe1547b"
+Parent: "c055a140-4d07-427e-b3ac-5a2d5d9006af"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/HeaderTop/Top Header Data fields goes here/DisplayRegisterLink
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Checkbox
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 800
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bef65829-6897-40ac-b487-50a7594459a5"

@@ -1,0 +1,17 @@
+﻿---
+ID: "9123afcb-066d-4ee3-99fa-5d2e4e42b701"
+Parent: "98e427ca-121b-4944-a64e-a5bf161bf39b"
+Template: "c83c8564-64db-4364-a4f6-edb5392f2d48"
+Path: /sitecore/content/PLAY/playwebsite/Data/OHA/Header 3 step Navigation Data/HeaderNavigationFolder/CurrencySelector/USD
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b1ae968-fb94-4554-a864-dcdfb7947f78"
+    - ID: "f1ed8043-a88c-4c5a-9d94-dc2d2e7131c6"
+      Hint: LinkData
+      Value: |
+        <link text="USD" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{ABA2B256-3579-49AB-BFFD-39669B3119FF}" />

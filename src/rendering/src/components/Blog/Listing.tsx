@@ -1,13 +1,11 @@
 import React from 'react';
 import { Text } from '@sitecore-jss/sitecore-jss-nextjs';
-import OwlCarousel from 'components/feature/owl-carousel';
-import { mainSlider20 } from 'src/utils/data/carousel';
 import { videoHandler } from 'src/utils';
 import ALink from 'components/feature/custom-link';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 // import BlogSidebar from 'components/common/partials/post/blog-sidebar';
 
-function Listing(BlogProps) {
+function Listing(BlogProps: any) {
   const blog = BlogProps.BlogProps.fields.blog;
   console.log(blog[0].fields.imageList);
   console.log(blog[0].fields.blogimages);
@@ -17,7 +15,7 @@ function Listing(BlogProps) {
         <div className="row gutter-lg">
           <div className="col-lg-12">
             <div className="posts">
-              {blog?.map((item, index) => (
+              {blog?.map((item: any, index: any) => (
                 <div
                   key={index}
                   className={
@@ -30,7 +28,7 @@ function Listing(BlogProps) {
                   item.fields.video.value.href != '' ? (
                     <>
                       <figure className="post-media">
-                      <ALink href="#" className={undefined} content={undefined} style={undefined}>
+                        <ALink href="#" className={undefined} content={undefined} style={undefined}>
                           <LazyLoadImage
                             src={item.fields.blogimages.value.src}
                             alt={item.fields.blogimages.value.alt}

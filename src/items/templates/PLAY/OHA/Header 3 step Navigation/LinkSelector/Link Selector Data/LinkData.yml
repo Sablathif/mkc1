@@ -1,0 +1,20 @@
+﻿---
+ID: "f1ed8043-a88c-4c5a-9d94-dc2d2e7131c6"
+Parent: "86512b69-8bce-49a1-8802-140462a315bd"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/LinkSelector/Link Selector Data/LinkData
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: General Link
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9c3b9c2-4b75-4d3a-bb41-5cbf13c55d9c"

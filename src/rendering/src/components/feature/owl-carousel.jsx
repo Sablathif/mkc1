@@ -7,13 +7,13 @@ if (typeof window !== 'undefined') {
 import 'owl.carousel/dist/assets/owl.carousel.css';
 import 'owl.carousel/dist/assets/owl.theme.default.css';
 import dynamic from 'next/dynamic';
-// const Carousel = dynamic(() => import('react-owl-carousel'), {
-//   ssr: false,
-// });
-
-const Carousel = dynamic(() => import('react-owl-carousel2'), {
+const Carousel = dynamic(() => import('react-owl-carousel'), {
   ssr: false,
 });
+
+// const Carousel = dynamic(() => import('react-owl-carousel2'), {
+//   ssr: false,
+// });
 // let prevPath;
 function OwlCarousel(props) {
   const { adClass, options } = props;

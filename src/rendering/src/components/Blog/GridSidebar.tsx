@@ -6,7 +6,7 @@ import OwlCarousel from 'components/feature/owl-carousel';
 import { mainSlider20 } from 'src/utils/data/carousel';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 // import Sidebar from './Sidebar';
-function GridSidebar(BlogProps) {
+function GridSidebar(BlogProps: any) {
   const blog = BlogProps.BlogProps.fields.blog;
   console.log(blog);
   return (
@@ -15,7 +15,7 @@ function GridSidebar(BlogProps) {
         <div className="row gutter-lg">
           <div className="col-lg-12">
             <div className="posts grid row grid grid-2cols">
-              {blog?.map((item, index) => (
+              {blog?.map((item: any, index: any) => (
                 <div className="grid-item" key={index}>
                   {item.fields.postType.value.toLowerCase() === 'video' &&
                   item.fields.video.value.href != '' ? (
