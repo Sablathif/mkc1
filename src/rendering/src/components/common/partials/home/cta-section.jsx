@@ -19,7 +19,7 @@ function CtaSection(props) {
       className="banner banner-background parallax text-center"
       data-option="{'speed': 4}"
       style={{
-        backgroundImage: `url(${data.BackgroundImage?.value.src})`,
+        backgroundImage: `url(${'/-' + data.BackgroundImage?.value.src.split('/-').pop()})`,
         backgroundColor: '#313237',
       }}
     >

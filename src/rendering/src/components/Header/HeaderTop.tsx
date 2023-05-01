@@ -21,7 +21,6 @@ type HeaderTopProps = ComponentProps & {
 };
 
 const HeaderTop = (props: HeaderTopProps): JSX.Element => {
-  console.log(props);
   return (
     <header className="header header-border">
       <div className="header-top">

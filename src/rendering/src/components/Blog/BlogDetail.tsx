@@ -8,6 +8,7 @@ import {
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import ALink from 'components/feature/custom-link';
 import { ComponentProps } from 'lib/component-props';
+import { LazyLoadComponent, LazyLoadImage } from 'react-lazy-load-image-component';
 
 type BlogDetailProps = ComponentProps & {
   fields: {
@@ -31,7 +32,13 @@ const BlogDetail = (props: BlogDetailProps): JSX.Element => (
               content={undefined}
               style={undefined}
             >
-              <Image field={props.fields.Image} />
+              <LazyLoadImage
+                src={'/-' + props.fields.Image.value.src.split('/-').pop()}
+                // alt={props?.fields?.Image?.value?.alt}
+                // width={props.fields.Image.value.width}
+                // height={props.fields.Image.value.height}
+              />
+              {/* <Image field={props.fields.Image} /> */}
             </ALink>
           </figure>
           <div className="post-details">

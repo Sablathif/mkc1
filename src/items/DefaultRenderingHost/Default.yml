@@ -3,6 +3,16 @@ ID: "dffee92b-0441-45a4-9207-67810b72bd46"
 Parent: "895e25c4-12b2-4b2c-8233-82f3b79eef53"
 Template: "bc71d442-3e4f-46ba-887c-746e54f9bb83"
 Path: /sitecore/system/Settings/Services/Rendering Hosts/Default
+SharedFields:
+- ID: "3121c257-53cf-464a-b736-98b418876057"
+  Hint: AppName
+  Value: 
+- ID: "e32c1801-79b3-4fc1-a9c4-3c6e6c2968ae"
+  Hint: ServerSideRenderingEngineApplicationUrl
+  Value: 
+- ID: "fc76919b-0d7c-4732-865d-2af795fb38a4"
+  Hint: ServerSideRenderingEngineEndpointUrl
+  Value: 
 Languages:
 - Language: "de-DE"
   Versions:
@@ -17,7 +27,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4270ae06-bd81-4e8a-898f-5e530cbb8544"
+      Value: "663a8df1-3515-415e-8f1b-73d0a012f6ea"
 - Language: "ja-JP"
   Versions:
   - Version: 1

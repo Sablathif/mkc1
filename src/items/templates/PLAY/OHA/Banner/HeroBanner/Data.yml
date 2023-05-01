@@ -1,0 +1,13 @@
+﻿---
+ID: "f871683c-fb48-4b61-82f1-f57cea8ff2f2"
+Parent: "e05e6908-35e7-5098-a0c0-c2bbf3ab8a44"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/HeroBanner/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9d399d0-68f4-4a19-81ef-328572736813"

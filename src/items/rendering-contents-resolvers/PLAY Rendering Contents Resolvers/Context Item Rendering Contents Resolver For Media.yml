@@ -1,0 +1,23 @@
+﻿---
+ID: "b5cb2ba2-5272-4196-8757-d9230e8cedcc"
+Parent: "33b97084-9b0b-4f01-9b4a-531e70b72c7a"
+Template: "814c1dbb-b118-4511-ba2b-7288ed3d490b"
+Path: /sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/PLAY Rendering Contents Resolvers/Context Item Rendering Contents Resolver For Media
+SharedFields:
+- ID: "23b859e1-34f9-4711-a46a-dc0d616584ce"
+  Hint: ItemSelectorQuery
+  Value: "./*[@@templatename='Jpeg']"
+- ID: "de218ede-a9ad-4b04-86c5-9ff593ccf39d"
+  Hint: Type
+  Value: Sitecore.LayoutService.ItemRendering.ContentsResolvers.RenderingContentsResolver, Sitecore.LayoutService
+- ID: "fb43a64d-060f-4fa9-b1c3-1511442175e1"
+  Hint: IncludeServerUrlInMediaUrls
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9098c935-4e5e-4f89-a723-c445a2e9336a"

@@ -8,7 +8,6 @@ import { LazyLoadImage } from 'react-lazy-load-image-component';
 // import Sidebar from './Sidebar';
 function GridSidebar(BlogProps: any) {
   const blog = BlogProps.BlogProps.fields.blog;
-  console.log(blog);
   return (
     <div className="page-content with-sidebar">
       <div className="container">
@@ -51,7 +50,10 @@ function GridSidebar(BlogProps: any) {
                     )} */}
                           <span className="video-play" onClick={videoHandler}></span>
                           <video width="380">
-                            <source src={item.fields.video.value?.href} type="video/mp4" />
+                            <source
+                              src={'/-' + item.fields.video.value?.href.split('/-').pop()}
+                              type="video/mp4"
+                            />
                           </video>
                         </figure>
                       </div>
@@ -73,7 +75,7 @@ function GridSidebar(BlogProps: any) {
                                   style={undefined}
                                 >
                                   <LazyLoadImage
-                                    src={item.fields.blogimages.value.src}
+                                    src={'/-' + item.fields.blogimages.value.src.split('/-').pop()}
                                     alt={item.fields.blogimages.value.alt}
                                     width={item.fields.blogimages.value.width}
                                     height={item.fields.blogimages.value.height}
@@ -118,7 +120,7 @@ function GridSidebar(BlogProps: any) {
                                 style={undefined}
                               >
                                 <LazyLoadImage
-                                  src={item.fields.blogimages.value.src}
+                                  src={'/-' + item.fields.blogimages.value.src.split('/-').pop()}
                                   alt={item.fields.blogimages.value.alt}
                                   width={item.fields.blogimages.value.width}
                                   height={item.fields.blogimages.value.height}
