@@ -118,213 +118,6 @@ Signature: wsz/kSMO52IVeiNk3C4A9iITRcvhh9B3c/7TlhLlpfM=
 Modified: 638185328873127723
 ---
 File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Headless Site\__Standard Values.yml
-ID: "60f29795-8c22-433e-8be1-a08c4fe84e34"
-Parent: "507b2363-3200-4cea-b238-3045731ba6a5"
-Template: "507b2363-3200-4cea-b238-3045731ba6a5"
-Path: /sitecore/templates/Project/PLAY/Headless Site/__Standard Values
-Signature: L90YMh1TpTaH5o47shge3FWoh1Jb/S1Rlyv80zCM7KI=
-Modified: 638185328871274357
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Headless Tenant\__Standard Values.yml
-ID: "5a825ceb-31d2-4889-9f12-53120dce4968"
-Parent: "bfe54f03-2ca7-4f4f-867e-daef974bae4d"
-Template: "bfe54f03-2ca7-4f4f-867e-daef974bae4d"
-Path: /sitecore/templates/Project/PLAY/Headless Tenant/__Standard Values
-Signature: u7qZo1fhJytmTr7K+hQTeN+qIyFG+7yNyEX4QUAwInk=
-Modified: 638185328871284192
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\JSS Settings\__Standard Values.yml
-ID: "016a0a40-4ccb-47a9-83b9-8dabb97ef2f2"
-Parent: "8e7f4f7d-8ac7-435a-bb13-8212313c98d4"
-Template: "8e7f4f7d-8ac7-435a-bb13-8212313c98d4"
-Path: /sitecore/templates/Project/PLAY/JSS Settings/__Standard Values
-Signature: PvfL8TVH8oRd5lh+cDLvUlghCPI9hsUlU/rExNRLP98=
-Modified: 638185328871294385
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Align.yml
-ID: "a2797862-cf29-4638-88e1-4131501550c5"
-Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/PLAY/OHA/Align
-Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
-Modified: 638185396849294130
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Background Type.yml
-ID: "59c0d21e-d5db-43b1-bfa3-9e3f6b715a6a"
-Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/PLAY/OHA/Background Type
-Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
-Modified: 638185328871354206
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner.yml
-ID: "f6c997e4-e883-4152-97a7-a2eaa1b12a00"
-Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner
-Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
-Modified: 638185328871384225
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\BannerCategory.yml
-ID: "d70cda33-90df-4f03-922f-f43aecbf7758"
-Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory
-Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
-Modified: 638185328871525081
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail.yml
-ID: "aa48895b-d874-489b-9cf6-40867797119c"
-Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail
-Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
-Modified: 638185328871624205
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog.yml
-ID: "6965d986-3d4c-440c-9d04-9d94862551fb"
-Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog
-Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
-Modified: 638185328871724560
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\CTAType.yml
-ID: "f6b3117b-ec0e-4dbc-901b-72408042bdba"
-Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/PLAY/OHA/CTAType
-Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
-Modified: 638185396849339404
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\FieldTypes.yml
-ID: "c82d8d6e-e36b-4c24-b86d-e12db17a2aaf"
-Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/PLAY/OHA/FieldTypes
-Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
-Modified: 638185396849399385
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer.yml
-ID: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
-Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer
-Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
-Modified: 638185328872104748
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation.yml
-ID: "17660589-81b2-4bb8-bc8e-1ede576af81a"
-Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation
-Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
-Modified: 638185397056079614
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header.yml
-ID: "c3bcb79a-4f9c-4957-801a-fff556fb29e0"
-Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/PLAY/OHA/Header
-Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
-Modified: 638185328872645380
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\HeaderNavigation.yml
-ID: "b9a20133-f44c-45bd-aa9f-080d42cbc78f"
-Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/PLAY/OHA/HeaderNavigation
-Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
-Modified: 638185396849509379
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Hero Carousel.yml
-ID: "b2e1fbf3-f92d-4fac-aa55-990ef4c640e4"
-Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel
-Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
-Modified: 638185328872875240
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Page\Content.yml
-ID: "545b7bdb-9ab4-456a-a1cc-7e8833cff075"
-Parent: "95cb88e7-8068-4a9c-9eeb-05f9a22c49d4"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/Page/Content
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638185328873051881
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Page\__Standard Values.yml
-ID: "8dae20b0-93e0-469a-b672-923c36d8213e"
-Parent: "95cb88e7-8068-4a9c-9eeb-05f9a22c49d4"
-Template: "95cb88e7-8068-4a9c-9eeb-05f9a22c49d4"
-Path: /sitecore/templates/Project/PLAY/Page/__Standard Values
-Signature: hVSMrcYUI2AugZZH4nxD9X7dL0oxAHNmKhUe3/o4gFo=
-Modified: 638185328873097828
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Page Design Folder\__Standard Values.yml
-ID: "1cf398b2-d2ab-4ad4-aa85-08b996477786"
-Parent: "a58ef6da-619e-4688-bb21-363038944569"
-Template: "a58ef6da-619e-4688-bb21-363038944569"
-Path: /sitecore/templates/Project/PLAY/Page Design Folder/__Standard Values
-Signature: Owc7ft2RGMgz0gSgpTMA6XiUh008GzkYRzvOpdZCkHM=
-Modified: 638185328873021899
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Page Designs\__Standard Values.yml
-ID: "8ff19c90-ed8e-4ec5-993c-545f6a1bdca4"
-Parent: "7756380e-cb33-4213-b486-b73092696756"
-Template: "7756380e-cb33-4213-b486-b73092696756"
-Path: /sitecore/templates/Project/PLAY/Page Designs/__Standard Values
-Signature: jmWtn7hZqqO52UOO/C5amlTOUpmf0dCo0OVzBg72dYs=
-Modified: 638185328873041903
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Partial Design Folder\__Standard Values.yml
-ID: "599bd7d0-077f-48c8-ace7-e18d3ea41063"
-Parent: "6aa1ece5-d4a4-4458-a534-e6543863e341"
-Template: "6aa1ece5-d4a4-4458-a534-e6543863e341"
-Path: /sitecore/templates/Project/PLAY/Partial Design Folder/__Standard Values
-Signature: pLBLfZpxfiBsZoitawqdYsoPenOOs+YG/8lTLfhsXfM=
-Modified: 638185328873107743
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Partial Designs\__Standard Values.yml
-ID: "707e3005-11c9-4c0d-814e-eff5c52e2077"
-Parent: "edd70716-2cb0-4c84-86be-1ad37a4c2c21"
-Template: "edd70716-2cb0-4c84-86be-1ad37a4c2c21"
-Path: /sitecore/templates/Project/PLAY/Partial Designs/__Standard Values
-Signature: fD/42aGW76HtueE2W+LREACdpcDmOQ2ukCPDnvj4PF8=
-Modified: 638185328873127723
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Rendering Parameters\Base Rendering Parameters.yml
-ID: "4ece011d-d40e-4f5f-9852-7c6dd65374a5"
-Parent: "98951a71-995e-4a47-bdaa-b17671387121"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/PLAY/Rendering Parameters/Base Rendering Parameters
-Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
-Modified: 638185328873137722
----
-File: |
   C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Rendering Parameters\FEAASComponent.yml
 ID: "86dd53eb-e83f-40ea-ade4-73466017fa66"
 Parent: "98951a71-995e-4a47-bdaa-b17671387121"
@@ -341,60 +134,6 @@ Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
 Path: /sitecore/templates/Project/PLAY/Rendering Parameters/PLAY Styling and Grid
 Signature: Wg3E3c/eC1Q0muvnoGaRwL2F6OXxRbcbrGhrBNXARtY=
 Modified: 638185328873207850
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Rendering Parameters\PLAY Styling.yml
-ID: "3c13bf6c-32dd-4f40-bcc9-208b47f21bb5"
-Parent: "98951a71-995e-4a47-bdaa-b17671387121"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/Rendering Parameters/PLAY Styling
-Signature: uh2Im5Hzh5b0NML0MDW8uo2jdlmfnHjvbAKfcMCTQWE=
-Modified: 638185328873227723
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Align\Align Folder.yml
-ID: "33e3b255-13eb-4dbf-83e9-4e7c2f519fdb"
-Parent: "a2797862-cf29-4638-88e1-4131501550c5"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Align/Align Folder
-Signature: 4NxkSDGr/2KHW94CPYciGBeP+l02YsiDoqDWN5QeJEY=
-Modified: 638185396849299153
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Align\Align.yml
-ID: "f6494595-ed5b-4e08-87b5-a7cfd46a0e18"
-Parent: "a2797862-cf29-4638-88e1-4131501550c5"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Align/Align
-Signature: 45IONfTFcK/IfVCGPFKCb5MFlvfsmEWNkVy5TiaW/gI=
-Modified: 638185396849319398
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Background Type\Background Type Folder.yml
-ID: "74aa146b-f8c7-45ee-9e51-bdd6300f76d3"
-Parent: "59c0d21e-d5db-43b1-bfa3-9e3f6b715a6a"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Background Type/Background Type Folder
-Signature: hHcRPYwTRbNnnxMytOBAb+xXidWJm6TH+3HsjkIVNZw=
-Modified: 638185328871364283
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Background Type\Background.yml
-ID: "645317fe-3c05-4cde-93ec-8a1989204d29"
-Parent: "59c0d21e-d5db-43b1-bfa3-9e3f6b715a6a"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Background Type/Background
-Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
-Modified: 638185328871375007
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\Banner Branch.yml
-ID: "7921e700-6073-4fc9-b864-7d2c97f410cc"
-Parent: "f6c997e4-e883-4152-97a7-a2eaa1b12a00"
-Template: "35e75c72-4985-4e09-88c3-0eac6cd1e64f"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner Branch
-Signature: FO1lEvstlRnAD0PNXyQPHloO9+ZZs9dM+w/uIMriel0=
-Modified: 638185328871394224
 ---
 File: |
   C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\Banner Folder.yml
@@ -415,15 +154,6 @@ Signature: zAwLbrykxttbG3n+8nWE7X7DRoKybhsOz5bOlxJxu0E=
 Modified: 638185328871434240
 ---
 File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\Banner.yml
-ID: "61be6f7d-3a37-45f8-924f-f8fedc8f7a05"
-Parent: "f6c997e4-e883-4152-97a7-a2eaa1b12a00"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner
-Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
-Modified: 638185328871464206
----
-File: |
   C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\HeroBanner Rendering Parameters.yml
 ID: "237e0fe9-ac50-50e8-af89-67915c0b9435"
 Parent: "f6c997e4-e883-4152-97a7-a2eaa1b12a00"
@@ -442,132 +172,6 @@ Signature: 0cd6YiPsvZRA59IuDgwyjyJaaNJla0wR9A5of6YrTSE=
 Modified: 638185400304537531
 ---
 File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\BannerCategory\Banner List.yml
-ID: "72b37029-b132-4e64-bd9e-94eeb0d7fbdc"
-Parent: "d70cda33-90df-4f03-922f-f43aecbf7758"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner List
-Signature: mj8CIChffklPnU/e7vXe/OsDpjJLu9Yym3D9BWMB6n4=
-Modified: 638185328871525081
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\BannerCategory\Banner.yml
-ID: "84d339d4-3ab1-40d4-b24a-7ec20138d6fc"
-Parent: "d70cda33-90df-4f03-922f-f43aecbf7758"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner
-Signature: WRwpzGvk1xzmfAtvjr//iFOvMtotCXSHD1vsBfh5lyk=
-Modified: 638185328871564219
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog.yml
-ID: "0b8a5ed2-fb6c-412f-a64b-cbeac7e3c3af"
-Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog
-Signature: QiYTlx6P4jHWxdqX1G6WfgHyI7vIJTLbq4+CmjauepU=
-Modified: 638185328871734774
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\BlogCategory.yml
-ID: "5de099be-a1f8-4d18-ae74-57e8d6d92861"
-Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogCategory
-Signature: gh2KIluLH0yfwWAQAro1y1FXBZDLmRMTaUgFPq4FBkw=
-Modified: 638185328871804568
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\BlogCategoryList.yml
-ID: "0ac5a04e-11cd-4063-a9fc-c360dac332e8"
-Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogCategoryList
-Signature: MS/0JCK4/+ABbjdd27VYE0Ohk/iANnVqsBZlCo2SSdA=
-Modified: 638185328871834559
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\BlogImage.yml
-ID: "836b74eb-d58b-42bd-8836-1b79eba49b5c"
-Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogImage
-Signature: Gnnrf2O7RfDrYiw6Mc8AJYZ/i88drgPkye0f4GV2kuY=
-Modified: 638185328871854558
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\BlogList.yml
-ID: "c1501a98-ec27-40e6-87db-9a405adf61fa"
-Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogList
-Signature: mj8CIChffklPnU/e7vXe/OsDpjJLu9Yym3D9BWMB6n4=
-Modified: 638185328871874767
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\BlogType.yml
-ID: "6b1aee01-9742-4c9c-a4e1-41c8dc4f4c2e"
-Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogType
-Signature: Kt93N4C8FFTCYp12rLoQ3EEpgbfRiPG0dI39iByUPKg=
-Modified: 638185328871894758
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\ImageList.yml
-ID: "3ac3e39c-768f-4bd8-8265-9162a307cffb"
-Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/ImageList
-Signature: /WyMXm182wjzn2f30iz/7d0W2wQPTo+rsvpEXbiAGfM=
-Modified: 638185328871914728
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\PostType.yml
-ID: "8b22419e-28b8-48d9-8519-4e9dc195e77f"
-Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/PostType
-Signature: UEfqzRYOaawNE6f4NBSq+PmRm4hNeBh0HXtWCWfB4a8=
-Modified: 638185328871935456
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\Blog Detail.yml
-ID: "fbe405da-7ac1-4d87-97a8-0abcb416242d"
-Parent: "aa48895b-d874-489b-9cf6-40867797119c"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/Blog Detail
-Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
-Modified: 638185328871635075
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\BlogDetail.yml
-ID: "f20e7c85-7105-5375-a3d0-42fd54d93287"
-Parent: "aa48895b-d874-489b-9cf6-40867797119c"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/BlogDetail
-Signature: IVGuuzUQajWpfhGrsLKrZ9RTZJfphHEfoOSV44iqHOA=
-Modified: 638185328871674218
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\CTAType\CTAType Folder.yml
-ID: "5fe8866f-2056-4ad2-b893-9bc520fdcfed"
-Parent: "f6b3117b-ec0e-4dbc-901b-72408042bdba"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/CTAType/CTAType Folder
-Signature: PaS+X1sukgt86w7XfiUFZIbPDL/MXw7KAAkTh1J5zyE=
-Modified: 638185396849349406
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\CTAType\CTAType.yml
-ID: "fc86e7b2-7acf-48b0-8f46-925a28b8deb4"
-Parent: "f6b3117b-ec0e-4dbc-901b-72408042bdba"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/CTAType/CTAType
-Signature: Y8snHQmcZkbBY8HvuZ9T/XdkvA6d3uS4EHYmSqTKxcw=
-Modified: 638185396849379390
----
-File: |
   C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\FieldTypes\FieldType Branch.yml
 ID: "0985ae5c-d8b5-47c1-a75a-425c381f0238"
 Parent: "c82d8d6e-e36b-4c24-b86d-e12db17a2aaf"
@@ -584,132 +188,6 @@ Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
 Path: /sitecore/templates/Project/PLAY/OHA/FieldTypes/FieldType Folder
 Signature: XHprAXHjfLfurOOML3uEZnuGlpXRjKVu1PqrcAwWJjM=
 Modified: 638185396849439382
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\FieldTypes\FieldType List.yml
-ID: "d5821536-90da-4d2d-82e6-cc0a30c8a517"
-Parent: "c82d8d6e-e36b-4c24-b86d-e12db17a2aaf"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/FieldTypes/FieldType List
-Signature: TAmJrTPCIZ+sF+RGGk2h7zn60+FDcTqg4ZLgg+a2vvI=
-Modified: 638185396849459617
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\FieldTypes\FieldType.yml
-ID: "16537b81-137e-4177-98f8-abb77da951f1"
-Parent: "c82d8d6e-e36b-4c24-b86d-e12db17a2aaf"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/FieldTypes/FieldType
-Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
-Modified: 638185396849489379
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Folder.yml
-ID: "8212731d-f3a6-4098-b22b-d50940643b6d"
-Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Folder
-Signature: hhqctUjyjSC972jh17J/A2+aZDcAUmwRpYVdP/ycvVY=
-Modified: 638185328872114565
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Info.yml
-ID: "c47023f3-27d1-4a7d-a598-b04e53973ad6"
-Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info
-Signature: issZmBNi47BdTgwFG5iOW9GQCDJbYMjOflvTQH2zAzI=
-Modified: 638185328872124557
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Instagram.yml
-ID: "a2b7ac0c-307a-4e5d-8f7c-89856d62e853"
-Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Instagram
-Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
-Modified: 638185328872234558
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Links.yml
-ID: "619ec087-f367-40cb-9bee-25920c1b8a5c"
-Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Links
-Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
-Modified: 638185328872264572
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Navigation.yml
-ID: "d62efcd7-f1eb-49e2-904b-0bc5b252b133"
-Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Navigation
-Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
-Modified: 638185328872294787
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Payment.yml
-ID: "3220f0be-9993-4325-80a5-ad687f5cd29e"
-Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Payment
-Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
-Modified: 638185328872334816
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Social Media.yml
-ID: "cecbd542-e304-4ad4-82ec-5ed2d43b5df2"
-Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Social Media
-Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
-Modified: 638185328872355142
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header\Header.yml
-ID: "c44f459c-7d7b-425b-8b9b-317c8cc2966b"
-Parent: "c3bcb79a-4f9c-4957-801a-fff556fb29e0"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Header/Header
-Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
-Modified: 638185328872655392
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\CurrencySelector.yml
-ID: "8065aa2a-fd02-4802-a8e9-19e8bf85af1a"
-Parent: "17660589-81b2-4bb8-bc8e-1ede576af81a"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/CurrencySelector
-Signature: yayPgktxQQ25j73u+vkwNZdKHxPRaB4ec71Jh45mKck=
-Modified: 638185397056089434
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\Header Bottom Navigation.yml
-ID: "2ef61d92-c603-4a75-b9d9-371e02534bee"
-Parent: "17660589-81b2-4bb8-bc8e-1ede576af81a"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/Header Bottom Navigation
-Signature: adQ9WXQiuRDIVIxaw8M9b7meZzUX4qLPHDvHKbFG5cE=
-Modified: 638185397056109428
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\Header Mid Section.yml
-ID: "d7e95d15-fada-4f29-9122-1ef5b89b8982"
-Parent: "17660589-81b2-4bb8-bc8e-1ede576af81a"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/Header Mid Section
-Signature: Xz/1g6oK/aGW0NH0syHU5/NDiFTNbbFPpXCTjfrQI3E=
-Modified: 638185397056139449
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\HeaderNavigationFolder.yml
-ID: "ab264316-8817-4f98-be52-da07e421163a"
-Parent: "17660589-81b2-4bb8-bc8e-1ede576af81a"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/HeaderNavigationFolder
-Signature: +4lAXuOf0V5FojkQYoWsHN65RO3n/2f8vH5ZXPBWBq4=
-Modified: 638185397056200326
 ---
 File: |
   C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\HeaderTop.yml
@@ -838,69 +316,6 @@ Signature: K4Jab91M/XGkkS7tLIIc8O/2/p3Jf5Dvtwpkzs/BlOw=
 Modified: 638185328872991900
 ---
 File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Page\Content\Content.yml
-ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
-Parent: "545b7bdb-9ab4-456a-a1cc-7e8833cff075"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/Page/Content/Content
-Signature: kAI1WqqRfKjaF/AaDO+QWRsdJZbjzzCwCcs9y/CfHsI=
-Modified: 638185328873061888
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Page\Content\Title.yml
-ID: "17707054-bc28-496c-925f-e614ba18f3e0"
-Parent: "545b7bdb-9ab4-456a-a1cc-7e8833cff075"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/Page/Content/Title
-Signature: DxIA1csTkrJn593QKys2KcPfmAmObGphqRejcGeSnFk=
-Modified: 638185328873092411
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Rendering Parameters\Base Rendering Parameters\Base Styling and Grid.yml
-ID: "7dd20ecb-6ac1-49ed-a6e2-c5d5327a0833"
-Parent: "4ece011d-d40e-4f5f-9852-7c6dd65374a5"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/Rendering Parameters/Base Rendering Parameters/Base Styling and Grid
-Signature: OKSwhNlPlV9tkPx294iezj14lAuXS1PWMw28/8hRoFs=
-Modified: 638185328873147716
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Rendering Parameters\Base Rendering Parameters\Base Styling.yml
-ID: "8ac52852-e0fe-4c29-8fea-09ede899403e"
-Parent: "4ece011d-d40e-4f5f-9852-7c6dd65374a5"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/Rendering Parameters/Base Rendering Parameters/Base Styling
-Signature: GSioPq9Ex3MyyOXLyJNKcgv1SQGx5FNsHtJljT1t8io=
-Modified: 638185328873167721
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Rendering Parameters\FEAASComponent\Fields.yml
-ID: "0a875884-eeec-4165-8603-b21eb47a0c96"
-Parent: "86dd53eb-e83f-40ea-ade4-73466017fa66"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/Rendering Parameters/FEAASComponent/Fields
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638185328873187735
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Rendering Parameters\FEAASComponent\__Standard Values.yml
-ID: "82094216-6121-4e02-b409-1efd9d05822a"
-Parent: "86dd53eb-e83f-40ea-ade4-73466017fa66"
-Template: "86dd53eb-e83f-40ea-ade4-73466017fa66"
-Path: /sitecore/templates/Project/PLAY/Rendering Parameters/FEAASComponent/__Standard Values
-Signature: oEd6+09+JGAHIv92/+GO+1Uj8ySOr8dEHZjz4cO00fY=
-Modified: 638185328873207850
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Rendering Parameters\PLAY Styling\__Standard Values.yml
-ID: "63878fd4-39e0-40ea-b01a-c64294587e4c"
-Parent: "3c13bf6c-32dd-4f40-bcc9-208b47f21bb5"
-Template: "3c13bf6c-32dd-4f40-bcc9-208b47f21bb5"
-Path: /sitecore/templates/Project/PLAY/Rendering Parameters/PLAY Styling/__Standard Values
-Signature: rKIkb0eGpT2DlQ6OFowIcQEpfVzn0WBmVTlWex2Tpg0=
-Modified: 638185328873227723
----
-File: |
   C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Rendering Parameters\PLAY Styling and Grid\__Standard Values.yml
 ID: "28609a9b-97ad-425f-80cd-c4092a75c86a"
 Parent: "742d06b0-3e34-4e15-bbac-fa2623268d96"
@@ -937,49 +352,508 @@ Signature: Z3Vc6co7v92lPZHOnld1WWlauVLmvPDhfEuG2JwXfNA=
 Modified: 638185328871375007
 ---
 File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\Banner\Content.yml
-ID: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
-Parent: "61be6f7d-3a37-45f8-924f-f8fedc8f7a05"
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\BlogDetail\__Standard Values.yml
+ID: "dc594dc9-5592-5643-8629-0b6e6c15082e"
+Parent: "f20e7c85-7105-5375-a3d0-42fd54d93287"
+Template: "f20e7c85-7105-5375-a3d0-42fd54d93287"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/BlogDetail/__Standard Values
+Signature: baH2/xfzIDNQ3+hEzUJ+6pDyZ33PAzX9R3dqyhSvDwY=
+Modified: 638185328871724560
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\CTAType\CTAType\Content.yml
+ID: "f64d1804-9c64-4d31-af38-98c405cfd725"
+Parent: "fc86e7b2-7acf-48b0-8f46-925a28b8deb4"
 Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content
+Path: /sitecore/templates/Project/PLAY/OHA/CTAType/CTAType/Content
 Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638185328871464206
+Modified: 638185396849389386
 ---
 File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\Banner Branch\_name.yml
-ID: "de20228b-32cf-4fb0-bd36-46e91916345b"
-Parent: "7921e700-6073-4fc9-b864-7d2c97f410cc"
-Template: "4f5bd5b4-cdf8-4909-8dfa-8d9b1949c8c8"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner Branch/$name
-Signature: UzqVrPEJX9p1u6CCCmPglY01oTRUq56I+lcf5er5F+k=
-Modified: 638185328871404224
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\Banner Folder\__Standard Values.yml
-ID: "9d715120-a16f-49d1-b3f5-31132a8b8bf2"
-Parent: "3b706afe-21af-4121-8163-a9b7fa13a299"
-Template: "3b706afe-21af-4121-8163-a9b7fa13a299"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner Folder/__Standard Values
-Signature: /MrVLSA7sykxk0R4BWSgi5icfsj0E6C3YYFO6Mwt+WY=
-Modified: 638185328871424249
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\Banner List\Banners.yml
-ID: "cf0a8a65-0442-4158-9703-abd2246604a9"
-Parent: "4f5bd5b4-cdf8-4909-8dfa-8d9b1949c8c8"
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\CTAType\CTAType Folder\CTATypes.yml
+ID: "25a27dbf-1b7b-4aa3-abc1-042917bb3c47"
+Parent: "5fe8866f-2056-4ad2-b893-9bc520fdcfed"
 Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner List/Banners
+Path: /sitecore/templates/Project/PLAY/OHA/CTAType/CTAType Folder/CTATypes
 Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638185328871434240
+Modified: 638185396849369408
 ---
 File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\Banner List\__Standard Values.yml
-ID: "40a69598-8a73-4665-a225-b56a7211861e"
-Parent: "4f5bd5b4-cdf8-4909-8dfa-8d9b1949c8c8"
-Template: "4f5bd5b4-cdf8-4909-8dfa-8d9b1949c8c8"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner List/__Standard Values
-Signature: Ls+M+143c1D7vfqCmtBD9Oj+hrzZdkkvD+IDOB6umO8=
-Modified: 638185328871454197
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\FieldTypes\FieldType\FieldTypes.yml
+ID: "b4644d72-7a0a-4eac-86eb-bfa25ad7f06f"
+Parent: "16537b81-137e-4177-98f8-abb77da951f1"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/FieldTypes/FieldType/FieldTypes
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638185396849499389
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\HeaderNavigation\HeaderTopRightNavigationFolder\__Standard Values.yml
+ID: "4bd4e56b-2e1f-47c4-928e-9c6f0426d665"
+Parent: "afcfa9ae-1299-45e5-b594-82b38cca0256"
+Template: "afcfa9ae-1299-45e5-b594-82b38cca0256"
+Path: /sitecore/templates/Project/PLAY/OHA/HeaderNavigation/HeaderTopRightNavigationFolder/__Standard Values
+Signature: URkktW8tgX0yhY34QdrYwxXi9LWpvbqIC5BI5DdKWxg=
+Modified: 638185397056519502
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\HeaderNavigation\Main Navigation Item\Navigation Links.yml
+ID: "e103b1d5-ea8e-4194-9807-7847b42c23d5"
+Parent: "687f1da8-c510-48bd-bc13-af46b616337a"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/HeaderNavigation/Main Navigation Item/Navigation Links
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638185397056539507
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\HeaderNavigation\Main Navigation Item\__Standard Values.yml
+ID: "25b8c637-981b-4b67-aadd-abe5d57897d1"
+Parent: "687f1da8-c510-48bd-bc13-af46b616337a"
+Template: "687f1da8-c510-48bd-bc13-af46b616337a"
+Path: /sitecore/templates/Project/PLAY/OHA/HeaderNavigation/Main Navigation Item/__Standard Values
+Signature: 60wVOQMX3boq5E5wJ7jR95KDKDHPwcqt51W3hsEmKKg=
+Modified: 638185397056569508
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\HeaderNavigation\Sub Navigation Item\Sub Navigation Links.yml
+ID: "6c33b5b2-b559-484a-a9ae-a8619e98613e"
+Parent: "6db39898-e2b3-4912-bc17-6e357e85bb30"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/HeaderNavigation/Sub Navigation Item/Sub Navigation Links
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638185397056579502
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\HeaderNavigation\Sub Navigation Root\Sub Navigation.yml
+ID: "fac96785-b84e-4866-9f68-86000f0ebcc4"
+Parent: "2aa0dfc5-5eff-4694-b12a-c3d04821cd14"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/HeaderNavigation/Sub Navigation Root/Sub Navigation
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638185397056630046
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\HeaderNavigation\Sub Navigation Root\__Standard Values.yml
+ID: "dff91585-a4db-4bac-9cde-d49d486617bc"
+Parent: "2aa0dfc5-5eff-4694-b12a-c3d04821cd14"
+Template: "2aa0dfc5-5eff-4694-b12a-c3d04821cd14"
+Path: /sitecore/templates/Project/PLAY/OHA/HeaderNavigation/Sub Navigation Root/__Standard Values
+Signature: 5DJl1+EscLctErdCbILVCq9Gp8Q8qIOfTqyE3AsaRKQ=
+Modified: 638185397056657352
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Hero Carousel\Carousel Slide\Slide Data.yml
+ID: "e82b0fbf-ddc2-425f-9805-b5a7b18870e5"
+Parent: "13569147-2edd-4482-9bfe-9b3f6a589c92"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/Carousel Slide/Slide Data
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638185328872895258
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Hero Carousel\HeroCarousel\Carousel Data.yml
+ID: "26aa37c5-3ec1-418e-9842-a3b1a938c8f5"
+Parent: "3a9aef2b-bb55-5719-a5f8-13f8caeeb422"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/HeroCarousel/Carousel Data
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638185328873002423
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\Banner\Content\CTALink.yml
+ID: "43736d85-57c3-4220-8972-9d4759c156ff"
+Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/CTALink
+Signature: mypWiw/CaavbsFZkQkr3Ew1O4ltBr9K2J8yFI4usYZI=
+Modified: 638185328871494217
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\Banner\Content\CTAText.yml
+ID: "df08957b-e019-4862-a95f-707922cc2b17"
+Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/CTAText
+Signature: CS+et9Yt47GWTrRaHAhd4ibZ9MeOxuwPmm8BkDWE4F8=
+Modified: 638185328871494217
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\Banner\Content\CTAType.yml
+ID: "71dcee88-aeba-40df-891b-6e85101bb19b"
+Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/CTAType
+Signature: U2W+oCBxZgID6B58OMvjPMRSduXQH/U6yfUpFsTsmnw=
+Modified: 638185397055991507
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\Banner\Content\Description.yml
+ID: "e90ca7ff-8416-449c-8372-98d865400789"
+Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/Description
+Signature: eHVEFm2+NBoqzb4H+s/qBmZeC6d4bDvz66g0CedWt78=
+Modified: 638185328871504211
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\BannerCategory\Banner\Content\SubTitle.yml
+ID: "a179b108-27f8-47c7-b885-c923324511b1"
+Parent: "5f1378e0-dc5b-4bad-8942-d86969b20ec0"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner/Content/SubTitle
+Signature: oD/p7YUnOqkpNkqLr7juywP80CnpMijcWWQ/rmyCdnU=
+Modified: 638185328871614985
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\BannerCategory\Banner\Content\Title.yml
+ID: "55491cfc-5cc9-41de-b3b1-7f5d3aa9ccfc"
+Parent: "5f1378e0-dc5b-4bad-8942-d86969b20ec0"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner/Content/Title
+Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
+Modified: 638185328871624205
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\BannerCategory\Banner List\Banners\Banners.yml
+ID: "eb83c82e-5bd7-4174-9995-ca3351ea2f53"
+Parent: "a505d322-14ed-475f-aff2-b07b12131249"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner List/Banners/Banners
+Signature: LL52ujnBeKkZHy4hAwD7O/1OZEILe1f8WERaoRTpxh0=
+Modified: 638185328871555063
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\BannerCategory\Banner List\Banners\BannerTitle.yml
+ID: "f4f51284-54e4-4804-8bcc-103fb0cea3ca"
+Parent: "a505d322-14ed-475f-aff2-b07b12131249"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner List/Banners/BannerTitle
+Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
+Modified: 638185328871544675
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog\Data\author.yml
+ID: "53c6dbd6-739a-457a-b2d5-b248d9321690"
+Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/author
+Signature: dmfVdyN5XYJv8lkaRSmKPh/ti8w3g7jRNeliHdWwIdA=
+Modified: 638185328871754725
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog\Data\blogCategoryList.yml
+ID: "6c0dbf9c-6b79-426f-9842-39ec20e9ba0b"
+Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/blogCategoryList
+Signature: PwQW00R1S0nFloi4Im4peH4PtjDf63cY+td5zcIESVU=
+Modified: 638185328871754725
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog\Data\blogimages.yml
+ID: "1670a234-cf87-431c-8264-548949417903"
+Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/blogimages
+Signature: h5KAjAedWWQUMK/3wM3LbFKu79Bz0KJtfBuOB+xShRw=
+Modified: 638185328871764788
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog\Data\comment.yml
+ID: "d38f4785-8c9d-4ee7-ae06-64ab2946f5be"
+Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/comment
+Signature: oD/p7YUnOqkpNkqLr7juywP80CnpMijcWWQ/rmyCdnU=
+Modified: 638185328871764788
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\BannerCategory.yml
+ID: "d70cda33-90df-4f03-922f-f43aecbf7758"
+Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory
+Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
+Modified: 638185328871525081
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail.yml
+ID: "aa48895b-d874-489b-9cf6-40867797119c"
+Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail
+Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
+Modified: 638185328871624205
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog.yml
+ID: "6965d986-3d4c-440c-9d04-9d94862551fb"
+Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog
+Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
+Modified: 638185328871724560
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\CTAType.yml
+ID: "f6b3117b-ec0e-4dbc-901b-72408042bdba"
+Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/PLAY/OHA/CTAType
+Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
+Modified: 638185396849339404
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\FieldTypes.yml
+ID: "c82d8d6e-e36b-4c24-b86d-e12db17a2aaf"
+Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/PLAY/OHA/FieldTypes
+Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
+Modified: 638185396849399385
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer.yml
+ID: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
+Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer
+Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
+Modified: 638185328872104748
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Page\__Standard Values.yml
+ID: "8dae20b0-93e0-469a-b672-923c36d8213e"
+Parent: "95cb88e7-8068-4a9c-9eeb-05f9a22c49d4"
+Template: "95cb88e7-8068-4a9c-9eeb-05f9a22c49d4"
+Path: /sitecore/templates/Project/PLAY/Page/__Standard Values
+Signature: hVSMrcYUI2AugZZH4nxD9X7dL0oxAHNmKhUe3/o4gFo=
+Modified: 638185328873097828
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Page Design Folder\__Standard Values.yml
+ID: "1cf398b2-d2ab-4ad4-aa85-08b996477786"
+Parent: "a58ef6da-619e-4688-bb21-363038944569"
+Template: "a58ef6da-619e-4688-bb21-363038944569"
+Path: /sitecore/templates/Project/PLAY/Page Design Folder/__Standard Values
+Signature: Owc7ft2RGMgz0gSgpTMA6XiUh008GzkYRzvOpdZCkHM=
+Modified: 638185328873021899
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Page Designs\__Standard Values.yml
+ID: "8ff19c90-ed8e-4ec5-993c-545f6a1bdca4"
+Parent: "7756380e-cb33-4213-b486-b73092696756"
+Template: "7756380e-cb33-4213-b486-b73092696756"
+Path: /sitecore/templates/Project/PLAY/Page Designs/__Standard Values
+Signature: jmWtn7hZqqO52UOO/C5amlTOUpmf0dCo0OVzBg72dYs=
+Modified: 638185328873041903
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Partial Design Folder\__Standard Values.yml
+ID: "599bd7d0-077f-48c8-ace7-e18d3ea41063"
+Parent: "6aa1ece5-d4a4-4458-a534-e6543863e341"
+Template: "6aa1ece5-d4a4-4458-a534-e6543863e341"
+Path: /sitecore/templates/Project/PLAY/Partial Design Folder/__Standard Values
+Signature: pLBLfZpxfiBsZoitawqdYsoPenOOs+YG/8lTLfhsXfM=
+Modified: 638185328873107743
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Partial Designs\__Standard Values.yml
+ID: "707e3005-11c9-4c0d-814e-eff5c52e2077"
+Parent: "edd70716-2cb0-4c84-86be-1ad37a4c2c21"
+Template: "edd70716-2cb0-4c84-86be-1ad37a4c2c21"
+Path: /sitecore/templates/Project/PLAY/Partial Designs/__Standard Values
+Signature: fD/42aGW76HtueE2W+LREACdpcDmOQ2ukCPDnvj4PF8=
+Modified: 638185328873127723
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Rendering Parameters\Base Rendering Parameters.yml
+ID: "4ece011d-d40e-4f5f-9852-7c6dd65374a5"
+Parent: "98951a71-995e-4a47-bdaa-b17671387121"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/PLAY/Rendering Parameters/Base Rendering Parameters
+Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
+Modified: 638185328873137722
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Background Type\Background.yml
+ID: "645317fe-3c05-4cde-93ec-8a1989204d29"
+Parent: "59c0d21e-d5db-43b1-bfa3-9e3f6b715a6a"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Background Type/Background
+Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
+Modified: 638185328871375007
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\Banner Branch.yml
+ID: "7921e700-6073-4fc9-b864-7d2c97f410cc"
+Parent: "f6c997e4-e883-4152-97a7-a2eaa1b12a00"
+Template: "35e75c72-4985-4e09-88c3-0eac6cd1e64f"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner Branch
+Signature: FO1lEvstlRnAD0PNXyQPHloO9+ZZs9dM+w/uIMriel0=
+Modified: 638185328871394224
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\FieldTypes\FieldType List.yml
+ID: "d5821536-90da-4d2d-82e6-cc0a30c8a517"
+Parent: "c82d8d6e-e36b-4c24-b86d-e12db17a2aaf"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/FieldTypes/FieldType List
+Signature: TAmJrTPCIZ+sF+RGGk2h7zn60+FDcTqg4ZLgg+a2vvI=
+Modified: 638185396849459617
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\FieldTypes\FieldType.yml
+ID: "16537b81-137e-4177-98f8-abb77da951f1"
+Parent: "c82d8d6e-e36b-4c24-b86d-e12db17a2aaf"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/FieldTypes/FieldType
+Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
+Modified: 638185396849489379
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Folder.yml
+ID: "8212731d-f3a6-4098-b22b-d50940643b6d"
+Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Folder
+Signature: hhqctUjyjSC972jh17J/A2+aZDcAUmwRpYVdP/ycvVY=
+Modified: 638185328872114565
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Info.yml
+ID: "c47023f3-27d1-4a7d-a598-b04e53973ad6"
+Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info
+Signature: issZmBNi47BdTgwFG5iOW9GQCDJbYMjOflvTQH2zAzI=
+Modified: 638185328872124557
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Instagram.yml
+ID: "a2b7ac0c-307a-4e5d-8f7c-89856d62e853"
+Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Instagram
+Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
+Modified: 638185328872234558
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Links.yml
+ID: "619ec087-f367-40cb-9bee-25920c1b8a5c"
+Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Links
+Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
+Modified: 638185328872264572
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Navigation.yml
+ID: "d62efcd7-f1eb-49e2-904b-0bc5b252b133"
+Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Navigation
+Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
+Modified: 638185328872294787
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Payment.yml
+ID: "3220f0be-9993-4325-80a5-ad687f5cd29e"
+Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Payment
+Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
+Modified: 638185328872334816
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Social Media.yml
+ID: "cecbd542-e304-4ad4-82ec-5ed2d43b5df2"
+Parent: "5a3e620f-04f3-4fcd-a3c0-8326bd8c5e2d"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Social Media
+Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
+Modified: 638185328872355142
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header\Header.yml
+ID: "c44f459c-7d7b-425b-8b9b-317c8cc2966b"
+Parent: "c3bcb79a-4f9c-4957-801a-fff556fb29e0"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Header/Header
+Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
+Modified: 638185328872655392
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\CurrencySelector.yml
+ID: "8065aa2a-fd02-4802-a8e9-19e8bf85af1a"
+Parent: "17660589-81b2-4bb8-bc8e-1ede576af81a"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/CurrencySelector
+Signature: yayPgktxQQ25j73u+vkwNZdKHxPRaB4ec71Jh45mKck=
+Modified: 638185397056089434
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\Header Bottom Navigation.yml
+ID: "2ef61d92-c603-4a75-b9d9-371e02534bee"
+Parent: "17660589-81b2-4bb8-bc8e-1ede576af81a"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/Header Bottom Navigation
+Signature: adQ9WXQiuRDIVIxaw8M9b7meZzUX4qLPHDvHKbFG5cE=
+Modified: 638185397056109428
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\Header Mid Section.yml
+ID: "d7e95d15-fada-4f29-9122-1ef5b89b8982"
+Parent: "17660589-81b2-4bb8-bc8e-1ede576af81a"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/Header Mid Section
+Signature: Xz/1g6oK/aGW0NH0syHU5/NDiFTNbbFPpXCTjfrQI3E=
+Modified: 638185397056139449
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\HeaderNavigationFolder.yml
+ID: "ab264316-8817-4f98-be52-da07e421163a"
+Parent: "17660589-81b2-4bb8-bc8e-1ede576af81a"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/HeaderNavigationFolder
+Signature: +4lAXuOf0V5FojkQYoWsHN65RO3n/2f8vH5ZXPBWBq4=
+Modified: 638185397056200326
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Rendering Parameters\Base Rendering Parameters\Base Styling.yml
+ID: "8ac52852-e0fe-4c29-8fea-09ede899403e"
+Parent: "4ece011d-d40e-4f5f-9852-7c6dd65374a5"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/Rendering Parameters/Base Rendering Parameters/Base Styling
+Signature: GSioPq9Ex3MyyOXLyJNKcgv1SQGx5FNsHtJljT1t8io=
+Modified: 638185328873167721
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Rendering Parameters\FEAASComponent\Fields.yml
+ID: "0a875884-eeec-4165-8603-b21eb47a0c96"
+Parent: "86dd53eb-e83f-40ea-ade4-73466017fa66"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/Rendering Parameters/FEAASComponent/Fields
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638185328873187735
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Rendering Parameters\FEAASComponent\__Standard Values.yml
+ID: "82094216-6121-4e02-b409-1efd9d05822a"
+Parent: "86dd53eb-e83f-40ea-ade4-73466017fa66"
+Template: "86dd53eb-e83f-40ea-ade4-73466017fa66"
+Path: /sitecore/templates/Project/PLAY/Rendering Parameters/FEAASComponent/__Standard Values
+Signature: oEd6+09+JGAHIv92/+GO+1Uj8ySOr8dEHZjz4cO00fY=
+Modified: 638185328873207850
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Rendering Parameters\PLAY Styling\__Standard Values.yml
+ID: "63878fd4-39e0-40ea-b01a-c64294587e4c"
+Parent: "3c13bf6c-32dd-4f40-bcc9-208b47f21bb5"
+Template: "3c13bf6c-32dd-4f40-bcc9-208b47f21bb5"
+Path: /sitecore/templates/Project/PLAY/Rendering Parameters/PLAY Styling/__Standard Values
+Signature: rKIkb0eGpT2DlQ6OFowIcQEpfVzn0WBmVTlWex2Tpg0=
+Modified: 638185328873227723
 ---
 File: |
   C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\HeroBanner\Data.yml
@@ -1090,6 +964,510 @@ Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
 Modified: 638185328871904741
 ---
 File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\LinkSelector\Link Selector Data.yml
+ID: "86512b69-8bce-49a1-8802-140462a315bd"
+Parent: "c83c8564-64db-4364-a4f6-edb5392f2d48"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/LinkSelector/Link Selector Data
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638185397056336101
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\MainNavigation\__Standard Values.yml
+ID: "e3680c15-3fb9-47ad-92e5-422f7993f56c"
+Parent: "61e3d4c5-0c19-4c69-92ee-7c98b248fe47"
+Template: "61e3d4c5-0c19-4c69-92ee-7c98b248fe47"
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/MainNavigation/__Standard Values
+Signature: czIQLV9mFLCgud52pw/4NkLFTOEZQnitlrOgIIXPr9Y=
+Modified: 638185397056374810
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\MainNavigationUtility\__Standard Values.yml
+ID: "adf1fd12-868a-4e81-9ae6-fac65d6c36ca"
+Parent: "669ab30e-3b10-46f7-b558-41439370b543"
+Template: "669ab30e-3b10-46f7-b558-41439370b543"
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/MainNavigationUtility/__Standard Values
+Signature: yIBelzsP6y1Olu3NpL4o2SvEgW/eXrO9/vrk0Nf0UJ4=
+Modified: 638185397056389283
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\TextFieldForLink\text field data.yml
+ID: "acb17256-9ec0-4ae1-8937-9f3cbef9b616"
+Parent: "a00eaac8-5ea8-41ee-b41d-18e3a32f9d7f"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/TextFieldForLink/text field data
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638185397056411931
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Hero Carousel\HeroCarousel\__Standard Values.yml
+ID: "2e28a014-39eb-53f7-b579-0da44621b500"
+Parent: "3a9aef2b-bb55-5719-a5f8-13f8caeeb422"
+Template: "3a9aef2b-bb55-5719-a5f8-13f8caeeb422"
+Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/HeroCarousel/__Standard Values
+Signature: +LdO7lCDZ0EHlc3DURWkJGWI+Q6dd0NUpNtDDuGUDcQ=
+Modified: 638185328873012109
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\ProductCategory\ProductCategory\Data.yml
+ID: "1d9bf977-c8fc-4297-8568-130d0f3ec0b1"
+Parent: "2a354985-595b-4fe4-b9d9-1154d298b41a"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/ProductCategory/ProductCategory/Data
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638185458959776813
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\ProductCategory\ProductCategory Rendering Parameters\Style.yml
+ID: "f64dc486-f552-4a11-b00d-76921d95c92d"
+Parent: "3fa258c6-f221-466a-8e81-d26372500cd2"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/ProductCategory/ProductCategory Rendering Parameters/Style
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638185458959776813
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\ProductCategory\ProductCategory Rendering Parameters\__Standard Values.yml
+ID: "d78cf387-10b6-453b-a77d-e7519e2a2fbe"
+Parent: "3fa258c6-f221-466a-8e81-d26372500cd2"
+Template: "3fa258c6-f221-466a-8e81-d26372500cd2"
+Path: /sitecore/templates/Project/PLAY/OHA/ProductCategory/ProductCategory Rendering Parameters/__Standard Values
+Signature: cqAk/o654gjmV1B/qEDiN2R0fwugiBfm+DY1C9FJaLo=
+Modified: 638185458959776813
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\ImageList\Data\image.yml
+ID: "3a1f4909-a43c-4ff2-aef3-e7b47d514bb1"
+Parent: "74bdead0-ecaf-4fb2-a85b-4085f9998875"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/ImageList/Data/image
+Signature: KQrvmwhMCKzLi2vAYjnQnPoEbtMRzhzzpKKfb7xSU7k=
+Modified: 638185328871924762
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\PostType\Data\postType.yml
+ID: "75b74bed-27f3-4b49-b1f2-86d1ed5e5524"
+Parent: "b853b769-25ce-4ac7-9ab9-8f1452ee636e"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/PostType/Data/postType
+Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
+Modified: 638185328871945514
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\Blog Detail\Detail Page\Author.yml
+ID: "c5de69f9-04e4-440c-b288-8050c455c997"
+Parent: "fba65b78-91c8-463b-bf03-cf6a5e43d1d7"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/Blog Detail/Detail Page/Author
+Signature: oD/p7YUnOqkpNkqLr7juywP80CnpMijcWWQ/rmyCdnU=
+Modified: 638185328871645119
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\Blog Detail\Detail Page\Date.yml
+ID: "009c22b8-63f2-4429-9198-c05ee4e65ab7"
+Parent: "fba65b78-91c8-463b-bf03-cf6a5e43d1d7"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/Blog Detail/Detail Page/Date
+Signature: WNHh5HvzOnoIEFkOy8leCQHE/5Oy1JIXEMDNvs44FEk=
+Modified: 638185328871655043
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\Blog Detail\Detail Page\Description.yml
+ID: "6b4d78f9-f5d9-4628-b628-7258768d7045"
+Parent: "fba65b78-91c8-463b-bf03-cf6a5e43d1d7"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/Blog Detail/Detail Page/Description
+Signature: WUcYzD9Od5W3exTXkIuxbXcHbAp3CwqTPbX6fiKKVWk=
+Modified: 638185328871664197
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\Blog Detail\Detail Page\Image.yml
+ID: "12f62101-7a23-40ab-bba8-a1a2c1732e85"
+Parent: "fba65b78-91c8-463b-bf03-cf6a5e43d1d7"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/Blog Detail/Detail Page/Image
+Signature: xWl7BJsd+ad/CqOMbEP2Y6ayNhWQ2lSz6/YyNyxncGc=
+Modified: 638185328871664197
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\Blog Detail\Detail Page\Title.yml
+ID: "8bccc5d5-0eec-43a7-a872-7083641349e8"
+Parent: "fba65b78-91c8-463b-bf03-cf6a5e43d1d7"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/Blog Detail/Detail Page/Title
+Signature: 6qX9mstQnwRXVUPALkh4nVMQcVn3lo+fSBdGfpceNGI=
+Modified: 638185328871674218
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\BlogDetail\Detail Page\Author.yml
+ID: "01a40e95-016e-464a-b752-78a2300474bb"
+Parent: "6653e4a4-6288-4ec5-bb14-e71bac437f2b"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/BlogDetail/Detail Page/Author
+Signature: ArYkGyjP1rjXGMhAhHawBy870mfptQljqmHxcm+675w=
+Modified: 638185328871695505
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\BlogDetail\Detail Page\Date.yml
+ID: "bc123ba0-350f-495d-a0df-a0249442ce67"
+Parent: "6653e4a4-6288-4ec5-bb14-e71bac437f2b"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/BlogDetail/Detail Page/Date
+Signature: VEauE9dZPsHwQIMB3iaFcaRUY1qwSaNFGzq8djOYinM=
+Modified: 638185328871704748
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\BlogDetail\Detail Page\Description.yml
+ID: "b2482950-04a1-433b-bb34-b27b64ee63c0"
+Parent: "6653e4a4-6288-4ec5-bb14-e71bac437f2b"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/BlogDetail/Detail Page/Description
+Signature: YM0yHDA94dQGC003oF+RYuYRVyr5fHs7400PKDrYi8s=
+Modified: 638185328871704748
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\BlogDetail\Detail Page\Image.yml
+ID: "0ed1b546-4713-470c-bccd-2c02e3d0dede"
+Parent: "6653e4a4-6288-4ec5-bb14-e71bac437f2b"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/BlogDetail/Detail Page/Image
+Signature: L1NVOt2se2CZxw/PltHOyXB1QCSLHcRLb7im9cPnaEc=
+Modified: 638185328871714576
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\BlogDetail\Detail Page\Title.yml
+ID: "599645ec-e5c9-4b25-a0eb-8c482ecca83e"
+Parent: "6653e4a4-6288-4ec5-bb14-e71bac437f2b"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/BlogDetail/Detail Page/Title
+Signature: tN/SqP/BaZsH2eeQF5dKLXCqA8kyG8MzRIstp7EmGCI=
+Modified: 638185328871714576
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Headless Site\__Standard Values.yml
+ID: "60f29795-8c22-433e-8be1-a08c4fe84e34"
+Parent: "507b2363-3200-4cea-b238-3045731ba6a5"
+Template: "507b2363-3200-4cea-b238-3045731ba6a5"
+Path: /sitecore/templates/Project/PLAY/Headless Site/__Standard Values
+Signature: L90YMh1TpTaH5o47shge3FWoh1Jb/S1Rlyv80zCM7KI=
+Modified: 638185328871274357
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Headless Tenant\__Standard Values.yml
+ID: "5a825ceb-31d2-4889-9f12-53120dce4968"
+Parent: "bfe54f03-2ca7-4f4f-867e-daef974bae4d"
+Template: "bfe54f03-2ca7-4f4f-867e-daef974bae4d"
+Path: /sitecore/templates/Project/PLAY/Headless Tenant/__Standard Values
+Signature: u7qZo1fhJytmTr7K+hQTeN+qIyFG+7yNyEX4QUAwInk=
+Modified: 638185328871284192
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\JSS Settings\__Standard Values.yml
+ID: "016a0a40-4ccb-47a9-83b9-8dabb97ef2f2"
+Parent: "8e7f4f7d-8ac7-435a-bb13-8212313c98d4"
+Template: "8e7f4f7d-8ac7-435a-bb13-8212313c98d4"
+Path: /sitecore/templates/Project/PLAY/JSS Settings/__Standard Values
+Signature: PvfL8TVH8oRd5lh+cDLvUlghCPI9hsUlU/rExNRLP98=
+Modified: 638185328871294385
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Align.yml
+ID: "a2797862-cf29-4638-88e1-4131501550c5"
+Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/PLAY/OHA/Align
+Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
+Modified: 638185396849294130
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Background Type.yml
+ID: "59c0d21e-d5db-43b1-bfa3-9e3f6b715a6a"
+Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/PLAY/OHA/Background Type
+Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
+Modified: 638185328871354206
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner.yml
+ID: "f6c997e4-e883-4152-97a7-a2eaa1b12a00"
+Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner
+Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
+Modified: 638185328871384225
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\HeaderNavigation.yml
+ID: "b9a20133-f44c-45bd-aa9f-080d42cbc78f"
+Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/PLAY/OHA/HeaderNavigation
+Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
+Modified: 638185396849509379
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Hero Carousel.yml
+ID: "b2e1fbf3-f92d-4fac-aa55-990ef4c640e4"
+Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel
+Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
+Modified: 638185328872875240
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\ProductCategory.yml
+ID: "b814007c-8b94-4db1-a11c-c31a24c9c778"
+Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/PLAY/OHA/ProductCategory
+Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
+Modified: 638185458959776813
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Page\Content.yml
+ID: "545b7bdb-9ab4-456a-a1cc-7e8833cff075"
+Parent: "95cb88e7-8068-4a9c-9eeb-05f9a22c49d4"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/Page/Content
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638185328873051881
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Rendering Parameters\PLAY Styling.yml
+ID: "3c13bf6c-32dd-4f40-bcc9-208b47f21bb5"
+Parent: "98951a71-995e-4a47-bdaa-b17671387121"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/Rendering Parameters/PLAY Styling
+Signature: uh2Im5Hzh5b0NML0MDW8uo2jdlmfnHjvbAKfcMCTQWE=
+Modified: 638185328873227723
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Align\Align Folder.yml
+ID: "33e3b255-13eb-4dbf-83e9-4e7c2f519fdb"
+Parent: "a2797862-cf29-4638-88e1-4131501550c5"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Align/Align Folder
+Signature: 4NxkSDGr/2KHW94CPYciGBeP+l02YsiDoqDWN5QeJEY=
+Modified: 638185396849299153
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Align\Align.yml
+ID: "f6494595-ed5b-4e08-87b5-a7cfd46a0e18"
+Parent: "a2797862-cf29-4638-88e1-4131501550c5"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Align/Align
+Signature: 45IONfTFcK/IfVCGPFKCb5MFlvfsmEWNkVy5TiaW/gI=
+Modified: 638185396849319398
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Background Type\Background Type Folder.yml
+ID: "74aa146b-f8c7-45ee-9e51-bdd6300f76d3"
+Parent: "59c0d21e-d5db-43b1-bfa3-9e3f6b715a6a"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Background Type/Background Type Folder
+Signature: hHcRPYwTRbNnnxMytOBAb+xXidWJm6TH+3HsjkIVNZw=
+Modified: 638185328871364283
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\BannerCategory\Banner List.yml
+ID: "72b37029-b132-4e64-bd9e-94eeb0d7fbdc"
+Parent: "d70cda33-90df-4f03-922f-f43aecbf7758"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner List
+Signature: mj8CIChffklPnU/e7vXe/OsDpjJLu9Yym3D9BWMB6n4=
+Modified: 638185328871525081
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\BannerCategory\Banner.yml
+ID: "84d339d4-3ab1-40d4-b24a-7ec20138d6fc"
+Parent: "d70cda33-90df-4f03-922f-f43aecbf7758"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner
+Signature: WRwpzGvk1xzmfAtvjr//iFOvMtotCXSHD1vsBfh5lyk=
+Modified: 638185328871564219
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog.yml
+ID: "0b8a5ed2-fb6c-412f-a64b-cbeac7e3c3af"
+Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog
+Signature: QiYTlx6P4jHWxdqX1G6WfgHyI7vIJTLbq4+CmjauepU=
+Modified: 638185328871734774
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\BlogCategory.yml
+ID: "5de099be-a1f8-4d18-ae74-57e8d6d92861"
+Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogCategory
+Signature: gh2KIluLH0yfwWAQAro1y1FXBZDLmRMTaUgFPq4FBkw=
+Modified: 638185328871804568
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\BlogCategoryList.yml
+ID: "0ac5a04e-11cd-4063-a9fc-c360dac332e8"
+Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogCategoryList
+Signature: MS/0JCK4/+ABbjdd27VYE0Ohk/iANnVqsBZlCo2SSdA=
+Modified: 638185328871834559
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\BlogImage.yml
+ID: "836b74eb-d58b-42bd-8836-1b79eba49b5c"
+Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogImage
+Signature: Gnnrf2O7RfDrYiw6Mc8AJYZ/i88drgPkye0f4GV2kuY=
+Modified: 638185328871854558
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\BlogList.yml
+ID: "c1501a98-ec27-40e6-87db-9a405adf61fa"
+Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogList
+Signature: mj8CIChffklPnU/e7vXe/OsDpjJLu9Yym3D9BWMB6n4=
+Modified: 638185328871874767
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\BlogType.yml
+ID: "6b1aee01-9742-4c9c-a4e1-41c8dc4f4c2e"
+Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogType
+Signature: Kt93N4C8FFTCYp12rLoQ3EEpgbfRiPG0dI39iByUPKg=
+Modified: 638185328871894758
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\ImageList.yml
+ID: "3ac3e39c-768f-4bd8-8265-9162a307cffb"
+Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/ImageList
+Signature: /WyMXm182wjzn2f30iz/7d0W2wQPTo+rsvpEXbiAGfM=
+Modified: 638185328871914728
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\PostType.yml
+ID: "8b22419e-28b8-48d9-8519-4e9dc195e77f"
+Parent: "6965d986-3d4c-440c-9d04-9d94862551fb"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/PostType
+Signature: UEfqzRYOaawNE6f4NBSq+PmRm4hNeBh0HXtWCWfB4a8=
+Modified: 638185328871935456
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\Blog Detail.yml
+ID: "fbe405da-7ac1-4d87-97a8-0abcb416242d"
+Parent: "aa48895b-d874-489b-9cf6-40867797119c"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/Blog Detail
+Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
+Modified: 638185328871635075
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\BlogDetail.yml
+ID: "f20e7c85-7105-5375-a3d0-42fd54d93287"
+Parent: "aa48895b-d874-489b-9cf6-40867797119c"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/BlogDetail
+Signature: IVGuuzUQajWpfhGrsLKrZ9RTZJfphHEfoOSV44iqHOA=
+Modified: 638185328871674218
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\CTAType\CTAType Folder.yml
+ID: "5fe8866f-2056-4ad2-b893-9bc520fdcfed"
+Parent: "f6b3117b-ec0e-4dbc-901b-72408042bdba"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/CTAType/CTAType Folder
+Signature: PaS+X1sukgt86w7XfiUFZIbPDL/MXw7KAAkTh1J5zyE=
+Modified: 638185396849349406
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\CTAType\CTAType.yml
+ID: "fc86e7b2-7acf-48b0-8f46-925a28b8deb4"
+Parent: "f6b3117b-ec0e-4dbc-901b-72408042bdba"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/CTAType/CTAType
+Signature: Y8snHQmcZkbBY8HvuZ9T/XdkvA6d3uS4EHYmSqTKxcw=
+Modified: 638185396849379390
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\ProductCategory\ProductCategory.yml
+ID: "2a354985-595b-4fe4-b9d9-1154d298b41a"
+Parent: "b814007c-8b94-4db1-a11c-c31a24c9c778"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/ProductCategory/ProductCategory
+Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
+Modified: 638185458959776813
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Page\Content\Content.yml
+ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
+Parent: "545b7bdb-9ab4-456a-a1cc-7e8833cff075"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/Page/Content/Content
+Signature: kAI1WqqRfKjaF/AaDO+QWRsdJZbjzzCwCcs9y/CfHsI=
+Modified: 638185328873061888
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Page\Content\Title.yml
+ID: "17707054-bc28-496c-925f-e614ba18f3e0"
+Parent: "545b7bdb-9ab4-456a-a1cc-7e8833cff075"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/Page/Content/Title
+Signature: DxIA1csTkrJn593QKys2KcPfmAmObGphqRejcGeSnFk=
+Modified: 638185328873092411
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Rendering Parameters\Base Rendering Parameters\Base Styling and Grid.yml
+ID: "7dd20ecb-6ac1-49ed-a6e2-c5d5327a0833"
+Parent: "4ece011d-d40e-4f5f-9852-7c6dd65374a5"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/Rendering Parameters/Base Rendering Parameters/Base Styling and Grid
+Signature: OKSwhNlPlV9tkPx294iezj14lAuXS1PWMw28/8hRoFs=
+Modified: 638185328873147716
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\Banner Branch\_name.yml
+ID: "de20228b-32cf-4fb0-bd36-46e91916345b"
+Parent: "7921e700-6073-4fc9-b864-7d2c97f410cc"
+Template: "4f5bd5b4-cdf8-4909-8dfa-8d9b1949c8c8"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner Branch/$name
+Signature: UzqVrPEJX9p1u6CCCmPglY01oTRUq56I+lcf5er5F+k=
+Modified: 638185328871404224
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\Banner Folder\__Standard Values.yml
+ID: "9d715120-a16f-49d1-b3f5-31132a8b8bf2"
+Parent: "3b706afe-21af-4121-8163-a9b7fa13a299"
+Template: "3b706afe-21af-4121-8163-a9b7fa13a299"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner Folder/__Standard Values
+Signature: /MrVLSA7sykxk0R4BWSgi5icfsj0E6C3YYFO6Mwt+WY=
+Modified: 638185328871424249
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\Banner List\Banners.yml
+ID: "cf0a8a65-0442-4158-9703-abd2246604a9"
+Parent: "4f5bd5b4-cdf8-4909-8dfa-8d9b1949c8c8"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner List/Banners
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638185328871434240
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\Banner List\__Standard Values.yml
+ID: "40a69598-8a73-4665-a225-b56a7211861e"
+Parent: "4f5bd5b4-cdf8-4909-8dfa-8d9b1949c8c8"
+Template: "4f5bd5b4-cdf8-4909-8dfa-8d9b1949c8c8"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner List/__Standard Values
+Signature: Ls+M+143c1D7vfqCmtBD9Oj+hrzZdkkvD+IDOB6umO8=
+Modified: 638185328871454197
+---
+File: |
   C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\ImageList\Data.yml
 ID: "74bdead0-ecaf-4fb2-a85b-4085f9998875"
 Parent: "3ac3e39c-768f-4bd8-8265-9162a307cffb"
@@ -1126,40 +1504,301 @@ Signature: F+fxGh60hbNIhj4h7L9s0V6JK/e6eOv6zIZ3gfuWO3k=
 Modified: 638185328871684376
 ---
 File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\BlogDetail\__Standard Values.yml
-ID: "dc594dc9-5592-5643-8629-0b6e6c15082e"
-Parent: "f20e7c85-7105-5375-a3d0-42fd54d93287"
-Template: "f20e7c85-7105-5375-a3d0-42fd54d93287"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/BlogDetail/__Standard Values
-Signature: baH2/xfzIDNQ3+hEzUJ+6pDyZ33PAzX9R3dqyhSvDwY=
-Modified: 638185328871724560
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Social Media\Social Media Detials.yml
+ID: "07b2ca97-183e-4fbf-9ebf-45d3a5fb2386"
+Parent: "cecbd542-e304-4ad4-82ec-5ed2d43b5df2"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Social Media/Social Media Detials
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638185328872365400
 ---
 File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\CTAType\CTAType\Content.yml
-ID: "f64d1804-9c64-4d31-af38-98c405cfd725"
-Parent: "fc86e7b2-7acf-48b0-8f46-925a28b8deb4"
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header\Header\Content.yml
+ID: "fe33645a-6793-4e6e-8253-b3f1915433ca"
+Parent: "c44f459c-7d7b-425b-8b9b-317c8cc2966b"
 Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/CTAType/CTAType/Content
+Path: /sitecore/templates/Project/PLAY/OHA/Header/Header/Content
 Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638185396849389386
+Modified: 638185328872655392
 ---
 File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\CTAType\CTAType Folder\CTATypes.yml
-ID: "25a27dbf-1b7b-4aa3-abc1-042917bb3c47"
-Parent: "5fe8866f-2056-4ad2-b893-9bc520fdcfed"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/CTAType/CTAType Folder/CTATypes
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638185396849369408
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\CurrencySelector\__Standard Values.yml
+ID: "a32719b5-88ec-49fa-a963-99f6cd563325"
+Parent: "8065aa2a-fd02-4802-a8e9-19e8bf85af1a"
+Template: "8065aa2a-fd02-4802-a8e9-19e8bf85af1a"
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/CurrencySelector/__Standard Values
+Signature: V74OVl1E8p1eDmg1ukEke9R5+9u9uFsa/e0reyMuwac=
+Modified: 638185397056099427
 ---
 File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\FieldTypes\FieldType\FieldTypes.yml
-ID: "b4644d72-7a0a-4eac-86eb-bfa25ad7f06f"
-Parent: "16537b81-137e-4177-98f8-abb77da951f1"
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\Header Bottom Navigation\Header Bottom section data goes here.yml
+ID: "7dcdfe4f-9a9f-4b4a-9af8-20df00109264"
+Parent: "2ef61d92-c603-4a75-b9d9-371e02534bee"
 Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/FieldTypes/FieldType/FieldTypes
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/Header Bottom Navigation/Header Bottom section data goes here
 Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638185396849499389
+Modified: 638185397056119438
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\Header Mid Section\Header mid section data goes here.yml
+ID: "664a656d-b6de-44e8-aa3f-cd362a3bde2b"
+Parent: "d7e95d15-fada-4f29-9122-1ef5b89b8982"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/Header Mid Section/Header mid section data goes here
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638185397056165134
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\HeaderNavigationFolder\__Standard Values.yml
+ID: "e4eac8db-fb9c-4aa8-9891-be3699031686"
+Parent: "ab264316-8817-4f98-be52-da07e421163a"
+Template: "ab264316-8817-4f98-be52-da07e421163a"
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/HeaderNavigationFolder/__Standard Values
+Signature: 2/I12URxiLqJgqWmTzbUy9tddvV26m/ztB/4ptpXJZY=
+Modified: 638185397056210321
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\HeaderTop\Top Header Data fields goes here.yml
+ID: "c055a140-4d07-427e-b3ac-5a2d5d9006af"
+Parent: "9213078a-a37a-4323-a7ba-6e6a89433998"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/HeaderTop/Top Header Data fields goes here
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638185397056230316
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\LanguageSelector\__Standard Values.yml
+ID: "7d96c5aa-c4c9-4b0a-8c61-4d777f80e69a"
+Parent: "6d9ebedf-03ac-4545-8d82-f7dcb82fd3ff"
+Template: "6d9ebedf-03ac-4545-8d82-f7dcb82fd3ff"
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/LanguageSelector/__Standard Values
+Signature: GoS2pNvh2AHZ34d8b4EzpYX7GW6so1rJ+apKgnuU+98=
+Modified: 638185397056310336
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\HeroBanner\Data\Heading.yml
+ID: "84953286-1b9a-47fe-bb25-88510de02104"
+Parent: "f871683c-fb48-4b61-82f1-f57cea8ff2f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/HeroBanner/Data/Heading
+Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
+Modified: 638185400304567526
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\HeroBanner\Data\SubTile.yml
+ID: "c738ef03-1403-47d1-baa0-653dab9ec859"
+Parent: "f871683c-fb48-4b61-82f1-f57cea8ff2f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/HeroBanner/Data/SubTile
+Signature: seTdHF4IkFZjUyXt+WvzWqMvt4ZVrXA6ZGd2xOjjRYQ=
+Modified: 638185400304567526
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\HeroBanner\Data\Tag.yml
+ID: "9ed4a448-8114-4db6-82db-8691567209ee"
+Parent: "f871683c-fb48-4b61-82f1-f57cea8ff2f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/HeroBanner/Data/Tag
+Signature: A08WaLbhr/ddsBtCAkBPHgGsTaxrQZug3tigEqH48U4=
+Modified: 638185400304581937
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\HeroBanner\Data\Title.yml
+ID: "c7a29191-7f6f-4553-9dd6-8398b43e773e"
+Parent: "f871683c-fb48-4b61-82f1-f57cea8ff2f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/HeroBanner/Data/Title
+Signature: oD/p7YUnOqkpNkqLr7juywP80CnpMijcWWQ/rmyCdnU=
+Modified: 638185400304588002
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog\Data\date.yml
+ID: "3b32ddd8-cba3-4f47-8e51-00d5afbab3d4"
+Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/date
+Signature: j2/0TNYu4pdWhL99MY//EC7ypgxAiRvryiXNrCXn1Vo=
+Modified: 638185328871784748
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog\Data\description.yml
+ID: "dee18293-2839-4fcc-bc8f-e2aba1882f15"
+Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/description
+Signature: 5HKU97HdccTw5KHLo1/JHAhMHbOe23ZNZU9bVWt7pbE=
+Modified: 638185328871784748
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog\Data\heading.yml
+ID: "d2c80f61-20b6-4c77-b935-508aaf90a7e8"
+Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/heading
+Signature: 8UhhSd+Cy56zL1fS+MXXl/ayIJCtgeH/56IlShEbUBI=
+Modified: 638185328871794719
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog\Data\imageList.yml
+ID: "256a15ab-17cd-4381-bfc8-2dc609c92842"
+Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/imageList
+Signature: 09WOc7Qn+QbXPUE8OwPmlN+6bPvUtZmKXenC1f/+l70=
+Modified: 638185328871794719
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\CTAType\CTAType\Content\Type.yml
+ID: "194fe019-8265-40d4-824a-3864cbdf8f1c"
+Parent: "f64d1804-9c64-4d31-af38-98c405cfd725"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/CTAType/CTAType/Content/Type
+Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
+Modified: 638185396849399385
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\CTAType\CTAType Folder\CTATypes\CTA.yml
+ID: "73d40919-c5c9-46fb-975f-e502bf4e32c0"
+Parent: "25a27dbf-1b7b-4aa3-abc1-042917bb3c47"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/CTAType/CTAType Folder/CTATypes/CTA
+Signature: W3UAuFjmGh1RPdqvoulbI4lod01cD4XGGy3r+eNCF5E=
+Modified: 638185396849379390
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\FieldTypes\FieldType\FieldTypes\Heading.yml
+ID: "10cbce97-07bc-4a29-b7c8-42a801bc9dc5"
+Parent: "b4644d72-7a0a-4eac-86eb-bfa25ad7f06f"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/FieldTypes/FieldType/FieldTypes/Heading
+Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
+Modified: 638185396849509379
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\FieldTypes\FieldType Branch\_name\FieldType.yml
+ID: "84c2064f-336c-45ac-b809-5f1692f18d2b"
+Parent: "cd220984-4c9b-4d5b-a14c-049799ef58d4"
+Template: "16537b81-137e-4177-98f8-abb77da951f1"
+Path: /sitecore/templates/Project/PLAY/OHA/FieldTypes/FieldType Branch/$name/FieldType
+Signature: +0+Hbq5yrdFMyZVd1msscKyUdAIvzrhHL012U0TQIkM=
+Modified: 638185396849429383
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\FieldTypes\FieldType List\FieldTypes\FieldType.yml
+ID: "417a4a13-ad90-47f1-8e89-8972fd8915bf"
+Parent: "9baea74d-82c5-4358-bca0-7fd9c8275f17"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/FieldTypes/FieldType List/FieldTypes/FieldType
+Signature: /3phNsK0/QJjRHTGOKmysEprSIcBWAIEYMqcdEM2Gw0=
+Modified: 638185396849479373
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer CopyRight\FooterCopyrightText.yml
+ID: "a9b7ee6b-d85f-4cff-aa25-55367f6ad240"
+Parent: "6c0fe1bb-2ff7-49d9-994b-232064f73092"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer CopyRight/FooterCopyrightText
+Signature: igfARzHCkfRE3ZsNGfogjw1VnePmKxREQ10ml31eeho=
+Modified: 638185328872134556
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Data\FooterCardIcon.yml
+ID: "823401c6-e4e6-4222-8081-7f0be37814e9"
+Parent: "104c7e92-031b-43fc-943a-3e48204541b0"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Data/FooterCardIcon
+Signature: rkLxy/q6hVYJu91ftYZn/csNrlVUf2lXxuGn5GQmZdY=
+Modified: 638185397056007078
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Data\FooterDescription.yml
+ID: "c150c562-a78c-4daa-8dfd-1a7224717cec"
+Parent: "104c7e92-031b-43fc-943a-3e48204541b0"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Data/FooterDescription
+Signature: 8UhhSd+Cy56zL1fS+MXXl/ayIJCtgeH/56IlShEbUBI=
+Modified: 638185328872164571
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog\Data\ctaLink.yml
+ID: "01f53240-7eea-4dfe-859f-9387b216b8de"
+Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/ctaLink
+Signature: z86I66hME8XjpzPK1K7laegF0sZW/dD8It1ElvVheR8=
+Modified: 638185328871774786
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation.yml
+ID: "17660589-81b2-4bb8-bc8e-1ede576af81a"
+Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation
+Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
+Modified: 638185397056079614
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog\Data\ctaText.yml
+ID: "6a6ae7eb-51e0-4a2c-8331-e71c5c0cf763"
+Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/ctaText
+Signature: +AeWDlIvOMBNNCBd7/t8GVSYgIHL4SUQcPXvukjv/sg=
+Modified: 638185328871774786
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header.yml
+ID: "c3bcb79a-4f9c-4957-801a-fff556fb29e0"
+Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Project/PLAY/OHA/Header
+Signature: EtbPw7c/FxxvkVk4qf6hJjLR7OZ9sI2Ka//RQsNIwIA=
+Modified: 638185328872645380
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog\Data\postType.yml
+ID: "8fd5f032-4da3-4422-9f8b-2476f85b346d"
+Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/postType
+Signature: d9MrbB94xy0Db7RN/vLqCD9fEK8XNu4S5ql0Elbxw9c=
+Modified: 638185328871794719
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\Banner.yml
+ID: "61be6f7d-3a37-45f8-924f-f8fedc8f7a05"
+Parent: "f6c997e4-e883-4152-97a7-a2eaa1b12a00"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner
+Signature: niGbChdG3bW159vwD5P+eI3WnEC3LnbZF1jl3RWGpPM=
+Modified: 638185328871464206
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Navigation\Footer Navigation Details\FooterNavigationList.yml
+ID: "56737bb8-0e28-4485-95c7-477f9d4d9e5f"
+Parent: "690391c8-9f5f-4448-8c9e-31ecd5545c54"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Navigation/Footer Navigation Details/FooterNavigationList
+Signature: 6JUU/OGYrPcZYB6Kx8ch3xtmHxjaseSsYzZdf7IuyKU=
+Modified: 638185397056059438
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\ProductCategory\ProductCategory Rendering Parameters.yml
+ID: "3fa258c6-f221-466a-8e81-d26372500cd2"
+Parent: "b814007c-8b94-4db1-a11c-c31a24c9c778"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/ProductCategory/ProductCategory Rendering Parameters
+Signature: 7eW/uHBhicdyS0AW4PF3julepj1OrYVQFpvOw0zuF5c=
+Modified: 638185458959776813
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\Banner\Content.yml
+ID: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
+Parent: "61be6f7d-3a37-45f8-924f-f8fedc8f7a05"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content
+Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
+Modified: 638185328871464206
 ---
 File: |
   C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\FieldTypes\FieldType Branch\_name.yml
@@ -1279,114 +1918,6 @@ Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
 Modified: 638185328872344762
 ---
 File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Social Media\Social Media Detials.yml
-ID: "07b2ca97-183e-4fbf-9ebf-45d3a5fb2386"
-Parent: "cecbd542-e304-4ad4-82ec-5ed2d43b5df2"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Social Media/Social Media Detials
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638185328872365400
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header\Header\Content.yml
-ID: "fe33645a-6793-4e6e-8253-b3f1915433ca"
-Parent: "c44f459c-7d7b-425b-8b9b-317c8cc2966b"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Header/Header/Content
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638185328872655392
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\CurrencySelector\__Standard Values.yml
-ID: "a32719b5-88ec-49fa-a963-99f6cd563325"
-Parent: "8065aa2a-fd02-4802-a8e9-19e8bf85af1a"
-Template: "8065aa2a-fd02-4802-a8e9-19e8bf85af1a"
-Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/CurrencySelector/__Standard Values
-Signature: V74OVl1E8p1eDmg1ukEke9R5+9u9uFsa/e0reyMuwac=
-Modified: 638185397056099427
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\Header Bottom Navigation\Header Bottom section data goes here.yml
-ID: "7dcdfe4f-9a9f-4b4a-9af8-20df00109264"
-Parent: "2ef61d92-c603-4a75-b9d9-371e02534bee"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/Header Bottom Navigation/Header Bottom section data goes here
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638185397056119438
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\Header Mid Section\Header mid section data goes here.yml
-ID: "664a656d-b6de-44e8-aa3f-cd362a3bde2b"
-Parent: "d7e95d15-fada-4f29-9122-1ef5b89b8982"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/Header Mid Section/Header mid section data goes here
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638185397056165134
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\HeaderNavigationFolder\__Standard Values.yml
-ID: "e4eac8db-fb9c-4aa8-9891-be3699031686"
-Parent: "ab264316-8817-4f98-be52-da07e421163a"
-Template: "ab264316-8817-4f98-be52-da07e421163a"
-Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/HeaderNavigationFolder/__Standard Values
-Signature: 2/I12URxiLqJgqWmTzbUy9tddvV26m/ztB/4ptpXJZY=
-Modified: 638185397056210321
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\HeaderTop\Top Header Data fields goes here.yml
-ID: "c055a140-4d07-427e-b3ac-5a2d5d9006af"
-Parent: "9213078a-a37a-4323-a7ba-6e6a89433998"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/HeaderTop/Top Header Data fields goes here
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638185397056230316
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\LanguageSelector\__Standard Values.yml
-ID: "7d96c5aa-c4c9-4b0a-8c61-4d777f80e69a"
-Parent: "6d9ebedf-03ac-4545-8d82-f7dcb82fd3ff"
-Template: "6d9ebedf-03ac-4545-8d82-f7dcb82fd3ff"
-Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/LanguageSelector/__Standard Values
-Signature: GoS2pNvh2AHZ34d8b4EzpYX7GW6so1rJ+apKgnuU+98=
-Modified: 638185397056310336
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\LinkSelector\Link Selector Data.yml
-ID: "86512b69-8bce-49a1-8802-140462a315bd"
-Parent: "c83c8564-64db-4364-a4f6-edb5392f2d48"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/LinkSelector/Link Selector Data
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638185397056336101
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\MainNavigation\__Standard Values.yml
-ID: "e3680c15-3fb9-47ad-92e5-422f7993f56c"
-Parent: "61e3d4c5-0c19-4c69-92ee-7c98b248fe47"
-Template: "61e3d4c5-0c19-4c69-92ee-7c98b248fe47"
-Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/MainNavigation/__Standard Values
-Signature: czIQLV9mFLCgud52pw/4NkLFTOEZQnitlrOgIIXPr9Y=
-Modified: 638185397056374810
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\MainNavigationUtility\__Standard Values.yml
-ID: "adf1fd12-868a-4e81-9ae6-fac65d6c36ca"
-Parent: "669ab30e-3b10-46f7-b558-41439370b543"
-Template: "669ab30e-3b10-46f7-b558-41439370b543"
-Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/MainNavigationUtility/__Standard Values
-Signature: yIBelzsP6y1Olu3NpL4o2SvEgW/eXrO9/vrk0Nf0UJ4=
-Modified: 638185397056389283
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\TextFieldForLink\text field data.yml
-ID: "acb17256-9ec0-4ae1-8937-9f3cbef9b616"
-Parent: "a00eaac8-5ea8-41ee-b41d-18e3a32f9d7f"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/TextFieldForLink/text field data
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638185397056411931
----
-File: |
   C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\HeaderNavigation\HeaderRightNavigationFolder\__Standard Values.yml
 ID: "a30b567e-915f-4788-9544-f4102793c385"
 Parent: "9d52690b-f384-468f-b24e-b8d6437ce001"
@@ -1403,87 +1934,6 @@ Template: "e269fbb5-3750-427a-9149-7aa950b49301"
 Path: /sitecore/templates/Project/PLAY/OHA/HeaderNavigation/HeaderTopRightData/TopRightFields
 Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
 Modified: 638185397056479384
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\HeaderNavigation\HeaderTopRightNavigationFolder\__Standard Values.yml
-ID: "4bd4e56b-2e1f-47c4-928e-9c6f0426d665"
-Parent: "afcfa9ae-1299-45e5-b594-82b38cca0256"
-Template: "afcfa9ae-1299-45e5-b594-82b38cca0256"
-Path: /sitecore/templates/Project/PLAY/OHA/HeaderNavigation/HeaderTopRightNavigationFolder/__Standard Values
-Signature: URkktW8tgX0yhY34QdrYwxXi9LWpvbqIC5BI5DdKWxg=
-Modified: 638185397056519502
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\HeaderNavigation\Main Navigation Item\Navigation Links.yml
-ID: "e103b1d5-ea8e-4194-9807-7847b42c23d5"
-Parent: "687f1da8-c510-48bd-bc13-af46b616337a"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/HeaderNavigation/Main Navigation Item/Navigation Links
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638185397056539507
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\HeaderNavigation\Main Navigation Item\__Standard Values.yml
-ID: "25b8c637-981b-4b67-aadd-abe5d57897d1"
-Parent: "687f1da8-c510-48bd-bc13-af46b616337a"
-Template: "687f1da8-c510-48bd-bc13-af46b616337a"
-Path: /sitecore/templates/Project/PLAY/OHA/HeaderNavigation/Main Navigation Item/__Standard Values
-Signature: 60wVOQMX3boq5E5wJ7jR95KDKDHPwcqt51W3hsEmKKg=
-Modified: 638185397056569508
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\HeaderNavigation\Sub Navigation Item\Sub Navigation Links.yml
-ID: "6c33b5b2-b559-484a-a9ae-a8619e98613e"
-Parent: "6db39898-e2b3-4912-bc17-6e357e85bb30"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/HeaderNavigation/Sub Navigation Item/Sub Navigation Links
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638185397056579502
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\HeaderNavigation\Sub Navigation Root\Sub Navigation.yml
-ID: "fac96785-b84e-4866-9f68-86000f0ebcc4"
-Parent: "2aa0dfc5-5eff-4694-b12a-c3d04821cd14"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/HeaderNavigation/Sub Navigation Root/Sub Navigation
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638185397056630046
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\HeaderNavigation\Sub Navigation Root\__Standard Values.yml
-ID: "dff91585-a4db-4bac-9cde-d49d486617bc"
-Parent: "2aa0dfc5-5eff-4694-b12a-c3d04821cd14"
-Template: "2aa0dfc5-5eff-4694-b12a-c3d04821cd14"
-Path: /sitecore/templates/Project/PLAY/OHA/HeaderNavigation/Sub Navigation Root/__Standard Values
-Signature: 5DJl1+EscLctErdCbILVCq9Gp8Q8qIOfTqyE3AsaRKQ=
-Modified: 638185397056657352
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Hero Carousel\Carousel Slide\Slide Data.yml
-ID: "e82b0fbf-ddc2-425f-9805-b5a7b18870e5"
-Parent: "13569147-2edd-4482-9bfe-9b3f6a589c92"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/Carousel Slide/Slide Data
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638185328872895258
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Hero Carousel\HeroCarousel\Carousel Data.yml
-ID: "26aa37c5-3ec1-418e-9842-a3b1a938c8f5"
-Parent: "3a9aef2b-bb55-5719-a5f8-13f8caeeb422"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/HeroCarousel/Carousel Data
-Signature: RyUrkAN1H9c7Luu11Ekh3lwJ92v9P4xb4qKpaRo6Z9k=
-Modified: 638185328873002423
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Hero Carousel\HeroCarousel\__Standard Values.yml
-ID: "2e28a014-39eb-53f7-b579-0da44621b500"
-Parent: "3a9aef2b-bb55-5719-a5f8-13f8caeeb422"
-Template: "3a9aef2b-bb55-5719-a5f8-13f8caeeb422"
-Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/HeroCarousel/__Standard Values
-Signature: +LdO7lCDZ0EHlc3DURWkJGWI+Q6dd0NUpNtDDuGUDcQ=
-Modified: 638185328873012109
 ---
 File: |
   C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\Rendering Parameters\Base Rendering Parameters\Base Styling\__Standard Values.yml
@@ -1558,42 +2008,6 @@ Signature: zFykxKbouW/5Lr6oITKZqJk0SR/Syst3o5iUZPn7Z0w=
 Modified: 638185328871484207
 ---
 File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\Banner\Content\CTALink.yml
-ID: "43736d85-57c3-4220-8972-9d4759c156ff"
-Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/CTALink
-Signature: mypWiw/CaavbsFZkQkr3Ew1O4ltBr9K2J8yFI4usYZI=
-Modified: 638185328871494217
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\Banner\Content\CTAText.yml
-ID: "df08957b-e019-4862-a95f-707922cc2b17"
-Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/CTAText
-Signature: CS+et9Yt47GWTrRaHAhd4ibZ9MeOxuwPmm8BkDWE4F8=
-Modified: 638185328871494217
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\Banner\Content\CTAType.yml
-ID: "71dcee88-aeba-40df-891b-6e85101bb19b"
-Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/CTAType
-Signature: U2W+oCBxZgID6B58OMvjPMRSduXQH/U6yfUpFsTsmnw=
-Modified: 638185397055991507
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\Banner\Content\Description.yml
-ID: "e90ca7ff-8416-449c-8372-98d865400789"
-Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner/Content/Description
-Signature: eHVEFm2+NBoqzb4H+s/qBmZeC6d4bDvz66g0CedWt78=
-Modified: 638185328871504211
----
-File: |
   C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\Banner\Content\SubTitle.yml
 ID: "52538d72-9bea-455f-8707-7a81d0a53508"
 Parent: "30ada3f3-b1f9-4529-a1ae-9ff8da4333b9"
@@ -1664,42 +2078,6 @@ Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
 Path: /sitecore/templates/Project/PLAY/OHA/Banner/HeroBanner/Data/Description
 Signature: WUcYzD9Od5W3exTXkIuxbXcHbAp3CwqTPbX6fiKKVWk=
 Modified: 638185400304557527
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\HeroBanner\Data\Heading.yml
-ID: "84953286-1b9a-47fe-bb25-88510de02104"
-Parent: "f871683c-fb48-4b61-82f1-f57cea8ff2f2"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/HeroBanner/Data/Heading
-Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
-Modified: 638185400304567526
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\HeroBanner\Data\SubTile.yml
-ID: "c738ef03-1403-47d1-baa0-653dab9ec859"
-Parent: "f871683c-fb48-4b61-82f1-f57cea8ff2f2"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/HeroBanner/Data/SubTile
-Signature: seTdHF4IkFZjUyXt+WvzWqMvt4ZVrXA6ZGd2xOjjRYQ=
-Modified: 638185400304567526
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\HeroBanner\Data\Tag.yml
-ID: "9ed4a448-8114-4db6-82db-8691567209ee"
-Parent: "f871683c-fb48-4b61-82f1-f57cea8ff2f2"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/HeroBanner/Data/Tag
-Signature: A08WaLbhr/ddsBtCAkBPHgGsTaxrQZug3tigEqH48U4=
-Modified: 638185400304581937
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\HeroBanner\Data\Title.yml
-ID: "c7a29191-7f6f-4553-9dd6-8398b43e773e"
-Parent: "f871683c-fb48-4b61-82f1-f57cea8ff2f2"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Banner/HeroBanner/Data/Title
-Signature: oD/p7YUnOqkpNkqLr7juywP80CnpMijcWWQ/rmyCdnU=
-Modified: 638185400304588002
 ---
 File: |
   C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Banner\HeroBanner Rendering Parameters\Rendering Parameters\BannerType.yml
@@ -1774,393 +2152,6 @@ Signature: 8UhhSd+Cy56zL1fS+MXXl/ayIJCtgeH/56IlShEbUBI=
 Modified: 638185328871614985
 ---
 File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\BannerCategory\Banner\Content\SubTitle.yml
-ID: "a179b108-27f8-47c7-b885-c923324511b1"
-Parent: "5f1378e0-dc5b-4bad-8942-d86969b20ec0"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner/Content/SubTitle
-Signature: oD/p7YUnOqkpNkqLr7juywP80CnpMijcWWQ/rmyCdnU=
-Modified: 638185328871614985
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\BannerCategory\Banner\Content\Title.yml
-ID: "55491cfc-5cc9-41de-b3b1-7f5d3aa9ccfc"
-Parent: "5f1378e0-dc5b-4bad-8942-d86969b20ec0"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner/Content/Title
-Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
-Modified: 638185328871624205
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\BannerCategory\Banner List\Banners\Banners.yml
-ID: "eb83c82e-5bd7-4174-9995-ca3351ea2f53"
-Parent: "a505d322-14ed-475f-aff2-b07b12131249"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner List/Banners/Banners
-Signature: LL52ujnBeKkZHy4hAwD7O/1OZEILe1f8WERaoRTpxh0=
-Modified: 638185328871555063
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\BannerCategory\Banner List\Banners\BannerTitle.yml
-ID: "f4f51284-54e4-4804-8bcc-103fb0cea3ca"
-Parent: "a505d322-14ed-475f-aff2-b07b12131249"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/Banner List/Banners/BannerTitle
-Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
-Modified: 638185328871544675
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog\Data\author.yml
-ID: "53c6dbd6-739a-457a-b2d5-b248d9321690"
-Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/author
-Signature: dmfVdyN5XYJv8lkaRSmKPh/ti8w3g7jRNeliHdWwIdA=
-Modified: 638185328871754725
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog\Data\blogCategoryList.yml
-ID: "6c0dbf9c-6b79-426f-9842-39ec20e9ba0b"
-Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/blogCategoryList
-Signature: PwQW00R1S0nFloi4Im4peH4PtjDf63cY+td5zcIESVU=
-Modified: 638185328871754725
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog\Data\blogimages.yml
-ID: "1670a234-cf87-431c-8264-548949417903"
-Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/blogimages
-Signature: h5KAjAedWWQUMK/3wM3LbFKu79Bz0KJtfBuOB+xShRw=
-Modified: 638185328871764788
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog\Data\comment.yml
-ID: "d38f4785-8c9d-4ee7-ae06-64ab2946f5be"
-Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/comment
-Signature: oD/p7YUnOqkpNkqLr7juywP80CnpMijcWWQ/rmyCdnU=
-Modified: 638185328871764788
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog\Data\ctaLink.yml
-ID: "01f53240-7eea-4dfe-859f-9387b216b8de"
-Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/ctaLink
-Signature: z86I66hME8XjpzPK1K7laegF0sZW/dD8It1ElvVheR8=
-Modified: 638185328871774786
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog\Data\ctaText.yml
-ID: "6a6ae7eb-51e0-4a2c-8331-e71c5c0cf763"
-Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/ctaText
-Signature: +AeWDlIvOMBNNCBd7/t8GVSYgIHL4SUQcPXvukjv/sg=
-Modified: 638185328871774786
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog\Data\date.yml
-ID: "3b32ddd8-cba3-4f47-8e51-00d5afbab3d4"
-Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/date
-Signature: j2/0TNYu4pdWhL99MY//EC7ypgxAiRvryiXNrCXn1Vo=
-Modified: 638185328871784748
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog\Data\description.yml
-ID: "dee18293-2839-4fcc-bc8f-e2aba1882f15"
-Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/description
-Signature: 5HKU97HdccTw5KHLo1/JHAhMHbOe23ZNZU9bVWt7pbE=
-Modified: 638185328871784748
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog\Data\heading.yml
-ID: "d2c80f61-20b6-4c77-b935-508aaf90a7e8"
-Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/heading
-Signature: 8UhhSd+Cy56zL1fS+MXXl/ayIJCtgeH/56IlShEbUBI=
-Modified: 638185328871794719
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog\Data\imageList.yml
-ID: "256a15ab-17cd-4381-bfc8-2dc609c92842"
-Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/imageList
-Signature: 09WOc7Qn+QbXPUE8OwPmlN+6bPvUtZmKXenC1f/+l70=
-Modified: 638185328871794719
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog\Data\postType.yml
-ID: "8fd5f032-4da3-4422-9f8b-2476f85b346d"
-Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/postType
-Signature: d9MrbB94xy0Db7RN/vLqCD9fEK8XNu4S5ql0Elbxw9c=
-Modified: 638185328871794719
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog\Data\video.yml
-ID: "819c5ccc-843d-4b4b-91d2-84a7809ee862"
-Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/video
-Signature: RCJW6n5BhCh04Tz86EVlshk/7DZf/5amdB5Y14OAEs4=
-Modified: 638185328871804568
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\BlogCategory\Data\blogCategory.yml
-ID: "e4cf0ad2-697e-4e4f-a13e-e87a99eb64a0"
-Parent: "83cef1bf-67fc-4181-8f5a-6d8d71b5dd70"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogCategory/Data/blogCategory
-Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
-Modified: 638185328871824743
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\BlogCategoryList\Data\blogCategory.yml
-ID: "bf567c44-5b54-40ed-b081-20f5c6349935"
-Parent: "056c6365-a57a-41aa-b7bd-ea3a5c626c9b"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogCategoryList/Data/blogCategory
-Signature: hB/fISIT55VjG5j0pHD/aeOI7VIl41p+tghJ4FH8KKI=
-Modified: 638185328871854558
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\BlogCategoryList\Data\blogCategoryTitle.yml
-ID: "4fd0fca2-164e-42da-be8e-2dd25ce74c7d"
-Parent: "056c6365-a57a-41aa-b7bd-ea3a5c626c9b"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogCategoryList/Data/blogCategoryTitle
-Signature: DxIA1csTkrJn593QKys2KcPfmAmObGphqRejcGeSnFk=
-Modified: 638185328871854558
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\BlogImage\Data\blogImage.yml
-ID: "3dcc8551-3cb8-4e75-882f-40b2f10b3953"
-Parent: "802b1018-28e2-4e12-9d3a-42aa58cb1e2a"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogImage/Data/blogImage
-Signature: xWl7BJsd+ad/CqOMbEP2Y6ayNhWQ2lSz6/YyNyxncGc=
-Modified: 638185328871874767
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\BlogList\Data\blog.yml
-ID: "49612b19-da7c-4075-b016-3f2e8889d2c3"
-Parent: "09743876-51c9-4443-a33c-61b77d809398"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogList/Data/blog
-Signature: eNkwFGb6LPpekZ8e/obdYlnj75LIQwIGcZVoIkkcjOA=
-Modified: 638185328871894758
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\BlogList\Data\blogType.yml
-ID: "eb8d5bd3-c113-4462-9af5-0ce72e3ee4b0"
-Parent: "09743876-51c9-4443-a33c-61b77d809398"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogList/Data/blogType
-Signature: k12vhoixWqbqcHMnsaZgyr+azBYKKMQ7KbXbF0P9rW8=
-Modified: 638185328871894758
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\BlogType\Data\blogType.yml
-ID: "d8ce9dff-c34e-4111-960f-9ca7af8f14e3"
-Parent: "38fc5f9c-298c-41af-9394-c2c5fcedb3fc"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogType/Data/blogType
-Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
-Modified: 638185328871914728
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\ImageList\Data\image.yml
-ID: "3a1f4909-a43c-4ff2-aef3-e7b47d514bb1"
-Parent: "74bdead0-ecaf-4fb2-a85b-4085f9998875"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/ImageList/Data/image
-Signature: KQrvmwhMCKzLi2vAYjnQnPoEbtMRzhzzpKKfb7xSU7k=
-Modified: 638185328871924762
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\PostType\Data\postType.yml
-ID: "75b74bed-27f3-4b49-b1f2-86d1ed5e5524"
-Parent: "b853b769-25ce-4ac7-9ab9-8f1452ee636e"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/PostType/Data/postType
-Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
-Modified: 638185328871945514
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\Blog Detail\Detail Page\Author.yml
-ID: "c5de69f9-04e4-440c-b288-8050c455c997"
-Parent: "fba65b78-91c8-463b-bf03-cf6a5e43d1d7"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/Blog Detail/Detail Page/Author
-Signature: oD/p7YUnOqkpNkqLr7juywP80CnpMijcWWQ/rmyCdnU=
-Modified: 638185328871645119
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\Blog Detail\Detail Page\Date.yml
-ID: "009c22b8-63f2-4429-9198-c05ee4e65ab7"
-Parent: "fba65b78-91c8-463b-bf03-cf6a5e43d1d7"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/Blog Detail/Detail Page/Date
-Signature: WNHh5HvzOnoIEFkOy8leCQHE/5Oy1JIXEMDNvs44FEk=
-Modified: 638185328871655043
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\Blog Detail\Detail Page\Description.yml
-ID: "6b4d78f9-f5d9-4628-b628-7258768d7045"
-Parent: "fba65b78-91c8-463b-bf03-cf6a5e43d1d7"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/Blog Detail/Detail Page/Description
-Signature: WUcYzD9Od5W3exTXkIuxbXcHbAp3CwqTPbX6fiKKVWk=
-Modified: 638185328871664197
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\Blog Detail\Detail Page\Image.yml
-ID: "12f62101-7a23-40ab-bba8-a1a2c1732e85"
-Parent: "fba65b78-91c8-463b-bf03-cf6a5e43d1d7"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/Blog Detail/Detail Page/Image
-Signature: xWl7BJsd+ad/CqOMbEP2Y6ayNhWQ2lSz6/YyNyxncGc=
-Modified: 638185328871664197
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\Blog Detail\Detail Page\Title.yml
-ID: "8bccc5d5-0eec-43a7-a872-7083641349e8"
-Parent: "fba65b78-91c8-463b-bf03-cf6a5e43d1d7"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/Blog Detail/Detail Page/Title
-Signature: 6qX9mstQnwRXVUPALkh4nVMQcVn3lo+fSBdGfpceNGI=
-Modified: 638185328871674218
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\BlogDetail\Detail Page\Author.yml
-ID: "01a40e95-016e-464a-b752-78a2300474bb"
-Parent: "6653e4a4-6288-4ec5-bb14-e71bac437f2b"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/BlogDetail/Detail Page/Author
-Signature: ArYkGyjP1rjXGMhAhHawBy870mfptQljqmHxcm+675w=
-Modified: 638185328871695505
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\BlogDetail\Detail Page\Date.yml
-ID: "bc123ba0-350f-495d-a0df-a0249442ce67"
-Parent: "6653e4a4-6288-4ec5-bb14-e71bac437f2b"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/BlogDetail/Detail Page/Date
-Signature: VEauE9dZPsHwQIMB3iaFcaRUY1qwSaNFGzq8djOYinM=
-Modified: 638185328871704748
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\BlogDetail\Detail Page\Description.yml
-ID: "b2482950-04a1-433b-bb34-b27b64ee63c0"
-Parent: "6653e4a4-6288-4ec5-bb14-e71bac437f2b"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/BlogDetail/Detail Page/Description
-Signature: YM0yHDA94dQGC003oF+RYuYRVyr5fHs7400PKDrYi8s=
-Modified: 638185328871704748
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\BlogDetail\Detail Page\Image.yml
-ID: "0ed1b546-4713-470c-bccd-2c02e3d0dede"
-Parent: "6653e4a4-6288-4ec5-bb14-e71bac437f2b"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/BlogDetail/Detail Page/Image
-Signature: L1NVOt2se2CZxw/PltHOyXB1QCSLHcRLb7im9cPnaEc=
-Modified: 638185328871714576
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog Detail\BlogDetail\Detail Page\Title.yml
-ID: "599645ec-e5c9-4b25-a0eb-8c482ecca83e"
-Parent: "6653e4a4-6288-4ec5-bb14-e71bac437f2b"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/BlogDetail/Detail Page/Title
-Signature: tN/SqP/BaZsH2eeQF5dKLXCqA8kyG8MzRIstp7EmGCI=
-Modified: 638185328871714576
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\CTAType\CTAType\Content\Type.yml
-ID: "194fe019-8265-40d4-824a-3864cbdf8f1c"
-Parent: "f64d1804-9c64-4d31-af38-98c405cfd725"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/CTAType/CTAType/Content/Type
-Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
-Modified: 638185396849399385
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\CTAType\CTAType Folder\CTATypes\CTA.yml
-ID: "73d40919-c5c9-46fb-975f-e502bf4e32c0"
-Parent: "25a27dbf-1b7b-4aa3-abc1-042917bb3c47"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/CTAType/CTAType Folder/CTATypes/CTA
-Signature: W3UAuFjmGh1RPdqvoulbI4lod01cD4XGGy3r+eNCF5E=
-Modified: 638185396849379390
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\FieldTypes\FieldType\FieldTypes\Heading.yml
-ID: "10cbce97-07bc-4a29-b7c8-42a801bc9dc5"
-Parent: "b4644d72-7a0a-4eac-86eb-bfa25ad7f06f"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/FieldTypes/FieldType/FieldTypes/Heading
-Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
-Modified: 638185396849509379
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\FieldTypes\FieldType Branch\_name\FieldType.yml
-ID: "84c2064f-336c-45ac-b809-5f1692f18d2b"
-Parent: "cd220984-4c9b-4d5b-a14c-049799ef58d4"
-Template: "16537b81-137e-4177-98f8-abb77da951f1"
-Path: /sitecore/templates/Project/PLAY/OHA/FieldTypes/FieldType Branch/$name/FieldType
-Signature: +0+Hbq5yrdFMyZVd1msscKyUdAIvzrhHL012U0TQIkM=
-Modified: 638185396849429383
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\FieldTypes\FieldType List\FieldTypes\FieldType.yml
-ID: "417a4a13-ad90-47f1-8e89-8972fd8915bf"
-Parent: "9baea74d-82c5-4358-bca0-7fd9c8275f17"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/FieldTypes/FieldType List/FieldTypes/FieldType
-Signature: /3phNsK0/QJjRHTGOKmysEprSIcBWAIEYMqcdEM2Gw0=
-Modified: 638185396849479373
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer CopyRight\FooterCopyrightText.yml
-ID: "a9b7ee6b-d85f-4cff-aa25-55367f6ad240"
-Parent: "6c0fe1bb-2ff7-49d9-994b-232064f73092"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer CopyRight/FooterCopyrightText
-Signature: igfARzHCkfRE3ZsNGfogjw1VnePmKxREQ10ml31eeho=
-Modified: 638185328872134556
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Data\FooterCardIcon.yml
-ID: "823401c6-e4e6-4222-8081-7f0be37814e9"
-Parent: "104c7e92-031b-43fc-943a-3e48204541b0"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Data/FooterCardIcon
-Signature: rkLxy/q6hVYJu91ftYZn/csNrlVUf2lXxuGn5GQmZdY=
-Modified: 638185397056007078
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Data\FooterDescription.yml
-ID: "c150c562-a78c-4daa-8dfd-1a7224717cec"
-Parent: "104c7e92-031b-43fc-943a-3e48204541b0"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Data/FooterDescription
-Signature: 8UhhSd+Cy56zL1fS+MXXl/ayIJCtgeH/56IlShEbUBI=
-Modified: 638185328872164571
----
-File: |
   C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Data\FooterLogo.yml
 ID: "e400fa72-bb35-4305-8597-f7dc57712cc0"
 Parent: "104c7e92-031b-43fc-943a-3e48204541b0"
@@ -2197,85 +2188,40 @@ Signature: W56JjGoIKZ64v+/z2l5Zik5+6wnPUnkeQ31/p3lkPlg=
 Modified: 638185397056039374
 ---
 File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Instagram Details\Title.yml
-ID: "30334d8b-eb34-47b3-936e-78d63625d14c"
-Parent: "58cd520d-e480-44b0-90eb-f92911cdb411"
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\HeaderTop\Top Header Data fields goes here\signInLink.yml
+ID: "3a5bba3b-585c-48ab-ab1a-7fec55cb2654"
+Parent: "c055a140-4d07-427e-b3ac-5a2d5d9006af"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Instagram Details/Title
-Signature: dmfVdyN5XYJv8lkaRSmKPh/ti8w3g7jRNeliHdWwIdA=
-Modified: 638185328872195549
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/HeaderTop/Top Header Data fields goes here/signInLink
+Signature: DuijEkWjL6t5ve8EgoOSuJaGkbEFnysOepgAQb4QrfE=
+Modified: 638185397056290325
 ---
 File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Subscribe\PlaceholderText.yml
-ID: "52690a69-1e26-4833-9890-a8a04b12397c"
-Parent: "d9823d4a-3503-49da-aff6-3c17729ee86f"
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\HeaderTop\Top Header Data fields goes here\WelcomeMessage.yml
+ID: "76c8b4dd-2392-41e7-b5eb-4858d5e8b1c2"
+Parent: "c055a140-4d07-427e-b3ac-5a2d5d9006af"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Subscribe/PlaceholderText
-Signature: seTdHF4IkFZjUyXt+WvzWqMvt4ZVrXA6ZGd2xOjjRYQ=
-Modified: 638185328872204764
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Subscribe\SubscribeCTA.yml
-ID: "8361f4d4-dc70-4cda-a2c3-48bf1aa025e9"
-Parent: "d9823d4a-3503-49da-aff6-3c17729ee86f"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Subscribe/SubscribeCTA
-Signature: 5Uhb6M8sRq6PmuZJkpmkvNXDHeYtYagqqqnnc5ArWXY=
-Modified: 638185328872214740
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Subscribe\SubscribeHeading.yml
-ID: "88958c53-3557-4586-86cb-3cde84d9c705"
-Parent: "d9823d4a-3503-49da-aff6-3c17729ee86f"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Subscribe/SubscribeHeading
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/HeaderTop/Top Header Data fields goes here/WelcomeMessage
 Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
-Modified: 638185328872224567
+Modified: 638185397056280328
 ---
 File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Subscribe\SubscribeTitle.yml
-ID: "c4456aa7-eb30-4a56-87f6-21098947d463"
-Parent: "d9823d4a-3503-49da-aff6-3c17729ee86f"
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\LinkSelector\Link Selector Data\LinkData.yml
+ID: "f1ed8043-a88c-4c5a-9d94-dc2d2e7131c6"
+Parent: "86512b69-8bce-49a1-8802-140462a315bd"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Subscribe/SubscribeTitle
-Signature: oD/p7YUnOqkpNkqLr7juywP80CnpMijcWWQ/rmyCdnU=
-Modified: 638185328872224567
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Instagram\Footer Instagram\Image.yml
-ID: "d0500c4f-864f-4c54-a933-fa4b4e06b982"
-Parent: "ff8d6cce-91ba-484a-9fc5-72fe63392dfb"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Instagram/Footer Instagram/Image
-Signature: xWl7BJsd+ad/CqOMbEP2Y6ayNhWQ2lSz6/YyNyxncGc=
-Modified: 638185328872254590
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Links\Link Details\HideInFooter.yml
-ID: "50e9c68e-711a-47f9-82c8-58b51efa89e3"
-Parent: "32f64bf6-c84b-4204-9909-8c209412756a"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Links/Link Details/HideInFooter
-Signature: qwPXKOJVjXOK2JTloHcBeKb7/2SaWshN+YLviRQIcqE=
-Modified: 638185328872284555
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Links\Link Details\LinkUrl.yml
-ID: "5bc38ca3-1dff-4fd9-ac6e-0225395d8d17"
-Parent: "32f64bf6-c84b-4204-9909-8c209412756a"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Links/Link Details/LinkUrl
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/LinkSelector/Link Selector Data/LinkData
 Signature: WZt6bz7i5WM+vkFz7Vk96k2gq+hqzKVe+ZrqdNnwjW0=
-Modified: 638185328872284555
+Modified: 638185397056351175
 ---
 File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Navigation\Footer Navigation Details\FooterNavigationList.yml
-ID: "56737bb8-0e28-4485-95c7-477f9d4d9e5f"
-Parent: "690391c8-9f5f-4448-8c9e-31ecd5545c54"
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\TextFieldForLink\text field data\linktext.yml
+ID: "72a18289-4ba3-4fcd-b174-b9992d17e91d"
+Parent: "acb17256-9ec0-4ae1-8937-9f3cbef9b616"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Navigation/Footer Navigation Details/FooterNavigationList
-Signature: 6JUU/OGYrPcZYB6Kx8ch3xtmHxjaseSsYzZdf7IuyKU=
-Modified: 638185397056059438
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/TextFieldForLink/text field data/linktext
+Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
+Modified: 638185397056432729
 ---
 File: |
   C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Navigation\Footer Navigation Details\NavigationName.yml
@@ -2422,40 +2368,157 @@ Signature: RCJW6n5BhCh04Tz86EVlshk/7DZf/5amdB5Y14OAEs4=
 Modified: 638185397056280328
 ---
 File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\HeaderTop\Top Header Data fields goes here\signInLink.yml
-ID: "3a5bba3b-585c-48ab-ab1a-7fec55cb2654"
-Parent: "c055a140-4d07-427e-b3ac-5a2d5d9006af"
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\ProductCategory\ProductCategory Rendering Parameters\Style\ListingType.yml
+ID: "a5ba8c71-193a-4ff1-a9f7-4a118bd43305"
+Parent: "f64dc486-f552-4a11-b00d-76921d95c92d"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/HeaderTop/Top Header Data fields goes here/signInLink
-Signature: DuijEkWjL6t5ve8EgoOSuJaGkbEFnysOepgAQb4QrfE=
-Modified: 638185397056290325
+Path: /sitecore/templates/Project/PLAY/OHA/ProductCategory/ProductCategory Rendering Parameters/Style/ListingType
+Signature: jcAxi99NrF9MliBJuyuaEx50iMeS5CbNpW5KkioFDnI=
+Modified: 638185458959776813
 ---
 File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\HeaderTop\Top Header Data fields goes here\WelcomeMessage.yml
-ID: "76c8b4dd-2392-41e7-b5eb-4858d5e8b1c2"
-Parent: "c055a140-4d07-427e-b3ac-5a2d5d9006af"
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\Blog\Data\video.yml
+ID: "819c5ccc-843d-4b4b-91d2-84a7809ee862"
+Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/HeaderTop/Top Header Data fields goes here/WelcomeMessage
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/video
+Signature: RCJW6n5BhCh04Tz86EVlshk/7DZf/5amdB5Y14OAEs4=
+Modified: 638185328871804568
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\BlogCategory\Data\blogCategory.yml
+ID: "e4cf0ad2-697e-4e4f-a13e-e87a99eb64a0"
+Parent: "83cef1bf-67fc-4181-8f5a-6d8d71b5dd70"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogCategory/Data/blogCategory
 Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
-Modified: 638185397056280328
+Modified: 638185328871824743
 ---
 File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\LinkSelector\Link Selector Data\LinkData.yml
-ID: "f1ed8043-a88c-4c5a-9d94-dc2d2e7131c6"
-Parent: "86512b69-8bce-49a1-8802-140462a315bd"
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\BlogCategoryList\Data\blogCategory.yml
+ID: "bf567c44-5b54-40ed-b081-20f5c6349935"
+Parent: "056c6365-a57a-41aa-b7bd-ea3a5c626c9b"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/LinkSelector/Link Selector Data/LinkData
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogCategoryList/Data/blogCategory
+Signature: hB/fISIT55VjG5j0pHD/aeOI7VIl41p+tghJ4FH8KKI=
+Modified: 638185328871854558
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\BlogCategoryList\Data\blogCategoryTitle.yml
+ID: "4fd0fca2-164e-42da-be8e-2dd25ce74c7d"
+Parent: "056c6365-a57a-41aa-b7bd-ea3a5c626c9b"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogCategoryList/Data/blogCategoryTitle
+Signature: DxIA1csTkrJn593QKys2KcPfmAmObGphqRejcGeSnFk=
+Modified: 638185328871854558
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\BlogImage\Data\blogImage.yml
+ID: "3dcc8551-3cb8-4e75-882f-40b2f10b3953"
+Parent: "802b1018-28e2-4e12-9d3a-42aa58cb1e2a"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogImage/Data/blogImage
+Signature: xWl7BJsd+ad/CqOMbEP2Y6ayNhWQ2lSz6/YyNyxncGc=
+Modified: 638185328871874767
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\BlogList\Data\blog.yml
+ID: "49612b19-da7c-4075-b016-3f2e8889d2c3"
+Parent: "09743876-51c9-4443-a33c-61b77d809398"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogList/Data/blog
+Signature: eNkwFGb6LPpekZ8e/obdYlnj75LIQwIGcZVoIkkcjOA=
+Modified: 638185328871894758
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\BlogList\Data\blogType.yml
+ID: "eb8d5bd3-c113-4462-9af5-0ce72e3ee4b0"
+Parent: "09743876-51c9-4443-a33c-61b77d809398"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogList/Data/blogType
+Signature: k12vhoixWqbqcHMnsaZgyr+azBYKKMQ7KbXbF0P9rW8=
+Modified: 638185328871894758
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Blog\BlogType\Data\blogType.yml
+ID: "d8ce9dff-c34e-4111-960f-9ca7af8f14e3"
+Parent: "38fc5f9c-298c-41af-9394-c2c5fcedb3fc"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogType/Data/blogType
+Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
+Modified: 638185328871914728
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Instagram Details\Title.yml
+ID: "30334d8b-eb34-47b3-936e-78d63625d14c"
+Parent: "58cd520d-e480-44b0-90eb-f92911cdb411"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Instagram Details/Title
+Signature: dmfVdyN5XYJv8lkaRSmKPh/ti8w3g7jRNeliHdWwIdA=
+Modified: 638185328872195549
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Subscribe\PlaceholderText.yml
+ID: "52690a69-1e26-4833-9890-a8a04b12397c"
+Parent: "d9823d4a-3503-49da-aff6-3c17729ee86f"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Subscribe/PlaceholderText
+Signature: seTdHF4IkFZjUyXt+WvzWqMvt4ZVrXA6ZGd2xOjjRYQ=
+Modified: 638185328872204764
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Subscribe\SubscribeCTA.yml
+ID: "8361f4d4-dc70-4cda-a2c3-48bf1aa025e9"
+Parent: "d9823d4a-3503-49da-aff6-3c17729ee86f"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Subscribe/SubscribeCTA
+Signature: 5Uhb6M8sRq6PmuZJkpmkvNXDHeYtYagqqqnnc5ArWXY=
+Modified: 638185328872214740
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Subscribe\SubscribeHeading.yml
+ID: "88958c53-3557-4586-86cb-3cde84d9c705"
+Parent: "d9823d4a-3503-49da-aff6-3c17729ee86f"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Subscribe/SubscribeHeading
+Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
+Modified: 638185328872224567
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Info\Footer Subscribe\SubscribeTitle.yml
+ID: "c4456aa7-eb30-4a56-87f6-21098947d463"
+Parent: "d9823d4a-3503-49da-aff6-3c17729ee86f"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Subscribe/SubscribeTitle
+Signature: oD/p7YUnOqkpNkqLr7juywP80CnpMijcWWQ/rmyCdnU=
+Modified: 638185328872224567
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Instagram\Footer Instagram\Image.yml
+ID: "d0500c4f-864f-4c54-a933-fa4b4e06b982"
+Parent: "ff8d6cce-91ba-484a-9fc5-72fe63392dfb"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Instagram/Footer Instagram/Image
+Signature: xWl7BJsd+ad/CqOMbEP2Y6ayNhWQ2lSz6/YyNyxncGc=
+Modified: 638185328872254590
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Links\Link Details\HideInFooter.yml
+ID: "50e9c68e-711a-47f9-82c8-58b51efa89e3"
+Parent: "32f64bf6-c84b-4204-9909-8c209412756a"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Links/Link Details/HideInFooter
+Signature: qwPXKOJVjXOK2JTloHcBeKb7/2SaWshN+YLviRQIcqE=
+Modified: 638185328872284555
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Footer\Footer Links\Link Details\LinkUrl.yml
+ID: "5bc38ca3-1dff-4fd9-ac6e-0225395d8d17"
+Parent: "32f64bf6-c84b-4204-9909-8c209412756a"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Links/Link Details/LinkUrl
 Signature: WZt6bz7i5WM+vkFz7Vk96k2gq+hqzKVe+ZrqdNnwjW0=
-Modified: 638185397056351175
----
-File: |
-  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\Header 3 step Navigation\TextFieldForLink\text field data\linktext.yml
-ID: "72a18289-4ba3-4fcd-b174-b9992d17e91d"
-Parent: "acb17256-9ec0-4ae1-8937-9f3cbef9b616"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/TextFieldForLink/text field data/linktext
-Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
-Modified: 638185397056432729
+Modified: 638185328872284555
 ---
 File: |
   C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\HeaderNavigation\HeaderTopRightData\TopRightFields\CallUs.yml
@@ -2654,3 +2717,21 @@ Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
 Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/HeroCarousel/Carousel Data/Slides
 Signature: YKWrmVTyl1SwbrCAD4xn7H0QyaekWKGuAAvXRegeUa0=
 Modified: 638185328873002423
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\ProductCategory\ProductCategory\Data\Categories.yml
+ID: "1a7d9772-2e84-4bee-9006-49ef0cdaa20b"
+Parent: "1d9bf977-c8fc-4297-8568-130d0f3ec0b1"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/ProductCategory/ProductCategory/Data/Categories
+Signature: Yj/fdtRYk31jWf0n68vPINJi96uKUd5IZ4F1R6Af3Wo=
+Modified: 638185458959776813
+---
+File: |
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\templates\PLAY\OHA\ProductCategory\ProductCategory\Data\Title.yml
+ID: "66b9798c-dd8a-49fb-97c3-32fc39f1fd1b"
+Parent: "1d9bf977-c8fc-4297-8568-130d0f3ec0b1"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/ProductCategory/ProductCategory/Data/Title
+Signature: f4Cok4QlHsNBVWtSVHuZ++bjyjZyPzOHnDJllaKrueY=
+Modified: 638185458959776813

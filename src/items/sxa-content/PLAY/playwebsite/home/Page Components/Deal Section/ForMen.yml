@@ -21,7 +21,7 @@ Languages:
     - ID: "43736d85-57c3-4220-8972-9d4759c156ff"
       Hint: CTALink
       Value: |
-        <link text="Shop" linktype="external" url="https://d-themes.com/react/riode/demo-1/shop/" anchor="" target="" />
+        <link text="Shop Now" anchor="" linktype="internal" class="" title="Shop Now" target="" querystring="" id="{FBB0F055-551D-414A-A20E-78B093D55FBE}" />
     - ID: "47fd91ea-1825-442d-9373-7c5c805830c8"
       Hint: BackgroundImage
       Value: |
@@ -37,7 +37,7 @@ Languages:
       Value: button
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "aba02b41-0283-4199-ac9a-7397f1710f58"
+      Value: "2d4b54f9-6d10-4b3c-9707-8548135962a5"
     - ID: "df08957b-e019-4862-a95f-707922cc2b17"
       Hint: CTAText
       Value: SHOP NOW

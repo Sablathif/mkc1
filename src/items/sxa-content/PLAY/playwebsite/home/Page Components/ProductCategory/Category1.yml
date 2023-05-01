@@ -1,8 +1,8 @@
 ﻿---
-ID: "f605ce21-b6f2-4757-b839-13e97fcc8502"
+ID: "b0b695f8-498d-470f-9767-ac8044fbf9a7"
 Parent: "12b304b5-2e38-4813-9d07-1ead91461833"
 Template: "fa002636-eb8b-49b7-9db2-e9267b97e1d0"
-Path: /sitecore/content/PLAY/playwebsite/home/OHA Landing Page/Page Components/ProductCategory/Category3
+Path: /sitecore/content/PLAY/playwebsite/home/Page Components/ProductCategory/Category1
 Languages:
 - Language: en
   Versions:
@@ -11,14 +11,14 @@ Languages:
     - ID: "088927fc-d004-4fd9-93ad-b95c459acdcd"
       Hint: CTA
       Value: |
-        <link linktype="internal" />
+        <link text="For Men's" anchor="" linktype="internal" class="" title="For Men's" target="" querystring="" id="{FBB0F055-551D-414A-A20E-78B093D55FBE}" />
     - ID: "3eec8a78-b7a3-40d3-826d-004596069b0e"
       Hint: Title
-      Value: Fashion Wear
+      Value: For Men's
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "08ff1d97-c86b-4086-9f21-5ff69392e962"
+      Value: "270f60bd-e98e-4a13-8cfd-fff355e55ce9"
     - ID: "e95698ea-8042-4cc7-98f7-d06bc5414b0f"
       Hint: Image
       Value: |
-        <image mediaid="{52E2A1AF-577D-4FA9-A9D5-82B1C0DFFE2A}" />
+        <image mediaid="{F0DD122D-9FA3-4C08-949F-2D3CCCCC79D0}" />

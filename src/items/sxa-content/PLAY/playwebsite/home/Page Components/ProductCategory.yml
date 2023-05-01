@@ -1,12 +1,12 @@
 ﻿---
 ID: "12b304b5-2e38-4813-9d07-1ead91461833"
-Parent: "a1b5cb63-177e-4cb2-ad39-de7be30bd30f"
+Parent: "99536ff1-02bf-5b2e-a94a-1bbba4cf50fa"
 Template: "2a354985-595b-4fe4-b9d9-1154d298b41a"
-Path: /sitecore/content/PLAY/playwebsite/home/OHA Landing Page/Page Components/ProductCategory
+Path: /sitecore/content/PLAY/playwebsite/home/Page Components/ProductCategory
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 50
+  Value: 88
 Languages:
 - Language: en
   Versions:
@@ -24,4 +24,4 @@ Languages:
       Value: Browse Our Category 1
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "719f2ccf-7c35-4b60-b0b5-a49f2e3bc287"
+      Value: "94321353-65d3-490c-ab7b-57b1639cf963"
