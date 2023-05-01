@@ -1,7 +1,5 @@
-import { Image, Link, RichText, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import ALink from 'components/feature/custom-link';
-export default function Footer(props: any) {
-  const data = props.props;
+export default function Footer() {
   return (
     <footer className="footer">
       <div className="container">
@@ -9,19 +7,19 @@ export default function Footer(props: any) {
           <div className="row align-items-center">
             <div className="col-lg-3">
               <ALink href="/" className="logo-footer" content={undefined} style={undefined}>
-                <Image field={data.fields.FooterLogo} width="154" height="43" />
+                <img
+                  src="../../assets/images/logo-footer.png"
+                  alt="logo-footer"
+                  width="154"
+                  height="43"
+                />
               </ALink>
             </div>
             <div className="col-lg-9">
               <div className="widget widget-newsletter form-wrapper form-wrapper-inline">
                 <div className="newsletter-info mx-auto mr-lg-2 ml-lg-4">
-                  <h4 className="widget-title">
-                    {' '}
-                    <Text field={data.fields.SubscribeHeading} />
-                  </h4>
-                  <p>
-                    <Text field={data.fields.SubscribeTitle} />
-                  </p>
+                  <h4 className="widget-title">Subscribe to our Newsletter</h4>
+                  <p>Get all the latest information, Sales and Offers.</p>
                 </div>
                 <form action="#" className="input-wrapper input-wrapper-inline">
                   <input
@@ -33,14 +31,14 @@ export default function Footer(props: any) {
                     required
                   />
                   <button className="btn btn-primary btn-rounded btn-md ml-2" type="submit">
-                    <Link field={data.fields.SubscribeCTA} />
-                    <i className="d-icon-arrow-right"></i>
+                    subscribe<i className="d-icon-arrow-right"></i>
                   </button>
                 </form>
               </div>
             </div>
           </div>
         </div>
+
         <div className="footer-middle">
           <div className="row">
             <div className="col-lg-3 col-md-6">
@@ -81,64 +79,179 @@ export default function Footer(props: any) {
                 </ul>
               </div>
             </div>
-            {data?.fields?.FooterNavigation?.map((datanav: any, index: any) => (
-              <div className="col-lg-3 col-md-6" key={index}>
-                <div className="widget ml-lg-4">
-                  <h4 className="widget-title">{datanav.fields.NavigationName.value}</h4>
-                  <ul className="widget-body">
-                    {/* {datanav.fields.FooterNavigationList?.map((datalist, index) => (
-                      <li key={index}>
-                        <ALink href={datalist.fields.LinkUrl.value.url}>
-                          {datalist.fields.LinkUrl.value.text}
-                        </ALink>
-                      </li>
-                    ))} */}
-                  </ul>
-                </div>
+            <div className="col-lg-3 col-md-6">
+              <div className="widget ml-lg-4">
+                <h4 className="widget-title">My Account</h4>
+                <ul className="widget-body">
+                  <li>
+                    <ALink
+                      href="/pages/about-us"
+                      className={undefined}
+                      content={undefined}
+                      style={undefined}
+                    >
+                      About Us
+                    </ALink>
+                  </li>
+                  <li>
+                    <ALink href="#" className={undefined} content={undefined} style={undefined}>
+                      Order History
+                    </ALink>
+                  </li>
+                  <li>
+                    <ALink href="#" className={undefined} content={undefined} style={undefined}>
+                      Returns
+                    </ALink>
+                  </li>
+                  <li>
+                    <ALink href="#" className={undefined} content={undefined} style={undefined}>
+                      Custom Service
+                    </ALink>
+                  </li>
+                  <li>
+                    <ALink href="#" className={undefined} content={undefined} style={undefined}>
+                      Terms &amp; Condition
+                    </ALink>
+                  </li>
+                </ul>
               </div>
-            ))}
+            </div>
+            <div className="col-lg-3 col-md-6">
+              <div className="widget ml-lg-4">
+                <h4 className="widget-title">Contact Info</h4>
+                <ul className="widget-body">
+                  <li>
+                    <ALink
+                      href="/pages/login"
+                      className={undefined}
+                      content={undefined}
+                      style={undefined}
+                    >
+                      Sign in
+                    </ALink>
+                  </li>
+                  <li>
+                    <ALink
+                      href="/pages/cart"
+                      className={undefined}
+                      content={undefined}
+                      style={undefined}
+                    >
+                      View Cart
+                    </ALink>
+                  </li>
+                  <li>
+                    <ALink
+                      href="/pages/wishlist"
+                      className={undefined}
+                      content={undefined}
+                      style={undefined}
+                    >
+                      My Wishlist
+                    </ALink>
+                  </li>
+                  <li>
+                    <ALink href="#" className={undefined} content={undefined} style={undefined}>
+                      Track My Order
+                    </ALink>
+                  </li>
+                  <li>
+                    <ALink href="#" className={undefined} content={undefined} style={undefined}>
+                      Help
+                    </ALink>
+                  </li>
+                </ul>
+              </div>
+            </div>
             <div className="col-lg-3 col-md-6">
               <div className="widget widget-instagram">
-                <h4 className="widget-title">
-                  <Text field={data.fields.Title} />
-                </h4>
+                <h4 className="widget-title">Instagram</h4>
                 <figure className="widget-body row">
-                  {data?.fields?.FooterInstagram?.map((datainsta: any, index: any) => (
-                    <div className="col-3" key={index}>
-                      <Image field={datainsta.fields.Image} width="64" height="64" />
-                    </div>
-                  ))}
+                  <div className="col-3">
+                    <img
+                      src="../../assets/images/instagram/01.jpg"
+                      alt="instagram 1"
+                      width="64"
+                      height="64"
+                    />
+                  </div>
+                  <div className="col-3">
+                    <img
+                      src="../../assets/images/instagram/02.jpg"
+                      alt="instagram 2"
+                      width="64"
+                      height="64"
+                    />
+                  </div>
+                  <div className="col-3">
+                    <img
+                      src="../../assets/images/instagram/03.jpg"
+                      alt="instagram 3"
+                      width="64"
+                      height="64"
+                    />
+                  </div>
+                  <div className="col-3">
+                    <img
+                      src="../../assets/images/instagram/04.jpg"
+                      alt="instagram 4"
+                      width="64"
+                      height="64"
+                    />
+                  </div>
+                  <div className="col-3">
+                    <img
+                      src="../../assets/images/instagram/05.jpg"
+                      alt="instagram 5"
+                      width="64"
+                      height="64"
+                    />
+                  </div>
+                  <div className="col-3">
+                    <img
+                      src="../../assets/images/instagram/06.jpg"
+                      alt="instagram 6"
+                      width="64"
+                      height="64"
+                    />
+                  </div>
+                  <div className="col-3">
+                    <img
+                      src="../../assets/images/instagram/07.jpg"
+                      alt="instagram 7"
+                      width="64"
+                      height="64"
+                    />
+                  </div>
+                  <div className="col-3">
+                    <img
+                      src="../../assets/images/instagram/08.jpg"
+                      alt="instagram 8"
+                      width="64"
+                      height="64"
+                    />
+                  </div>
                 </figure>
               </div>
             </div>
           </div>
         </div>
+
         <div className="footer-bottom">
           <div className="footer-left">
-            {data?.fields?.FooterCardIcon?.map((datapay: any, index: any) => (
-              <figure className="payment" key={index}>
-                <Image field={datapay.fields.Icon} />
-              </figure>
-            ))}
+            <figure className="payment">
+              <img src="../../assets/images/payment.png" alt="payment" width="159" height="29" />
+            </figure>
           </div>
           <div className="footer-center">
-            {/* <p className="copyright ls-normal"> Commented because of hydration error */}
-            <RichText field={data.fields.FooterCopyrightText} />
-            {/* </p> Commented because of hydration error */}
+            <p className="copyright ls-normal">Riode eCommerce &copy; 2021. All Rights Reserved</p>
           </div>
           <div className="footer-right">
-            {data?.fields?.FooterSocialLinks?.map((datasocial: any, index: any) => (
-              <div className="social-links" key={index}>
-                <ALink
-                  href={datasocial.fields.Link.value.href}
-                  className={datasocial.fields.IconClass.value}
-                  content={undefined}
-                  style={undefined}
-                >
-                  <span></span>
-                </ALink>
-              </div>
-            ))}
+            <div className="social-links">
+              <ALink href="#" className="social-link social-facebook fab fa-facebook-f" children={undefined} content={undefined} style={undefined}></ALink>
+              <ALink href="#" className="social-link social-twitter fab fa-twitter" children={undefined} content={undefined} style={undefined}></ALink>
+              <ALink href="#" className="social-link social-linkedin fab fa-linkedin-in" children={undefined} content={undefined} style={undefined}></ALink>
+            </div>
           </div>
         </div>
       </div>
