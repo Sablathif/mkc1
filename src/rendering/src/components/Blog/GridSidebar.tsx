@@ -50,7 +50,10 @@ function GridSidebar(BlogProps: any) {
                     )} */}
                           <span className="video-play" onClick={videoHandler}></span>
                           <video width="380">
-                            <source src={'/-' + item.fields.video.value?.href.split('/-').pop()} type="video/mp4" />
+                            <source
+                              src={'/-' + item.fields.video.value?.href.split('/-').pop()}
+                              type="video/mp4"
+                            />
                           </video>
                         </figure>
                       </div>

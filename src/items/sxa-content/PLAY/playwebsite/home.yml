@@ -143,33 +143,25 @@ Languages:
               <p:d />
             </r>
             <r
-              uid="{9079BFE6-D63C-4BAC-AD53-5D0B06100CD1}">
-              <p:d />
-            </r>
-            <r
-              uid="{A8A19C25-CC3A-448C-A532-F43DDFF4230A}"
+              uid="{FC89C8D3-E508-4BA8-96C2-353E80CED26F}"
               p:before="*"
-              s:ds="{CDB898B2-2155-4FEC-A237-DFBD14D84717}"
-              s:id="{AAA0BD84-3885-5638-8C8E-7C58348BC1A5}"
-              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;CSSStyles"
+              s:ds="{BA341600-4394-4B5D-804C-D33AFC5D9477}"
+              s:id="{60E46443-0BAD-5861-823D-75F620401573}"
+              s:par="GridParameters&amp;BannerType=SimpleBanner&amp;FieldNames&amp;Styles&amp;CSSStyles"
               s:ph="headless-main"
               s:ccb="Clear on publish" />
             <r
               uid="{6C16B5AF-67A3-423E-8019-6FABAE301BBA}"
-              p:after="r[@uid='{A8A19C25-CC3A-448C-A532-F43DDFF4230A}']"
+              p:after="*[1=2]"
               s:ds="{E779162A-2319-4591-8C81-D396D4B37A20}"
               s:id="{7285FA7E-6897-5054-B27B-52DAC593620B}"
               s:par="GridParameters&amp;FieldNames&amp;Styles&amp;CSSStyles"
               s:ph="headless-main"
               s:ccb="Clear on publish" />
             <r
-              uid="{FC89C8D3-E508-4BA8-96C2-353E80CED26F}"
-              p:after="*[1=2]"
-              s:ds="{BA341600-4394-4B5D-804C-D33AFC5D9477}"
-              s:id="{60E46443-0BAD-5861-823D-75F620401573}"
-              s:par="GridParameters&amp;BannerType=SimpleBanner&amp;FieldNames&amp;Styles&amp;CSSStyles"
-              s:ph="headless-main"
-              s:ccb="Clear on publish" />
+              uid="{9079BFE6-D63C-4BAC-AD53-5D0B06100CD1}">
+              <p:d />
+            </r>
             <r
               uid="{368C89F1-3640-58A1-BDE0-A1C0E8426D3E}">
               <p:d />
@@ -202,7 +194,7 @@ Languages:
         </r>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5fb766f0-775b-43a1-87c2-a43d4e984013"
+      Value: "52e025b5-0ca2-4e4e-8c4a-e5d00395d16b"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Home
