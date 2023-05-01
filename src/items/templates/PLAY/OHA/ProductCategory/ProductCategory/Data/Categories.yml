@@ -1,0 +1,23 @@
+﻿---
+ID: "1a7d9772-2e84-4bee-9006-49ef0cdaa20b"
+Parent: "1d9bf977-c8fc-4297-8568-130d0f3ec0b1"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/ProductCategory/ProductCategory/Data/Categories
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "DataSource=query:self::&IncludeTemplatesForSelection=ProductCategory Cards"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Treelist
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e05d3e9f-d85f-407a-9492-cc5b459d2599"

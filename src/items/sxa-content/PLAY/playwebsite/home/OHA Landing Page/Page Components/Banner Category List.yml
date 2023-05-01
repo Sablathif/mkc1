@@ -3,6 +3,10 @@ ID: "07b8ebb9-38eb-4fe2-9ae0-5902a5bb95dd"
 Parent: "a1b5cb63-177e-4cb2-ad39-de7be30bd30f"
 Template: "72b37029-b132-4e64-bd9e-94eeb0d7fbdc"
 Path: /sitecore/content/PLAY/playwebsite/home/OHA Landing Page/Page Components/Banner Category List
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
 Languages:
 - Language: en
   Versions:
@@ -10,7 +14,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "871f817f-c51c-4d5d-8634-153b5c9c881f"
+      Value: "9ebcc761-9b1b-4947-a258-f66b3e2fb42e"
     - ID: "eb83c82e-5bd7-4174-9995-ca3351ea2f53"
       Hint: Banners
       Value: |

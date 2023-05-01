@@ -1,0 +1,20 @@
+﻿---
+ID: "6e6b4353-6a05-46c0-9457-084acecfdc2d"
+Parent: "12b304b5-2e38-4813-9d07-1ead91461833"
+Template: "fa002636-eb8b-49b7-9db2-e9267b97e1d0"
+Path: /sitecore/content/PLAY/playwebsite/home/OHA Landing Page/Page Components/ProductCategory/Category4
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3eec8a78-b7a3-40d3-826d-004596069b0e"
+      Hint: Title
+      Value: Cosmetic
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b13dd56d-609a-4980-9d88-1b1d063cca82"
+    - ID: "e95698ea-8042-4cc7-98f7-d06bc5414b0f"
+      Hint: Image
+      Value: |
+        <image mediaid="{20CF96BF-6FC4-4FCE-A459-7AFD4BFED162}" />

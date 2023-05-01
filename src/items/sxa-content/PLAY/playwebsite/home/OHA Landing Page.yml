@@ -13,7 +13,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{F42ED440-A498-426D-B6CC-348BC7E997FE}" />
+    <image mediaid="{1BD94821-4F68-43A0-BAD0-D81E3F031A00}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -59,10 +59,18 @@ Languages:
               s:ccb="Clear on publish" />
             <r
               uid="{F81B02D3-D05B-4662-B38F-7F36B3F775FF}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{CCC742AE-5AF0-41B5-9AF3-DBBD50022EAE}']"
               s:ds="{E779162A-2319-4591-8C81-D396D4B37A20}"
               s:id="{7285FA7E-6897-5054-B27B-52DAC593620B}"
               s:par="GridParameters&amp;FieldNames&amp;Styles&amp;CSSStyles"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{F7FDBF63-6D66-4016-B313-E59838D4272C}"
+              p:after="*[1=2]"
+              s:ds="{12B304B5-2E38-4813-9D07-1EAD91461833}"
+              s:id="{9D08882D-839D-40C2-817F-C51A6E51F769}"
+              s:par="GridParameters&amp;ListingType=Image&amp;FieldNames&amp;Styles&amp;CSSStyles"
               s:ph="headless-main"
               s:ccb="Clear on publish" />
           </d>
@@ -72,7 +80,7 @@ Languages:
       Value: "{F103752C-F458-47E0-B322-99785275BDB9}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a970743e-f7d4-4cfd-bed4-d93b527b4f8c"
+      Value: "86e74f33-ec98-4953-b27b-2d15439bf805"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: OHA Landing Page

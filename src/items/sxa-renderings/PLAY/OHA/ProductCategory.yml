@@ -1,0 +1,13 @@
+﻿---
+ID: "403586b8-04df-41fb-822b-c836e895c441"
+Parent: "efe36ba6-8d0d-4c92-a824-841bc97b47f3"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Project/PLAY/OHA/ProductCategory
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "181634ab-1b26-43ba-93ab-d6078e67d241"
