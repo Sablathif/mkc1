@@ -10,8 +10,8 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "fdbd208e-09cf-4348-9e94-46399a654372"
+      Value: "acda6b60-c952-4b2f-b8f5-2a6bd88b6818"
     - ID: "bcdbf166-d7a5-4a34-8e6e-0bd04a79444f"
       Hint: Link
       Value: |
-        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{A203E254-2CA4-413D-911C-F565FF3787B9}" />
+        <link text="Blog" anchor="" linktype="internal" class="" title="Blog" target="" querystring="" id="{A203E254-2CA4-413D-911C-F565FF3787B9}" />

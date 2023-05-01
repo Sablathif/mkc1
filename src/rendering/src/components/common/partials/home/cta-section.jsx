@@ -14,6 +14,7 @@ function CtaSection(props) {
     };
   }, []);
   const data = props.props?.fields;
+  console.log(data);
   return (
     <section
       className="banner banner-background parallax text-center"
