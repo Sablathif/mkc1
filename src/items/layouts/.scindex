@@ -1,19 +1,19 @@
 ﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\layouts\PLAY\PLAY Layout.yml
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\layouts\PLAY\PLAY Layout.yml
 ID: "b103f257-71ef-5392-b6cd-ec8062f68c1c"
 Parent: "b7ebac24-b600-5631-a101-52f98398a65f"
 Template: "35c61e90-47dd-43dd-83a8-d1c4d5119720"
 Path: /sitecore/layout/Layouts/Project/PLAY/PLAY Layout
 Signature: bBxzPPVG6vAcwabkGqSlS64NHGbdAwVMCt7aE5RI50E=
-Modified: 638175688215920096
+Modified: 638185328861585980
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\layouts\PLAY.yml
+  C:\Projects\OHAXMCloud\XMCHeadlessIp-v2\src\items\layouts\PLAY.yml
 ID: "b7ebac24-b600-5631-a101-52f98398a65f"
 Parent: "da04b275-8838-4a3a-afee-817cf1fdd2eb"
 Template: "93227c5d-4fef-474d-94c0-f252ec8e8219"
 Path: /sitecore/layout/Layouts/Project/PLAY
 Signature: /eQTHGLFT1YlA0iF2TfjVvVqfs09Drhe8JcvPyNzE7I=
-Modified: 638175688215773478
+Modified: 638185328861576069
