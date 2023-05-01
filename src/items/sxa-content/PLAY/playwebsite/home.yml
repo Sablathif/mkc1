@@ -143,10 +143,6 @@ Languages:
               <p:d />
             </r>
             <r
-              uid="{9079BFE6-D63C-4BAC-AD53-5D0B06100CD1}">
-              <p:d />
-            </r>
-            <r
               uid="{FC89C8D3-E508-4BA8-96C2-353E80CED26F}"
               p:before="*"
               s:ds="{BA341600-4394-4B5D-804C-D33AFC5D9477}"
@@ -156,20 +152,16 @@ Languages:
               s:ccb="Clear on publish" />
             <r
               uid="{6C16B5AF-67A3-423E-8019-6FABAE301BBA}"
-              p:after="r[@uid='{FC89C8D3-E508-4BA8-96C2-353E80CED26F}']"
+              p:after="*[1=2]"
               s:ds="{E779162A-2319-4591-8C81-D396D4B37A20}"
               s:id="{7285FA7E-6897-5054-B27B-52DAC593620B}"
               s:par="GridParameters&amp;FieldNames&amp;Styles&amp;CSSStyles"
               s:ph="headless-main"
               s:ccb="Clear on publish" />
             <r
-              uid="{658A1737-04D2-4E92-B653-CBCC12F702A1}"
-              p:after="*[1=2]"
-              s:ds="{B86D9C26-D532-485D-A051-FDE4B2655987}"
-              s:id="{48EFA154-00F0-4A6B-A269-C7FD30F39D18}"
-              s:par="CSSStyles"
-              s:ph="headless-main"
-              s:ccb="Clear on publish" />
+              uid="{9079BFE6-D63C-4BAC-AD53-5D0B06100CD1}">
+              <p:d />
+            </r>
             <r
               uid="{368C89F1-3640-58A1-BDE0-A1C0E8426D3E}">
               <p:d />
@@ -202,7 +194,7 @@ Languages:
         </r>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e3481fd9-640f-402d-8cda-0b47eb45ee5b"
+      Value: "cb797f1e-b9b2-4607-a6a5-517ff8d9ddda"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Home
