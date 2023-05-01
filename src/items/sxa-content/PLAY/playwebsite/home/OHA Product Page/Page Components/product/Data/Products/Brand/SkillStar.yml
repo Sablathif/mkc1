@@ -1,0 +1,13 @@
+﻿---
+ID: "27b3e886-9507-42ef-881f-b1877140dc16"
+Parent: "04831d6c-37d2-47e3-b8a9-7cf8dd0a3a9b"
+Template: "645317fe-3c05-4cde-93ec-8a1989204d29"
+Path: /sitecore/content/PLAY/playwebsite/home/OHA Product Page/Page Components/product/Data/Products/Brand/SkillStar
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "455091c4-4cf2-4618-a957-6d2cac69c420"

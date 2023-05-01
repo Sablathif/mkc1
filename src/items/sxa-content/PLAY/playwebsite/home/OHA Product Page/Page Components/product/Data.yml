@@ -1,0 +1,13 @@
+﻿---
+ID: "d0eab97f-221f-4a29-bef0-780291ef3617"
+Parent: "0e8cfd79-acfc-4cd7-b846-5a15a1443dd8"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/PLAY/playwebsite/home/OHA Product Page/Page Components/product/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f45c9b41-c26a-4f34-8fb0-20fd23f8fd89"

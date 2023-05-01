@@ -1,0 +1,20 @@
+﻿---
+ID: "e4eed1db-d092-4344-b7b2-7212de86954d"
+Parent: "b803bf3c-76ab-415f-b0a3-04de6cc53191"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Search/Product/Product Detail Page/Product Data/Title
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "172f29c6-0fde-4825-a002-ac870d67a188"
