@@ -143,6 +143,10 @@ Languages:
               <p:d />
             </r>
             <r
+              uid="{9079BFE6-D63C-4BAC-AD53-5D0B06100CD1}">
+              <p:d />
+            </r>
+            <r
               uid="{FC89C8D3-E508-4BA8-96C2-353E80CED26F}"
               p:before="*"
               s:ds="{62B5CBF5-B5D4-4717-A702-E233DC124A0F}"
@@ -152,16 +156,20 @@ Languages:
               s:ccb="Clear on publish" />
             <r
               uid="{DF03C9DE-8C8D-4A6F-ABD7-2ACC6A770653}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{FC89C8D3-E508-4BA8-96C2-353E80CED26F}']"
               s:ds="{8C4248D7-D6DA-4EF8-A91E-B1333DB1D24E}"
               s:id="{7285FA7E-6897-5054-B27B-52DAC593620B}"
               s:par="CSSStyles"
               s:ph="headless-main"
               s:ccb="Clear on publish" />
             <r
-              uid="{9079BFE6-D63C-4BAC-AD53-5D0B06100CD1}">
-              <p:d />
-            </r>
+              uid="{5DCCA8B5-684D-47E7-A296-1847D3900542}"
+              p:after="*[1=2]"
+              s:ds="{12B304B5-2E38-4813-9D07-1EAD91461833}"
+              s:id="{9D08882D-839D-40C2-817F-C51A6E51F769}"
+              s:par="GridParameters&amp;ListingType=Image&amp;FieldNames&amp;Styles&amp;CSSStyles"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
             <r
               uid="{368C89F1-3640-58A1-BDE0-A1C0E8426D3E}">
               <p:d />
@@ -194,7 +202,7 @@ Languages:
         </r>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "25bbb63b-683f-4632-9bf3-5601ff75bc04"
+      Value: "2049d0c7-d18b-414b-9073-5cf7bf6598ac"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: XM Cloud Home
