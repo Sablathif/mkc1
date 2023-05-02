@@ -13,7 +13,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{8FAF01AB-0F18-4858-AD94-25CCC55C8566}" />
+    <image mediaid="{01A2920E-20DF-47E3-B2F3-2E3FA5916943}" />
 - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
   Hint: __Default workflow
   Value: 
@@ -66,7 +66,7 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ea2c1740-70bd-4076-8631-f0011da16da6"
+      Value: "c2241676-fa14-4dcf-8cba-7ada4efaa8af"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Complete Set Of Ski Tools For Everyone

@@ -13,7 +13,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{0237D744-01BD-42C4-81C6-36C68DC8025F}" />
+    <image mediaid="{01A2920E-20DF-47E3-B2F3-2E3FA5916943}" />
 - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
   Hint: __Default workflow
   Value: 
@@ -66,7 +66,7 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "fe9b322f-90b6-4dd5-9b01-14643dd88466"
+      Value: "be97c374-558a-4511-aced-27df2e6f5187"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Women’s Fashion Summer Dress
