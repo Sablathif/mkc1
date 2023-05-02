@@ -67,7 +67,7 @@ Languages:
     - ID: "0ed1b546-4713-470c-bccd-2c02e3d0dede"
       Hint: Image
       Value: |
-        <image mediaid="{6A97B57F-615E-4336-8086-C54E1AFB8DE4}" />
+        <image mediaid="{EE0AED9A-22F5-4F25-90B4-261F8A0A9C34}" />
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
@@ -76,7 +76,7 @@ Languages:
       Value: Complete Set Of Ski Tools For Everyone
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "53451f3e-5b78-475f-99f7-c23c0ba8cba4"
+      Value: "d6de6456-dfd0-4f83-b547-0f29cb75c40b"
     - ID: "b2482950-04a1-433b-bb34-b27b64ee63c0"
       Hint: Description
       Value: |

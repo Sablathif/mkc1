@@ -67,7 +67,7 @@ Languages:
     - ID: "0ed1b546-4713-470c-bccd-2c02e3d0dede"
       Hint: Image
       Value: |
-        <image mediaid="{6A97B57F-615E-4336-8086-C54E1AFB8DE4}" />
+        <image mediaid="{807F1790-0B1B-4D99-919F-8B4A13C38650}" />
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
@@ -76,7 +76,7 @@ Languages:
       Value: Womens Trending Sunglasses And Clothing
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4bff2394-15bd-447f-a367-9cbd3cc8c440"
+      Value: "94ad91db-3ece-488c-9050-3e7b68a8bd97"
     - ID: "b2482950-04a1-433b-bb34-b27b64ee63c0"
       Hint: Description
       Value: |
