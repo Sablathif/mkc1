@@ -102,7 +102,6 @@ export default function Header(/*props*/) {
                 height="44"
               />
             </ALink>
-            <div className="header-search hs-simple"><a href="#" className="search-toggle" role="button"><i className="icon-search-3"></i></a><form action="#" method="get" class="input-wrapper"><input type="text" class="form-control" name="search" autocomplete="off" placeholder="Search..." required="" value=""><button class="btn btn-search" type="submit"><i className="d-icon-search"></i></button><div className="live-search-list bg-white scrollable"></div></form></div>
             {/* <SearchBar /> */}
           </div>
 
