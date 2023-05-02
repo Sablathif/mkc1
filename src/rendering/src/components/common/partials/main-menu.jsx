@@ -20,12 +20,12 @@ function MainMenu() {
         <li id="menu-home" className={pathname === '/' ? 'active' : ''}>
           <ALink href="/Blogs/listing">Blogs</ALink>
         </li>
-        <li id="menu-home" className={pathname === '/' ? 'active' : ''}>
+        {/* <li id="menu-home" className={pathname === '/' ? 'active' : ''}>
           <ALink href="/Search">Search</ALink>
         </li>
         <li id="menu-home" className={pathname === '/' ? 'active' : ''}>
           <ALink href="/Contact-Us">Contact Us</ALink>
-        </li>
+        </li> */}
 
         {/* <li className={ `submenu  ${ pathname.includes( '/shop' ) ? 'active' : '' }` }>
                     <ALink href='/shop'>Categories</ALink>

@@ -75,7 +75,14 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b5119c29-b91d-48cb-9b04-3a6ba3bd1eb4"
+      Value: "679a92b5-b498-4212-b42e-f461262f07a3"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: OHA Landing Page
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6859b31f-9dd7-4b55-93d7-2ab1d06c4d01"

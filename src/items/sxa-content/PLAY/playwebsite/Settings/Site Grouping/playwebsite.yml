@@ -7,7 +7,7 @@ BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "1ee576af-ba8e-4312-9fbd-2ccf8395baa1"
   Hint: StartItem
-  Value: "{2D1D7ACA-9597-5CA6-85B2-9B04907E4298}"
+  Value: "{15B20460-D0D7-4014-A63D-CEE29D88E146}"
 - ID: "6e6da5b0-8d01-4514-b7dd-1940aff3e8cd"
   Hint: FieldLanguageFallback
   Value: 1
@@ -39,4 +39,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "69060dbb-5c2c-4b69-8097-c308caad8097"
+      Value: "eba356bd-814c-453d-9987-fae08ea1ccd8"

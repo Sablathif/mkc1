@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogList/Data/blog
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: /sitecore/content/PLAY/playwebsite/home/OHA Blog Page/Page Components/BlogList
+  Value: /sitecore/content/PLAY/playwebsite/XMCDemoHome/BlogListingPage/Page Components/BlogList
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: Multilist
@@ -20,4 +20,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "fc25757c-1bf8-4520-8922-79f69f272435"
+      Value: "e5341bcd-776e-4351-94f4-a49ac09a7b83"

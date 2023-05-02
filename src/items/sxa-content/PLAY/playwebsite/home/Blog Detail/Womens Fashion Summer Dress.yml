@@ -67,7 +67,14 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "acde9c20-40fd-4c0c-93af-9397ed3e262a"
+      Value: "05e64cda-3e6a-46c5-8815-ca4445ce492a"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Womens Fashion Summer Dress
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a177bebc-8d54-4f2b-8d8b-e553fb32e69a"

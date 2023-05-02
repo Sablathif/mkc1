@@ -42,18 +42,17 @@ const BlogDetail = (props: BlogDetailProps): JSX.Element => (
           </figure>
           <div className="post-details">
             <div className="post-meta">
-              by
               <Text field={props.fields.Author} />
-              on
+              &nbsp; on &nbsp;
               <Text field={props.fields.Date} />
-              <ALink
+              {/* <ALink
                 className="post-comment"
                 href="/react/riode/demo-1/blog/single/pellentesque-fusce-suscipit/#"
                 content={undefined}
                 style={undefined}
               >
                 <span>1</span> Comments
-              </ALink>
+              </ALink> */}
             </div>
             <div>
               <h1>

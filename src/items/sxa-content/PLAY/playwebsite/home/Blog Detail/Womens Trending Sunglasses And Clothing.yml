@@ -67,7 +67,14 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1dd44a7c-7df5-4940-bcd8-ddc7a370dcdc"
+      Value: "517119ab-8a3c-4800-84cf-e0ba22874f60"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Womens Trending Sunglasses And Clothing
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b631964a-6e9a-48df-8d77-bca1240fcdc2"

@@ -67,7 +67,14 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "27de3af3-9c4a-4c9f-afd5-81f7c0afc85c"
+      Value: "1a0bfd1c-d01d-47e6-b2a4-55f78f11f4fc"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Complete Set Of Ski Tools For Everyone
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7148754e-9649-413c-80e9-4b14b3472583"

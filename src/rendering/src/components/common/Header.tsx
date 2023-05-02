@@ -33,54 +33,6 @@ export default function Header(/*props*/) {
 
   return (
     <header className="header header-border">
-      <div className="header-top">
-        <div className="container">
-          <div className="header-left">
-            <p className="welcome-msg">Welcome to Riode store message or remove it!</p>
-          </div>
-          <div className="header-right">
-            {/* <div className="dropdown">
-                            <ALink href="#">USD</ALink>
-                            <ul className="dropdown-box">
-                                <li><ALink href="#">USD</ALink></li>
-                                <li><ALink href="#">EUR</ALink></li>
-                            </ul>
-                        </div> */}
-
-            {/* <div className="dropdown ml-5">
-                            <ALink href="#">ENG</ALink>
-                            <ul className="dropdown-box">
-                                <li>
-                                    <ALink href="#">ENG</ALink>
-                                </li>
-                                <li>
-                                    <ALink href="#">FRH</ALink>
-                                </li>
-                            </ul>
-                        </div> */}
-
-            <span className="divider"></span>
-            <ALink
-              href="/Contact-Us"
-              className="contact d-lg-show"
-              content={undefined}
-              style={undefined}
-            >
-              <i className="d-icon-map"></i>Contact
-            </ALink>
-            <ALink
-              href="/Contact-Us"
-              className="help d-lg-show"
-              content={undefined}
-              style={undefined}
-            >
-              <i className="d-icon-info"></i> Need Help
-            </ALink>
-            {/* <LoginModal /> */}
-          </div>
-        </div>
-      </div>
-
       <div className="header-middle sticky-header fix-top sticky-content">
         <div className="container">
           <div className="header-left">
@@ -95,17 +47,12 @@ export default function Header(/*props*/) {
             </ALink>
 
             <ALink href="/" className="logo" content={undefined} style={undefined}>
-              <img
-                src="/assets/images/logo.png"
-                alt="logo"
-                width="153"
-                height="44"
-              />
+              <img src="/assets/images/logo.png" alt="logo" width="153" height="44" />
             </ALink>
             {/* <SearchBar /> */}
           </div>
 
-          <div className="header-right">
+          {/* <div className="header-right">
             <ALink
               href="tel:#"
               className="icon-box icon-box-side"
@@ -131,8 +78,8 @@ export default function Header(/*props*/) {
             </ALink>
             <span className="divider"></span>
 
-            {/* <CartMenu /> */}
-          </div>
+            <CartMenu />
+          </div> */}
         </div>
       </div>
 
@@ -142,14 +89,14 @@ export default function Header(/*props*/) {
             <MainMenu />
           </div>
 
-          <div className="header-right">
+          {/* <div className="header-right">
             <ALink href="#" className={undefined} content={undefined} style={undefined}>
               <i className="d-icon-card"></i>Special Offers
             </ALink>
             <a href="#" className="ml-6">
               Buy Riode!
             </a>
-          </div>
+          </div> */}
         </div>
       </div>
     </header>

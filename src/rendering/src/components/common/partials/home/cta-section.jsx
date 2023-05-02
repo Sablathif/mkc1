@@ -39,7 +39,10 @@ function CtaSection(props) {
 
             <p className="text-white ls-s">{data.Description?.value}</p>
 
-            <ALink href="/shop" className="btn btn-primary btn-rounded btn-icon-right">
+            <ALink
+              href={data.CTA?.value.href}
+              className="btn btn-primary btn-rounded btn-icon-right"
+            >
               {data.CTA?.value.text}
               <i className="d-icon-arrow-right"></i>
             </ALink>

@@ -19,7 +19,7 @@ function CategorySection(data) {
                   <ALink href={{ pathname: '/shop', query: { category: 'for-men-s' } }}>
                     <figure className="category-media">
                       <LazyLoadImage
-                        src={data.fields.Image.value.src}
+                        src={'/-' + data.fields.Image.value.src.split('/-').pop()}
                         alt="Intro Slider"
                         effect="opacity; transform"
                         width={280}

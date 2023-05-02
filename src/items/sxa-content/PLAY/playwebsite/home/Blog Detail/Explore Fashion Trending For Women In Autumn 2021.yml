@@ -67,7 +67,14 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b38bb734-56ee-4b13-af4b-82a0e7ee8130"
+      Value: "a9832e12-e422-4f7d-a133-daaf6bc940b3"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Explore Fashion Trending For Women In Autumn 2021
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a0449f97-4f33-4682-935b-a9002b6e7899"
