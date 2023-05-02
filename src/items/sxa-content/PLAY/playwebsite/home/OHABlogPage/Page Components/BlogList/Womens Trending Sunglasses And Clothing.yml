@@ -2,7 +2,7 @@
 ID: "0eeb113a-132c-421f-b802-07f4604b2af7"
 Parent: "160aea32-5bcd-49a7-ba2b-bc92b29916b2"
 Template: "0b8a5ed2-fb6c-412f-a64b-cbeac7e3c3af"
-Path: /sitecore/content/PLAY/playwebsite/home/OHA Blog Page/Page Components/BlogList/Womens Trending Sunglasses And Clothing
+Path: /sitecore/content/PLAY/playwebsite/home/OHABlogPage/Page Components/BlogList/Womens Trending Sunglasses And Clothing
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder

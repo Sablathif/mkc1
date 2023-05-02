@@ -1,9 +1,8 @@
 ﻿---
-ID: "dbbe3942-ffe0-4296-96e5-68308ed4c261"
-Parent: "a203e254-2ca4-413d-911c-f565ff3787b9"
+ID: "a1b5cb63-177e-4cb2-ad39-de7be30bd30f"
+Parent: "fbb0f055-551d-414a-a20e-78b093d55fbe"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
-Path: /sitecore/content/PLAY/playwebsite/home/OHA Blog Page/Page Components
-BranchID: "4afa104f-090a-438e-af07-8134d5d27dd9"
+Path: /sitecore/content/PLAY/playwebsite/home/OHALandingPage/Page Components
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -24,4 +23,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9e9cfe69-4491-42a1-a8e8-ca175ad84d77"
+      Value: "9921f45c-0bb9-40b6-a5bf-b398ee5d46d2"

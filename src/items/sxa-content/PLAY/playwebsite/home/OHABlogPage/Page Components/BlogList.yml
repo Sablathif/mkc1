@@ -2,7 +2,7 @@
 ID: "160aea32-5bcd-49a7-ba2b-bc92b29916b2"
 Parent: "dbbe3942-ffe0-4296-96e5-68308ed4c261"
 Template: "c1501a98-ec27-40e6-87db-9a405adf61fa"
-Path: /sitecore/content/PLAY/playwebsite/home/OHA Blog Page/Page Components/BlogList
+Path: /sitecore/content/PLAY/playwebsite/home/OHABlogPage/Page Components/BlogList
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder

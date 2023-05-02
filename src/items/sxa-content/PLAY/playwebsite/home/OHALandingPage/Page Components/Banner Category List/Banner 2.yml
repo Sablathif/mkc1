@@ -1,8 +1,8 @@
 ﻿---
-ID: "a30f47ab-7329-4069-b498-f2c26f7e49bd"
+ID: "bba5b821-c78c-494d-8582-53bd089de4d5"
 Parent: "07b8ebb9-38eb-4fe2-9ae0-5902a5bb95dd"
 Template: "84d339d4-3ab1-40d4-b24a-7ec20138d6fc"
-Path: /sitecore/content/PLAY/playwebsite/home/OHA Landing Page/Page Components/Banner Category List/Banner 1
+Path: /sitecore/content/PLAY/playwebsite/home/OHALandingPage/Page Components/Banner Category List/Banner 2
 Languages:
 - Language: en
   Versions:
@@ -15,19 +15,19 @@ Languages:
     - ID: "332bdd4d-7594-4bb9-9a93-42ab3333f167"
       Hint: BackgroundImage
       Value: |
-        <image mediaid="{A7781A47-3140-4609-B02E-3E891C7A2E84}" />
+        <image mediaid="{C5CAE47E-ED37-4AA1-9526-DCE30FC55942}" />
     - ID: "3861009c-90e9-4484-94ac-e9ce5c9bb0d9"
       Hint: Description
-      Value: test description
+      Value: test description 3
     - ID: "3a2bef4c-c4b7-4441-8fb5-9664bec35944"
       Hint: CTAText
       Value: Shop Now
     - ID: "55491cfc-5cc9-41de-b3b1-7f5d3aa9ccfc"
       Hint: Title
-      Value: For Men's
+      Value: Fashions
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f8304de5-eb91-4ed7-83c3-abcc15322a16"
+      Value: "cc833ef7-4914-4ddf-b2b5-3f2ba9fb6707"
     - ID: "a179b108-27f8-47c7-b885-c923324511b1"
       Hint: SubTitle
-      Value: STARTING AT $29
+      Value: 30% OFF

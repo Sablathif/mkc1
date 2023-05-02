@@ -2,7 +2,7 @@
 ID: "a203e254-2ca4-413d-911c-f565ff3787b9"
 Parent: "2d1d7aca-9597-5ca6-85b2-9b04907e4298"
 Template: "6db09cef-64a8-52a3-a980-38408109c4d7"
-Path: /sitecore/content/PLAY/playwebsite/home/OHA Blog Page
+Path: /sitecore/content/PLAY/playwebsite/home/OHABlogPage
 BranchID: "4afa104f-090a-438e-af07-8134d5d27dd9"
 SharedFields:
 - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
@@ -14,7 +14,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{DF7A298B-DB75-4067-AF94-C15709DB66D5}" />
+    <image mediaid="{7EF6724F-01FC-4281-8DF0-695363B11CCC}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -39,6 +39,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
       Hint: __Final Renderings
       Value: |
@@ -61,10 +64,10 @@ Languages:
         </r>
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{F103752C-F458-47E0-B322-99785275BDB9}"
+      Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1fbed62d-031d-483c-aff1-556f63c718c4"
+      Value: "cbe15727-da31-46c8-9f64-a74b5c07a6f2"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: OHA Blog Page

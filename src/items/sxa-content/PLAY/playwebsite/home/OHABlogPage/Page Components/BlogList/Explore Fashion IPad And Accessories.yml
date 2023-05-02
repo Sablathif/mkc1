@@ -2,7 +2,7 @@
 ID: "09095b90-4dfd-4d49-9629-b0cade85a311"
 Parent: "160aea32-5bcd-49a7-ba2b-bc92b29916b2"
 Template: "0b8a5ed2-fb6c-412f-a64b-cbeac7e3c3af"
-Path: /sitecore/content/PLAY/playwebsite/home/OHA Blog Page/Page Components/BlogList/Explore Fashion IPad And Accessories
+Path: /sitecore/content/PLAY/playwebsite/home/OHABlogPage/Page Components/BlogList/Explore Fashion IPad And Accessories
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
