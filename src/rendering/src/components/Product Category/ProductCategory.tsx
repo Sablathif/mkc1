@@ -1,4 +1,4 @@
-import { Field, withDatasourceCheck } from '@sitecore-jss/sitecore-jss-nextjs';
+import { Field } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
 import CategorySection from '../../components/common/partials/home/category-section';
 import IconCategory from '../../components/common/partials/elements/icon-category';

@@ -3,12 +3,11 @@ import {
   Field,
   ImageField,
   RichTextField,
-  Image,
   RichText,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import ALink from 'components/feature/custom-link';
 import { ComponentProps } from 'lib/component-props';
-import { LazyLoadComponent, LazyLoadImage } from 'react-lazy-load-image-component';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 
 type BlogDetailProps = ComponentProps & {
   fields: {
@@ -43,18 +42,10 @@ const BlogDetail = (props: BlogDetailProps): JSX.Element => (
           </figure>
           <div className="post-details">
             <div className="post-meta">
-              by
               <Text field={props.fields.Author} />
-              on
+              &nbsp; on &nbsp;
               <Text field={props.fields.Date} />
-              <ALink
-                className="post-comment"
-                href="/react/riode/demo-1/blog/single/pellentesque-fusce-suscipit/#"
-                content={undefined}
-                style={undefined}
-              >
-                <span>1</span> Comments
-              </ALink>
+              
             </div>
             <div>
               <h1>

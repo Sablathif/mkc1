@@ -2,10 +2,11 @@ import Link from 'next/link';
 
 //import { parseContent } from '~/utils';
 
-import { parseContent } from '../../utils';
+//import { parseContent } from '../../utils';
 
 export default function ALink({ children, className, content, style, ...props }: any) {
-  const preventDefault = (e) => {
+  //const preventDefault = (e) => {
+  const preventDefault = (e: { preventDefault: () => void; }) => {
     if (props.href === '#') {
       e.preventDefault();
     }
@@ -21,7 +22,8 @@ export default function ALink({ children, className, content, style, ...props }:
         className={className}
         style={style}
         onClick={preventDefault}
-        dangerouslySetInnerHTML={parseContent(content)}
+        //dangerouslySetInnerHTML={parseContent(content)}
+        dangerouslySetInnerHTML={ { __html :  content} }
       >
         {children}
       </a>
