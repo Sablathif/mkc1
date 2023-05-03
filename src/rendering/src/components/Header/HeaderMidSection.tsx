@@ -1,4 +1,4 @@
-import { ImageField, RichTextField, RichText } from '@sitecore-jss/sitecore-jss-nextjs';
+import { ImageField, RichTextField } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
 import ALink from 'components/feature/custom-link';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
@@ -40,20 +40,20 @@ const HeaderMidSection = (props: HeaderMidSectionProps): JSX.Element => (
             content={undefined}
             style={undefined}
           >
-            <div className="icon-box-icon mr-0 mr-lg-2">
+            {/* <div className="icon-box-icon mr-0 mr-lg-2">
               <i className="d-icon-phone"></i>
-            </div>
-            <div className="icon-box-content d-lg-show">
+            </div> */}
+            {/* <div className="icon-box-content d-lg-show">
               <h4 className="icon-box-title">
                 <RichText field={props.fields.CallUsNow} />
               </h4>
-            </div>
+            </div> */}
           </ALink>
-          <span className="divider"></span>
+          {/* <span className="divider"></span>
           <ALink href="#" className="wishlist" content={undefined} style={undefined}>
             <i className="d-icon-heart"></i>
           </ALink>
-          <span className="divider"></span>
+          <span className="divider"></span> */}
 
           {/* <CartMenu /> */}
         </div>

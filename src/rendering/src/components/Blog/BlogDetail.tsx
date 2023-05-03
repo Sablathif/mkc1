@@ -43,7 +43,7 @@ const BlogDetail = (props: BlogDetailProps): JSX.Element => (
           <div className="post-details">
             <div className="post-meta">
               <Text field={props.fields.Author} />
-              &nbsp; on &nbsp;
+              &nbsp;
               <Text field={props.fields.Date} />
               {/* <ALink
                 className="post-comment"

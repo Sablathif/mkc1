@@ -26,16 +26,29 @@ SharedFields:
         <r
           uid="{57CAE663-BE95-417F-AD72-49F8F498A71D}"
           p:after="*[1=2]"
+          s:ds="{7D27ED61-6089-42CB-B419-66478F7B601A}"
           s:id="{0FC536D1-7D7C-579C-953B-454A308B4390}"
-          s:par="CacheClearingBehavior=Clear on publish"
-          s:ph="headless-header" />
+          s:par="FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles"
+          s:ph="headless-header"
+          s:ccb="Clear on publish" />
       </d>
     </r>
 Languages:
 - Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Header
   Versions:
   - Version: 1
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f484f7e0-86ab-4e11-8efc-8691a4cfb50c"
+      Value: "593478c1-b714-4731-9f2a-d3b78070cbd8"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7356c7bc-51ae-43a6-8c3f-de427b6c6aea"

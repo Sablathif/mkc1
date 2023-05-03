@@ -31,6 +31,9 @@ SharedFields:
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
   Value: 
+- ID: "f6677a49-0a1d-4bad-b8ba-4f0f22bdee64"
+  Hint: Additional compatible templates
+  Value: "{1A806DFE-BDA3-5DD6-BD1E-508CDBBDD7C0}"
 Languages:
 - Language: en
   Versions:
@@ -38,4 +41,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "597fbeb2-0e42-41b4-8782-82e10deb9c0c"
+      Value: "fede01fe-530e-4f93-9df7-ccb014a2dc65"

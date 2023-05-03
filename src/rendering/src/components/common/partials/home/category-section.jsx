@@ -16,7 +16,7 @@ function CategorySection(data) {
             {categories?.map((data, index) => (
               <div className="col-xs-6 col-lg-3 mb-4" key={index}>
                 <div className="category category-default1 category-absolute banner-radius overlay-zoom">
-                  <ALink href={{ pathname: '/shop', query: { category: 'for-men-s' } }}>
+                  <ALink href={data.fields.CTA.value.href}>
                     <figure className="category-media">
                       <LazyLoadImage
                         src={'/-' + data.fields.Image.value.src.split('/-').pop()}

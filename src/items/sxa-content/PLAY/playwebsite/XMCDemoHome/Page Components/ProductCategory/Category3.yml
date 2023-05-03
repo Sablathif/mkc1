@@ -8,16 +8,20 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: |
+        <r owner="sitecore\nawaz.mehdi@altudo.co" date="20230503T071406Z" />
     - ID: "088927fc-d004-4fd9-93ad-b95c459acdcd"
       Hint: CTA
       Value: |
-        <link linktype="internal" />
+        <link text="Fashion Wear" anchor="" linktype="internal" class="" title="Fashion Wear" target="" querystring="" id="{674C4F4E-A8DF-4155-B662-8EBCAFBF59B0}" />
     - ID: "3eec8a78-b7a3-40d3-826d-004596069b0e"
       Hint: Title
       Value: Fashion Wear
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "08ff1d97-c86b-4086-9f21-5ff69392e962"
+      Value: "5cfd0c01-0dc6-403c-8046-9f4e4feaa258"
     - ID: "e95698ea-8042-4cc7-98f7-d06bc5414b0f"
       Hint: Image
       Value: |

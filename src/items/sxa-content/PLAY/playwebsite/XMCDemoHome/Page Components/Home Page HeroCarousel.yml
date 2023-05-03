@@ -26,10 +26,10 @@ Languages:
         {03E9DF7B-3D3D-46C9-AC34-8C26F06FFA6B}
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+      Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a9f48fe1-1be2-4778-b617-4ff59c0af6dd"
+      Value: "41863f42-ccb7-4753-aeaa-e14a54a1605f"
 - Language: "fr-CA"
   Versions:
   - Version: 1
@@ -45,7 +45,7 @@ Languages:
         {03E9DF7B-3D3D-46C9-AC34-8C26F06FFA6B}
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+      Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5885529f-4da3-4418-b37e-ab36745ecafc"
+      Value: "035b10dd-36bd-45e5-b484-03faa37b4b76"

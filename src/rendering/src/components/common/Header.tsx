@@ -11,7 +11,7 @@ import { headerBorderRemoveList } from '../../utils/data/menu';
 //     Logo: ImageField;
 //   };
 // };
-export default function Header(/*props*/) {
+export default function Header(/*props: HeaderProps*/) {
   const router = useRouter();
 
   useEffect(() => {
@@ -47,7 +47,12 @@ export default function Header(/*props*/) {
             </ALink>
 
             <ALink href="/" className="logo" content={undefined} style={undefined}>
-              <img src="/assets/images/logo.png" alt="logo" width="153" height="44" />
+              {/* <LazyLoadImage
+                src={'/-' + props.fields.Logo.value.src.split('/-').pop()}
+                alt="logo"
+                width="153"
+                height="44"
+              /> */}
             </ALink>
             {/* <SearchBar /> */}
           </div>
@@ -102,3 +107,5 @@ export default function Header(/*props*/) {
     </header>
   );
 }
+
+export const Default = Header;

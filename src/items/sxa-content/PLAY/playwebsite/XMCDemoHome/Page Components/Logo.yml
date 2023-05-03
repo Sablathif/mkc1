@@ -1,0 +1,13 @@
+﻿---
+ID: "1b788fde-6876-473b-9c76-9ac1dfd22178"
+Parent: "5f48fe3c-c393-41e3-849a-5f5c48d255e1"
+Template: "239f9cf4-e5a0-44e0-b342-0f32cd4c6d8b"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/Page Components/Logo
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "63ba1d42-f17a-4459-a25e-d762ec699043"

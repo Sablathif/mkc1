@@ -7,7 +7,7 @@ function BannerWitoutCTA(bannerProps: any) {
     <section
       className="page-header pl-4 pr-4"
       style={{
-        backgroundImage: `url(${props.BackgroundImage?.value.src})`,
+        backgroundImage: `url(${'/-' + props.BackgroundImage?.value.src.split('/-').pop()})`,
         backgroundColor: '#3C63A4',
       }}
     >

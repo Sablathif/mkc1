@@ -18,7 +18,7 @@ const HeaderBottom = (props: HeaderBottomProps): JSX.Element => (
             <Link className={Styles.nav} field={datanav.fields.Link} key={index} />
           ))}
         </div>
-        <div className="header-right">
+        {/* <div className="header-right">
           <span className={Styles.utility}>
             <i className="d-icon-card"></i>
             <Link field={props.fields.SpecialOffers} />
@@ -26,7 +26,7 @@ const HeaderBottom = (props: HeaderBottomProps): JSX.Element => (
           <span className={Styles.utility}>
             <Link field={props.fields.Buy} />
           </span>
-        </div>
+        </div> */}
       </div>
     </div>
   </div>

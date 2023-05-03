@@ -34,9 +34,13 @@ SharedFields:
   Value: "{23E42340-77BE-49FC-A7C4-77D3CB545223}"
 Languages:
 - Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: XMC Demo website
   Versions:
   - Version: 1
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "eba356bd-814c-453d-9987-fae08ea1ccd8"
+      Value: "6577ed69-39b4-4956-9f35-cd1e0a823669"

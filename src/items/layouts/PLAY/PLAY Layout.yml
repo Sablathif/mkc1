@@ -12,9 +12,13 @@ SharedFields:
     {CC2CF2D1-033E-5D27-BA34-254D30F146CD}
 Languages:
 - Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Altudo XM Cloud Layout
   Versions:
   - Version: 1
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9d0b5aec-99e7-4aa1-b1ce-d0c5f3270c7e"
+      Value: "6353b725-fc9e-4c00-b026-16d9effb802b"

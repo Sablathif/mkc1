@@ -8,12 +8,20 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: |
+        <r owner="sitecore\nawaz.mehdi@altudo.co" date="20230503T071442Z" />
+    - ID: "088927fc-d004-4fd9-93ad-b95c459acdcd"
+      Hint: CTA
+      Value: |
+        <link text="Cosmetic" anchor="" linktype="internal" class="" title="Cosmetic" target="" querystring="" id="{C365ACB1-5DAB-4C12-BC7C-589A1B1AEA47}" />
     - ID: "3eec8a78-b7a3-40d3-826d-004596069b0e"
       Hint: Title
       Value: Cosmetic
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b13dd56d-609a-4980-9d88-1b1d063cca82"
+      Value: "d57dab00-6eda-44ff-b8ce-701251b5c623"
     - ID: "e95698ea-8042-4cc7-98f7-d06bc5414b0f"
       Hint: Image
       Value: |
