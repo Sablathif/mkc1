@@ -40,10 +40,16 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a0cc8655-776a-4827-b840-d64067e4ce80"
+      Value: "31281e80-672d-4803-b065-054ad1defd3a"
     - ID: "8fd5f032-4da3-4422-9f8b-2476f85b346d"
       Hint: postType
       Value: image
+    - ID: "9ba7797c-0d25-470a-b894-b3b169db6782"
+      Hint: day
+      Value: 4
+    - ID: "d17b0da0-ed56-4daf-b701-3b5d0ba53bcd"
+      Hint: month
+      Value: Mar
     - ID: "d2c80f61-20b6-4c77-b935-508aaf90a7e8"
       Hint: heading
       Value: Explore Fashion Trending For Women In Autumn 2021

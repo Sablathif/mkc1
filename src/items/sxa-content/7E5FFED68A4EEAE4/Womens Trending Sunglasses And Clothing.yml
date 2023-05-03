@@ -37,10 +37,16 @@ Languages:
       Value: Fashion
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b517df74-835c-4a81-8ca4-27275c428296"
+      Value: "737c5660-7971-45df-beb3-86897cdda0af"
     - ID: "8fd5f032-4da3-4422-9f8b-2476f85b346d"
       Hint: postType
       Value: image
+    - ID: "9ba7797c-0d25-470a-b894-b3b169db6782"
+      Hint: day
+      Value: 12
+    - ID: "d17b0da0-ed56-4daf-b701-3b5d0ba53bcd"
+      Hint: month
+      Value: Apr
     - ID: "d2c80f61-20b6-4c77-b935-508aaf90a7e8"
       Hint: heading
       Value: Women’s Trending Sunglasses And Clothing
