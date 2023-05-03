@@ -14,7 +14,7 @@ Languages:
     Fields:
     - ID: "1f11c575-7063-4dec-b5d5-2c762461abad"
       Hint: Color
-      Value: Black
+      Value: Green
     - ID: "3a41ad83-a199-41c8-8eed-495d81cf4bbe"
       Hint: MediaList
       Value: "{D9232BE1-9EA5-4121-97F1-63BCA93BC668}"
@@ -26,13 +26,13 @@ Languages:
       Value: Cosmetic, Accessories
     - ID: "772b8922-b07d-42e9-953c-37755b10dc21"
       Hint: Brand
-      Value: Cinderella
+      Value: SkillStar
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "321d9c23-4004-4bd0-9742-8223a9735166"
+      Value: "a28ea013-2d2a-459a-9679-82d24941202d"
     - ID: "ca409045-b9b7-4d7a-9d26-9f1220353b89"
       Hint: Size
-      Value: Extra Large
+      Value: Medium
     - ID: "e4eed1db-d092-4344-b7b2-7212de86954d"
       Hint: Title
       Value: Cavin Klein Fashion Sheepskin handbag

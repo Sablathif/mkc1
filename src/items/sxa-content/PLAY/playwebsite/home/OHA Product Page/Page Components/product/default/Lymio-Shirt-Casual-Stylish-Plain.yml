@@ -14,7 +14,7 @@ Languages:
     Fields:
     - ID: "1f11c575-7063-4dec-b5d5-2c762461abad"
       Hint: Color
-      Value: Black
+      Value: Green
     - ID: "3a41ad83-a199-41c8-8eed-495d81cf4bbe"
       Hint: MediaList
       Value: "{047F7F7A-C3C2-44EC-A6B0-D4E7FA974728}"
@@ -26,10 +26,10 @@ Languages:
       Value: Cosmetic, Accessories
     - ID: "772b8922-b07d-42e9-953c-37755b10dc21"
       Hint: Brand
-      Value: Cinderella
+      Value: Comedy
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "177ee962-9ef1-453f-b1c9-9fcc9f7f26a2"
+      Value: "9cdb7270-8ff7-4dfa-ae88-9a14a6e11afd"
     - ID: "ca409045-b9b7-4d7a-9d26-9f1220353b89"
       Hint: Size
       Value: Extra Large

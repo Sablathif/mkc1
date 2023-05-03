@@ -14,7 +14,7 @@ Languages:
     Fields:
     - ID: "1f11c575-7063-4dec-b5d5-2c762461abad"
       Hint: Color
-      Value: Black
+      Value: Green
     - ID: "3a41ad83-a199-41c8-8eed-495d81cf4bbe"
       Hint: MediaList
       Value: "{6926FF50-67AE-46A3-BAA6-7B849E5EF74C}"
@@ -26,13 +26,13 @@ Languages:
       Value: Dennis Lingo Shirt
     - ID: "772b8922-b07d-42e9-953c-37755b10dc21"
       Hint: Brand
-      Value: Cinderella
+      Value: RightCheck
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "64bc954e-60c4-4a64-969d-239da0ffa1c5"
+      Value: "c2afefa1-b92a-46cb-94ad-de88e4cfaac2"
     - ID: "ca409045-b9b7-4d7a-9d26-9f1220353b89"
       Hint: Size
-      Value: Extra Large
+      Value: Large
     - ID: "e4eed1db-d092-4344-b7b2-7212de86954d"
       Hint: Title
       Value: "Spon wide-striped shirt"
