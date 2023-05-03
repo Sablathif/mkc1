@@ -39,10 +39,16 @@ Languages:
       Value: Fashion
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c68251a3-ea44-4553-bde2-3c0f832b3f55"
+      Value: "80d44989-6e37-41d9-be0e-37c0db2f979a"
     - ID: "8fd5f032-4da3-4422-9f8b-2476f85b346d"
       Hint: postType
       Value: image
+    - ID: "9ba7797c-0d25-470a-b894-b3b169db6782"
+      Hint: day
+      Value: 1
+    - ID: "d17b0da0-ed56-4daf-b701-3b5d0ba53bcd"
+      Hint: month
+      Value: Mar
     - ID: "d2c80f61-20b6-4c77-b935-508aaf90a7e8"
       Hint: heading
       Value: Explore Fashion IPad And Accessories

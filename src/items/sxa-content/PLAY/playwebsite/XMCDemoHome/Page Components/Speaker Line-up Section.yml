@@ -6,7 +6,7 @@ Path: "/sitecore/content/PLAY/playwebsite/XMCDemoHome/Page Components/Speaker Li
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 600
+  Value: 1000
 Languages:
 - Language: en
   Versions:
@@ -24,7 +24,7 @@ Languages:
         <link id="{1F4B781B-F2A5-5647-99DF-C0C369162C4D}" linktype="internal" text="View All Speakers" querystring="" url="/PLAY/playwebsite/home/speakers" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9055ef73-0775-4c2b-8027-268dc332e1de"
+      Value: "5821c6c2-197b-4462-b37c-693601a603ba"
 - Language: "fr-CA"
   Versions:
   - Version: 1

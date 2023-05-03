@@ -6,7 +6,7 @@ Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/Page Components/HeroCta
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 100
+  Value: 600
 Languages:
 - Language: en
   Versions:
@@ -18,7 +18,7 @@ Languages:
         <link class="" id="{A7BDFBDA-D5CC-5388-A039-F262BC768721}" querystring="" anchor="" title="" linktype="internal" text="Book Tickets" url="/PLAY/playwebsite/home/tickets" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bd760ee4-eb62-47d8-97da-d8b9a4ae0ae7"
+      Value: "a32ed820-8a2c-479d-bf25-33db08729aac"
 - Language: "fr-CA"
   Versions:
   - Version: 1

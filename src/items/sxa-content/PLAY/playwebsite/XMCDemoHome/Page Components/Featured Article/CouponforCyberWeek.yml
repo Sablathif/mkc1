@@ -1,12 +1,12 @@
 ﻿---
-ID: "06a547df-6f07-433a-8cda-e23a39cd9e82"
-Parent: "9a593fea-0b08-47f7-8e5c-6af63fcf81d8"
+ID: "169bdc41-10a0-4629-9b8e-d6e9eb04d6fe"
+Parent: "a5a863df-b18c-428b-85ec-f8843db28bfe"
 Template: "0b8a5ed2-fb6c-412f-a64b-cbeac7e3c3af"
-Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/Blogs/listing/Page Components/BlogList/The Best Choice For Spending Time
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/Page Components/Featured Article/CouponforCyberWeek
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 25
+  Value: "-150"
 Languages:
 - Language: en
   Versions:
@@ -15,17 +15,17 @@ Languages:
     - ID: "01f53240-7eea-4dfe-859f-9387b216b8de"
       Hint: ctaLink
       Value: |
-        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D70C9648-72FF-4F37-B501-189E173FA019}" />
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{747E416E-5CC8-4859-A68C-55FAB64FFECC}" />
     - ID: "1670a234-cf87-431c-8264-548949417903"
       Hint: blogimages
       Value: |
-        <image mediaid="{2F1DE314-B0B8-40EB-B202-C2EB9650059C}" />
+        <image mediaid="{2E0647D4-0D77-4477-A6D8-E9C2E6D0DF3C}" />
     - ID: "256a15ab-17cd-4381-bfc8-2dc609c92842"
       Hint: imageList
-      Value: "{2F1DE314-B0B8-40EB-B202-C2EB9650059C}"
+      Value: "{2E0647D4-0D77-4477-A6D8-E9C2E6D0DF3C}"
     - ID: "3b32ddd8-cba3-4f47-8e51-00d5afbab3d4"
       Hint: date
-      Value: 20230212T183000Z
+      Value: 20230213T183000Z
     - ID: "53c6dbd6-739a-457a-b2d5-b248d9321690"
       Hint: author
       Value: JOHN DOE
@@ -40,22 +40,22 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e968b98e-cf18-440c-abb5-50ec5665fd70"
+      Value: "668675eb-7592-4462-92c1-e50724bde82c"
     - ID: "8fd5f032-4da3-4422-9f8b-2476f85b346d"
       Hint: postType
       Value: image
     - ID: "9ba7797c-0d25-470a-b894-b3b169db6782"
       Hint: day
-      Value: 3
+      Value: 5
     - ID: "d17b0da0-ed56-4daf-b701-3b5d0ba53bcd"
       Hint: month
-      Value: Apr
+      Value: Mar
     - ID: "d2c80f61-20b6-4c77-b935-508aaf90a7e8"
       Hint: heading
-      Value: The Best Choice For Spending Time
+      Value: 20% Off Coupon for Cyber Week
     - ID: "d38f4785-8c9d-4ee7-ae06-64ab2946f5be"
       Hint: comment
-      Value: 3
+      Value: 1
     - ID: "dee18293-2839-4fcc-bc8f-e2aba1882f15"
       Hint: description
-      Value: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi.
+      Value: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit.

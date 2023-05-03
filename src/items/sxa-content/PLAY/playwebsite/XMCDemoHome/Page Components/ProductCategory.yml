@@ -6,7 +6,7 @@ Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/Page Components/ProductCate
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 88
+  Value: 400
 Languages:
 - Language: en
   Versions:
@@ -24,4 +24,4 @@ Languages:
       Value: Browse Our Category
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "21f7c17c-fda8-4720-95dc-298bf28422e7"
+      Value: "e180f92d-0824-4bf0-99e5-5912d737b972"

@@ -9,7 +9,7 @@ SharedFields:
   Value: office/32x32/graph_star.png
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 75
+  Value: 300
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{DE20228B-32CF-4FB0-BD36-46E91916345B}"
@@ -24,7 +24,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "53841f16-e46d-4af6-9c6d-56df31fe082e"
+      Value: "99a24600-7cdb-4f6f-a669-a3cef0c8275f"
     - ID: "e4f4ae10-0e66-4e6a-af4c-11fec20ff37f"
       Hint: Banners
       Value: |

@@ -1,18 +1,18 @@
 ﻿---
-ID: "49612b19-da7c-4075-b016-3f2e8889d2c3"
-Parent: "09743876-51c9-4443-a33c-61b77d809398"
+ID: "8b1d4c69-597d-4ed9-86be-503581f8c783"
+Parent: "3aa2b879-febb-45a5-8e56-94eb86943c07"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogList/Data/blog
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/ArticleList/Data/blogType
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: "query:/sitecore/content/PLAY/playwebsite/XMCDemoHome//*[@@templatename='Blog']"
+  Value: /sitecore/content/PLAY/playwebsite/Global Data/Blog Type
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
-  Value: Multilist
+  Value: Droplist
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 25
+  Value: 50
 Languages:
 - Language: en
   Versions:
@@ -20,4 +20,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8d31ac0c-405b-44f3-8677-bbcedce47523"
+      Value: "b7e156ca-ae6c-491d-a173-68fab92c585c"

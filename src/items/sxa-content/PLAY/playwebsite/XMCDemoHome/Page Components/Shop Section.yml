@@ -6,7 +6,7 @@ Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/Page Components/Shop Sectio
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 400
+  Value: 900
 Languages:
 - Language: en
   Versions:
@@ -24,7 +24,7 @@ Languages:
         <link text="Discover More" linktype="external" url="/shop" anchor="" target="" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e58caecd-a7f0-4acd-a125-209387dda667"
+      Value: "7d4ef50d-6d0d-478d-8da0-78ce004a7d13"
 - Language: "fr-CA"
   Versions:
   - Version: 1

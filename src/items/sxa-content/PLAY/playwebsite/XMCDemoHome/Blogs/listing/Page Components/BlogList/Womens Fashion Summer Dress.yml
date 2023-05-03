@@ -43,10 +43,16 @@ Languages:
         <link class="" id="{66536421-E85C-46F7-932B-6860DF6F45BB}" querystring="" anchor="" title="" linktype="internal" text="Video" url="/sitecore/media library/Project/PLAY/playwebsite/media/img/OHA/Blog/video-1" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6b722e44-2012-47cc-b9b0-b0922ea0481d"
+      Value: "d3e09a28-860c-47f8-bdae-51421df34d9f"
     - ID: "8fd5f032-4da3-4422-9f8b-2476f85b346d"
       Hint: postType
       Value: image
+    - ID: "9ba7797c-0d25-470a-b894-b3b169db6782"
+      Hint: day
+      Value: 2
+    - ID: "d17b0da0-ed56-4daf-b701-3b5d0ba53bcd"
+      Hint: month
+      Value: Jan
     - ID: "d2c80f61-20b6-4c77-b935-508aaf90a7e8"
       Hint: heading
       Value: Women’s Fashion Summer Dress

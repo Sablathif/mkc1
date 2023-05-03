@@ -4,7 +4,7 @@ import { ComponentProps } from 'lib/component-props';
 import Listing from './Listing';
 import BlogGridSidebar from './GridSidebar';
 import BlogClassic from './Classic';
-
+import BlogSection from '../common/partials/home/blog-section';
 type BlogProps = ComponentProps & {
   fields: {
     blogType: Field<string>;
@@ -43,6 +43,11 @@ const Blog = (Props: BlogProps): JSX.Element => (
     ) : (
       <></>
     )} */}
+    {Props.fields.blogType.value.toLowerCase() == 'Featured Article'.toLowerCase() ? (
+      <BlogSection BlogProps={Props} />
+    ) : (
+      <></>
+    )}
   </>
 );
 export const Default = Blog;

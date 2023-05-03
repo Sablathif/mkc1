@@ -9,7 +9,7 @@ SharedFields:
   Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 50
+  Value: 200
 Languages:
 - Language: en
   Versions:
@@ -29,7 +29,7 @@ Languages:
       Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "41863f42-ccb7-4753-aeaa-e14a54a1605f"
+      Value: "cb0bbdac-ef29-43eb-9388-db5bfa08647f"
 - Language: "fr-CA"
   Versions:
   - Version: 1

@@ -9,7 +9,7 @@ SharedFields:
   Value: 
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 400
+  Value: 800
 - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
   Hint: __Default workflow
   Value: 
@@ -36,7 +36,7 @@ Languages:
       Value: Extra  
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "740dd63a-14cd-45b0-83a0-c1c3fe44cf4b"
+      Value: "09deabe1-f10b-44f5-b664-94938d3072a7"
     - ID: "9ed4a448-8114-4db6-82db-8691567209ee"
       Hint: Tag
       Value: Summer Season Sale

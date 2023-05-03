@@ -6,7 +6,7 @@ Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/Page Components/Go The Dist
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 300
+  Value: 700
 Languages:
 - Language: en
   Versions:
@@ -43,7 +43,7 @@ Languages:
         <image mediaid="{21C5D87C-3E77-4AFA-82FF-665B15EA7806}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "570c2c2f-901f-4191-a87f-91828d420eda"
+      Value: "c225485f-f41a-4614-af18-d5fcf30c4a4c"
     - ID: "a8282684-a5d5-57be-b6f6-a509c6ccdbe3"
       Hint: LeftTitle
       Value: 48 Talks and Workshops

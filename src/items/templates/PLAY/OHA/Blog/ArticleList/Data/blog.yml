@@ -1,15 +1,15 @@
 ﻿---
-ID: "49612b19-da7c-4075-b016-3f2e8889d2c3"
-Parent: "09743876-51c9-4443-a33c-61b77d809398"
+ID: "86d8f236-3cb8-4eee-8393-79339226c6c6"
+Parent: "3aa2b879-febb-45a5-8e56-94eb86943c07"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Project/PLAY/OHA/Blog/BlogList/Data/blog
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/ArticleList/Data/blog
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: "query:/sitecore/content/PLAY/playwebsite/XMCDemoHome//*[@@templatename='Blog']"
+  Value: "query:/sitecore/content/PLAY/playwebsite/XMCDemoHome//*[@@templatename='ArticleList']"
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
-  Value: Multilist
+  Value: Treelist
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 25
@@ -20,4 +20,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8d31ac0c-405b-44f3-8677-bbcedce47523"
+      Value: "aabed634-6929-402f-aa28-1ca1df2d3a6b"
