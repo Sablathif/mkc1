@@ -33,6 +33,7 @@ function Classic(BlogProps: any) {
                             alt={item.fields.blogimages.value.alt}
                             width={item.fields.blogimages.value.width}
                             height={item.fields.blogimages.value.height}
+                            loading="lazy"
                           />
                         </ALink>
 
@@ -71,6 +72,7 @@ function Classic(BlogProps: any) {
                                   alt={item.fields.blogimages.value.alt}
                                   width={item.fields.blogimages.value.width}
                                   height={item.fields.blogimages.value.height}
+                                  loading="lazy"
                                 />
                               </ALink>
                             </OwlCarousel>
@@ -88,6 +90,7 @@ function Classic(BlogProps: any) {
                                 alt={item.fields.blogimages.value.alt}
                                 width={item.fields.blogimages.value.width}
                                 height={item.fields.blogimages.value.height}
+                                loading="lazy"
                               />
                             </ALink>
                           </>

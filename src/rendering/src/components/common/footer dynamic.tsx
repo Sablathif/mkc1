@@ -85,15 +85,7 @@ export default function FooterDynamic(props: any) {
               <div className="col-lg-3 col-md-6" key={index}>
                 <div className="widget ml-lg-4">
                   <h4 className="widget-title">{datanav.fields.NavigationName.value}</h4>
-                  <ul className="widget-body">
-                    {/* {datanav.fields.FooterNavigationList?.map((datalist, index) => (
-                      <li key={index}>
-                        <ALink href={datalist.fields.LinkUrl.value.url}>
-                          {datalist.fields.LinkUrl.value.text}
-                        </ALink>
-                      </li>
-                    ))} */}
-                  </ul>
+                  <ul className="widget-body"></ul>
                 </div>
               </div>
             ))}
@@ -122,9 +114,7 @@ export default function FooterDynamic(props: any) {
             ))}
           </div>
           <div className="footer-center">
-            {/* <p className="copyright ls-normal"> Commented because of hydration error */}
             <RichText field={data.fields.FooterCopyrightText} />
-            {/* </p> Commented because of hydration error */}
           </div>
           <div className="footer-right">
             {data?.fields?.FooterSocialLinks?.map((datasocial: any, index: any) => (

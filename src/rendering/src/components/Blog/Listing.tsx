@@ -32,6 +32,7 @@ function Listing(BlogProps: any) {
                             alt={item.fields.blogimages.value.alt}
                             width={item.fields.blogimages.value.width}
                             height={item.fields.blogimages.value.height}
+                            loading="lazy"
                           />
                         </ALink>
                         <span className="video-play" onClick={videoHandler}></span>
@@ -58,6 +59,7 @@ function Listing(BlogProps: any) {
                             alt={item.fields.blogimages.value.alt}
                             width={item.fields.blogimages.value.width}
                             height={item.fields.blogimages.value.height}
+                            loading="lazy"
                           />
                         </ALink>
                       </figure>

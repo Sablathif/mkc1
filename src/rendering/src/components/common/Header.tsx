@@ -47,44 +47,9 @@ export default function Header(/*props: HeaderProps*/) {
             </ALink>
 
             <ALink href="/" className="logo" content={undefined} style={undefined}>
-              {/* <LazyLoadImage
-                src={'/-' + props.fields.Logo.value.src.split('/-').pop()}
-                alt="logo"
-                width="153"
-                height="44"
-              /> */}
+              <span></span>
             </ALink>
-            {/* <SearchBar /> */}
           </div>
-
-          {/* <div className="header-right">
-            <ALink
-              href="tel:#"
-              className="icon-box icon-box-side"
-              content={undefined}
-              style={undefined}
-            >
-              <div className="icon-box-icon mr-0 mr-lg-2">
-                <i className="d-icon-phone"></i>
-              </div>
-              <div className="icon-box-content d-lg-show">
-                <h4 className="icon-box-title">Call Us Now:</h4>
-                <p>0(800) 123-456</p>
-              </div>
-            </ALink>
-            <span className="divider"></span>
-            <ALink
-              href="/pages/wishlist"
-              className="wishlist"
-              content={undefined}
-              style={undefined}
-            >
-              <i className="d-icon-heart"></i>
-            </ALink>
-            <span className="divider"></span>
-
-            <CartMenu />
-          </div> */}
         </div>
       </div>
 
@@ -93,15 +58,6 @@ export default function Header(/*props: HeaderProps*/) {
           <div className="header-left">
             <MainMenu />
           </div>
-
-          {/* <div className="header-right">
-            <ALink href="#" className={undefined} content={undefined} style={undefined}>
-              <i className="d-icon-card"></i>Special Offers
-            </ALink>
-            <a href="#" className="ml-6">
-              Buy Riode!
-            </a>
-          </div> */}
         </div>
       </div>
     </header>

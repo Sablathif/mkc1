@@ -16,6 +16,7 @@ function PostEight(props) {
             height={post.fields.blogimages.value.height}
             effect="opacity; transform"
             style={{ backgroundColor: '#DEE6E8' }}
+            loading="lazy"
           />
         </ALink>
         <div className="post-calendar">

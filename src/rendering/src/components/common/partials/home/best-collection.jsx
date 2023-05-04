@@ -18,12 +18,7 @@ function BestCollection(props) {
             ))}
           </OwlCarousel>
         ) : (
-          <OwlCarousel adClass="owl-theme owl-nav-full" options={productSlider}>
-            {/* {products &&
-              products.map((item, index) => (
-                <ProductTwo product={item} key={`top-selling-product ${index}`} />
-              ))} */}
-          </OwlCarousel>
+          <></>
         )}
       </section>
     </Reveal>

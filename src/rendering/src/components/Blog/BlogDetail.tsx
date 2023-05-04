@@ -33,11 +33,11 @@ const BlogDetail = (props: BlogDetailProps): JSX.Element => (
             >
               <LazyLoadImage
                 src={'/-' + props.fields.Image.value.src.split('/-').pop()}
-                // alt={props?.fields?.Image?.value?.alt}
-                // width={props.fields.Image.value.width}
-                // height={props.fields.Image.value.height}
+                alt={`${props?.fields?.Image?.value?.alt}`}
+                width={`${props.fields.Image.value.width}`}
+                height={`${props.fields.Image.value.height}`}
+                loading="lazy"
               />
-              {/* <Image field={props.fields.Image} /> */}
             </ALink>
           </figure>
           <div className="post-details">
@@ -45,14 +45,6 @@ const BlogDetail = (props: BlogDetailProps): JSX.Element => (
               <Text field={props.fields.Author} />
               &nbsp;
               <Text field={props.fields.Date} />
-              {/* <ALink
-                className="post-comment"
-                href="/react/riode/demo-1/blog/single/pellentesque-fusce-suscipit/#"
-                content={undefined}
-                style={undefined}
-              >
-                <span>1</span> Comments
-              </ALink> */}
             </div>
             <div>
               <h1>
@@ -69,4 +61,3 @@ const BlogDetail = (props: BlogDetailProps): JSX.Element => (
   </div>
 );
 export const Default = BlogDetail;
-// export default withDatasourceCheck()<BlogDetailProps>(BlogDetail);

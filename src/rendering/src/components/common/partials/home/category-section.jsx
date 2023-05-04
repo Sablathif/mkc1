@@ -24,6 +24,7 @@ function CategorySection(data) {
                         effect="opacity; transform"
                         width={280}
                         height={280}
+                        loading="lazy"
                       />
                     </figure>
 
@@ -36,85 +37,6 @@ function CategorySection(data) {
                 </div>
               </div>
             ))}
-            {/* <div className="col-xs-6 col-lg-3 mb-4">
-              <div className="category category-default1 category-absolute banner-radius overlay-zoom">
-                <ALink href={{ pathname: '/shop', query: { category: 'for-men-s' } }}>
-                  <figure className="category-media">
-                    <LazyLoadImage
-                      src="./images/home/categories/category1.jpg"
-                      alt="Intro Slider"
-                      effect="opacity; transform"
-                      width={280}
-                      height={280}
-                    />
-                  </figure>
-
-                  <div className="category-content">
-                    <h4 className="category-name font-weight-bold ls-l">For Men's</h4>
-                  </div>
-                </ALink>
-              </div>
-            </div>
-
-            <div className="col-xs-6 col-lg-3 mb-4">
-              <div className="category category-default1 category-absolute banner-radius overlay-zoom">
-                <ALink href={{ pathname: '/shop', query: { category: 'accessories' } }}>
-                  <figure className="category-media">
-                    <LazyLoadImage
-                      src="./images/home/categories/category2.jpg"
-                      alt="Intro Slider"
-                      effect="opacity; transform"
-                      width={280}
-                      height={280}
-                    />
-                  </figure>
-
-                  <div className="category-content">
-                    <h4 className="category-name font-weight-bold ls-l">Accessories</h4>
-                  </div>
-                </ALink>
-              </div>
-            </div>
-
-            <div className="col-xs-6 col-lg-3 mb-4">
-              <div className="category category-default1 category-absolute banner-radius overlay-zoom">
-                <ALink href={{ pathname: '/shop', query: { category: 'fashionable-women-s' } }}>
-                  <figure className="category-media">
-                    <LazyLoadImage
-                      src="./images/home/categories/category3.jpg"
-                      alt="Intro Slider"
-                      effect="opacity; transform"
-                      width={280}
-                      height={280}
-                    />
-                  </figure>
-
-                  <div className="category-content">
-                    <h4 className="category-name font-weight-bold ls-l">Fashionable Women's</h4>
-                  </div>
-                </ALink>
-              </div>
-            </div>
-
-            <div className="col-xs-6 col-lg-3 mb-4">
-              <div className="category category-default1 category-absolute banner-radius overlay-zoom">
-                <ALink href={{ pathname: '/shop', query: { category: 'cosmetic' } }}>
-                  <figure className="category-media">
-                    <LazyLoadImage
-                      src="./images/home/categories/category4.jpg"
-                      alt="Intro Slider"
-                      effect="opacity; transform"
-                      width={280}
-                      height={280}
-                    />
-                  </figure>
-
-                  <div className="category-content">
-                    <h4 className="category-name font-weight-bold ls-l">Cosmetic</h4>
-                  </div>
-                </ALink>
-              </div>
-            </div> */}
           </div>
         </div>
       </section>

@@ -87,20 +87,7 @@ const HeaderTop = (props: HeaderTopProps): JSX.Element => {
               </ul>
             </div>
 
-            {/* <div className="dropdown ml-5">
-            <ALink href="#">ENG</ALink>
-            <ul className="dropdown-box">
-                <li>
-                    <ALink href="#">ENG</ALink>
-                </li>
-                <li>
-                    <ALink href="#">FRH</ALink>
-                </li>
-            </ul>
-        </div> */}
-
             <span className="divider"></span>
-            {/* <ALink href="/pages/contact-us" className="contact d-lg-show"><i className="d-icon-map"></i>c</ALink> */}
             <i className="d-icon-map"></i>
             <Link field={props.fields.Contact} />
             <i className="d-icon-info"></i>

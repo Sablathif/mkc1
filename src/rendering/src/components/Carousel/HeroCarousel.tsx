@@ -55,6 +55,7 @@ const HeroCarousel = (props: HeroCarouselProps): JSX.Element => (
                   effect="opacity"
                   width="auto"
                   height={630}
+                  loading="lazy"
                 />
               ) : (
                 <video
@@ -126,6 +127,7 @@ const HeroCarousel = (props: HeroCarouselProps): JSX.Element => (
                   effect="opacity"
                   width="auto"
                   height={630}
+                  loading="lazy"
                 />
               ) : (
                 <video
@@ -188,6 +190,7 @@ const HeroCarousel = (props: HeroCarouselProps): JSX.Element => (
                   effect="opacity"
                   width="auto"
                   height={630}
+                  loading="lazy"
                 />
               ) : (
                 <video
