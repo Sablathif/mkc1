@@ -16,14 +16,14 @@ Languages:
       Hint: blog
       Value: |
         {F5345719-DCA1-42C2-BC42-88D4F8F94DD6}
-        {5D638F8B-311A-4322-8859-0C255AC77509}
         {3E6CCBBC-71A1-434D-BD17-83761260CB65}
+        {5D638F8B-311A-4322-8859-0C255AC77509}
         {92613E48-CF84-4953-81F3-129481F0979B}
         {2E298550-B7D9-4A71-AE5C-5FA19DC0F07A}
         {5304E5A4-8CAE-41F0-B0DF-EE910C08893A}
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4803257b-24d5-4a8d-8494-1783d1bfb0a7"
+      Value: "be99ca3c-5603-41e3-9d3c-40c682dddb20"
     - ID: "eb8d5bd3-c113-4462-9af5-0ce72e3ee4b0"
       Hint: blogType
       Value: Listing

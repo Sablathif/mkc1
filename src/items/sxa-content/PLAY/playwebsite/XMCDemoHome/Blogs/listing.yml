@@ -59,9 +59,8 @@ Languages:
               uid="{7120FCE5-F7D6-49F1-A658-3BEB3A42F4E0}"
               s:ds="{9A593FEA-0B08-47F7-8E5C-6AF63FCF81D8}"
               s:id="{A14C4BB9-06FA-4BC6-BD2F-4F0638D06211}"
-              s:par="CSSStyles"
-              s:ph="headless-main"
-              s:ccb="Clear on publish" />
+              s:par="CSSStyles="
+              s:ph="headless-main" />
           </d>
         </r>
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
@@ -69,7 +68,7 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f9a1b17e-c21d-4f6a-913e-dfdcb7b1cf08"
+      Value: "63b342bc-7631-43e0-8f83-267cd700ae83"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Blog Page

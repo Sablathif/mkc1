@@ -25,7 +25,7 @@ Languages:
     - ID: "47fd91ea-1825-442d-9373-7c5c805830c8"
       Hint: BackgroundImage
       Value: |
-        <image mediaid="{00AD8300-83EE-4667-8DBD-F59A7777AF93}" />
+        <image mediaid="{C4DAA37C-FAA7-4759-8F2C-C4D78F82A8BF}" />
     - ID: "52538d72-9bea-455f-8707-7a81d0a53508"
       Hint: SubTitle
       Value: 
@@ -37,7 +37,7 @@ Languages:
       Value: button
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "28ad8cce-51c4-47ac-9f8e-16dbffb16694"
+      Value: "2d2e0ab2-464b-4698-9366-92f559b0620d"
     - ID: "df08957b-e019-4862-a95f-707922cc2b17"
       Hint: CTAText
       Value: GO TO BLOG
