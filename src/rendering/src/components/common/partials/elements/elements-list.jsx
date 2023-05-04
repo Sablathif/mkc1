@@ -28,4 +28,3 @@ function ElementsList(data) {
 }
 
 export default React.memo(ElementsList);
-

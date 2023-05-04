@@ -8,9 +8,9 @@ import { CdpScripts } from '../services/CdpService';
 import { SendScripts } from '../services/SendService';
 import { identifyVisitor } from '../services/IdentificationService';
 import { KeypressHandler } from '../services/KeypressHandlerService';
-import { config } from '@fortawesome/fontawesome-svg-core';
-import '@fortawesome/fontawesome-svg-core/styles.css';
-config.autoAddCss = false;
+// import { config } from '@fortawesome/fontawesome-svg-core';
+// import '@fortawesome/fontawesome-svg-core/styles.css';
+// config.autoAddCss = false;
 // END CUSTOMIZATION
 import 'assets/sass/style.scss';
 // import 'assets/css/main.css'; // DEMO TEAM CUSTOMIZATION - Different CSS file name.
@@ -64,7 +64,7 @@ function App({ Component, pageProps, router }: AppPropsWithLayout): JSX.Element 
         <meta charSet="UTF-8"></meta>
         <meta httpEquiv="X-UA-Compatible" content="IE=edge"></meta>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
-        <meta name="description" content="PLAY! Summit" />
+        <meta name="description" content="XM Cloud" />
       </Head>
 
       {/* DEMO TEAM CUSTOMIZATION - CDP integration. It is important this script is rendered before the <Component> so the CDP calls made on the first page load are successful. */}
