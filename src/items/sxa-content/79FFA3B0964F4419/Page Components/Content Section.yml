@@ -2,7 +2,7 @@
 ID: "81080e73-cf1d-487d-b059-032078685d8f"
 Parent: "063e6b17-593c-47b6-a89d-ede0e37e14ca"
 Template: "1f476f1c-822a-5a88-8f7e-2431b77d1b70"
-Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/Page Components/FeaturedArticle/NewFashionStyle/New Fashion Style/Page Components/New Fashion Style/Page Components/Content Section
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/Page Components/FeaturedArticle/NewFashionStyle/New Fashion Style/Page Components/Content Section
 SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow

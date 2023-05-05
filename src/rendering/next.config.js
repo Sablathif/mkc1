@@ -4,8 +4,7 @@ const { getPublicUrl } = require('@sitecore-jss/sitecore-jss-nextjs');
 const plugins = require('./src/temp/next-config-plugins') || {};
 
 const publicUrl = getPublicUrl();
-const withCss = require('@zeit/next-css');
-const withPurgeCss = require('next-purgecss');
+const withPurgeCSSModules = require('next-purge-css-modules');
 /**
  * @type {import('next').NextConfig}
  */
@@ -56,10 +55,12 @@ const nextConfig = {
       },
     ];
   },
-  withCss: withCss(withPurgeCss()),
 };
 
 module.exports = () => {
   // Run the base config through any configured plugins
-  return Object.values(plugins).reduce((acc, plugin) => plugin(acc), nextConfig);
+  return Object.values(plugins).reduce(
+    (acc, plugin) => plugin(acc),
+    withPurgeCSSModules(nextConfig)
+  );
 };
