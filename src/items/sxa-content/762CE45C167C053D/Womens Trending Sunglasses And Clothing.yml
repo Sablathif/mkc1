@@ -19,10 +19,10 @@ Languages:
     - ID: "1670a234-cf87-431c-8264-548949417903"
       Hint: blogimages
       Value: |
-        <image mediaid="{18184D7B-DB4A-4444-A507-EEC88A0A06F4}" />
+        <image mediaid="{821D0878-7D91-4167-A85A-E41463F4FBF9}" />
     - ID: "256a15ab-17cd-4381-bfc8-2dc609c92842"
       Hint: imageList
-      Value: "{18184D7B-DB4A-4444-A507-EEC88A0A06F4}"
+      Value: "{3E6705F2-6ACA-4CD4-833F-C54E8D46BA65}"
     - ID: "3b32ddd8-cba3-4f47-8e51-00d5afbab3d4"
       Hint: date
       Value: 20230213T183000Z
@@ -37,7 +37,7 @@ Languages:
       Value: Fashion
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2ab96c77-9889-4632-af41-82ac3e745505"
+      Value: "29f91966-f03c-4e34-9f86-58fe8b6e1243"
     - ID: "8fd5f032-4da3-4422-9f8b-2476f85b346d"
       Hint: postType
       Value: image
