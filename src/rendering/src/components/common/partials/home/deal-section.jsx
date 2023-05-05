@@ -85,4 +85,3 @@ function DealSection(props) {
 }
 
 export default React.memo(DealSection);
-
