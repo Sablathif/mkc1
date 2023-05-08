@@ -1,0 +1,48 @@
+﻿---
+ID: "3a56bcfa-ea91-4379-8ba8-a1f3bff9a77d"
+Parent: "d90c050f-cc6c-4add-8ddc-d97dc1c11be7"
+Template: "c1501a98-ec27-40e6-87db-9a405adf61fa"
+Path: /sitecore/content/PLAY/playwebsite/sxastarter/BlogListingPage/Page Components/BlogList
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "49612b19-da7c-4075-b016-3f2e8889d2c3"
+      Hint: blog
+      Value: |
+        {F5345719-DCA1-42C2-BC42-88D4F8F94DD6}
+        {5D638F8B-311A-4322-8859-0C255AC77509}
+        {3E6CCBBC-71A1-434D-BD17-83761260CB65}
+        {92613E48-CF84-4953-81F3-129481F0979B}
+        {2E298550-B7D9-4A71-AE5C-5FA19DC0F07A}
+        {5304E5A4-8CAE-41F0-B0DF-EE910C08893A}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4803257b-24d5-4a8d-8494-1783d1bfb0a7"
+    - ID: "eb8d5bd3-c113-4462-9af5-0ce72e3ee4b0"
+      Hint: blogType
+      Value: Listing
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "49612b19-da7c-4075-b016-3f2e8889d2c3"
+      Hint: blog
+      Value: |
+        {49D0602A-1017-40DE-AF7E-5C2BB0350EDC}
+        {09095B90-4DFD-4D49-9629-B0CADE85A311}
+        {E5BAE500-665C-40F7-A56F-38D2C2B859F9}
+        {1E06A65B-5F1A-4EFF-B3C6-D18CED90B05C}
+        {C417AA99-AFA7-4637-81AC-F0AB44F2D99B}
+        {0EEB113A-132C-421F-B802-07F4604B2AF7}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b24a7f7f-04a9-45d7-8def-47ff9101a718"
+    - ID: "eb8d5bd3-c113-4462-9af5-0ce72e3ee4b0"
+      Hint: blogType
+      Value: Listing

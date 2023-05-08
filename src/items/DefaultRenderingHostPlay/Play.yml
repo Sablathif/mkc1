@@ -15,9 +15,13 @@ SharedFields:
   Value: "http://rendering:3000/api/editing/render"
 Languages:
 - Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: localhost
   Versions:
   - Version: 1
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "cd7ca84a-957c-4b61-9595-ee13ce026c80"
+      Value: "6bd2d645-7e64-4f4d-a63e-cec9959b44aa"

@@ -17,11 +17,11 @@ Languages:
       Value: Sale
     - ID: "0ce13285-e8c1-4894-81d8-8d80beddc675"
       Hint: CTAFlag
-      Value: 
+      Value: 1
     - ID: "43736d85-57c3-4220-8972-9d4759c156ff"
       Hint: CTALink
       Value: |
-        <link text="Shop Now" anchor="" linktype="internal" class="" title="Shop Now" target="" querystring="" id="{FBB0F055-551D-414A-A20E-78B093D55FBE}" />
+        <link text="Altudo" linktype="external" url="https://www.altudo.co/" anchor="" target="" />
     - ID: "47fd91ea-1825-442d-9373-7c5c805830c8"
       Hint: BackgroundImage
       Value: |
@@ -37,7 +37,7 @@ Languages:
       Value: button
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c4cf505a-5dd7-4d0d-8b84-f06243f03de7"
+      Value: "af8ca053-bfe2-4ce8-895c-91e74bcdf49e"
     - ID: "df08957b-e019-4862-a95f-707922cc2b17"
       Hint: CTAText
       Value: SHOP NOW

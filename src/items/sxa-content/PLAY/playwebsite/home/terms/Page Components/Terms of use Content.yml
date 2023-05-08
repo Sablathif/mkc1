@@ -49,7 +49,10 @@ Languages:
       Value: 
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{1A6F7D0E-F404-45BC-836F-8A16143DAA16}"
+      Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "968ff82a-0a1f-4b63-8a60-52e5a09e14cc"
     - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
       Hint: __Valid from
       Value: 20220114T135726Z

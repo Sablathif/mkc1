@@ -1,0 +1,76 @@
+﻿---
+ID: "3628318c-4b35-4c46-8639-5fe642b0c3ff"
+Parent: "8c4248d7-d6da-4ef8-a91e-b1333db1d24e"
+Template: "61be6f7d-3a37-45f8-924f-f8fedc8f7a05"
+Path: /sitecore/content/PLAY/playwebsite/sxastarter/Page Components/Deal Section/Summer Dress
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0ec71f-866d-42f1-940d-905d676de684"
+      Hint: Title
+      Value: Summer Dress
+    - ID: "0ce13285-e8c1-4894-81d8-8d80beddc675"
+      Hint: CTAFlag
+      Value: 1
+    - ID: "43736d85-57c3-4220-8972-9d4759c156ff"
+      Hint: CTALink
+      Value: |
+        <link class="" id="{62FA6DF5-B031-4CDB-9DFE-DEFD6861A057}" querystring="" anchor="" target="" title="" linktype="internal" text="Go To Blog" url="/PLAY/playwebsite/sxastarter/Page Components/Deal Section/Summer Dress/summerdress" />
+    - ID: "47fd91ea-1825-442d-9373-7c5c805830c8"
+      Hint: BackgroundImage
+      Value: |
+        <image mediaid="{01A0B947-0685-45F6-B1E6-A43E91314740}" />
+    - ID: "52538d72-9bea-455f-8707-7a81d0a53508"
+      Hint: SubTitle
+      Value: 
+    - ID: "71415def-af8c-4e49-9ec7-7abab3b5ff6a"
+      Hint: BannerType
+      Value: "banner-3"
+    - ID: "71dcee88-aeba-40df-891b-6e85101bb19b"
+      Hint: CTAType
+      Value: button
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e0292c28-d87b-4520-9879-ad69745e4294"
+    - ID: "df08957b-e019-4862-a95f-707922cc2b17"
+      Hint: CTAText
+      Value: Go To Blog
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0ec71f-866d-42f1-940d-905d676de684"
+      Hint: Title
+      Value: For Men's
+    - ID: "0ce13285-e8c1-4894-81d8-8d80beddc675"
+      Hint: CTAFlag
+      Value: 1
+    - ID: "43736d85-57c3-4220-8972-9d4759c156ff"
+      Hint: CTALink
+      Value: |
+        <link text="Shop" linktype="external" url="https://d-themes.com/react/riode/demo-1/shop/" anchor="" target="" />
+    - ID: "47fd91ea-1825-442d-9373-7c5c805830c8"
+      Hint: BackgroundImage
+      Value: |
+        <image mediaid="{01A0B947-0685-45F6-B1E6-A43E91314740}" />
+    - ID: "52538d72-9bea-455f-8707-7a81d0a53508"
+      Hint: SubTitle
+      Value: Starting at $30
+    - ID: "71415def-af8c-4e49-9ec7-7abab3b5ff6a"
+      Hint: BannerType
+      Value: "banner-3"
+    - ID: "71dcee88-aeba-40df-891b-6e85101bb19b"
+      Hint: CTAType
+      Value: button
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aba02b41-0283-4199-ac9a-7397f1710f58"
+    - ID: "df08957b-e019-4862-a95f-707922cc2b17"
+      Hint: CTAText
+      Value: SHOP NOW

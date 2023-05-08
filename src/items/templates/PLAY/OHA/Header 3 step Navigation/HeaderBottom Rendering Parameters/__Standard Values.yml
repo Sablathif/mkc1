@@ -1,0 +1,17 @@
+﻿---
+ID: "fde322a3-2504-5e10-a5f2-3434d7cfd229"
+Parent: "45437a50-6cba-547f-8b99-d86ed06a6454"
+Template: "45437a50-6cba-547f-8b99-d86ed06a6454"
+Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/HeaderBottom Rendering Parameters/__Standard Values
+SharedFields:
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f120ad42-933f-449d-a485-9af8db1bb819"

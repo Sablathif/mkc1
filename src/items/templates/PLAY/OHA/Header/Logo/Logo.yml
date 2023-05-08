@@ -1,0 +1,13 @@
+﻿---
+ID: "37e46159-c546-488f-b3e8-ed24bac11ceb"
+Parent: "1a806dfe-bda3-5dd6-bd1e-508cdbbdd7c0"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Header/Logo/Logo
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f37d7835-2fad-445e-bfd3-f361e27b6391"
