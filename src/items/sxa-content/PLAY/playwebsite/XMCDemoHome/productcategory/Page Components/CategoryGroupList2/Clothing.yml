@@ -1,0 +1,38 @@
+﻿---
+ID: "e01b2a75-ece7-4271-b1df-a3393b662418"
+Parent: "1660e3c1-ef12-4478-ac94-cb1c285b20e4"
+Template: "9cf381c6-d924-4aec-b72f-238ba9873b5e"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/productcategory/Page Components/CategoryGroupList2/Clothing
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "59b3f3f0-9c64-47b8-9dd6-0da620d97c56"
+      Hint: title
+      Value: Clothing
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "07474ca2-f582-42cd-9fd2-8ad9220027a0"
+    - ID: "a3d18316-90a1-4c8e-9f65-8e4d66de2404"
+      Hint: listingType
+      Value: Icon
+    - ID: "af6037c5-a560-4b0e-9337-48ddb0a3b092"
+      Hint: categoryItems
+      Value: |
+        {EB541D89-8277-44A5-8AEC-831D86E1A0A7}
+        {E45A4FEC-6934-40C3-A5C5-032834AB6DD1}
+        {7793D5DA-CF29-4906-885A-B3E2CE6BAFDF}
+        {B5D59105-9D3D-4C0F-8C5B-6B81FBA722A6}
+        {5BB4D3FC-D0BA-442F-B848-2DC77C811C99}
+        {00A04620-73F9-4571-96C6-D9635AAF2605}
+    - ID: "e9af2cf3-3f47-4741-9524-76e0461d7d2a"
+      Hint: image
+      Value: |
+        <image mediaid="{0EEFD6D8-C5E2-460B-B14A-B09785EADA39}" />
+    - ID: "ec4d91ea-a4dd-472d-bd98-400b2f56a0de"
+      Hint: iconClassName
+      Value: "d-icon-t-shirt1"
+    - ID: "ff2af257-3f0e-4693-8a00-73f916807b5a"
+      Hint: backgroudColour
+      Value: rgb(75, 85, 119)

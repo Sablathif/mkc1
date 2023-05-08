@@ -1,0 +1,16 @@
+﻿---
+ID: "367b2f9a-0941-4c54-89ed-75cd1968f2b7"
+Parent: "2fb5abc5-d536-4691-8e11-f7832a8ef50d"
+Template: "ec25ce9d-75a3-491e-ba82-347de22176f9"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/productcategory/Page Components/CategoryItems/Gloves
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2cd5e872-48fc-4511-bda4-16dc5a3c512c"
+    - ID: "e5badbad-aa22-4ae3-8212-601ae7d94ac9"
+      Hint: itemName
+      Value: Gloves

@@ -1,0 +1,17 @@
+﻿---
+ID: "9cf381c6-d924-4aec-b72f-238ba9873b5e"
+Parent: "cfd069fe-bb66-49a0-b9d8-4000d96b4bb9"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/CategoryGroup/Categories/Categories
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4151af17-617e-4329-9f2a-78ac67172834"

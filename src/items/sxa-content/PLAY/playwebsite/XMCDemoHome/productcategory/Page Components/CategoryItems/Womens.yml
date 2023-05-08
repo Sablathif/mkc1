@@ -1,0 +1,16 @@
+﻿---
+ID: "82476f40-dd9d-4033-91b7-2922a1134e82"
+Parent: "2fb5abc5-d536-4691-8e11-f7832a8ef50d"
+Template: "ec25ce9d-75a3-491e-ba82-347de22176f9"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/productcategory/Page Components/CategoryItems/Womens
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "033d8deb-a1d1-49d4-8696-a1f76f7c93cf"
+    - ID: "e5badbad-aa22-4ae3-8212-601ae7d94ac9"
+      Hint: itemName
+      Value: Women's

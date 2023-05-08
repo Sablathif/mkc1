@@ -1,0 +1,16 @@
+﻿---
+ID: "00a04620-73f9-4571-96c6-d9635aaf2605"
+Parent: "2fb5abc5-d536-4691-8e11-f7832a8ef50d"
+Template: "ec25ce9d-75a3-491e-ba82-347de22176f9"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/productcategory/Page Components/CategoryItems/Accessories
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6a93a3da-c082-43af-b8a2-cf1767bab618"
+    - ID: "e5badbad-aa22-4ae3-8212-601ae7d94ac9"
+      Hint: itemName
+      Value: Accessories

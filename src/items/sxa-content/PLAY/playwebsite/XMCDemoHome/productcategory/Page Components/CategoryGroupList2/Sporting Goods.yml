@@ -1,0 +1,38 @@
+﻿---
+ID: "e5f4159c-a8f2-4e5e-9758-0b0ff7d4bc1a"
+Parent: "1660e3c1-ef12-4478-ac94-cb1c285b20e4"
+Template: "9cf381c6-d924-4aec-b72f-238ba9873b5e"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/productcategory/Page Components/CategoryGroupList2/Sporting Goods
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "59b3f3f0-9c64-47b8-9dd6-0da620d97c56"
+      Hint: title
+      Value: Sporting Goods
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bcca248c-a6dd-444a-b860-9965d3055e0e"
+    - ID: "a3d18316-90a1-4c8e-9f65-8e4d66de2404"
+      Hint: listingType
+      Value: Icon
+    - ID: "af6037c5-a560-4b0e-9337-48ddb0a3b092"
+      Hint: categoryItems
+      Value: |
+        {00A04620-73F9-4571-96C6-D9635AAF2605}
+        {367B2F9A-0941-4C54-89ED-75CD1968F2B7}
+        {F3227A36-F4E3-4140-BB6A-9694BCAEB004}
+        {B6FB3462-FF2D-4426-8148-A8BF38294474}
+        {A211BA50-8AE6-45D1-85A3-6D8ED4313456}
+        {82476F40-DD9D-4033-91B7-2922A1134E82}
+    - ID: "e9af2cf3-3f47-4741-9524-76e0461d7d2a"
+      Hint: image
+      Value: |
+        <image mediaid="{6E33AC89-6FF8-45E8-B2EA-D55EBFB50CC4}" />
+    - ID: "ec4d91ea-a4dd-472d-bd98-400b2f56a0de"
+      Hint: iconClassName
+      Value: "d-icon-basketball2"
+    - ID: "ff2af257-3f0e-4693-8a00-73f916807b5a"
+      Hint: backgroudColour
+      Value: rgb(109, 82, 175)
