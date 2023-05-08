@@ -1,0 +1,17 @@
+﻿---
+ID: "0e8cfd79-acfc-4cd7-b846-5a15a1443dd8"
+Parent: "95c17a1f-2102-40ad-952e-5c85ad95fadf"
+Template: "24cfc9db-f9a7-4238-9041-d29c0f927f75"
+Path: /sitecore/content/PLAY/playwebsite/sxastarter/Product Search/Page Components/product
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "15c32b14-9c65-4ce2-931c-2ff01e734341"

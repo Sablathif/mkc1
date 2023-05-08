@@ -3,6 +3,10 @@ ID: "b814007c-8b94-4db1-a11c-c31a24c9c778"
 Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
 Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
 Path: /sitecore/templates/Project/PLAY/OHA/ProductCategory
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1300
 Languages:
 - Language: en
   Versions:
@@ -10,4 +14,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "df60ebd4-83ef-46fc-8387-7f3b2f7282e5"
+      Value: "b2ef4966-2e3c-4324-9e77-5394c2d9174c"
