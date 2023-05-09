@@ -4,7 +4,7 @@ import { ComponentProps } from 'lib/component-props';
 import ALink from 'components/feature/custom-link';
 import OwlCarousel from 'components/feature/owl-carousel';
 import { mainSlider6 } from 'src/utils/data/carousel';
-import Styles from 'components/CategoryGroup/CategoryGroup.module.css';
+//import Styles from 'components/CategoryGroup/CategoryGroup.module.css';
 
 type CategoryGroup2Props = ComponentProps & {
   fields: {

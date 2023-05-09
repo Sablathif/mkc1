@@ -62,7 +62,7 @@ const CategoryGroup1 = (props: CategoryGroup1Props): JSX.Element => {
                       </ALink>
                     </h4>
                     <ul className="category-list">
-                      {item.fields.categoryItems.map((categoryItem, categoryItemIndex) => (
+                      {/* {item.fields.categoryItems.map((categoryItem, categoryItemIndex) => (
                         <li key={categoryItemIndex}>
                           <ALink
                             href={categoryItem.fields.itemUrl.value.href}
@@ -73,7 +73,7 @@ const CategoryGroup1 = (props: CategoryGroup1Props): JSX.Element => {
                             <Text field={categoryItem.fields.itemName} />
                           </ALink>
                         </li>
-                      ))}
+                      ))} */}
                     </ul>
                   </div>
                 </div>
