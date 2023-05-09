@@ -1,8 +1,6 @@
 {
   "deployItems": {
-    "modules": [
-      "Foundation.*"
-    ]
+    "modules": []
   },
   "buildTargets": [
     "./src/platform/Platform.csproj"
