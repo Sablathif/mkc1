@@ -6,13 +6,16 @@ Path: /sitecore/system/Settings/Services/Rendering Hosts/Default
 SharedFields:
 - ID: "3121c257-53cf-464a-b736-98b418876057"
   Hint: AppName
-  Value: 
+  Value: Default
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Value: 1
 - ID: "e32c1801-79b3-4fc1-a9c4-3c6e6c2968ae"
   Hint: ServerSideRenderingEngineApplicationUrl
-  Value: 
+  Value: "https://xmc-4tezkl4r1vloua1phcrm4s.sitecorecloud.io/"
 - ID: "fc76919b-0d7c-4732-865d-2af795fb38a4"
   Hint: ServerSideRenderingEngineEndpointUrl
-  Value: 
+  Value: "https://xmc-4tezkl4r1vloua1phcrm4s.sitecorecloud.io:443/api/editing/render"
 Languages:
 - Language: "de-DE"
   Versions:
@@ -27,7 +30,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "663a8df1-3515-415e-8f1b-73d0a012f6ea"
+      Value: "986522ec-d58b-403f-b3c6-aa2a94164d53"
 - Language: "ja-JP"
   Versions:
   - Version: 1

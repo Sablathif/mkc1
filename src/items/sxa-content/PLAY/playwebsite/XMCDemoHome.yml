@@ -19,7 +19,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{8929B69C-6048-4E8F-8563-6B2F548E6009}" />
+    <image mediaid="{0211C0E3-6E81-496D-AF26-A5E319B7F711}" />
 - ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
   Hint: __Security
   Value: |
@@ -168,18 +168,19 @@ Languages:
               s:par="CSSStyles=&amp;Styles={52162748-AAD3-48C9-896F-EF05C3ED9902}&amp;GridParameters={89EB9AC0-7E92-4252-9D91-7DC47AB3DAD2}"
               s:ph="headless-main" />
             <r
-              uid="{5DCCA8B5-684D-47E7-A296-1847D3900542}"
+              uid="{4DDB08BF-BC4B-4CF7-BCC2-B4E3DF49EE2C}"
               p:after="r[@uid='{DF03C9DE-8C8D-4A6F-ABD7-2ACC6A770653}']"
+              s:ds="{A5A863DF-B18C-428B-85EC-F8843DB28BFE}"
+              s:id="{A14C4BB9-06FA-4BC6-BD2F-4F0638D06211}"
+              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;CSSStyles"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{5DCCA8B5-684D-47E7-A296-1847D3900542}"
+              p:after="*[1=2]"
               s:ds="{12B304B5-2E38-4813-9D07-1EAD91461833}"
               s:id="{9D08882D-839D-40C2-817F-C51A6E51F769}"
               s:par="GridParameters=&amp;ListingType=Image&amp;FieldNames=&amp;Styles=&amp;CSSStyles="
-              s:ph="headless-main" />
-            <r
-              uid="{873D1CFA-1D23-4B11-80EF-DA8963973CCF}"
-              p:after="*[1=2]"
-              s:ds="{A5A863DF-B18C-428B-85EC-F8843DB28BFE}"
-              s:id="{A14C4BB9-06FA-4BC6-BD2F-4F0638D06211}"
-              s:par="GridParameters=&amp;FieldNames=&amp;Styles=&amp;CSSStyles="
               s:ph="headless-main" />
             <r
               uid="{45FCA8EC-2A99-531D-B270-0389AB473563}">
@@ -209,7 +210,7 @@ Languages:
         </r>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b2da854d-fdf1-479f-bf80-a64d77a7b102"
+      Value: "ad191c57-1e25-4b7a-bacf-bcd79e9b5299"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: XM Cloud Home
