@@ -18,6 +18,7 @@ function PostTwo(props) {
               height={post.small_picture[0].height}
               effect="opacity"
               style={{ backgroundColor: '#DEE6E8' }}
+              loading="lazy"
             />
           </ALink>
         ) : (

@@ -5,9 +5,13 @@ Template: "93227c5d-4fef-474d-94c0-f252ec8e8219"
 Path: /sitecore/layout/Layouts/Project/PLAY
 Languages:
 - Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Altudo XM Cloud
   Versions:
   - Version: 1
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "aa99b158-8d6f-4443-a3be-5f7345b88ea2"
+      Value: "dcebb55f-75c4-4d4a-a942-9ca0b586b235"

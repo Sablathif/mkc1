@@ -33,6 +33,10 @@ SharedFields:
     </r>
 Languages:
 - Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Dynamic Header
   Versions:
   - Version: 1
     Fields:
@@ -55,16 +59,8 @@ Languages:
               <p:d />
             </r>
             <r
-              uid="{4830A0A6-354C-47A0-898F-AC6D1B208DAE}"
-              p:before="*"
-              s:ds="{77B741F2-7FA0-48BA-BA45-9AF0DB4B1502}"
-              s:id="{E07B3D9F-D494-5D1A-AC51-2988A674BE28}"
-              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;CSSStyles"
-              s:ph="headless-header"
-              s:ccb="Clear on publish" />
-            <r
               uid="{3DF6DE24-1C39-4C33-9160-2F5CE4570109}"
-              p:after="r[@uid='{4830A0A6-354C-47A0-898F-AC6D1B208DAE}']"
+              p:before="*"
               s:ds="{8577E6A8-3B1B-4BB6-93C7-20D7F91AC785}"
               s:id="{5CE2EE9A-AC49-59CD-937A-66E6C32C4939}"
               s:par="GridParameters&amp;FieldNames&amp;Styles&amp;CSSStyles"
@@ -82,4 +78,4 @@ Languages:
         </r>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f645faac-44dc-4972-9b5f-5f99b6bca5eb"
+      Value: "88bc7694-ebe6-459f-a326-8baf01de5acb"

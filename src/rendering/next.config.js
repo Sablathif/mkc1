@@ -4,7 +4,7 @@ const { getPublicUrl } = require('@sitecore-jss/sitecore-jss-nextjs');
 const plugins = require('./src/temp/next-config-plugins') || {};
 
 const publicUrl = getPublicUrl();
-
+const withPurgeCSSModules = require('next-purge-css-modules');
 /**
  * @type {import('next').NextConfig}
  */
@@ -24,18 +24,14 @@ const nextConfig = {
     // These are all the locales you want to support in your application.
     // These should generally match (or at least be a subset of) those in Sitecore.
     // DEMO TEAM CUSTOMIZATION - Remove unused languages and add some
-    locales: [
-      'en',
-      'fr-CA',
-      'ja-JP',
-    ],
+    locales: ['en', 'fr-CA', 'ja-JP'],
     // END CUSTOMIZATION
     // This is the locale that will be used when visiting a non-locale
     // prefixed path e.g. `/styleguide`.
     defaultLocale: packageConfig.language,
     localeDetection: false, // DEMO TEAM CUSTOMIZATION - Disable locale detection
   },
-  
+
   // Enable React Strict Mode
   reactStrictMode: true,
 
@@ -64,4 +60,4 @@ const nextConfig = {
 module.exports = () => {
   // Run the base config through any configured plugins
   return Object.values(plugins).reduce((acc, plugin) => plugin(acc), nextConfig);
-}
+};

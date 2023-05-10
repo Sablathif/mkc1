@@ -11,7 +11,7 @@ import { headerBorderRemoveList } from '../../utils/data/menu';
 //     Logo: ImageField;
 //   };
 // };
-export default function Header(/*props*/) {
+export default function Header(/*props: HeaderProps*/) {
   const router = useRouter();
 
   useEffect(() => {
@@ -33,54 +33,6 @@ export default function Header(/*props*/) {
 
   return (
     <header className="header header-border">
-      <div className="header-top">
-        <div className="container">
-          <div className="header-left">
-            <p className="welcome-msg">Welcome to Riode store message or remove it!</p>
-          </div>
-          <div className="header-right">
-            {/* <div className="dropdown">
-                            <ALink href="#">USD</ALink>
-                            <ul className="dropdown-box">
-                                <li><ALink href="#">USD</ALink></li>
-                                <li><ALink href="#">EUR</ALink></li>
-                            </ul>
-                        </div> */}
-
-            {/* <div className="dropdown ml-5">
-                            <ALink href="#">ENG</ALink>
-                            <ul className="dropdown-box">
-                                <li>
-                                    <ALink href="#">ENG</ALink>
-                                </li>
-                                <li>
-                                    <ALink href="#">FRH</ALink>
-                                </li>
-                            </ul>
-                        </div> */}
-
-            <span className="divider"></span>
-            <ALink
-              href="/Contact-Us"
-              className="contact d-lg-show"
-              content={undefined}
-              style={undefined}
-            >
-              <i className="d-icon-map"></i>Contact
-            </ALink>
-            <ALink
-              href="/Contact-Us"
-              className="help d-lg-show"
-              content={undefined}
-              style={undefined}
-            >
-              <i className="d-icon-info"></i> Need Help
-            </ALink>
-            {/* <LoginModal /> */}
-          </div>
-        </div>
-      </div>
-
       <div className="header-middle sticky-header fix-top sticky-content">
         <div className="container">
           <div className="header-left">
@@ -95,44 +47,8 @@ export default function Header(/*props*/) {
             </ALink>
 
             <ALink href="/" className="logo" content={undefined} style={undefined}>
-              <img
-                src="http://cm.xmcloudcm.localhost/-/media/Project/OneWebHeadless/DefaultSite/logo.png"
-                alt="logo"
-                width="153"
-                height="44"
-              />
+              <span></span>
             </ALink>
-
-            {/* <SearchBar /> */}
-          </div>
-
-          <div className="header-right">
-            <ALink
-              href="tel:#"
-              className="icon-box icon-box-side"
-              content={undefined}
-              style={undefined}
-            >
-              <div className="icon-box-icon mr-0 mr-lg-2">
-                <i className="d-icon-phone"></i>
-              </div>
-              <div className="icon-box-content d-lg-show">
-                <h4 className="icon-box-title">Call Us Now:</h4>
-                <p>0(800) 123-456</p>
-              </div>
-            </ALink>
-            <span className="divider"></span>
-            <ALink
-              href="/pages/wishlist"
-              className="wishlist"
-              content={undefined}
-              style={undefined}
-            >
-              <i className="d-icon-heart"></i>
-            </ALink>
-            <span className="divider"></span>
-
-            {/* <CartMenu /> */}
           </div>
         </div>
       </div>
@@ -142,17 +58,10 @@ export default function Header(/*props*/) {
           <div className="header-left">
             <MainMenu />
           </div>
-
-          <div className="header-right">
-            <ALink href="#" className={undefined} content={undefined} style={undefined}>
-              <i className="d-icon-card"></i>Special Offers
-            </ALink>
-            <a href="#" className="ml-6">
-              Buy Riode!
-            </a>
-          </div>
         </div>
       </div>
     </header>
   );
 }
+
+export const Default = Header;

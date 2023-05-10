@@ -14,12 +14,13 @@ function CtaSection(props) {
     };
   }, []);
   const data = props.props?.fields;
+  console.log(data);
   return (
     <section
       className="banner banner-background parallax text-center"
       data-option="{'speed': 4}"
       style={{
-        backgroundImage: `url(${data.BackgroundImage?.value.src})`,
+        backgroundImage: `url(${'/-' + data.BackgroundImage?.value.src.split('/-').pop()})`,
         backgroundColor: '#313237',
       }}
     >
@@ -38,7 +39,10 @@ function CtaSection(props) {
 
             <p className="text-white ls-s">{data.Description?.value}</p>
 
-            <ALink href="/shop" className="btn btn-primary btn-rounded btn-icon-right">
+            <ALink
+              href={data.CTA?.value.href}
+              className="btn btn-primary btn-rounded btn-icon-right"
+            >
               {data.CTA?.value.text}
               <i className="d-icon-arrow-right"></i>
             </ALink>

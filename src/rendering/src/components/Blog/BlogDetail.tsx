@@ -3,11 +3,11 @@ import {
   Field,
   ImageField,
   RichTextField,
-  Image,
   RichText,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import ALink from 'components/feature/custom-link';
 import { ComponentProps } from 'lib/component-props';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 
 type BlogDetailProps = ComponentProps & {
   fields: {
@@ -31,23 +31,20 @@ const BlogDetail = (props: BlogDetailProps): JSX.Element => (
               content={undefined}
               style={undefined}
             >
-              <Image field={props.fields.Image} />
+              <LazyLoadImage
+                src={'/-' + props.fields.Image.value.src.split('/-').pop()}
+                alt={`${props?.fields?.Image?.value?.alt}`}
+                width={`${props.fields.Image.value.width}`}
+                height={`${props.fields.Image.value.height}`}
+                loading="lazy"
+              />
             </ALink>
           </figure>
           <div className="post-details">
             <div className="post-meta">
-              by
               <Text field={props.fields.Author} />
-              on
+              &nbsp;
               <Text field={props.fields.Date} />
-              <ALink
-                className="post-comment"
-                href="/react/riode/demo-1/blog/single/pellentesque-fusce-suscipit/#"
-                content={undefined}
-                style={undefined}
-              >
-                <span>1</span> Comments
-              </ALink>
             </div>
             <div>
               <h1>
@@ -64,4 +61,3 @@ const BlogDetail = (props: BlogDetailProps): JSX.Element => (
   </div>
 );
 export const Default = BlogDetail;
-// export default withDatasourceCheck()<BlogDetailProps>(BlogDetail);

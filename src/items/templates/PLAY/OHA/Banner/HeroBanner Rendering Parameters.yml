@@ -1,0 +1,23 @@
+﻿---
+ID: "237e0fe9-ac50-50e8-af89-67915c0b9435"
+Parent: "f6c997e4-e883-4152-97a7-a2eaa1b12a00"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Banner/HeroBanner Rendering Parameters
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{4247AAD4-EBDE-4994-998F-E067A51B1FE4}"
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Value: 
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{EFFBD239-5B96-5D3C-9D0D-637D4135BACC}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "63fd4efd-690d-4f3d-8af2-7148f9814185"

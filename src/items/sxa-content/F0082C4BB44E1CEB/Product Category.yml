@@ -14,8 +14,8 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1eafa967-33a7-4f38-8b3c-c760e099267a"
+      Value: "1dd57c08-227f-452a-9dd1-e716f8d1247c"
     - ID: "bcdbf166-d7a5-4a34-8e6e-0bd04a79444f"
       Hint: Link
       Value: |
-        <link class="" querystring="" id="{680BE33C-6050-428A-8704-EA88CAF4E8E5}" anchor="" title="" linktype="internal" text="Product Category" url="/OneWebHeadless/DefaultSite/Home/ProductCategory" />
+        <link text="Product Category" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{74DFD13C-852B-4914-A65F-D5F3D0BC6CFD}" />

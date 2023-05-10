@@ -130,6 +130,7 @@ function SearchForm() {
                   width={40}
                   height={40}
                   alt="product"
+                  loading="lazy"
                 />
                 <div
                   className="search-name"

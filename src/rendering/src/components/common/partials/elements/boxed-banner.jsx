@@ -30,14 +30,6 @@ function boxedbanner(data) {
               </ALink>
             </div>
           </div>
-
-          {/* <div className="row gutter-lg mt-6">
-                        <SidebarFilterOne type="boxed" />
-
-                        <div className="col-lg-9">
-                            <ProductListOne type="boxed" />
-                        </div>
-                    </div> */}
         </div>
       </div>
     </>

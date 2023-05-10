@@ -7,7 +7,7 @@ BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
 - ID: "1ee576af-ba8e-4312-9fbd-2ccf8395baa1"
   Hint: StartItem
-  Value: "{2D1D7ACA-9597-5CA6-85B2-9B04907E4298}"
+  Value: "{15B20460-D0D7-4014-A63D-CEE29D88E146}"
 - ID: "6e6da5b0-8d01-4514-b7dd-1940aff3e8cd"
   Hint: FieldLanguageFallback
   Value: 1
@@ -28,15 +28,19 @@ SharedFields:
   Value: *
 - ID: "f57099a3-526a-49f2-aebd-635453e48875"
   Hint: RenderingHost
-  Value: Play
+  Value: Default
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{23E42340-77BE-49FC-A7C4-77D3CB545223}"
 Languages:
 - Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: XMC Demo website
   Versions:
   - Version: 1
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "69060dbb-5c2c-4b69-8097-c308caad8097"
+      Value: "242253c5-97ae-4461-a26c-bf0d718edb79"

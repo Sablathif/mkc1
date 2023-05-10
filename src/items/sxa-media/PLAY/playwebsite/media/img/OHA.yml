@@ -5,9 +5,13 @@ Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
 Path: /sitecore/media library/Project/PLAY/playwebsite/media/img/OHA
 Languages:
 - Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Riode Site
   Versions:
   - Version: 1
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "022f45e6-cab8-4943-8f8a-0e871c4758ad"
+      Value: "5089ec19-6d54-4fff-b584-2b9f9eb3d960"

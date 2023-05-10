@@ -5,10 +5,8 @@ import { videoHandler } from 'src/utils';
 import OwlCarousel from 'components/feature/owl-carousel';
 import { mainSlider20 } from 'src/utils/data/carousel';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
-// import Sidebar from './Sidebar';
 function GridSidebar(BlogProps: any) {
   const blog = BlogProps.BlogProps.fields.blog;
-  console.log(blog);
   return (
     <div className="page-content with-sidebar">
       <div className="container">
@@ -33,25 +31,15 @@ function GridSidebar(BlogProps: any) {
                               alt={item.fields.blogimages.value.alt}
                               width={item.fields.blogimages.value.width}
                               height={item.fields.blogimages.value.height}
+                              loading="lazy"
                             />
                           </ALink>
-                          {/* {item.fields.imageList.length > 0 ? (
-                      <>
-                        <ALink href="#" className={undefined} content={undefined} style={undefined}>
-                          <img
-                            src={item.fields.imageList[0].url}
-                            alt={item.fields.imageList[0].fields.Alt.value}
-                            width={item.fields.imageList[0].fields.Width.value}
-                            height={item.fields.imageList[0].fields.Height.value}
-                          />
-                        </ALink>
-                      </>
-                    ) : (
-                      <></>
-                    )} */}
                           <span className="video-play" onClick={videoHandler}></span>
                           <video width="380">
-                            <source src={item.fields.video.value?.href} type="video/mp4" />
+                            <source
+                              src={'/-' + item.fields.video.value?.href.split('/-').pop()}
+                              type="video/mp4"
+                            />
                           </video>
                         </figure>
                       </div>
@@ -73,40 +61,13 @@ function GridSidebar(BlogProps: any) {
                                   style={undefined}
                                 >
                                   <LazyLoadImage
-                                    src={item.fields.blogimages.value.src}
+                                    src={'/-' + item.fields.blogimages.value.src.split('/-').pop()}
                                     alt={item.fields.blogimages.value.alt}
                                     width={item.fields.blogimages.value.width}
                                     height={item.fields.blogimages.value.height}
+                                    loading="lazy"
                                   />
                                 </ALink>
-                                {/* {item.fields.imageList.map((itemImage, index) =>
-                            itemImage.fields.Extension.value.toLowerCase() === 'jpg' ? (
-                              <>
-                                <ALink
-                                  key={index}
-                                  href="#"
-                                  className={undefined}
-                                  content={undefined}
-                                  style={undefined}
-                                >
-                                  <img
-                                    src={itemImage.url}
-                                    alt={itemImage.fields.Alt.value}
-                                    width={itemImage.fields.Width.value}
-                                    height={itemImage.fields.Height.value}
-                                    key={itemImage.title + '-' + index}
-                                  />
-                                </ALink>
-                              </>
-                            ) : (
-                              <>
-                                <span className="video-play" onClick={videoHandler}></span>
-                                <video width="380">
-                                  <source src={item.fields.video.value?.href} type="video/mp4" />
-                                </video>
-                              </>
-                            )
-                          )} */}
                               </OwlCarousel>
                             </>
                           ) : (
@@ -118,23 +79,13 @@ function GridSidebar(BlogProps: any) {
                                 style={undefined}
                               >
                                 <LazyLoadImage
-                                  src={item.fields.blogimages.value.src}
+                                  src={'/-' + item.fields.blogimages.value.src.split('/-').pop()}
                                   alt={item.fields.blogimages.value.alt}
                                   width={item.fields.blogimages.value.width}
                                   height={item.fields.blogimages.value.height}
+                                  loading="lazy"
                                 />
                               </ALink>
-                              {/* <ALink href="#" className={undefined} content={undefined} style={undefined}>
-                          {item.fields.imageList.map((itemImage, index) => (
-                            <img
-                              key={index}
-                              src={itemImage.url}
-                              alt={itemImage.fields.Alt.value}
-                              width={itemImage.fields.Width.value}
-                              height={itemImage.fields.Height.value}
-                            />
-                          ))}
-                        </ALink> */}
                             </>
                           )}
                         </figure>

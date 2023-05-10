@@ -12,6 +12,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "01a40e95-016e-464a-b752-78a2300474bb"
       Hint: Author
       Value: JOHN DOE
@@ -21,13 +24,13 @@ Languages:
         <image mediaid="{6A97B57F-615E-4336-8086-C54E1AFB8DE4}" />
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
     - ID: "599645ec-e5c9-4b25-a0eb-8c482ecca83e"
       Hint: Title
       Value: Pellentesque Fusce Suscipit.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "060ec1fc-990b-470d-86b5-d2923aad7ad6"
+      Value: "7314b615-4f18-41fb-a331-bd8862830300"
     - ID: "b2482950-04a1-433b-bb34-b27b64ee63c0"
       Hint: Description
       Value: |
@@ -67,7 +70,7 @@ Languages:
     - ID: "0ed1b546-4713-470c-bccd-2c02e3d0dede"
       Hint: Image
       Value: |
-        <image mediaid="{6A97B57F-615E-4336-8086-C54E1AFB8DE4}" />
+        <image mediaid="{E3519DCE-0F2C-41E3-A554-DE06D64DD1C3}" />
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
@@ -76,7 +79,7 @@ Languages:
       Value: Explore Fashion Trending For Women In Autumn 2021
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4fb15d59-221a-4498-8d4f-4ba6eb4d810e"
+      Value: "97c55820-e207-4263-a544-ecbc32162f7a"
     - ID: "b2482950-04a1-433b-bb34-b27b64ee63c0"
       Hint: Description
       Value: |

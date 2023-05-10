@@ -1,0 +1,52 @@
+﻿---
+ID: "62b5cbf5-b5d4-4717-a702-e233dc124a0f"
+Parent: "5f48fe3c-c393-41e3-849a-5f5c48d255e1"
+Template: "e05e6908-35e7-5098-a0c0-c2bbf3ab8a44"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/Page Components/Hero Banner
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 800
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "40c59ecb-839c-4d58-af88-a4fe43355e69"
+      Hint: Description
+      Value: Free shipping on orders over $100
+    - ID: "75996842-6097-46f8-a160-b77ddcdd33ab"
+      Hint: BackgroundImage
+      Value: |
+        <image mediaid="{FFA1E07F-C00F-4B65-9710-1782307BCD9B}" />
+    - ID: "84953286-1b9a-47fe-bb25-88510de02104"
+      Hint: Heading
+      Value: Extra  
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "057bd00e-b72c-4d9f-b795-83245e238105"
+    - ID: "9ed4a448-8114-4db6-82db-8691567209ee"
+      Hint: Tag
+      Value: Summer Season Sale
+    - ID: "c738ef03-1403-47d1-baa0-653dab9ec859"
+      Hint: SubTile
+      Value: Online
+    - ID: "c7a29191-7f6f-4553-9dd6-8398b43e773e"
+      Hint: Title
+      Value: 29% Off
+    - ID: "ecbc6012-421e-4861-b6c4-5d1f3501faa1"
+      Hint: CTA
+      Value: |
+        <link text="Show More" anchor="" linktype="internal" class="" title="Show More" target="" querystring="" id="{A7DD1062-A795-409A-9128-C40223E619B7}" />

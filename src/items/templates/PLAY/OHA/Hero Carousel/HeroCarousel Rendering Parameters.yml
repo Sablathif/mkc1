@@ -1,0 +1,23 @@
+﻿---
+ID: "a1d828bc-7385-517b-948d-1cf33d96b9a2"
+Parent: "b2e1fbf3-f92d-4fac-aa55-990ef4c640e4"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Hero Carousel/HeroCarousel Rendering Parameters
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{4247AAD4-EBDE-4994-998F-E067A51B1FE4}"
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Value: 
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{2B237E0B-337A-536F-9F5A-7960538AD17E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "319bb81d-7707-4ca9-bf7a-2baf8a4312e0"

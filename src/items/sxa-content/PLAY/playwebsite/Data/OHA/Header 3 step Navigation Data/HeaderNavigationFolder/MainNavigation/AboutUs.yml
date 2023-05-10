@@ -14,8 +14,8 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "695fd5db-2d5c-429c-9a98-6954c86b86b9"
+      Value: "0f8826d5-2c25-41d6-a230-e2880995344a"
     - ID: "bcdbf166-d7a5-4a34-8e6e-0bd04a79444f"
       Hint: Link
       Value: |
-        <link text="About Us" anchor="" linktype="internal" class="" title=""  querystring="" id="{EE28C7F8-30CB-472E-B654-5AB0BFE35F35}" />
+        <link text="About Us" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{9C226991-475E-450B-89B1-11F2C57D544D}" />

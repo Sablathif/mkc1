@@ -15,11 +15,11 @@ SharedFields:
   Value: "{8F0E1432-3729-462B-AD20-DAF067694BCB}"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 0
+  Value: 300
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{BB6E0F61-49F2-48E3-8C9E-D09BD6D53F43}" />
+    <image mediaid="{E1B6D7E1-9F5C-488A-A0A1-51391E33F5AE}" />
 - ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
   Hint: __Security
   Value: |
@@ -143,11 +143,11 @@ Languages:
               <p:d />
             </r>
             <r
-              uid="{A8A19C25-CC3A-448C-A532-F43DDFF4230A}"
+              uid="{FC89C8D3-E508-4BA8-96C2-353E80CED26F}"
               p:before="*"
-              s:ds="{CDB898B2-2155-4FEC-A237-DFBD14D84717}"
-              s:id="{AAA0BD84-3885-5638-8C8E-7C58348BC1A5}"
-              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;CSSStyles"
+              s:ds="{BA341600-4394-4B5D-804C-D33AFC5D9477}"
+              s:id="{60E46443-0BAD-5861-823D-75F620401573}"
+              s:par="GridParameters&amp;BannerType=SimpleBanner&amp;FieldNames&amp;Styles&amp;CSSStyles"
               s:ph="headless-main"
               s:ccb="Clear on publish" />
             <r
@@ -194,7 +194,7 @@ Languages:
         </r>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "394f8b25-e844-4778-9b2d-51f8054bc187"
+      Value: "3fa23f5a-2ec2-4018-8d00-53ac7166700c"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Home

@@ -1,0 +1,76 @@
+﻿---
+ID: "a5808bde-df9b-40d3-ac5a-99406ece47f1"
+Parent: "8c4248d7-d6da-4ef8-a91e-b1333db1d24e"
+Template: "61be6f7d-3a37-45f8-924f-f8fedc8f7a05"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/Page Components/Deal Section/Sunglasses And Clothing
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0ec71f-866d-42f1-940d-905d676de684"
+      Hint: Title
+      Value: Sunglasses And Clothing
+    - ID: "0ce13285-e8c1-4894-81d8-8d80beddc675"
+      Hint: CTAFlag
+      Value: 
+    - ID: "43736d85-57c3-4220-8972-9d4759c156ff"
+      Hint: CTALink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{7ED3871C-8436-4A74-B4D4-41D16556C346}" />
+    - ID: "47fd91ea-1825-442d-9373-7c5c805830c8"
+      Hint: BackgroundImage
+      Value: |
+        <image mediaid="{C4DAA37C-FAA7-4759-8F2C-C4D78F82A8BF}" />
+    - ID: "52538d72-9bea-455f-8707-7a81d0a53508"
+      Hint: SubTitle
+      Value: 
+    - ID: "71415def-af8c-4e49-9ec7-7abab3b5ff6a"
+      Hint: BannerType
+      Value: "banner-3"
+    - ID: "71dcee88-aeba-40df-891b-6e85101bb19b"
+      Hint: CTAType
+      Value: button
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2d2e0ab2-464b-4698-9366-92f559b0620d"
+    - ID: "df08957b-e019-4862-a95f-707922cc2b17"
+      Hint: CTAText
+      Value: GO TO BLOG
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0ec71f-866d-42f1-940d-905d676de684"
+      Hint: Title
+      Value: Fashions
+    - ID: "0ce13285-e8c1-4894-81d8-8d80beddc675"
+      Hint: CTAFlag
+      Value: 1
+    - ID: "43736d85-57c3-4220-8972-9d4759c156ff"
+      Hint: CTALink
+      Value: |
+        <link text="Fashions" linktype="external" url="https://d-themes.com/react/riode/demo-1/shop/" anchor="" target="" />
+    - ID: "47fd91ea-1825-442d-9373-7c5c805830c8"
+      Hint: BackgroundImage
+      Value: |
+        <image mediaid="{AB485B36-0C19-4A49-9E04-94947EB86D3C}" />
+    - ID: "52538d72-9bea-455f-8707-7a81d0a53508"
+      Hint: SubTitle
+      Value: 30% Off
+    - ID: "71415def-af8c-4e49-9ec7-7abab3b5ff6a"
+      Hint: BannerType
+      Value: "banner-3"
+    - ID: "71dcee88-aeba-40df-891b-6e85101bb19b"
+      Hint: CTAType
+      Value: button
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7fe682a6-e087-4cd2-a1a3-34de5867f5e7"
+    - ID: "df08957b-e019-4862-a95f-707922cc2b17"
+      Hint: CTAText
+      Value: SHOP NOW

@@ -50,16 +50,17 @@ const HeroCarousel = (props: HeroCarouselProps): JSX.Element => (
             <figure>
               {data.fields.BackgroundType.value == 'Image' ? (
                 <LazyLoadImage
-                  // {(item?.fields?.SlideImage.value.src).slice(10, ((item?.fields?.SlideImage.value.src).length)-1)}
-                  src={data?.fields?.BackgroundImage?.value?.src}
+                  src={'/-' + data?.fields?.BackgroundImage?.value?.src.split('/-').pop()}
                   alt="Intro Slider"
                   effect="opacity"
                   width="auto"
                   height={630}
+                  loading="lazy"
                 />
               ) : (
                 <video
-                  src={data?.fields?.BackgroundVideo?.value?.href?.replace('http://cm', '')}
+                  src={'/-' + data?.fields?.BackgroundVideo?.value?.href.split('/-').pop()}
+                  // src={data?.fields?.BackgroundVideo?.value?.href?.replace('http://cm', '')}
                   width="1903"
                   height="630"
                   autoPlay={true}
@@ -120,15 +121,18 @@ const HeroCarousel = (props: HeroCarouselProps): JSX.Element => (
             <figure>
               {data.fields.BackgroundType.value == 'Image' ? (
                 <LazyLoadImage
-                  src={data?.fields?.BackgroundImage?.value?.src}
+                  // src={data?.fields?.BackgroundImage?.value?.src}
+                  src={'/-' + data?.fields?.BackgroundImage?.value?.src.split('/-').pop()}
                   alt="Intro Slider"
                   effect="opacity"
                   width="auto"
                   height={630}
+                  loading="lazy"
                 />
               ) : (
                 <video
-                  src={data?.fields?.BackgroundVideo?.value?.href?.replace('http://cm', '')}
+                  // src={data?.fields?.BackgroundVideo?.value?.href?.replace('http://cm', '')}
+                  src={'/-' + data?.fields?.BackgroundVideo?.value?.href.split('/-').pop()}
                   width="1903"
                   height="630"
                   autoPlay={true}
@@ -181,15 +185,17 @@ const HeroCarousel = (props: HeroCarouselProps): JSX.Element => (
             <figure>
               {data.fields.BackgroundType.value == 'Image' ? (
                 <LazyLoadImage
-                  src={data?.fields?.BackgroundImage?.value?.src.replace('http://cm', '')}
+                  src={'/-' + data?.fields?.BackgroundImage?.value?.src.split('/-').pop()}
                   alt="Intro Slider"
                   effect="opacity"
                   width="auto"
                   height={630}
+                  loading="lazy"
                 />
               ) : (
                 <video
-                  src={data?.fields?.BackgroundVideo?.value?.href?.replace('http://cm', '')}
+                  src={'/-' + data?.fields?.BackgroundVideo?.value?.href.split('/-').pop()}
+                  // src={data?.fields?.BackgroundVideo?.value?.href?.replace('http://cm', '')}
                   width="1903"
                   height="630"
                   autoPlay={true}

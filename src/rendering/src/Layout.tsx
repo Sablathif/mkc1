@@ -56,8 +56,10 @@ const Layout = ({ layoutData }: LayoutProps): JSX.Element => {
   // END CUSTOMIZATION
 
   // DEMO TEAM CUSTOMIZATION - Use event name from context as the page title
-  const contextTitle = context['EventInfo'] as NodeJS.Dict<string | string>;
-  let pageTitle = contextTitle.titlePrefix;
+  // const contextTitle = context['EventInfo'] as NodeJS.Dict<string | string>;
+  // let pageTitle = contextTitle.titlePrefix;
+  let pageTitle = 'XMC Demo Website';
+
   if (fields?.pageTitle?.value.toString()) {
     pageTitle += ` - ${fields.pageTitle.value.toString()}`;
   } else if (fields?.Title?.value.toString()) {
