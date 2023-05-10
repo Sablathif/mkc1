@@ -3,6 +3,10 @@ ID: "2fb5abc5-d536-4691-8e11-f7832a8ef50d"
 Parent: "18a7b22e-84ec-471a-b63f-0cf0ea2c271d"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
 Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/productcategory/Page Components/CategoryItems
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
 Languages:
 - Language: en
   Versions:
@@ -10,4 +14,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "728b0847-85cb-45d0-8bea-3a29cf653190"
+      Value: "0d2fd314-9d07-4564-af93-06df47d1b00b"

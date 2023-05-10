@@ -73,9 +73,17 @@ Languages:
               s:ccb="Clear on publish" />
             <r
               uid="{632CA1C8-10D8-4DF0-B450-2059217D6194}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{3E86CBD8-4A97-4F0F-85F8-37EBC7B3FDE7}']"
               s:ds="{7421BC99-2E33-4365-99E9-D0A87922C0C7}"
               s:id="{1C1FC053-EC78-4B8F-AB05-6CEF601D9B2B}"
+              s:par="CSSStyles"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{BFBC7DA7-D414-4BAB-BF76-D8BE36F51F75}"
+              p:after="*[1=2]"
+              s:ds="{836DF427-37F5-4C30-8E28-C9A34D18A215}"
+              s:id="{EA63DC31-3AE7-4FE1-B248-2A230EDAF806}"
               s:par="CSSStyles"
               s:ph="headless-main"
               s:ccb="Clear on publish" />
@@ -86,7 +94,7 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0444c242-87a1-4260-87c1-d6f748f20452"
+      Value: "8f5eccaa-ba54-4f7b-9e41-fa24a34ed62e"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
-      Value: Blog Page
+      Value: Product Page

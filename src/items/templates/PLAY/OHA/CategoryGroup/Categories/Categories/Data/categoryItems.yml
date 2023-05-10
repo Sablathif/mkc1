@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/PLAY/OHA/CategoryGroup/Categories/Categories/D
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: "query:$site/*[@@name='Data']//*[@@templatename='CategoryItems']"
+  Value: "query:/sitecore/content/PLAY/playwebsite/XMCDemoHome//*[@@templatename='CategoryItems']"
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: Multilist
@@ -20,4 +20,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d80214f4-a0e9-4cb0-8979-71802dd55431"
+      Value: "74fa8205-d65f-466c-ae0d-9474dac0fc72"

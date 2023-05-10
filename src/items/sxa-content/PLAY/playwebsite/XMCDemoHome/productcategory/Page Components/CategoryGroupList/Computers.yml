@@ -1,8 +1,8 @@
 ﻿---
-ID: "5c8aede0-b6c1-41f6-90d4-10604587d4ab"
-Parent: "7421bc99-2e33-4365-99e9-d0a87922c0c7"
+ID: "019ee723-b49d-4bb7-898d-87cbef01921d"
+Parent: "38a32688-be33-4b38-b165-7570c6958ee6"
 Template: "9cf381c6-d924-4aec-b72f-238ba9873b5e"
-Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/productcategory/Page Components/CategoryGroupList1/Computers
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/productcategory/Page Components/CategoryGroupList/Computers
 Languages:
 - Language: en
   Versions:
@@ -13,7 +13,7 @@ Languages:
       Value: Computers
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ed80d877-881d-451e-8916-f2838953d6a0"
+      Value: "5affd360-3489-494f-8a74-463a2d8b6efe"
     - ID: "a3d18316-90a1-4c8e-9f65-8e4d66de2404"
       Hint: listingType
       Value: 

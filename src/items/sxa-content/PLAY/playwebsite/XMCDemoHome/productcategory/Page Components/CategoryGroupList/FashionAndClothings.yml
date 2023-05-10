@@ -1,8 +1,8 @@
 ﻿---
-ID: "ff348641-7451-43b1-8e65-46f838ce4846"
-Parent: "7421bc99-2e33-4365-99e9-d0a87922c0c7"
+ID: "6cfce7cd-3cfc-44a2-9f20-e2c66c166ae5"
+Parent: "38a32688-be33-4b38-b165-7570c6958ee6"
 Template: "9cf381c6-d924-4aec-b72f-238ba9873b5e"
-Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/productcategory/Page Components/CategoryGroupList1/Fashion and Clothings
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/productcategory/Page Components/CategoryGroupList/FashionAndClothings
 Languages:
 - Language: en
   Versions:
@@ -13,7 +13,7 @@ Languages:
       Value: Fashion & Clothings
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6754f80c-37b6-40e7-9006-12af6d519ebf"
+      Value: "b511e0ec-850f-4bd4-8e50-f67324db9fa4"
     - ID: "a3d18316-90a1-4c8e-9f65-8e4d66de2404"
       Hint: listingType
       Value: 
