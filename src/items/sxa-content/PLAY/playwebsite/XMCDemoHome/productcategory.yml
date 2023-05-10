@@ -60,7 +60,7 @@ Languages:
               p:before="*"
               s:ds="{AF8CC5C3-3121-4DBF-8C59-3AC009E6B3C8}"
               s:id="{60E46443-0BAD-5861-823D-75F620401573}"
-              s:par="GridParameters&amp;BannerType=BannerWithoutCTA&amp;FieldNames&amp;Styles&amp;CSSStyles"
+              s:par="FieldNames&amp;CacheClearingBehavior=Clear+on+publish&amp;Styles&amp;CSSStyles&amp;GridParameters&amp;BannerType=BannerWithoutCTA"
               s:ph="headless-main"
               s:ccb="Clear on publish" />
             <r
@@ -68,15 +68,7 @@ Languages:
               p:after="r[@uid='{A778DA15-EFA7-43EF-B52D-A6FB91C2B3F8}']"
               s:ds="{2C973A52-F264-48DA-ADB6-2418A2C6D472}"
               s:id="{2F9D05FD-8E58-56CC-B586-41A3EC155CD7}"
-              s:par="FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles"
-              s:ph="headless-main"
-              s:ccb="Clear on publish" />
-            <r
-              uid="{632CA1C8-10D8-4DF0-B450-2059217D6194}"
-              p:after="r[@uid='{3E86CBD8-4A97-4F0F-85F8-37EBC7B3FDE7}']"
-              s:ds="{7421BC99-2E33-4365-99E9-D0A87922C0C7}"
-              s:id="{1C1FC053-EC78-4B8F-AB05-6CEF601D9B2B}"
-              s:par="CSSStyles"
+              s:par="FieldNames&amp;CacheClearingBehavior=Clear+on+publish&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles"
               s:ph="headless-main"
               s:ccb="Clear on publish" />
             <r
@@ -84,7 +76,7 @@ Languages:
               p:after="*[1=2]"
               s:ds="{836DF427-37F5-4C30-8E28-C9A34D18A215}"
               s:id="{EA63DC31-3AE7-4FE1-B248-2A230EDAF806}"
-              s:par="CSSStyles"
+              s:par="CacheClearingBehavior=Clear+on+publish&amp;CSSStyles"
               s:ph="headless-main"
               s:ccb="Clear on publish" />
           </d>
@@ -94,7 +86,7 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8f5eccaa-ba54-4f7b-9e41-fa24a34ed62e"
+      Value: "d3b52616-9f5d-4265-9e10-c3b7c12fcbff"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Product Page
