@@ -1,0 +1,39 @@
+.newsletter {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 20px 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.newsletter h3 {
+    font-size: 42px;
+    font-weight: 400;
+    font-family: Neuzeit, sans-serif;
+    text-transform: uppercase;
+    color: #fff;
+}
+.newsletter p {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Trade Gothic Light";
+    color: #fff;
+}
+.newsletterRow {
+    align-items: center;
+}
+.newsletterBtn {
+    padding: 11px 15px;
+    text-decoration: none;
+    background-color: #fff;
+    color: #000;
+    text-transform: uppercase;
+    border: 0;
+    font-size: 19px;
+    font-family: Trade Gothic Bold Condensed;
+}
+.newsletterBtn:hover {
+    background-color: #000;
+    color: #fff;
+    text-decoration: none;
+}
