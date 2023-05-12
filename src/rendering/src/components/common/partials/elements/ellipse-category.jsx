@@ -5,7 +5,7 @@ import { mainSlider9 } from '../../../../utils/data/carousel';
 
 function ellipsecategory(data) {
   const categories = data.data.fields.Categories;
-  console.log("category: ",categories)
+  console.log("category: ", categories)
   return (
 
     <>
@@ -15,7 +15,7 @@ function ellipsecategory(data) {
         <OwlCarousel adClass="owl-theme" options={mainSlider9}  >
           {categories?.map((data, index) => (
             <div className="category category-ellipse" key={index}>
-              <ALink href={data.fields.CTA.value.href}>              
+              <ALink href={data.fields.CTA.value.href}>
                 <figure className="category-media">
                   <img src={'/-' + data.fields?.Image?.value?.src.split('/-').pop()} alt="Cateogry" width="196" height="196" />
                 </figure>
