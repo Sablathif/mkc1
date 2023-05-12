@@ -16,7 +16,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{A98C7C23-1C61-4863-BCF9-66EA7CEEC423}" />
+    <image mediaid="{7423A04F-0370-46BE-8805-0F4A18E1D8D2}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -65,10 +65,18 @@ Languages:
               s:ccb="Clear on publish" />
             <r
               uid="{3E86CBD8-4A97-4F0F-85F8-37EBC7B3FDE7}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{A778DA15-EFA7-43EF-B52D-A6FB91C2B3F8}']"
               s:ds="{2C973A52-F264-48DA-ADB6-2418A2C6D472}"
               s:id="{2F9D05FD-8E58-56CC-B586-41A3EC155CD7}"
               s:par="FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{3BE7BE0E-00D7-4E62-BCF8-8CA76B4DC87B}"
+              p:after="*[1=2]"
+              s:ds="{345BBEEC-A220-4736-AF18-EF4AB1879380}"
+              s:id="{2702C90A-5DCE-4B64-BE2C-7F0470DB1931}"
+              s:par="CSSStyles"
               s:ph="headless-main"
               s:ccb="Clear on publish" />
           </d>
@@ -78,7 +86,7 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "80e38784-45be-4d6e-998e-595d481e931f"
+      Value: "3900ced1-387b-4881-9e72-acb2fd8caeed"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Blog Page
