@@ -1,5 +1,5 @@
 import React from 'react';
-import { ComponentStory, ComponentMeta } from '@storybook/react';
+import { StoryFn, Meta } from '@storybook/react';
 
 import HeaderContent from '../../components/Navigation/HeaderContent';
 import HeaderCdpMessageBar from '../../components/HeaderCdpMessageBar';
@@ -11,7 +11,7 @@ import {
   Default as VendorInformation,
   VendorInformationProps,
 } from '../../components/Vendors/VendorInformation';
-import { Default as Footer } from '../../components/Navigation/FooterPlay';
+import { Default as Footer } from '../../components/Navigation/Footer';
 import { mockComponentFactory, mockFooterProps, mockHeaderProps } from './PageStoriesCommon';
 import { SitecoreContext } from '@sitecore-jss/sitecore-jss-nextjs';
 import { SESSIONS } from '../mock-sessions';
@@ -19,7 +19,7 @@ import { mockLayoutData } from '../../../.storybook/preview';
 
 export default {
   title: 'Pages/Vendor Information Page',
-} as ComponentMeta<typeof VendorInformationPageHero>;
+} as Meta<typeof VendorInformationPageHero>;
 
 const vendorInformationPageHeroProps = {
   fields: {
@@ -75,7 +75,7 @@ const vendorInformationProps = {
   },
 } as VendorInformationProps;
 
-const Template: ComponentStory<typeof VendorInformationPageHero> = () => {
+const Template: StoryFn<typeof VendorInformationPageHero> = () => {
   return (
     <SitecoreContext componentFactory={mockComponentFactory} layoutData={mockLayoutData}>
       <header>
@@ -93,5 +93,7 @@ const Template: ComponentStory<typeof VendorInformationPageHero> = () => {
   );
 };
 
-export const Default = Template.bind({});
-Default.args = {};
+export const Default = {
+  render: Template,
+  args: {},
+};

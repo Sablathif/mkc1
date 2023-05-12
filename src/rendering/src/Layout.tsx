@@ -1,20 +1,20 @@
 /**
  * This Layout is needed for Starter Kit.
  */
-import React, { useEffect } from 'react'; // DEMO TEAM CUSTOMIZATION - Log page views
 import Head from 'next/head';
+import { useEffect } from 'react'; // DEMO TEAM CUSTOMIZATION - Log page views
 // DEMO TEAM CUSTOMIZATION - Add LayoutServicePageState
 import {
+  Field,
+  LayoutServiceData,
   Placeholder,
   getPublicUrl,
-  LayoutServiceData,
-  Field,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import Scripts from 'src/Scripts';
 // DEMO TEAM CUSTOMIZATION - CDP and Sitecore Send integration
-import { trackViewEvent } from './services/TrackingService';
 import HeaderCdpMessageBar from './components/HeaderCdpMessageBar';
 import { isEditingOrPreviewingPage } from './helpers/LayoutServiceHelper';
+import { trackViewEvent } from './services/TrackingService';
 // END CUSTOMIZATION
 // DEMO TEAM CUSTOMIZATION - Sitecore Search integration
 import { QueryClientProvider } from '@tanstack/react-query';
@@ -56,10 +56,8 @@ const Layout = ({ layoutData }: LayoutProps): JSX.Element => {
   // END CUSTOMIZATION
 
   // DEMO TEAM CUSTOMIZATION - Use event name from context as the page title
-  // const contextTitle = context['EventInfo'] as NodeJS.Dict<string | string>;
-  // let pageTitle = contextTitle.titlePrefix;
-  let pageTitle = 'XMC Demo Website';
-
+  const contextTitle = context['EventInfo'] as NodeJS.Dict<string | string>;
+  let pageTitle = contextTitle.titlePrefix;
   if (fields?.pageTitle?.value.toString()) {
     pageTitle += ` - ${fields.pageTitle.value.toString()}`;
   } else if (fields?.Title?.value.toString()) {

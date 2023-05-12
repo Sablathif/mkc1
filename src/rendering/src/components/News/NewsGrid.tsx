@@ -1,13 +1,13 @@
-import profile from '../../../public/assets/img/news/profile-pic.jpg';
-import Link from 'next/link';
 import {
   Image,
-  withDatasourceCheck,
   LayoutServicePageState,
   useSitecoreContext,
+  withDatasourceCheck,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
+import Link from 'next/link';
 import { News } from 'src/types/news';
+import profile from '../../../public/assets/img/news/profile-pic.jpg';
 import { getPublicAssetUrl } from '../../../src/helpers/PublicUrlHelper';
 
 type NewsGridProps = ComponentProps & {
@@ -38,17 +38,15 @@ const NewsGrid = (props: NewsGridProps): JSX.Element => {
       .map((news, index) => (
         <div key={index} className="news-grid-item">
           <Link href={news.url} passHref>
-            <a>
-              <img
-                className="item-image"
-                src={news.fields.Image?.value?.src}
-                alt="News"
-                width="465px"
-                height="260px"
-                loading="lazy"
-              />
-              {news.fields.Title?.value}
-            </a>
+            <img
+              className="item-image"
+              src={news.fields.Image?.value?.src}
+              alt="News"
+              width="465px"
+              height="260px"
+              loading="lazy"
+            />
+            {news.fields.Title?.value}
           </Link>
         </div>
       ));

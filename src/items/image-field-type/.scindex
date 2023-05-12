@@ -1,10 +1,10 @@
 ﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\image-field-type\Image.yml
+  D:\Office\Sitecore.Demo.XmCloud.PlaySummit-main\src\items\image-field-type\Image.yml
 ID: "9c0d099c-b29f-4b12-8944-db5d9138b59a"
 Parent: "c3d117d1-66d3-44e2-beb2-7b72b365baae"
 Template: "f8a17d6a-118e-4cd7-b5f5-88ff37a4f237"
 Path: /sitecore/system/Field types/Simple Types/Image
 Signature: 1HK3bQMAYk9nqxeGRsveM1jAq/OIxba5sREkhb92CZ8=
-Modified: 638175688215420140
+Modified: 638187363910000000

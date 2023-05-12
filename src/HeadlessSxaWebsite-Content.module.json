@@ -6,15 +6,23 @@
         "includes": [
             {
                 "name": "sxa-content",
-                "path": "/sitecore/content/PLAY",
-                "scope": "itemAndDescendants",
-				"allowedPushOperations": "createUpdateAndDelete"
+                "path": "/sitecore/content",
+                "scope": "descendantsOnly",
+                "rules": [
+                    {
+                        "path": "/Home",
+                        "scope": "ignored"
+                    },
+                    {
+                        "path": "/CMP",
+                        "scope": "ignored"
+                    }
+                ]
             },
             {
                 "name": "sxa-media",
-                "path": "/sitecore/media library/Project/PLAY",
-                "scope": "itemAndDescendants",
-				"allowedPushOperations": "createUpdateAndDelete"
+                "path": "/sitecore/media library/Project",
+                "scope": "descendantsOnly"
             }
         ]
     }

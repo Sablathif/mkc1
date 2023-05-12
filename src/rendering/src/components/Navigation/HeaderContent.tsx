@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import { ParsedUrlQueryInput } from 'querystring';
 import { useEffect, useState } from 'react';
-import { HeaderProps } from './HeaderPlay';
+import { HeaderProps } from './Header';
 
 export type HeaderContentProps = HeaderProps & {
   pathname?: string;
@@ -69,7 +69,7 @@ const HeaderContent = (props: HeaderContentProps): JSX.Element => {
 
   const links = props.fields?.data?.item?.children?.results?.map((item, index) => (
     <Link key={index} href={item.field?.jsonValue?.value?.href ?? '#'} prefetch={false}>
-      <a>{item.displayName}</a>
+      {item.displayName}
     </Link>
   ));
 
