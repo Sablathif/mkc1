@@ -47,10 +47,8 @@ const RelatedArticles = (props: RelatedArticlesProps): JSX.Element => {
                 >
                   <span className="d-none">
                     {
-                      (item.fields.Image.value.src = item.fields.Image.value.src.replace(
-                        'http://cm',
-                        ''
-                      ))
+                      (item.fields.Image.value.src =
+                        '/-' + item.fields.Image.value.src.split('/-').pop())
                     }
                   </span>
                   <Image

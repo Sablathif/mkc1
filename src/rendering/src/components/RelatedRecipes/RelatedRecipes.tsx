@@ -32,10 +32,8 @@ const RelatedRecipes = (props: RelatedRecipesProps): JSX.Element => {
               <div key={index} className={`card ${styles.card} rounded-0`}>
                 <span className="d-none">
                   {
-                    (item.fields.Image.value.src = item.fields.Image.value.src.replace(
-                      'http://cm',
-                      ''
-                    ))
+                    (item.fields.Image.value.src =
+                      '/-' + item.fields.Image.value.src.split('/-').pop())
                   }
                 </span>
                 <Image

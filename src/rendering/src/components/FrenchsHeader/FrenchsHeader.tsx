@@ -34,9 +34,12 @@ export type FrenchsHeaderProps = ComponentProps & {
 
 const FrenchsHeader = (props: FrenchsHeaderProps): JSX.Element => {
   const { fields } = props;
-  const logoSrc = fields.items
-    .find((item) => item.name === 'Logo')
-    ?.fields.Image?.value.src.replace('http://cm', '');
+  const logoSrc =
+    '/-' +
+    fields.items
+      .find((item) => item.name === 'Logo')
+      ?.fields.Image?.value.src.split('/-')
+      .pop();
   const links = fields.items
     .filter((item) => item.name.startsWith('Link'))
     .map((item) => ({
