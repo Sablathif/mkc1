@@ -16,7 +16,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{802C4261-177F-41BD-B6F2-7943F21F3147}" />
+    <image mediaid="{D8D562DB-E761-4746-A146-DDB27FF5FBB3}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -65,10 +65,18 @@ Languages:
               s:ccb="Clear on publish" />
             <r
               uid="{3E86CBD8-4A97-4F0F-85F8-37EBC7B3FDE7}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{A778DA15-EFA7-43EF-B52D-A6FB91C2B3F8}']"
               s:ds="{2C973A52-F264-48DA-ADB6-2418A2C6D472}"
               s:id="{2F9D05FD-8E58-56CC-B586-41A3EC155CD7}"
               s:par="FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{0869F6C6-310A-4A1F-AF1F-ED11CA025B54}"
+              p:after="*[1=2]"
+              s:ds="{F14EA3FD-9973-49A4-9F3D-A3B92F7A6B5F}"
+              s:id="{9D08882D-839D-40C2-817F-C51A6E51F769}"
+              s:par="GridParameters&amp;ListingType=Ellipse&amp;FieldNames&amp;Styles&amp;CSSStyles"
               s:ph="headless-main"
               s:ccb="Clear on publish" />
           </d>
@@ -78,7 +86,7 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "92111269-75f4-41ff-9525-86f54d1aa23d"
+      Value: "afb82183-8cb2-4347-92d9-405593fe17f2"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Blog Page
