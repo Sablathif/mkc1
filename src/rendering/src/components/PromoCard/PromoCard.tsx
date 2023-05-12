@@ -28,7 +28,9 @@ const NewsLetter = (props: PromoCardProps): JSX.Element => {
     <>
       <div
         className={Styles.newsletter}
-        style={{ backgroundImage: `url(${props.fields.CardImage.value.src.slice(10)})` }}
+        style={{
+          backgroundImage: `url(${'/-' + props.fields.CardImage.value.src.split('/-').pop()})`,
+        }}
       >
         <div className="container-fluid">
           <div className={`${Styles.newsletterRow} row`}>

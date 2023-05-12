@@ -55,7 +55,7 @@ const Promocard = (props: PromoListProps): JSX.Element => {
             <div className={'col-lg-6 ' + Styles.promoCard} key={index}>
               <div
                 className={Styles.cardContent}
-                style={{ backgroundImage: `url(${Promocard.src.slice(10)})` }}
+                style={{ backgroundImage: `url(${'/-' + Promocard.src.split('/-').pop()})` }}
               >
                 <h3>{Promocard.title}</h3>
                 <p>{Promocard.info}</p>

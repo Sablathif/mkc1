@@ -83,7 +83,7 @@ const RecipePrep = (props: RecipePrepDetailsProps): JSX.Element => {
               <div className={Styles.column1}>
                 <a href="/">
                   <img
-                    src={props.fields.ChefImage.value.src.slice(10)}
+                    src={'/-' + props.fields.ChefImage.value.src.split('/-').pop()}
                     alt={props.fields.ChefImage.value.alt}
                     width={props.fields.ChefImage.value.width}
                     height={props.fields.ChefImage.value.height}

@@ -51,7 +51,7 @@ const SocialIcon = (props: SocialIconsProps): JSX.Element => {
             <li key={Index}>
               <a href={SocialIcon.href}>
                 <div className={Styles.mediaIcon}>
-                  <img src={SocialIcon.src.slice(10)} alt={SocialIcon.alt} />
+                  <img src={'/-' + SocialIcon.src.split('/-').pop()} alt={SocialIcon.alt} />
                 </div>
                 <div className={Styles.title}>{SocialIcon.title}</div>
               </a>

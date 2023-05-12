@@ -18,7 +18,7 @@ const RecipeBanner = (props: RecipeBannerProps): JSX.Element => {
             <div className="col-12 p-0">
               <div className={Styles.fullBanner}>
                 {props.fields?.Desktop_Image.value.src ? (
-                  <img src={props.fields.Desktop_Image.value.src.slice(10)} alt="image" />
+                  <img src={"/-"+props.fields.Desktop_Image.value.src.split('/-').pop()} alt="image" />
                 ) : null}
               </div>
             </div>
