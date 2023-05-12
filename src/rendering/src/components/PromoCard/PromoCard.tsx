@@ -24,12 +24,13 @@ export type PromoCardProps = ComponentProps & {
 };
 
 const NewsLetter = (props: PromoCardProps): JSX.Element => {
+  const bgimage = '/-' + props.fields.CardImage.value.src.split('/-').pop();
   return (
     <>
       <div
         className={Styles.newsletter}
         style={{
-          backgroundImage: `url(${'/-' + props.fields.CardImage.value.src.split('/-').pop()})`,
+          backgroundImage: `url(${bgimage})`,
         }}
       >
         <div className="container-fluid">

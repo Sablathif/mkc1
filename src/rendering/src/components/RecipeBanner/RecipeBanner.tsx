@@ -10,6 +10,7 @@ type RecipeBannerProps = ComponentProps & {
 };
 
 const RecipeBanner = (props: RecipeBannerProps): JSX.Element => {
+  const imgsrc = '/-' + props.fields.Desktop_Image.value.src.split('/-').pop();
   return (
     <div className="container-fluid">
       <div className="row">
@@ -17,9 +18,7 @@ const RecipeBanner = (props: RecipeBannerProps): JSX.Element => {
           <div className="row">
             <div className="col-12 p-0">
               <div className={Styles.fullBanner}>
-                {props.fields?.Desktop_Image.value.src ? (
-                  <img src={"/-"+props.fields.Desktop_Image.value.src.split('/-').pop()} alt="image" />
-                ) : null}
+                {props.fields?.Desktop_Image.value.src ? <img src={imgsrc} alt="image" /> : null}
               </div>
             </div>
           </div>

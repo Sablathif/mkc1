@@ -52,6 +52,7 @@ export type RecipePrepDetailsProps = ComponentProps & {
 };
 
 const RecipePrep = (props: RecipePrepDetailsProps): JSX.Element => {
+  const imgsrc = '/-' + props.fields.ChefImage.value.src.split('/-').pop();
   return (
     <div className="container">
       <div className="row">
@@ -83,7 +84,7 @@ const RecipePrep = (props: RecipePrepDetailsProps): JSX.Element => {
               <div className={Styles.column1}>
                 <a href="/">
                   <img
-                    src={'/-' + props.fields.ChefImage.value.src.split('/-').pop()}
+                    src={imgsrc}
                     alt={props.fields.ChefImage.value.alt}
                     width={props.fields.ChefImage.value.width}
                     height={props.fields.ChefImage.value.height}
