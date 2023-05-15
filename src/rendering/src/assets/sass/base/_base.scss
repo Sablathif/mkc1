@@ -561,3 +561,26 @@
             border-radius: 10px;
         }
     }
+    .slick-slider{
+        .slick-dots{
+            bottom:30px;
+            li{
+                button{
+                    &:before{
+                        font-size: 14px;
+                        color: #fff;
+                        opacity: 1 !important;
+                    }
+                }
+               
+            }
+        }
+        .banner{
+            figure{
+                img{
+                    height:630px;
+                }
+            }
+        }
+    }
+    

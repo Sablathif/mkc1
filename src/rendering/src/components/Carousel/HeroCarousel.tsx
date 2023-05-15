@@ -1,6 +1,6 @@
 import { Field, ImageField, RichText, RichTextField } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
-import OwlCarousel from 'components/feature/owl-carousel';
+import SlickCarousel from 'components/feature/slick-carousel';
 import ALink from 'components/feature/custom-link';
 import {
   fadeInUpShorter,
@@ -36,10 +36,7 @@ type HeroCarouselProps = ComponentProps & {
 };
 
 const HeroCarousel = (props: HeroCarouselProps): JSX.Element => (
-  <OwlCarousel
-    adClass="owl-theme owl-dot-inner owl-dot-white intro-slider animation-slider"
-    options={introSlider}
-  >
+  <SlickCarousel adClass="intro-slider animation-slider" options={introSlider}>
     {props?.fields?.Slides?.map((data) => (
       <>
         {data.fields.SlideVariant.value == 'intro-slide1' ? (
@@ -55,7 +52,6 @@ const HeroCarousel = (props: HeroCarouselProps): JSX.Element => (
                   effect="opacity"
                   width="auto"
                   height={630}
-                  loading="lazy"
                 />
               ) : (
                 <video
@@ -127,7 +123,6 @@ const HeroCarousel = (props: HeroCarouselProps): JSX.Element => (
                   effect="opacity"
                   width="auto"
                   height={630}
-                  loading="lazy"
                 />
               ) : (
                 <video
@@ -190,7 +185,6 @@ const HeroCarousel = (props: HeroCarouselProps): JSX.Element => (
                   effect="opacity"
                   width="auto"
                   height={630}
-                  loading="lazy"
                 />
               ) : (
                 <video
@@ -244,7 +238,7 @@ const HeroCarousel = (props: HeroCarouselProps): JSX.Element => (
         )}
       </>
     ))}
-  </OwlCarousel>
+  </SlickCarousel>
 );
 
 export const Default = HeroCarousel;
