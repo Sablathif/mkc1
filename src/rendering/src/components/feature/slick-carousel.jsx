@@ -25,7 +25,7 @@ const SlickCarousel = (props) => {
     if (props.onChangeRef) {
       props.onChangeRef(carouselRef);
     }
-  }, [carouselRef]);
+  });
 
   //   events = Object.assign({}, events, props.events);
   //   let settings = Object.assign({}, defaultOptions, options);
