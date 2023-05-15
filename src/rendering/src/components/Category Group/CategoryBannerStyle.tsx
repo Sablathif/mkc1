@@ -54,8 +54,8 @@ const CategoryBannerStyleListing = (props: CategoryBannerStyleProps): JSX.Elemen
                     <ALink href="#" className={undefined} content={undefined} style={undefined}>
                       <figure className="category-media">
                         <LazyLoadImage
-                        src={'/-' + data.fields.BackgroundImage.value?.src.split('/-').pop()}
-                          alt={data.fields.BackgroundImage.value?.alt}
+                          src={'/-' + data.fields.BackgroundImage.value?.src.split('/-').pop()}
+                          alt={`${data?.fields?.BackgroundImage?.value?.alt}`}
                           width="585"
                           height={
                             data.fields.BannerType.value.toString() === 'height-x2' ? '397' : '205'
