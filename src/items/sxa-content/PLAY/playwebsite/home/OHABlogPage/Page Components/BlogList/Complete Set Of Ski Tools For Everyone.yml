@@ -15,11 +15,7 @@ Languages:
     - ID: "01f53240-7eea-4dfe-859f-9387b216b8de"
       Hint: ctaLink
       Value: |
-        <link text="Read More" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{407EEF85-DA8E-4A4C-8574-CF5749F76B95}" />
-    - ID: "1670a234-cf87-431c-8264-548949417903"
-      Hint: blogimages
-      Value: |
-        <image mediaid="{2E0647D4-0D77-4477-A6D8-E9C2E6D0DF3C}" />
+        <link text="Read More" anchor="" linktype="internal" class="" title=""  querystring="" id="{E8A15A53-80D8-4216-80B9-54000DC53A54}" />
     - ID: "256a15ab-17cd-4381-bfc8-2dc609c92842"
       Hint: imageList
       Value: "{2E0647D4-0D77-4477-A6D8-E9C2E6D0DF3C}"
@@ -40,7 +36,7 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "304178b6-979d-4aeb-b040-ad1ca22e87a9"
+      Value: "70967b32-4c9b-4f88-abd7-3ce980e49c06"
     - ID: "8fd5f032-4da3-4422-9f8b-2476f85b346d"
       Hint: postType
       Value: image

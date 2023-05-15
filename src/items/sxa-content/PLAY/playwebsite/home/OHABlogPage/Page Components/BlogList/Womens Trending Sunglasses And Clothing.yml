@@ -15,11 +15,7 @@ Languages:
     - ID: "01f53240-7eea-4dfe-859f-9387b216b8de"
       Hint: ctaLink
       Value: |
-        <link text="Read More" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{17326A28-FE71-4530-A7E3-118AAC72106A}" />
-    - ID: "1670a234-cf87-431c-8264-548949417903"
-      Hint: blogimages
-      Value: |
-        <image mediaid="{18184D7B-DB4A-4444-A507-EEC88A0A06F4}" />
+        <link text="Read More" anchor="" linktype="internal" class="" title=""  querystring="" id="{5849C209-3ADE-4E9E-8E4A-70B1476CA9AC}" />
     - ID: "256a15ab-17cd-4381-bfc8-2dc609c92842"
       Hint: imageList
       Value: "{18184D7B-DB4A-4444-A507-EEC88A0A06F4}"
@@ -37,7 +33,7 @@ Languages:
       Value: Fashion
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f13e4164-a106-408c-869e-d8d20a743a11"
+      Value: "8d09feae-4e68-459b-8667-3a65311ca359"
     - ID: "8fd5f032-4da3-4422-9f8b-2476f85b346d"
       Hint: postType
       Value: image

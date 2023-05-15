@@ -9,7 +9,7 @@ SharedFields:
   Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 50
+  Value: 1200
 Languages:
 - Language: en
   Versions:
@@ -26,7 +26,7 @@ Languages:
         {03E9DF7B-3D3D-46C9-AC34-8C26F06FFA6B}
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9cf69a57-35b8-4cf2-a800-a7899ea3e391"
+      Value: "7822f705-1e74-4dee-b188-dd9fb77f525b"

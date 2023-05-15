@@ -19,7 +19,7 @@ Languages:
       Value: Summer Season's
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a9f3a462-fd91-46ea-892b-99715755c52a"
+      Value: "1244668e-ac31-4311-b824-41352f67de6a"
     - ID: "9125f032-ee86-49d0-9632-e1a86d094767"
       Hint: BackgroundType
       Value: Video
@@ -41,4 +41,4 @@ Languages:
     - ID: "ff2b1450-de78-46c4-bf95-07daffb059c6"
       Hint: BackgroundVideo
       Value: |
-        <link id="{769B8ABB-D0C0-4CB0-8755-ED218565D8CA}" target="" linktype="media" url="/Project/PLAY/playwebsite/media/video/video-1" />
+        <link linktype="media" target="" id="{769B8ABB-D0C0-4CB0-8755-ED218565D8CA}" />

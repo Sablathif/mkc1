@@ -9,7 +9,7 @@ SharedFields:
   Value: Logo
 - ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
   Hint: __Read Only
-  Value: 
+  Value: 1
 - ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
   Hint: Parameters Template
   Value: "{436F80B5-599A-5986-9BCC-704E112D48C8}"
@@ -18,7 +18,7 @@ SharedFields:
   Value: "{3DF775BF-3F56-446F-9D81-43DE64DA4DDA}"
 - ID: "f6677a49-0a1d-4bad-b8ba-4f0f22bdee64"
   Hint: Additional compatible templates
-  Value: 
+  Value: "{1A806DFE-BDA3-5DD6-BD1E-508CDBBDD7C0}"
 Languages:
 - Language: en
   Versions:
@@ -26,4 +26,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "af68f9b3-c1d9-4cc8-992c-a012152a7dc3"
+      Value: "a78bc14f-1599-4187-b7f6-393f8e4d277c"

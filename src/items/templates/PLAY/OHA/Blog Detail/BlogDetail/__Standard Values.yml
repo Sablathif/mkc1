@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/PLAY/OHA/Blog Detail/BlogDetail/__Standard Val
 SharedFields:
 - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
   Hint: __Default workflow
-  Value: 
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
 Languages:
 - Language: en
   Versions:
@@ -14,4 +14,9 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "144ec4dd-7147-4601-a437-0e31b9986a0f"
+      Value: "1b02ded5-9885-461a-97b1-6a1f1230ea8c"
+  - Version: 2
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b02ded5-9885-461a-97b1-6a1f1230ea8c"

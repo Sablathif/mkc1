@@ -15,11 +15,7 @@ Languages:
     - ID: "01f53240-7eea-4dfe-859f-9387b216b8de"
       Hint: ctaLink
       Value: |
-        <link text="Read More" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{DF04476D-016C-4B41-8375-5492FFF2D1B2}" />
-    - ID: "1670a234-cf87-431c-8264-548949417903"
-      Hint: blogimages
-      Value: |
-        <image mediaid="{00AD8300-83EE-4667-8DBD-F59A7777AF93}" />
+        <link text="Read More" anchor="" linktype="internal" class="" title=""  querystring="" id="{5AE77BEA-0C17-4A64-95A4-4D3D1FA960C7}" />
     - ID: "256a15ab-17cd-4381-bfc8-2dc609c92842"
       Hint: imageList
       Value: |
@@ -40,13 +36,13 @@ Languages:
     - ID: "819c5ccc-843d-4b4b-91d2-84a7809ee862"
       Hint: video
       Value: |
-        <link class="" id="{66536421-E85C-46F7-932B-6860DF6F45BB}" querystring="" anchor="" title="" linktype="internal" text="Video" url="/sitecore/media library/Project/PLAY/playwebsite/media/img/OHA/Blog/video-1" />
+        <link text="Video" anchor="" linktype="internal" class="" title=""  querystring="" id="{66536421-E85C-46F7-932B-6860DF6F45BB}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5e8f6324-8cc6-43a0-931a-515db44960ca"
+      Value: "2ebc175d-998c-4f38-b7ac-372a03b51fe8"
     - ID: "8fd5f032-4da3-4422-9f8b-2476f85b346d"
       Hint: postType
-      Value: image
+      Value: video
     - ID: "d2c80f61-20b6-4c77-b935-508aaf90a7e8"
       Hint: heading
       Value: Women’s Fashion Summer Dress

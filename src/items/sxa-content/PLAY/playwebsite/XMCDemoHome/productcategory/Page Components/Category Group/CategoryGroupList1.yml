@@ -1,0 +1,19 @@
+﻿---
+ID: "7421bc99-2e33-4365-99e9-d0a87922c0c7"
+Parent: "af1fd4b4-f57d-4e48-978a-4e6976ad5859"
+Template: "5b1d692d-7d08-42e5-97f6-82b8c7864b29"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/productcategory/Page Components/Category Group/CategoryGroupList1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "33e02ddf-2ab1-4721-9e5f-2c316c5f2672"
+      Hint: categories
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb8b7763-187a-4cc8-a80a-22ef285a480e"
+    - ID: "a69835ab-a0b7-4e3d-a68b-2efc6754c871"
+      Hint: componentTitle
+      Value: Category Group 1

@@ -1,0 +1,37 @@
+﻿---
+ID: "ff348641-7451-43b1-8e65-46f838ce4846"
+Parent: "7421bc99-2e33-4365-99e9-d0a87922c0c7"
+Template: "9cf381c6-d924-4aec-b72f-238ba9873b5e"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/productcategory/Page Components/Category Group/CategoryGroupList1/Fashion and Clothings
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "59b3f3f0-9c64-47b8-9dd6-0da620d97c56"
+      Hint: title
+      Value: Fashion & Clothings
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6754f80c-37b6-40e7-9006-12af6d519ebf"
+    - ID: "a3d18316-90a1-4c8e-9f65-8e4d66de2404"
+      Hint: listingType
+      Value: 
+    - ID: "af6037c5-a560-4b0e-9337-48ddb0a3b092"
+      Hint: categoryItems
+      Value: |
+        {EB541D89-8277-44A5-8AEC-831D86E1A0A7}
+        {E45A4FEC-6934-40C3-A5C5-032834AB6DD1}
+        {7793D5DA-CF29-4906-885A-B3E2CE6BAFDF}
+        {B5D59105-9D3D-4C0F-8C5B-6B81FBA722A6}
+        {5BB4D3FC-D0BA-442F-B848-2DC77C811C99}
+    - ID: "e9af2cf3-3f47-4741-9524-76e0461d7d2a"
+      Hint: image
+      Value: |
+        <image mediaid="{62893053-9381-422A-A647-C312B49FC282}" />
+    - ID: "ec4d91ea-a4dd-472d-bd98-400b2f56a0de"
+      Hint: iconClassName
+      Value: 
+    - ID: "ff2af257-3f0e-4693-8a00-73f916807b5a"
+      Hint: backgroudColour
+      Value: rgb(75, 85, 119)

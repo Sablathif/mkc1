@@ -14,7 +14,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{341A8837-11C9-4756-BFFB-34B713331C39}" />
+    <image mediaid="{7F15A0E1-3A05-4F35-A392-DDE9E30485BE}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -67,7 +67,7 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f9a5e0f9-457b-4c30-a233-4e8dcf218830"
+      Value: "c676ddb5-323f-4c27-bf00-b4fcad2d7435"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Explore Fashion IPad And Accessories

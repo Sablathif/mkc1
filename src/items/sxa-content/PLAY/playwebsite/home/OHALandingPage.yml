@@ -13,7 +13,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{DEEC1A0F-B405-4F63-A0DD-C3B7243BA074}" />
+    <image mediaid="{6FB38D70-6ACF-4EE1-9264-58B7B1FF7578}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -75,7 +75,7 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "679a92b5-b498-4212-b42e-f461262f07a3"
+      Value: "a9d08c98-6d31-4291-ae5f-13ea0a2629f1"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: OHA Landing Page

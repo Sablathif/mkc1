@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/PLAY/OHA/ProductCategory/ProductCategory Rende
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: /sitecore/content/PLAY/playwebsite/Global Data/Listing Type
+  Value: /sitecore/content/OneWebHeadless/DefaultSite/Global Data/Listing Type
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: Droplist
@@ -23,4 +23,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f53f8165-f84d-4675-bd72-b28923598841"
+      Value: "a6bfe382-ed55-4a2d-a271-6d92bfbd584d"

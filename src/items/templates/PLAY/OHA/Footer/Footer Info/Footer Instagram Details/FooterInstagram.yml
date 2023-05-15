@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Instagram D
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: /sitecore/content/PLAY/playwebsite/Data/OHA/Footer Datasource/Footer Instagram
+  Value: /sitecore/content/OneWebHeadless/DefaultSite/Home/Data/Footer Datasource/Footer Instagram
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: Multilist
@@ -20,4 +20,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1e7a2b1d-031b-4c97-a92b-ba725c6810f7"
+      Value: "68456b7e-3cdb-4930-883d-8a16bc484de6"

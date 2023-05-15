@@ -12,9 +12,6 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
-      Hint: __Lock
-      Value: <r />
     - ID: "01a40e95-016e-464a-b752-78a2300474bb"
       Hint: Author
       Value: JOHN DOE
@@ -24,13 +21,13 @@ Languages:
         <image mediaid="{6A97B57F-615E-4336-8086-C54E1AFB8DE4}" />
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
     - ID: "599645ec-e5c9-4b25-a0eb-8c482ecca83e"
       Hint: Title
       Value: Pellentesque Fusce Suscipit.
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "952ebe45-e7cd-4ebb-9aa5-040b2283c6ac"
+      Value: "060ec1fc-990b-470d-86b5-d2923aad7ad6"
     - ID: "b2482950-04a1-433b-bb34-b27b64ee63c0"
       Hint: Description
       Value: |
@@ -70,7 +67,7 @@ Languages:
     - ID: "0ed1b546-4713-470c-bccd-2c02e3d0dede"
       Hint: Image
       Value: |
-        <image mediaid="{EE0AED9A-22F5-4F25-90B4-261F8A0A9C34}" />
+        <image mediaid="{6A97B57F-615E-4336-8086-C54E1AFB8DE4}" />
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
@@ -79,7 +76,7 @@ Languages:
       Value: Explore Fashion IPad And Accessories
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "be52d60f-8004-4c10-a094-46ba0e207ef7"
+      Value: "cc3d8a0f-f802-4d66-ba3b-7d9290905373"
     - ID: "b2482950-04a1-433b-bb34-b27b64ee63c0"
       Hint: Description
       Value: |
