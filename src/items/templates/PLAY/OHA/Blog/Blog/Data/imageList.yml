@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/imageList
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: /sitecore/media library/Project/OneWebHeadless/DefaultSite/Blog/BlogImageList
+  Value: "query:/sitecore/content/PLAY/playwebsite/XMCDemoHome//*[@@templatename='BlogImageList']"
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: TreelistEx
@@ -20,4 +20,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "38e33f3b-c0a6-4aca-aba7-c2bdbf5f38e6"
+      Value: "49c2248b-eebd-415e-afed-6fea186877a2"

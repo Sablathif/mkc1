@@ -1,0 +1,24 @@
+﻿---
+ID: "9c179467-d422-4a12-83ad-7bcf6a9d890f"
+Parent: "50078e0a-50a5-4101-b779-86164b439702"
+Template: "0ac5a04e-11cd-4063-a9fc-c360dac332e8"
+Path: /sitecore/content/PLAY/playwebsite/Global Data/Blog Category/BlogCategoryList
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "4fd0fca2-164e-42da-be8e-2dd25ce74c7d"
+      Hint: blogCategoryTitle
+      Value: Blog Categories
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "89951097-d376-48bc-889e-df9d8c5ab6c7"
+    - ID: "bf567c44-5b54-40ed-b081-20f5c6349935"
+      Hint: blogCategory
+      Value: |
+        {56B465BA-BA98-4190-B848-D4E1E0A3328A}
+        {EB0C9399-75D7-465D-8681-9D26D3F767FE}
+        {51905792-0E58-4FB6-BB92-F9D1224C2960}
+        {907285E2-DC10-4E33-AC14-3ABFFE0A465E}
+        {6F67E36F-35FA-4519-A595-92A1A8249A57}

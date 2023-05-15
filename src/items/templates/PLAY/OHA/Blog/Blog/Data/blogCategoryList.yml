@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/blogCategoryList
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: /sitecore/content/OneWebHeadless/DefaultSite/Global Data/Blog Category/BlogCategoryList
+  Value: /sitecore/content/PLAY/playwebsite/Global Data/Blog Category/BlogCategoryList
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: Droplist
@@ -20,4 +20,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5bfefc67-818b-4149-ad03-5b9293deee74"
+      Value: "2e1ad47f-4429-4e57-b523-e75adff8d877"
