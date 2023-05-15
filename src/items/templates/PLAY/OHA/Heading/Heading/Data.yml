@@ -1,0 +1,13 @@
+﻿---
+ID: "b77adbda-3b2d-42ca-95ad-7d8a046197cb"
+Parent: "6c37f26a-0824-470e-b431-52f950b35f91"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Heading/Heading/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3559ca0f-bad7-4637-bfa5-1c81fd52af86"

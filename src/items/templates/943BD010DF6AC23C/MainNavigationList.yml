@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/PLAY/OHA/Header 3 step Navigation/Header Botto
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: /sitecore/content/PLAY/playwebsite/Data/OHA/Header 3 step Navigation Data/HeaderNavigationFolder/MainNavigation
+  Value: /sitecore/content/OneWebHeadless/DefaultSite/Data/Header 3 step Navigation Data/HeaderNavigationFolder/MainNavigation
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: Multilist
@@ -20,4 +20,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "fb417a5e-5061-4323-a367-57d5636da8fc"
+      Value: "0968bdd0-8d14-438b-a132-e9e0378d0791"

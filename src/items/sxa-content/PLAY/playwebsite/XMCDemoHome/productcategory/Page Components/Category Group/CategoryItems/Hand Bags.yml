@@ -1,0 +1,16 @@
+﻿---
+ID: "8d4892e3-e13f-4a13-b579-e1fc6e45ca32"
+Parent: "2fb5abc5-d536-4691-8e11-f7832a8ef50d"
+Template: "ec25ce9d-75a3-491e-ba82-347de22176f9"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/productcategory/Page Components/Category Group/CategoryItems/Hand Bags
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ebd9da6e-d883-499a-bc7b-ec6a53e5e3c5"
+    - ID: "e5badbad-aa22-4ae3-8212-601ae7d94ac9"
+      Hint: itemName
+      Value: Hand Bags

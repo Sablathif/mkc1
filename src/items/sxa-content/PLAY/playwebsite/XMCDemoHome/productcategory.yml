@@ -80,6 +80,14 @@ Languages:
               s:ph="headless-main"
               s:ccb="Clear on publish" />
             <r
+              uid="{8C4498D3-C215-47E3-A112-DC0452BA131A}"
+              p:after="r[@uid='{BFBC7DA7-D414-4BAB-BF76-D8BE36F51F75}']"
+              s:ds="{2C78D181-C24D-4D49-B2B8-72E396A69FF0}"
+              s:id="{90496D4F-9F20-4060-8219-56AEF5F416C9}"
+              s:par="CSSStyles"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
+            <r
               uid="{AB913C36-C39E-4E8E-B7C3-EB129F84837E}"
               p:after="*[1=2]"
               s:ds="{7421BC99-2E33-4365-99E9-D0A87922C0C7}"
@@ -94,7 +102,7 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8d4a8f97-1eae-422d-846f-a6f102f7bf56"
+      Value: "07d25d8b-5d7e-4401-b57b-0920907fb165"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Product Page

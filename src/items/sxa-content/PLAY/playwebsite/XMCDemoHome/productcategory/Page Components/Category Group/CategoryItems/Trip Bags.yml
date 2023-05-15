@@ -1,0 +1,16 @@
+﻿---
+ID: "c4feecf1-fc1b-438d-aacc-dfbf39b73a8d"
+Parent: "2fb5abc5-d536-4691-8e11-f7832a8ef50d"
+Template: "ec25ce9d-75a3-491e-ba82-347de22176f9"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/productcategory/Page Components/Category Group/CategoryItems/Trip Bags
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "48a3b8c9-29ee-4c4a-8456-2fc6382d50e0"
+    - ID: "e5badbad-aa22-4ae3-8212-601ae7d94ac9"
+      Hint: itemName
+      Value: Trip Bags
