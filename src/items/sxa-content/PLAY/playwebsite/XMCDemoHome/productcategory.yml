@@ -60,7 +60,7 @@ Languages:
               p:before="*"
               s:ds="{AF8CC5C3-3121-4DBF-8C59-3AC009E6B3C8}"
               s:id="{60E46443-0BAD-5861-823D-75F620401573}"
-              s:par="FieldNames&amp;CacheClearingBehavior=Clear+on+publish&amp;Styles&amp;CSSStyles&amp;GridParameters&amp;BannerType=BannerWithoutCTA"
+              s:par="GridParameters&amp;BannerType=BannerWithoutCTA&amp;FieldNames&amp;Styles&amp;CSSStyles"
               s:ph="headless-main"
               s:ccb="Clear on publish" />
             <r
@@ -102,7 +102,7 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "07d25d8b-5d7e-4401-b57b-0920907fb165"
+      Value: "4bc0a2d2-a15c-4d61-ac7f-a8fc7dcb91c9"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Product Page
