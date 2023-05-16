@@ -72,8 +72,9 @@ if (-not $envCheck) {
 }
 
 Write-Host "Keeping XM Cloud base image up to date" -ForegroundColor Green
-docker pull "$($sitecoreDockerRegistry)sitecore-xmcloud-cm:$($sitecoreVersion)"
+Write-Host "$($sitecoreDockerRegistry)sitecore-xmcloud-cm:$($sitecoreVersion)"
 
+docker pull "$($sitecoreDockerRegistry)sitecore-xmcloud-cm:$($sitecoreVersion)"
 # DEMO TEAM CUSTOMIZATION - Add ability to skip building the containers.
 if (-not $SkipBuild) {
     # Build all containers in the Sitecore instance, forcing a pull of latest base containers
@@ -169,6 +170,7 @@ if ($ClientCredentialsLogin -ne "true") {
     # DEMO TEAM CUSTOMIZATION - Custom hostnames.
     Start-Process https://$xmCloudHost/sitecore/
     Start-Process https://www.xmcloudcm.localhost/
+    Start-Process https://www.riode.localhost/
 }
 
 Write-Host ""

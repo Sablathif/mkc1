@@ -79,7 +79,7 @@ try {
     & $mkcert -install
     # DEMO TEAM CUSTOMIZATION - Remove the sxastarter.localhost certificate
     & $mkcert "*.xmcloudcm.localhost"
-
+    & $mkcert "*.riode.localhost"
     # stash CAROOT path for messaging at the end of the script
     $caRoot = "$(& $mkcert -CAROOT)\rootCA.pem"
 }
@@ -100,7 +100,7 @@ Write-Host "Adding Windows hosts file entries..." -ForegroundColor Green
 # DEMO TEAM CUSTOMIZATION - Custom host names. "xmcloudcm.localhost" is required as it is the only valid value in XM Cloud.
 Add-HostsEntry "cm.xmcloudcm.localhost"
 Add-HostsEntry "www.xmcloudcm.localhost"
-
+Add-HostsEntry "www.riode.localhost"
 # DEMO TEAM CUSTOMIZATION - Move the scjssconfig, api key, and JSS editing secret inside the if ($InitEnv) block.
 # DEMO TEAM CUSTOMIZATION - Remove scjssconfig file generation as ours is already in source control.
 # DEMO TEAM CUSTOMIZATION - Remove generation of the Sitecore API key. We want a fixed key.
@@ -123,6 +123,7 @@ if ($InitEnv) {
     # RENDERING_HOST
     # DEMO TEAM CUSTOMIZATION - Custom host name
     Set-EnvFileVariable "RENDERING_HOST" -Value "www.xmcloudcm.localhost"
+    Set-EnvFileVariable "RENDERING_HOST" -Value "www.riode.localhost"
 
     # REPORTING_API_KEY = random 64-128 chars
     Set-EnvFileVariable "REPORTING_API_KEY" -Value (Get-SitecoreRandomString 128 -DisallowSpecial)

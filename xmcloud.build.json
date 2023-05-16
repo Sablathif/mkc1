@@ -8,6 +8,15 @@
             "type": "sxa",
             "lintCommand": "lint",
             "startCommand": "start:production"
+        },
+        "riode": {
+          "path": "./src/riode",
+          "nodeVersion": "16.15.1",
+          "jssDeploymentSecret":"511cdfab92b7440db866ac0fb817b490",
+          "enabled": true,
+          "type": "sxa",
+          "lintCommand": "lint",
+          "startCommand": "start:production"
         }
     },
     "transforms": [
