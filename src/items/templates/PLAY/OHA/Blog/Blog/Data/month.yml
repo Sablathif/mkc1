@@ -1,0 +1,20 @@
+﻿---
+ID: "d17b0da0-ed56-4daf-b701-3b5d0ba53bcd"
+Parent: "bf450a63-fc00-4e9c-81a5-99404ed2d7f2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Blog/Blog/Data/month
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cf5925d6-4bd2-4c61-9e59-887f41e700a3"

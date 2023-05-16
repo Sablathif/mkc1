@@ -3,6 +3,10 @@ ID: "8cc07eef-5402-4665-a8fa-d9bb845166db"
 Parent: "504cac9b-0e68-4bb2-93de-28590cb0dd8a"
 Template: "239f9cf4-e5a0-44e0-b342-0f32cd4c6d8b"
 Path: /sitecore/content/PLAY/playwebsite/Global Data
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
 Languages:
 - Language: en
   Versions:
@@ -10,4 +14,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ee1b9b9f-3b4a-43f0-929b-c15c3a93fa4f"
+      Value: "dc0cf33c-0991-4db6-9169-9347dbe97945"

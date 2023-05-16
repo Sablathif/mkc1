@@ -21,21 +21,34 @@ SharedFields:
           uid="{8AE6E35D-21E3-49A4-9728-29308CF51606}"
           p:before="*"
           s:id="{09516A66-F92F-5638-B073-8F9A79765778}"
-          s:par="CacheClearingBehavior=Clear on publish"
+          s:par="FieldNames&amp;CacheClearingBehavior=Clear+on+publish&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles"
           s:ph="/headless-header/jss-header-content-{57CAE663-BE95-417F-AD72-49F8F498A71D}-0" />
         <r
           uid="{57CAE663-BE95-417F-AD72-49F8F498A71D}"
           p:after="*[1=2]"
+          s:ds=""
           s:id="{0FC536D1-7D7C-579C-953B-454A308B4390}"
-          s:par="CacheClearingBehavior=Clear on publish"
-          s:ph="headless-header" />
+          s:par="FieldNames&amp;CacheClearingBehavior=Clear+on+publish&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles"
+          s:ph="headless-header"
+          s:ccb="Clear on publish" />
       </d>
     </r>
 Languages:
 - Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Header
   Versions:
   - Version: 1
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f484f7e0-86ab-4e11-8efc-8691a4cfb50c"
+      Value: "1350040b-73c7-4cbb-acca-93a8dbe64f6e"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7356c7bc-51ae-43a6-8c3f-de427b6c6aea"

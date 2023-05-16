@@ -20,7 +20,7 @@ Languages:
       Value: <r />
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+      Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
     - ID: "40c59ecb-839c-4d58-af88-a4fe43355e69"
       Hint: Description
       Value: Free shipping on orders over $100
@@ -33,7 +33,7 @@ Languages:
       Value: Extra  
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ca881c67-b9a9-450e-8e0a-84763fb9e352"
+      Value: "5b3eaa23-ceec-44cf-a35c-fbfe0dda5168"
     - ID: "9ed4a448-8114-4db6-82db-8691567209ee"
       Hint: Tag
       Value: Summer Season Sale

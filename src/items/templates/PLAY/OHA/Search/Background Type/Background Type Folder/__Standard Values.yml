@@ -1,0 +1,17 @@
+﻿---
+ID: "9787466e-a3cf-4ef5-8718-0644ad6ec2e0"
+Parent: "74aa146b-f8c7-45ee-9e51-bdd6300f76d3"
+Template: "74aa146b-f8c7-45ee-9e51-bdd6300f76d3"
+Path: /sitecore/templates/Project/PLAY/OHA/Search/Background Type/Background Type Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{645317FE-3C05-4CDE-93EC-8A1989204D29}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "65173b78-1b47-4546-89bd-07f1d78c6329"

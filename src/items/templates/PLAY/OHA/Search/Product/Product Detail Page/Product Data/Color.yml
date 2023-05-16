@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/PLAY/OHA/Search/Product/Product Detail Page/Pr
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: /sitecore/content/PLAY/playwebsite/home/OHA Product Page/Page Components/product/Data/Products/Color
+  Value: /sitecore/content/PLAY/playwebsite/sxastarter/Product Search/Page Components/product/Data/Products/Color
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: Droplist
@@ -20,4 +20,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b9253cbc-4603-4319-be73-19c819baaa56"
+      Value: "53cf59ec-abb8-4aac-bf5c-e09983027391"

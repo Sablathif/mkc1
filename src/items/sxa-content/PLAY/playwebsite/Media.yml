@@ -5,6 +5,9 @@ Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
 Path: /sitecore/content/PLAY/playwebsite/Media
 BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
 - ID: "de8257d9-43aa-4eff-a2f4-2e9fbbd20e79"
   Hint: AdditionalChildren
   Value: |
@@ -20,4 +23,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e4b920fb-7ea0-4cf9-b7ef-ee268840201d"
+      Value: "143e5e79-182d-41f0-a0bb-9c5ff8d5ef42"

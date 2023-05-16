@@ -1,0 +1,79 @@
+﻿---
+ID: "2984e7f1-f8ee-4e07-a122-bae06703d1d5"
+Parent: "a7dd1062-a795-409a-9128-c40223e619b7"
+Template: "6db09cef-64a8-52a3-a980-38408109c4d7"
+Path: /sitecore/content/PLAY/playwebsite/sxastarter/Blogs/listing/summerdress
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{B73A117A-11C2-4B86-8A5C-4C7648EE87DE}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{0237D744-01BD-42C4-81C6-36C68DC8025F}" />
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{5ED0A33A-5A27-4EA6-A3D8-C1C3959246D8}"
+          s:ds="{1F8DF300-A8B1-4048-B30C-604D42444E33}"
+          s:id="{2F9D05FD-8E58-56CC-B586-41A3EC155CD7}"
+          s:par=""
+          s:ph="/headless-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4692FE56-0DE5-467D-9ED2-CF11494701BA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5ED0A33A-5A27-4EA6-A3D8-C1C3959246D8}">
+              <p:d />
+            </r>
+            <r
+              uid="{266063B6-A2EA-41AA-A4DF-AFE0ED5DD32B}"
+              s:ds="{E6648F71-E971-4E87-B123-3C294978F9D0}"
+              s:id="{48EFA154-00F0-4A6B-A269-C7FD30F39D18}"
+              s:par="CSSStyles"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "be97c374-558a-4511-aced-27df2e6f5187"
+    - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
+      Hint: pageTitle
+      Value: Women’s Fashion Summer Dress
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6ee4927a-bcda-496a-825c-053d15ceb468"

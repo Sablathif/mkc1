@@ -11,7 +11,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{6AC96D54-90FB-409C-B8D0-236F486F7F38}" />
+    <image mediaid="{AFC93B23-9079-4C0B-A9C3-BB8248F3A029}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -36,12 +36,22 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{F103752C-F458-47E0-B322-99785275BDB9}"
+      Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "dc93e4e6-faf0-414b-b366-b7d732313024"
+      Value: "b9ff28d3-4908-43e5-a56d-00babace703f"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Blog Detail
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ba193acd-d46b-4cac-beea-27bb062915eb"

@@ -14,7 +14,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{18DD0704-F135-4143-BBDB-50923F83F907}" />
+    <image mediaid="{56CBD3B7-F702-481D-8E01-D9C0CFB79D58}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -39,6 +39,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
       Hint: __Final Renderings
       Value: |
@@ -61,10 +64,17 @@ Languages:
         </r>
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{F103752C-F458-47E0-B322-99785275BDB9}"
+      Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "51a76901-7996-45e3-ae67-ef1afcbc6e9f"
+      Value: "1a0bfd1c-d01d-47e6-b2a4-55f78f11f4fc"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Complete Set Of Ski Tools For Everyone
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7148754e-9649-413c-80e9-4b14b3472583"
