@@ -1,0 +1,20 @@
+﻿---
+ID: "16a7e2bc-e836-4f7e-bc70-2e33e6f324a2"
+Parent: "ae9c93b6-95d2-4421-9c64-74a38b6b3fea"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Project/PLAY/OHA/CTA/CallToActionCol2
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: CallToActionCol2
+- ID: "f6677a49-0a1d-4bad-b8ba-4f0f22bdee64"
+  Hint: Additional compatible templates
+  Value: "{CDE86E1D-737F-4B6A-9438-9A5F2C7CCCEF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7a2592c8-0d52-4656-ad10-e9a55a773d4f"

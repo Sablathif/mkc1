@@ -1,0 +1,13 @@
+﻿---
+ID: "7fd7f26d-ae89-4bd4-bcc7-22577584485e"
+Parent: "cde86e1d-737f-4b6a-9438-9a5f2c7cccef"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/CallToAction/CallToActionCol2/Content
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4506b4bb-d8ad-4220-977c-ccc759caf24c"

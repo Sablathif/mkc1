@@ -1,0 +1,17 @@
+﻿---
+ID: "cde86e1d-737f-4b6a-9438-9a5f2c7cccef"
+Parent: "11422b78-0935-4e0c-8984-ac21359209e5"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/CallToAction/CallToActionCol2
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "435f4996-c49b-439d-bb11-8b33353dfa44"

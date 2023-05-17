@@ -1,8 +1,8 @@
 ﻿---
-ID: "345bbeec-a220-4736-af18-ef4ab1879380"
-Parent: "799a17ea-5b0c-46d0-b281-8240a6096b73"
+ID: "2bc686d1-4ff1-495e-827e-aa936953a674"
+Parent: "4db42699-4c89-49d4-a7aa-ccd3b3adf592"
 Template: "678b9817-e872-4282-a412-a05f296a1c57"
-Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/about us/Page Components/CallToAction/CallToAction
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/about us/Page Components/CallToAction/CallToActionList/Item1
 Languages:
 - Language: en
   Versions:
@@ -10,22 +10,28 @@ Languages:
     Fields:
     - ID: "27fc954c-f583-44c0-9b93-76315b20fb6f"
       Hint: Description
-      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.
+      Value: |
+        Get all the latest information on<br />
+        Events, Sales and Offers.
     - ID: "5e08520b-9f95-4076-b155-d589394da03e"
       Hint: Text
       Value: Get a Riode gift card+25% off
+    - ID: "82fb52b9-0c74-47f9-92a0-5c52f7390230"
+      Hint: BackgroundImage
+      Value: |
+        <image mediaid="{DEAF21AB-DEA6-5FEF-8893-4CFEB946819F}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "137c6184-aed0-46d5-8b68-820c16420089"
+      Value: "26192702-33dd-42e1-a5b5-5d1917d0f47c"
     - ID: "b3ec4598-9588-44b3-9a95-df356c36a8ff"
       Hint: BannerTitle
-      Value: "Trade-in"
+      Value: 20% OFF
     - ID: "c1ba820a-2509-4df8-a4a0-5af2381b54c1"
       Hint: CTAText
-      Value: Shop Now
+      Value: Discover Now
     - ID: "cd027c68-3610-4bf3-8ead-e115d5fd86fc"
       Hint: Title
-      Value: Simple
+      Value: 2
     - ID: "d5d8c736-fe1e-49a7-ab11-cb61df83b367"
       Hint: BannerSubTitle
-      Value: Upgrade and save
+      Value: Riode Birthday Sale

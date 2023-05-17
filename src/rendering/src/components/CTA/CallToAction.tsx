@@ -1,6 +1,6 @@
-import { Field } from '@sitecore-jss/sitecore-jss-nextjs';
+import { Field,LinkField } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
-
+import ALink from '../../components/feature/custom-link';
 
 type CallToActionProps = ComponentProps & {
     fields: {
@@ -9,6 +9,8 @@ type CallToActionProps = ComponentProps & {
         BannerSubTitle: Field<string>;
         Text: Field<string>;
         Description: Field<string>;
+        CTAText:Field<string>;
+        CTALink: Field<LinkField>;
     };
 }
 
@@ -28,8 +30,8 @@ const CallToAction = (props: CallToActionProps): JSX.Element => (
                         <h4 className="font-weight-normal ls-normal text-uppercase mb-0">{props.fields.Text.value}</h4>
                         <p className="ls-m mb-0">{props.fields.Description.value}</p>
                     </div>
-                    {/* <ALink href="#" className="btn btn-primary btn-ellipse btn-md btn-rounded">Shop Now<i
-                                    className="d-icon-arrow-right"></i></ALink> */}
+                     <ALink href={props.fields.CTALink.value} className="btn btn-primary btn-ellipse btn-md btn-rounded">{props.fields.CTAText.value}<i
+                                    className="d-icon-arrow-right"></i></ALink> 
                 </div>
             </div>
         </div>
