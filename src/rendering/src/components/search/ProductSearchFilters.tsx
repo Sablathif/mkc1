@@ -4,7 +4,7 @@ import { GraphQLRequestClient } from '@sitecore-jss/sitecore-jss-nextjs';
 import { useState, useEffect } from 'react';
 import { useRouter } from 'next/router';
 import ALink from '../feature/custom-link';
-import Card from '../feature/accordion/card';
+// import div from '../feature/accordion/div';
 // import { useQuery } from '@apollo/react-hooks';
 // import InputRange from 'react-input-range';
 // import SlideToggle from 'react-slide-toggle';
@@ -157,7 +157,7 @@ const SearchFilters = (props: any): JSX.Element => {
 
               {filter.slice(0, 1).map((category, index) => (
                 <div className="widget widget-collapsible" key={index}>
-                  <Card title={category.name} type="parse" expanded={true}>
+                  <div title={category.name} type="parse" expanded={true}>
                     <ul className="widget-body filter-items">
                       {category.children.map((subitem, index) => (
                         <li
@@ -181,12 +181,12 @@ const SearchFilters = (props: any): JSX.Element => {
                         </li>
                       ))}
                     </ul>
-                  </Card>
+                  </div>
                 </div>
               ))}
               {filter.slice(1, 2).map((category, index) => (
                 <div className="widget widget-collapsible" key={index}>
-                  <Card title={category.name} type="parse" expanded={true}>
+                  <div title={category.name} type="parse" expanded={true}>
                     <ul className="widget-body filter-items">
                       {category.children.map((subitem, index) => (
                         <li
@@ -210,12 +210,12 @@ const SearchFilters = (props: any): JSX.Element => {
                         </li>
                       ))}
                     </ul>
-                  </Card>
+                  </div>
                 </div>
               ))}
               {filter.slice(2, 3).map((category, index) => (
                 <div className="widget widget-collapsible" key={index}>
-                  <Card title={category.name} type="parse" expanded={true}>
+                  <div title={category.name} type="parse" expanded={true}>
                     {category.name}
                     <ul className="widget-body filter-items">
                       {category.children.map((subitem, index) => (
@@ -240,7 +240,7 @@ const SearchFilters = (props: any): JSX.Element => {
                         </li>
                       ))}
                     </ul>
-                  </Card>
+                  </div>
                 </div>
               ))}
             </div>

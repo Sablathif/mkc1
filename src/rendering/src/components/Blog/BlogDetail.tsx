@@ -45,7 +45,6 @@ const BlogDetail = (props: BlogDetailProps): JSX.Element => (
               <Text field={props.fields.Author} />
               &nbsp; on &nbsp;
               <Text field={props.fields.Date} />
-              
             </div>
             <div>
               <h1>

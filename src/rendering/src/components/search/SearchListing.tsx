@@ -65,13 +65,12 @@ query SearchQuery
     }
   }
 }
-  
 `;
 
 const SearchListing = () => {
-  const API_KEY = "1047AEE5-9BCD-4DBF-9744-A26E12B79AB6";
+  const API_KEY = '1047AEE5-9BCD-4DBF-9744-A26E12B79AB6';
   const API_URL = `https://cm.xmcloudcm.localhost/sitecore/api/graph/edge?sc_apikey=${API_KEY}`;
-  const [searchTerm, setSearchTerm] = useState("");
+  const [searchTerm, setSearchTerm] = useState('');
   const [results, setResults] = useState([]);
   const [displayedResults, setDisplayedResults] = useState([]);
   const [limit, setLimit] = useState(10);
@@ -82,30 +81,30 @@ const SearchListing = () => {
 
   const handleSearch = () => {
     fetch(API_URL, {
-      method: "POST",
+      method: 'POST',
       headers: {
-        "Content-Type": "application/json"
+        'Content-Type': 'application/json',
       },
       body: JSON.stringify({
         query,
         variables: {
-          rootItem : "{DFECC2B4-0CEF-4C1F-B321-33CC92978F8F}",
+          rootItem: '{DFECC2B4-0CEF-4C1F-B321-33CC92978F8F}',
           limit: 20,
-          templateId : "{BD30A65C-A646-474F-9DDE-1A21687AB192}",
-          keyword: searchTerm
-        }
-      })
+          templateId: '{BD30A65C-A646-474F-9DDE-1A21687AB192}',
+          keyword: searchTerm,
+        },
+      }),
     })
-      .then(res => res.json())
-      .then(data => {
+      .then((res) => res.json())
+      .then((data) => {
         setResults(
           data?.data?.pageOne?.results?.filter((item: any) =>
             item?.name?.toLowerCase().includes(searchTerm.toLowerCase())
           )
         );
-        setSearchTerm("");
+        setSearchTerm('');
       })
-      .catch(error => console.error(error));
+      .catch((error) => console.error(error));
   };
 
   const handleLoadMore = () => {
@@ -114,15 +113,18 @@ const SearchListing = () => {
 
   return (
     <>
-      <div className='pt-6'>
-        <input className='... ring-2 ring-pink-300 ring-inset'
+      <div className="pt-6">
+        <input
+          className="... ring-2 ring-pink-300 ring-inset"
           type="text"
           value={searchTerm}
-          onChange={e => setSearchTerm(e.target.value)}
+          onChange={(e) => setSearchTerm(e.target.value)}
         />
         <br />
         <br />
-        <button className="btn btn-primary" onClick={handleSearch}>Search</button>
+        <button className="btn btn-primary" onClick={handleSearch}>
+          Search
+        </button>
       </div>
       <div className="container">
         <div className="row">
@@ -130,26 +132,46 @@ const SearchListing = () => {
             <div key={item?.id} className="col-xs-6 col-lg-3 mb-4 mb-10">
               <div className="product text-left">
                 <div className="image-wrap">
-                <ALink href="#">
-                <img src="https://d-themes.com/react_asset_api/riode/uploads/images/demo-1/products/product-7-2-300x338.jpg" alt={item?.name} />
-                </ALink>
+                  <ALink href="#" className={undefined} content={undefined} style={undefined}>
+                    <img
+                      src="https://d-themes.com/react_asset_api/riode/uploads/images/demo-1/products/product-7-2-300x338.jpg"
+                      alt={item?.name}
+                    />
+                  </ALink>
                   <div className="product-action">
-                  <ALink href="#" className="btn-product btn-quickview">Quick View</ALink>
-                  </div>  
+                    <ALink
+                      href="#"
+                      className="btn-product btn-quickview"
+                      content={undefined}
+                      style={undefined}
+                    >
+                      Quick View
+                    </ALink>
+                  </div>
                 </div>
               </div>
-              <div className="product-cat mt-2"><RichText field={item?.Category}></RichText></div>
+              <div className="product-cat mt-2">
+                <RichText field={item?.Category}></RichText>
+              </div>
               <h3 className="product-name mt-2">{item?.name}</h3>
-              <p className="product-price"><RichText field={item?.Price}></RichText></p>
+              <p className="product-price">
+                <RichText field={item?.Price}></RichText>
+              </p>
               {/* <p><RichText field={item?.Size}></RichText></p> */}
-              <span className="text-gray-900"><RichText field={item?.Color}></RichText></span>
-              
+              <span className="text-gray-900">
+                <RichText field={item?.Color}></RichText>
+              </span>
             </div>
           ))}
         </div>
       </div>
       {results?.length > limit && (
-        <button className="w-auto mb-3 mx-auto text-center px-6 py-3 bg-indigo-500 text-white rounded-lg hover:bg-indigo-600" onClick={handleLoadMore} >Load More</button>
+        <button
+          className="w-auto mb-3 mx-auto text-center px-6 py-3 bg-indigo-500 text-white rounded-lg hover:bg-indigo-600"
+          onClick={handleLoadMore}
+        >
+          Load More
+        </button>
       )}
     </>
   );

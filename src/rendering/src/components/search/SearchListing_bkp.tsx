@@ -14,7 +14,7 @@ const SearchListing = (): JSX.Element => {
   const router = useRouter();
   const query = router.query;
   const [searchResultData, setResult] = useState([]);
-  const [searchResultCount, setResultCount]= useState(0);
+  const [searchResultCount, setResultCount] = useState(0);
   const [Keyword, setKeyword] = useState();
   const [Query, setQuery] = useState();
 
@@ -24,7 +24,7 @@ const SearchListing = (): JSX.Element => {
     ? parseInt(searchResultCount / perPage) + (searchResultCount % perPage ? 1 : 0)
     : 1;
   const page = parseInt(query.page ? query.page : 1);
- 
+
   console.log(searchResultCount);
   useEffect(() => {
     typeof Query !== 'undefined'
