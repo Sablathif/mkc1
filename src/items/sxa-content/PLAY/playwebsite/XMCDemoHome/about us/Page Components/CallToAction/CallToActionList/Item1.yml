@@ -19,10 +19,10 @@ Languages:
     - ID: "82fb52b9-0c74-47f9-92a0-5c52f7390230"
       Hint: BackgroundImage
       Value: |
-        <image mediaid="{8649A5CD-CEA2-46C6-BF42-C5BF3B9B7AED}" />
+        <image mediaid="{EC503642-E67B-4D68-814E-D57D91B25A5C}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a9d8ce72-75e9-4301-a599-114fbf2332f7"
+      Value: "8570d5e4-cea5-4328-86dd-892e5ae9b381"
     - ID: "b3ec4598-9588-44b3-9a95-df356c36a8ff"
       Hint: BannerTitle
       Value: 20% OFF
