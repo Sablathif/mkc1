@@ -1,0 +1,13 @@
+﻿---
+ID: "dfecc2b4-0cef-4c1f-b321-33cc92978f8f"
+Parent: "0e8cfd79-acfc-4cd7-b846-5a15a1443dd8"
+Template: "0460447c-7685-4f6b-9b51-77a58799b5e1"
+Path: /sitecore/content/PLAY/playwebsite/sxastarter/Product Search/Page Components/product/default
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f7744a4f-a05c-4e4a-a7e0-4b2eefd98184"

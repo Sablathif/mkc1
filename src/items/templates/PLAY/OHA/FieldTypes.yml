@@ -3,6 +3,10 @@ ID: "c82d8d6e-e36b-4c24-b86d-e12db17a2aaf"
 Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
 Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
 Path: /sitecore/templates/Project/PLAY/OHA/FieldTypes
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
 Languages:
 - Language: en
   Versions:
@@ -10,4 +14,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b3bac088-3a8e-4567-a8e7-e1c2489264ce"
+      Value: "6582efa8-2faf-4f61-b1e1-b5225e5b25c5"

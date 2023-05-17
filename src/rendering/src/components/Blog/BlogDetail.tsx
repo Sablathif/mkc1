@@ -33,17 +33,17 @@ const BlogDetail = (props: BlogDetailProps): JSX.Element => (
             >
               <LazyLoadImage
                 src={'/-' + props.fields.Image.value.src.split('/-').pop()}
-                alt={`${props?.fields?.Image?.value?.alt}`}
-                width={`${props.fields.Image.value.width}`}
-                height={`${props.fields.Image.value.height}`}
-                loading="lazy"
+                // alt={props?.fields?.Image?.value?.alt}
+                // width={props.fields.Image.value.width}
+                // height={props.fields.Image.value.height}
               />
+              {/* <Image field={props.fields.Image} /> */}
             </ALink>
           </figure>
           <div className="post-details">
             <div className="post-meta">
               <Text field={props.fields.Author} />
-              &nbsp;
+              &nbsp; on &nbsp;
               <Text field={props.fields.Date} />
             </div>
             <div>
@@ -61,3 +61,4 @@ const BlogDetail = (props: BlogDetailProps): JSX.Element => (
   </div>
 );
 export const Default = BlogDetail;
+// export default withDatasourceCheck()<BlogDetailProps>(BlogDetail);

@@ -3,6 +3,10 @@ ID: "a2797862-cf29-4638-88e1-4131501550c5"
 Parent: "c75c9d99-dc62-4b85-b85f-976fb5c9f46b"
 Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
 Path: /sitecore/templates/Project/PLAY/OHA/Align
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
 Languages:
 - Language: en
   Versions:
@@ -10,4 +14,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e745ad5a-ec00-46e5-ba0c-fac9e13af758"
+      Value: "96e84fa1-288b-4d55-ae69-56f04ddd3edd"
