@@ -147,6 +147,7 @@
         border-top: 1px solid $border-color-light;
     }
     input { 
+        appearance: none;
         -webkit-appearance: none;
         border: 0;
         padding: 0;
@@ -572,13 +573,31 @@
                         opacity: 1 !important;
                     }
                 }
-               
+                &.slick-active{
+                    button{
+                        &:before{
+                            opacity: 1;
+                            color: white;
+                            width: 23px;
+                            content: '';
+                            background: white;
+                            height: 11px;
+                            top: 50%;
+                            transform: translateY(-50%);
+                            border-radius: 7px;
+
+                        }
+                    }   
+                }
             }
         }
         .banner{
             figure{
                 img{
-                    height:630px;
+                    height:inherit;
+                }
+                video{
+                    object-fit: cover;
                 }
             }
         }
