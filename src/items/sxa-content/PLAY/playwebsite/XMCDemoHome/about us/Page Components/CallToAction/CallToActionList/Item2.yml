@@ -17,16 +17,16 @@ Languages:
     - ID: "82fb52b9-0c74-47f9-92a0-5c52f7390230"
       Hint: BackgroundImage
       Value: |
-        <image mediaid="{DEAF21AB-DEA6-5FEF-8893-4CFEB946819F}" />
+        <image mediaid="{BDA9BE48-5880-47EB-BBC9-49E3C4F2AC35}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "924a64d2-248a-4cdb-9302-d11fa4438d70"
+      Value: "993d1949-5917-4ab0-b018-834c72f6aa93"
     - ID: "b3ec4598-9588-44b3-9a95-df356c36a8ff"
       Hint: BannerTitle
       Value: "Trade-in"
     - ID: "c1ba820a-2509-4df8-a4a0-5af2381b54c1"
       Hint: CTAText
-      Value: Subscribe
+      Value: Shop Now
     - ID: "cd027c68-3610-4bf3-8ead-e115d5fd86fc"
       Hint: Title
       Value: 2

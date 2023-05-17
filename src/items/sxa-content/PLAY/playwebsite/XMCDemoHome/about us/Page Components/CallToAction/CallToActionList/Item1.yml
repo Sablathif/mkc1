@@ -11,7 +11,7 @@ Languages:
     - ID: "27fc954c-f583-44c0-9b93-76315b20fb6f"
       Hint: Description
       Value: |
-        Get all the latest information on<br />
+        Get all the latest information on
         Events, Sales and Offers.
     - ID: "5e08520b-9f95-4076-b155-d589394da03e"
       Hint: Text
@@ -19,16 +19,16 @@ Languages:
     - ID: "82fb52b9-0c74-47f9-92a0-5c52f7390230"
       Hint: BackgroundImage
       Value: |
-        <image mediaid="{DEAF21AB-DEA6-5FEF-8893-4CFEB946819F}" />
+        <image mediaid="{8649A5CD-CEA2-46C6-BF42-C5BF3B9B7AED}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "26192702-33dd-42e1-a5b5-5d1917d0f47c"
+      Value: "a9d8ce72-75e9-4301-a599-114fbf2332f7"
     - ID: "b3ec4598-9588-44b3-9a95-df356c36a8ff"
       Hint: BannerTitle
       Value: 20% OFF
     - ID: "c1ba820a-2509-4df8-a4a0-5af2381b54c1"
       Hint: CTAText
-      Value: Discover Now
+      Value: Shop Now
     - ID: "cd027c68-3610-4bf3-8ead-e115d5fd86fc"
       Hint: Title
       Value: 2

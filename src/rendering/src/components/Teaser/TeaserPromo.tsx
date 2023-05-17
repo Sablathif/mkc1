@@ -1,10 +1,4 @@
-import {
-  Text,
-  Field,
-  withDatasourceCheck,
-  Image as JssImage,
-  ImageField,
-} from '@sitecore-jss/sitecore-jss-nextjs';
+import { Field, withDatasourceCheck, ImageField } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
 import React from 'react';
 import Reveal from 'react-awesome-reveal';
@@ -22,7 +16,7 @@ type TeaserPromoProps = ComponentProps & {
           Description: Field<string>;
           IconClass: Field<string>;
           Delay: Field<number>;
-          Image:ImageField;
+          Image: ImageField;
         };
       }
     ];
@@ -35,7 +29,12 @@ const TeaserPromo = (props: TeaserPromoProps): JSX.Element => (
       <OwlCarousel adClass="owl-theme" options={serviceSlider}>
         {props.fields.TeaserSections.map((data, index) => (
           <div key={index}>
-            <Reveal keyframes={fadeInRightShorter} delay={data.fields.Delay.value} duration={1200} triggerOnce>
+            <Reveal
+              keyframes={fadeInRightShorter}
+              delay={data.fields.Delay.value}
+              duration={1200}
+              triggerOnce
+            >
               <div className="icon-box icon-box-side icon-box1">
                 {/* <i className={data.fields.IconClass.value}></i> */}
                 <figure className="category-media">
