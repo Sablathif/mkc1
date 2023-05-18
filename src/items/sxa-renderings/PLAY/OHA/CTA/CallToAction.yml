@@ -9,7 +9,9 @@ SharedFields:
   Value: CallToAction
 - ID: "f6677a49-0a1d-4bad-b8ba-4f0f22bdee64"
   Hint: Additional compatible templates
-  Value: "{678B9817-E872-4282-A412-A05F296A1C57}"
+  Value: |
+    {678B9817-E872-4282-A412-A05F296A1C57}
+    {CDE86E1D-737F-4B6A-9438-9A5F2C7CCCEF}
 Languages:
 - Language: en
   Versions:
@@ -17,4 +19,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a516d3d3-c42f-487b-bb8f-78bf992f4e19"
+      Value: "fb160f7b-d1c8-4512-8756-898cd6ccc429"

@@ -562,6 +562,7 @@
             border-radius: 10px;
         }
     }
+
     .slick-slider{
         .slick-dots{
             bottom:30px;
@@ -599,6 +600,66 @@
                 video{
                     object-fit: cover;
                 }
+            }
+        }
+    }
+
+    .accordion-wrapper{
+        .accordion-item{
+            border: 1px solid #dae1e5;
+            background-color: #fff;
+            margin-bottom: 2px;
+            .card-header{
+                display: flex;
+                align-items: center;
+                padding:2rem;
+                button{
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+                    border:none;
+                    background: none;
+                    padding-left: 1.4rem;
+                    width: 100%;
+                    text-align: left;
+                    font-size: 2rem;
+                    font-weight: 600;
+                    font-size: 2rem;
+                    letter-spacing: -.01em;
+                    color: #222;
+                    cursor: pointer;
+                    transition: 0.2s ease all;
+                }
+                svg{
+                    transition: 0.2s ease all;
+                }
+                &:hover{
+                    button{
+                        color:#26c;
+                    }
+                    svg{
+                        path{
+                            fill:#26c;
+                        }
+                    }
+                }
+            }
+            .card-body{
+                padding:2rem;
+                p{
+                    color: #666;
+                    font-size: 1.6rem;
+                }
+            }
+            &.expanded{
+                button{
+                color:#26c;
+                }
+               svg{
+                path{
+                    fill:#26c;
+                }
+               }
             }
         }
     }

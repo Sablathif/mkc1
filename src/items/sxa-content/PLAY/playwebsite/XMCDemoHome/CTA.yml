@@ -9,7 +9,7 @@ SharedFields:
   Value: "{B73A117A-11C2-4B86-8A5C-4C7648EE87DE}"
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
-  Value: "{8F0E1432-3729-462B-AD20-DAF067694BCB}"
+  Value: 
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 300
@@ -17,6 +17,9 @@ SharedFields:
   Hint: __Thumbnail
   Value: |
     <image mediaid="{CFC09F94-6F8D-4996-B0FB-3427EC3E7137}" />
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: 
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -71,8 +74,8 @@ Languages:
             <r
               uid="{3BE7BE0E-00D7-4E62-BCF8-8CA76B4DC87B}"
               p:after="*[1=2]"
-              s:ds="{345BBEEC-A220-4736-AF18-EF4AB1879380}"
-              s:id="{2702C90A-5DCE-4B64-BE2C-7F0470DB1931}"
+              s:ds="{AE1CD824-19B0-4CA3-85BA-8A932C60565C}"
+              s:id="{16A7E2BC-E836-4F7E-BC70-2E33E6F324A2}"
               s:par="CSSStyles"
               s:ph="headless-main"
               s:ccb="Clear on publish" />
@@ -80,10 +83,10 @@ Languages:
         </r>
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{F103752C-F458-47E0-B322-99785275BDB9}"
+      Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c2d92a70-3ba4-41e6-8a5d-f657fff43567"
+      Value: "7715f30f-98bd-4169-9159-f40b5f9dcbc4"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Blog Page
