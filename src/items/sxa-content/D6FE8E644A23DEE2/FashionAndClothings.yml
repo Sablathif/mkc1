@@ -13,18 +13,13 @@ Languages:
       Value: Fashion & Clothings
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6754f80c-37b6-40e7-9006-12af6d519ebf"
+      Value: "be62aaa6-5f1d-4a14-8103-3a4d667d777b"
     - ID: "a3d18316-90a1-4c8e-9f65-8e4d66de2404"
       Hint: listingType
       Value: 
     - ID: "af6037c5-a560-4b0e-9337-48ddb0a3b092"
       Hint: categoryItems
-      Value: |
-        {EB541D89-8277-44A5-8AEC-831D86E1A0A7}
-        {E45A4FEC-6934-40C3-A5C5-032834AB6DD1}
-        {7793D5DA-CF29-4906-885A-B3E2CE6BAFDF}
-        {B5D59105-9D3D-4C0F-8C5B-6B81FBA722A6}
-        {5BB4D3FC-D0BA-442F-B848-2DC77C811C99}
+      Value: "{00A04620-73F9-4571-96C6-D9635AAF2605}"
     - ID: "e9af2cf3-3f47-4741-9524-76e0461d7d2a"
       Hint: image
       Value: |

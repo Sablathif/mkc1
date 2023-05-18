@@ -16,7 +16,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{B2B4641B-2ADD-4B46-B0CA-EFD594E3FEB8}" />
+    <image mediaid="{802C4261-177F-41BD-B6F2-7943F21F3147}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -80,17 +80,9 @@ Languages:
               s:ph="headless-main"
               s:ccb="Clear on publish" />
             <r
-              uid="{8C4498D3-C215-47E3-A112-DC0452BA131A}"
-              p:after="r[@uid='{BFBC7DA7-D414-4BAB-BF76-D8BE36F51F75}']"
-              s:ds="{2C78D181-C24D-4D49-B2B8-72E396A69FF0}"
-              s:id="{90496D4F-9F20-4060-8219-56AEF5F416C9}"
-              s:par="CSSStyles"
-              s:ph="headless-main"
-              s:ccb="Clear on publish" />
-            <r
               uid="{AB913C36-C39E-4E8E-B7C3-EB129F84837E}"
               p:after="*[1=2]"
-              s:ds="{7421BC99-2E33-4365-99E9-D0A87922C0C7}"
+              s:ds="{937CB3AA-0883-4D8F-A242-16A623AFCD2F}"
               s:id="{1C1FC053-EC78-4B8F-AB05-6CEF601D9B2B}"
               s:par="CSSStyles"
               s:ph="headless-main"
@@ -102,7 +94,7 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4bc0a2d2-a15c-4d61-ac7f-a8fc7dcb91c9"
+      Value: "f724c6a9-c988-46b2-9573-be826f14251b"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Product Page

@@ -10,21 +10,21 @@ Languages:
     Fields:
     - ID: "59b3f3f0-9c64-47b8-9dd6-0da620d97c56"
       Hint: title
-      Value: Computers
+      Value: Laptop
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ed80d877-881d-451e-8916-f2838953d6a0"
+      Value: "72ae4073-f7de-4c5b-93c1-519e923ce1be"
     - ID: "a3d18316-90a1-4c8e-9f65-8e4d66de2404"
       Hint: listingType
       Value: 
     - ID: "af6037c5-a560-4b0e-9337-48ddb0a3b092"
       Hint: categoryItems
       Value: |
-        {00A04620-73F9-4571-96C6-D9635AAF2605}
-        {367B2F9A-0941-4C54-89ED-75CD1968F2B7}
-        {F3227A36-F4E3-4140-BB6A-9694BCAEB004}
-        {B6FB3462-FF2D-4426-8148-A8BF38294474}
-        {A211BA50-8AE6-45D1-85A3-6D8ED4313456}
+        {B3DA6793-1829-41E3-B89D-C5F3CC9291B4}
+        {54827E53-377C-4B20-898B-5D0AC95D9672}
+        {B490632B-BBB7-4DF4-9313-992E88D5DBD7}
+        {DF2DA15F-4015-44A1-9E20-4BAF9303E9C3}
+        {3AADD9FC-22C2-4BA3-8A3C-2C64C1836FDA}
     - ID: "e9af2cf3-3f47-4741-9524-76e0461d7d2a"
       Hint: image
       Value: |

@@ -3,6 +3,10 @@ ID: "b5d59105-9d3d-4c0f-8c5b-6b81fba722a6"
 Parent: "2fb5abc5-d536-4691-8e11-f7832a8ef50d"
 Template: "ec25ce9d-75a3-491e-ba82-347de22176f9"
 Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/productcategory/Page Components/Category Group/CategoryItems/Men Necklace
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1300
 Languages:
 - Language: en
   Versions:
@@ -10,7 +14,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "72caf8da-10c1-43f0-8261-d1005727f080"
+      Value: "bd4d3424-d4ae-4d85-9d9f-ab9bcc45113d"
     - ID: "e5badbad-aa22-4ae3-8212-601ae7d94ac9"
       Hint: itemName
       Value: Men's Necklace

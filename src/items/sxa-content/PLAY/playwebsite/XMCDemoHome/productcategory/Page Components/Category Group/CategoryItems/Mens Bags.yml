@@ -3,6 +3,10 @@ ID: "13b79592-6544-4d8b-b52f-61e9d073bd7a"
 Parent: "2fb5abc5-d536-4691-8e11-f7832a8ef50d"
 Template: "ec25ce9d-75a3-491e-ba82-347de22176f9"
 Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/productcategory/Page Components/Category Group/CategoryItems/Mens Bags
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1400
 Languages:
 - Language: en
   Versions:
@@ -10,7 +14,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "025eb49a-4374-4b7a-bd85-9764d91d3b26"
+      Value: "745f2745-0cc9-4293-9247-1164a0e786ec"
     - ID: "e5badbad-aa22-4ae3-8212-601ae7d94ac9"
       Hint: itemName
       Value: Men's Bags
