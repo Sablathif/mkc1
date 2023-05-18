@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/PLAY/OHA/Footer/Footer Info/Footer Data/Footer
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: /sitecore/content/OneWebHeadless/DefaultSite/Home/Data/Footer Datasource/Footer Social Links
+  Value: /sitecore/content/PLAY/playwebsite/Data/OHA/Footer Datasource/Footer Social Links
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: Multilist
@@ -20,4 +20,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7f2c5baa-5a7e-4b7a-9220-58aa3bb14ecb"
+      Value: "6999299b-b2b9-4d21-bb3a-81c4bf59abf8"

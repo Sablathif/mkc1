@@ -13,6 +13,9 @@ SharedFields:
 - ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
   Hint: Parameters Template
   Value: "{2E1C9CC9-6ED6-5F7F-BC24-846066E73D60}"
+- ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
+  Hint: Rendering Contents Resolver
+  Value: 
 Languages:
 - Language: en
   Versions:
@@ -20,4 +23,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "00e9cb43-9e45-42e8-96ae-7046545ee289"
+      Value: "4b7ec99a-0465-4596-90a2-cfeda4ab0b71"

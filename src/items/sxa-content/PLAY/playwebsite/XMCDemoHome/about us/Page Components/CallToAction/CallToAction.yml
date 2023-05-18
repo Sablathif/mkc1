@@ -10,22 +10,25 @@ Languages:
     Fields:
     - ID: "27fc954c-f583-44c0-9b93-76315b20fb6f"
       Hint: Description
-      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.1
     - ID: "5e08520b-9f95-4076-b155-d589394da03e"
       Hint: Text
-      Value: Get a Riode gift card+25% off
+      Value: Get a Riode gift card+25% off1
+    - ID: "82fb52b9-0c74-47f9-92a0-5c52f7390230"
+      Hint: BackgroundImage
+      Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "137c6184-aed0-46d5-8b68-820c16420089"
+      Value: "1b305341-4acc-471a-b948-c06904a4f7c9"
     - ID: "b3ec4598-9588-44b3-9a95-df356c36a8ff"
       Hint: BannerTitle
-      Value: "Trade-in"
+      Value: "Trade-in1"
     - ID: "c1ba820a-2509-4df8-a4a0-5af2381b54c1"
       Hint: CTAText
-      Value: Shop Now
+      Value: Shop Now1
     - ID: "cd027c68-3610-4bf3-8ead-e115d5fd86fc"
       Hint: Title
-      Value: Simple
+      Value: Simple1
     - ID: "d5d8c736-fe1e-49a7-ab11-cb61df83b367"
       Hint: BannerSubTitle
-      Value: Upgrade and save
+      Value: Upgrade and save1

@@ -21,7 +21,7 @@ Languages:
     - ID: "43736d85-57c3-4220-8972-9d4759c156ff"
       Hint: CTALink
       Value: |
-        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{FD8B83E6-242E-45BE-87F2-6A080A1A48D3}" />
+        <link class="" id="{FD8B83E6-242E-45BE-87F2-6A080A1A48D3}" querystring="" anchor="" target="" title="" linktype="internal" text="" url="/PLAY/playwebsite/XMCDemoHome/Page Components/Deal Section/Explore Accessories/exploreaccessories" />
     - ID: "47fd91ea-1825-442d-9373-7c5c805830c8"
       Hint: BackgroundImage
       Value: |
@@ -37,7 +37,7 @@ Languages:
       Value: button
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ef338392-3331-4887-8201-d0b9209aaa73"
+      Value: "d4dd9ff9-208a-4cd5-a69d-01806b2d476a"
     - ID: "df08957b-e019-4862-a95f-707922cc2b17"
       Hint: CTAText
       Value: Go To Blog

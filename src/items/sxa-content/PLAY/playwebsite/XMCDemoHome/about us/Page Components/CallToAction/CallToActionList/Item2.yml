@@ -20,7 +20,7 @@ Languages:
         <image mediaid="{A7F0DD1D-9893-46DE-ACBC-F23E4857CAE9}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "48aa6114-5fc2-427a-b473-ff474718cdba"
+      Value: "10b48b17-b7c4-4ca4-8bca-36439c56416c"
     - ID: "b3ec4598-9588-44b3-9a95-df356c36a8ff"
       Hint: BannerTitle
       Value: "Trade-in"
@@ -29,7 +29,7 @@ Languages:
       Value: Shop Now
     - ID: "cd027c68-3610-4bf3-8ead-e115d5fd86fc"
       Hint: Title
-      Value: 2
+      Value: 
     - ID: "d5d8c736-fe1e-49a7-ab11-cb61df83b367"
       Hint: BannerSubTitle
       Value: Upgrade and save

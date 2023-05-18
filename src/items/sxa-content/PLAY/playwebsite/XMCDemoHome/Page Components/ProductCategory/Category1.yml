@@ -8,12 +8,15 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "088927fc-d004-4fd9-93ad-b95c459acdcd"
+      Hint: CTA
+      Value: 
     - ID: "3eec8a78-b7a3-40d3-826d-004596069b0e"
       Hint: Title
       Value: For Men's
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e8850058-78f1-4533-a04c-ebce7fa293df"
+      Value: "d086c03f-e7b5-473d-becb-49838338e2ca"
     - ID: "e95698ea-8042-4cc7-98f7-d06bc5414b0f"
       Hint: Image
       Value: |

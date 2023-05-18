@@ -21,7 +21,7 @@ Languages:
     - ID: "43736d85-57c3-4220-8972-9d4759c156ff"
       Hint: CTALink
       Value: |
-        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{7ED3871C-8436-4A74-B4D4-41D16556C346}" />
+        <link class="" id="{7ED3871C-8436-4A74-B4D4-41D16556C346}" querystring="" anchor="" target="" title="" linktype="internal" text="" url="/PLAY/playwebsite/XMCDemoHome/Page Components/Deal Section/Sunglasses And Clothing/sunglasses" />
     - ID: "47fd91ea-1825-442d-9373-7c5c805830c8"
       Hint: BackgroundImage
       Value: |
@@ -37,7 +37,7 @@ Languages:
       Value: button
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2d2e0ab2-464b-4698-9366-92f559b0620d"
+      Value: "db15fd30-2277-4c0f-8057-92043d5779af"
     - ID: "df08957b-e019-4862-a95f-707922cc2b17"
       Hint: CTAText
       Value: GO TO BLOG

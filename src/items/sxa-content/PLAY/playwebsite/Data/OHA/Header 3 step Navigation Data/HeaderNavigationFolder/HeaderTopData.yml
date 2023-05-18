@@ -13,16 +13,13 @@ Languages:
       Value: 
     - ID: "2be24e65-1af5-42b6-ae8d-59a2e7f5f9b7"
       Hint: NeedHelp
-      Value: |
-        <link text="Need Help" anchor="" linktype="internal" class="" title=""  querystring="" id="{A0D2B28A-E881-448A-87C4-CF95D9D4D200}" />
+      Value: 
     - ID: "3a5bba3b-585c-48ab-ab1a-7fec55cb2654"
       Hint: signInLink
-      Value: |
-        <link text="Sign In" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{ABA2B256-3579-49AB-BFFD-39669B3119FF}" />
+      Value: 
     - ID: "5a6d24f1-adfb-46f0-9570-fe5f8d6494e5"
       Hint: RegisterLink
-      Value: |
-        <link text="Register" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{ABA2B256-3579-49AB-BFFD-39669B3119FF}" />
+      Value: 
     - ID: "727d0dfc-a244-4a91-a8e7-b590a3305cfb"
       Hint: CurrencySelector
       Value: 
@@ -31,8 +28,7 @@ Languages:
       Value: "Welcome to Riode store message or remove it!"
     - ID: "804edc43-941e-48cc-a384-cedf845760b4"
       Hint: Contact
-      Value: |
-        <link text="Contact" anchor="" linktype="internal" class="" title=""  querystring="" id="{A0D2B28A-E881-448A-87C4-CF95D9D4D200}" />
+      Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "41878eff-f647-48ac-a32c-6c929b544b54"
+      Value: "b63743da-bddc-4f13-a7bd-b392c40a415d"

@@ -21,7 +21,7 @@ Languages:
     - ID: "43736d85-57c3-4220-8972-9d4759c156ff"
       Hint: CTALink
       Value: |
-        <link text="Go To Blog" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{62FA6DF5-B031-4CDB-9DFE-DEFD6861A057}" />
+        <link class="" id="{62FA6DF5-B031-4CDB-9DFE-DEFD6861A057}" querystring="" anchor="" target="" title="" linktype="internal" text="Go To Blog" url="/PLAY/playwebsite/XMCDemoHome/Page Components/Deal Section/Summer Dress/summerdress" />
     - ID: "47fd91ea-1825-442d-9373-7c5c805830c8"
       Hint: BackgroundImage
       Value: |
@@ -37,7 +37,7 @@ Languages:
       Value: button
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0fa6c664-50f8-40d2-bb9c-6a29bcf3fdac"
+      Value: "5c637ccf-f54d-4d2c-9177-e938620f5892"
     - ID: "df08957b-e019-4862-a95f-707922cc2b17"
       Hint: CTAText
       Value: Go To Blog

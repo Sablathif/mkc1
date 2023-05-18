@@ -9,7 +9,7 @@ SharedFields:
   Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 200
+  Value: 0
 Languages:
 - Language: en
   Versions:
@@ -21,7 +21,7 @@ Languages:
     - ID: "35f22051-5d55-4d35-b8b6-54e897b83dc5"
       Hint: Slides
       Value: |
-        {D6415DBC-4B5C-448E-A458-490A62561DF7}
+        {015FEEC5-4367-4B3D-AB3E-9A0EB067CF3C}
         {DA4E02AE-E63F-4D75-9CA8-0352237CB15C}
         {03E9DF7B-3D3D-46C9-AC34-8C26F06FFA6B}
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
@@ -29,7 +29,7 @@ Languages:
       Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "cb0bbdac-ef29-43eb-9388-db5bfa08647f"
+      Value: "7f713274-e799-43b4-89d7-826d44684a0b"
 - Language: "fr-CA"
   Versions:
   - Version: 1

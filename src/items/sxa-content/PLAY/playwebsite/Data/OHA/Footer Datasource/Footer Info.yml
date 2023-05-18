@@ -55,7 +55,7 @@ Languages:
       Value: Subscribe to our Newsletter
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "42ddf5f0-363f-4693-be34-86ece2697cee"
+      Value: "24258bdf-22b3-4f79-96ce-798bfc12eb0d"
     - ID: "a9b7ee6b-d85f-4cff-aa25-55367f6ad240"
       Hint: FooterCopyrightText
       Value: |
@@ -97,4 +97,4 @@ Languages:
     - ID: "e400fa72-bb35-4305-8597-f7dc57712cc0"
       Hint: FooterLogo
       Value: |
-        <image mediaid="{A43ED710-91BE-4AFF-9FF0-989E1802DA9F}" ></image>
+        <image mediaid="{2574004C-14A0-4364-BC61-F1E6E778F218}" />
