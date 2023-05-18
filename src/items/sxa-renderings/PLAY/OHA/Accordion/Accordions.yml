@@ -2,11 +2,11 @@
 ID: "ed33d0f3-c49b-4f2a-943c-905718916436"
 Parent: "4df50ea6-625e-40b9-b434-c39ea01d61b7"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
-Path: /sitecore/layout/Renderings/Project/PLAY/OHA/Accordion/Accordion
+Path: /sitecore/layout/Renderings/Project/PLAY/OHA/Accordion/Accordions
 SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
-  Value: Accordion
+  Value: Accordions
 - ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
   Hint: __Read Only
   Value: 
@@ -23,4 +23,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8fdf1100-d7cf-4997-9d9b-3630723de017"
+      Value: "a408473a-4511-4e45-94a2-70b50084c2e9"
