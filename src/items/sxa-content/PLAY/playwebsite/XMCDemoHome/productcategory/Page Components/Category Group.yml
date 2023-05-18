@@ -1,0 +1,13 @@
+﻿---
+ID: "af1fd4b4-f57d-4e48-978a-4e6976ad5859"
+Parent: "18a7b22e-84ec-471a-b63f-0cf0ea2c271d"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/productcategory/Page Components/Category Group
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f0ad0aa9-1dab-485f-93d8-0d69f6306ae4"

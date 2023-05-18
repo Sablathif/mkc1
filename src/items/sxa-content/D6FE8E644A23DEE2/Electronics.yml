@@ -1,0 +1,37 @@
+﻿---
+ID: "36faef3e-a567-418f-bb22-069203a9d0cb"
+Parent: "7421bc99-2e33-4365-99e9-d0a87922c0c7"
+Template: "9cf381c6-d924-4aec-b72f-238ba9873b5e"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/productcategory/Page Components/Category Group/CategoryGroupList1/Electronics
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "59b3f3f0-9c64-47b8-9dd6-0da620d97c56"
+      Hint: title
+      Value: Electronics
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6f2654bf-39e9-4064-b87a-33a6d213b34e"
+    - ID: "a3d18316-90a1-4c8e-9f65-8e4d66de2404"
+      Hint: listingType
+      Value: 
+    - ID: "af6037c5-a560-4b0e-9337-48ddb0a3b092"
+      Hint: categoryItems
+      Value: |
+        {6297CD73-3538-46CD-8E2C-B76CA45C0332}
+        {8D4892E3-E13F-4A13-B579-E1FC6E45CA32}
+        {D06A06EC-A549-4041-A5CA-E5B126EDAAE7}
+        {13B79592-6544-4D8B-B52F-61E9D073BD7A}
+        {C4FEECF1-FC1B-438D-AACC-DFBF39B73A8D}
+    - ID: "e9af2cf3-3f47-4741-9524-76e0461d7d2a"
+      Hint: image
+      Value: |
+        <image mediaid="{6BFE48D6-CE4E-42FB-9721-C1D4EBB50557}" />
+    - ID: "ec4d91ea-a4dd-472d-bd98-400b2f56a0de"
+      Hint: iconClassName
+      Value: 
+    - ID: "ff2af257-3f0e-4693-8a00-73f916807b5a"
+      Hint: backgroudColour
+      Value: 

@@ -6,10 +6,10 @@ Path: /sitecore/templates/Project/PLAY/OHA/Blog/ImageList/Data/image
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: /sitecore/media library/Project/PLAY/playwebsite/media/img/OHA/Blog/BlogImageList
+  Value: /sitecore/media library/Project/OneWebHeadless/DefaultSite/Blog/BlogImageList
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
-  Value: Multilist
+  Value: TreelistEx
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 100
@@ -20,4 +20,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "af916bec-571c-4404-8140-18e2434fbb8c"
+      Value: "f840bf74-153f-46c3-aa94-d07b0ca3cd5d"

@@ -5,6 +5,7 @@ import { mainSlider9 } from '../../../../utils/data/carousel';
 
 function ellipsecategory(data) {
   const categories = data.data.fields.Categories;
+  console.log('category: ', categories);
   return (
     <>
       <section className="ellipse-section mt-10">
@@ -15,7 +16,12 @@ function ellipsecategory(data) {
             <div className="category category-ellipse" key={index}>
               <ALink href={data.fields.CTA.value.href}>
                 <figure className="category-media">
-                  <img src={data.fields.Image.value.src} alt="Cateogry" width="196" height="196" />
+                  <img
+                    src={'/-' + data.fields?.Image?.value?.src.split('/-').pop()}
+                    alt="Cateogry"
+                    width="196"
+                    height="196"
+                  />
                 </figure>
               </ALink>
 

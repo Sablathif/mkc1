@@ -1,0 +1,26 @@
+﻿---
+ID: "383d866a-c697-4873-a244-9d96445651d7"
+Parent: "10cdd6d3-ff99-4ceb-8c92-e1be71ea3495"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Project/PLAY/OHA/CategoryGroup/CategoryBadgeStyle
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: CategoryBadgeStyle
+- ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
+  Hint: Datasource Template
+  Value: /sitecore/templates/Project/OneWebHeadless/Article
+- ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
+  Hint: Rendering Contents Resolver
+  Value: "{3DF775BF-3F56-446F-9D81-43DE64DA4DDA}"
+- ID: "f6677a49-0a1d-4bad-b8ba-4f0f22bdee64"
+  Hint: Additional compatible templates
+  Value: "{4F5BD5B4-CDF8-4909-8DFA-8D9B1949C8C8}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "218b6a9f-40a3-4a10-b17c-90884194a8c0"

@@ -1,0 +1,36 @@
+﻿---
+ID: "83e08870-239f-47a9-b4b9-2aa238dfa0e2"
+Parent: "836df427-37f5-4c30-8e28-c9a34d18a215"
+Template: "61be6f7d-3a37-45f8-924f-f8fedc8f7a05"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/productcategory/Page Components/Category Banner Style/Banner2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0ec71f-866d-42f1-940d-905d676de684"
+      Hint: Title
+      Value: For Men's Fashion
+    - ID: "43736d85-57c3-4220-8972-9d4759c156ff"
+      Hint: CTALink
+      Value: |
+        <link linktype="external" url="https://www.google.co.in/" />
+    - ID: "47fd91ea-1825-442d-9373-7c5c805830c8"
+      Hint: BackgroundImage
+      Value: |
+        <image mediaid="{F7AF3FF1-EB92-45A5-9E0E-29EF8478555A}" />
+    - ID: "52538d72-9bea-455f-8707-7a81d0a53508"
+      Hint: SubTitle
+      Value: 25
+    - ID: "71415def-af8c-4e49-9ec7-7abab3b5ff6a"
+      Hint: BannerType
+      Value: "height-x1"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fc9eeba5-053b-43d7-89ba-b07eb35c1451"
+    - ID: "df08957b-e019-4862-a95f-707922cc2b17"
+      Hint: CTAText
+      Value: Shop Now
+    - ID: "e90ca7ff-8416-449c-8372-98d865400789"
+      Hint: Description
+      Value: Products

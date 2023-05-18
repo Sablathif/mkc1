@@ -1,0 +1,24 @@
+﻿---
+ID: "f14ea3fd-9973-49a4-9f3d-a3b92f7a6b5f"
+Parent: "182e7490-96ae-48c4-9d58-72e7ec356ad5"
+Template: "2a354985-595b-4fe4-b9d9-1154d298b41a"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/productcategory/Page Components/Ellipse Category/EllipseCategory
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1a7d9772-2e84-4bee-9006-49ef0cdaa20b"
+      Hint: Categories
+      Value: |
+        {9F08D93D-0B08-499C-97E5-753140BA82F8}
+        {B0B49672-BAC7-4D63-B29F-F7CB3BE4B9B2}
+        {B90B5B38-7847-4F13-B979-BC26BA908CCC}
+        {5D7FF272-E95B-4722-8F92-16E8BC7AE092}
+        {048B7457-6E05-4DE1-9FAD-BBDB21CC9B32}
+    - ID: "66b9798c-dd8a-49fb-97c3-32fc39f1fd1b"
+      Hint: Title
+      Value: Ellipse Style
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "452f35a4-3adf-46f0-9401-ec7383376119"

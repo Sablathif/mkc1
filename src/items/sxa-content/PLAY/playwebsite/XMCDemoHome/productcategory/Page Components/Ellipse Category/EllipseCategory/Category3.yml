@@ -1,0 +1,30 @@
+﻿---
+ID: "b90b5b38-7847-4f13-b979-bc26ba908ccc"
+Parent: "f14ea3fd-9973-49a4-9f3d-a3b92f7a6b5f"
+Template: "fa002636-eb8b-49b7-9db2-e9267b97e1d0"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/productcategory/Page Components/Ellipse Category/EllipseCategory/Category3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "088927fc-d004-4fd9-93ad-b95c459acdcd"
+      Hint: CTA
+      Value: |
+        <link text="Fashion" anchor="" linktype="internal" class="" title=""  querystring="" id="{ABA2B256-3579-49AB-BFFD-39669B3119FF}" />
+    - ID: "3eec8a78-b7a3-40d3-826d-004596069b0e"
+      Hint: Title
+      Value: Summer Sale is On
+    - ID: "5ed779b8-e05c-43ae-8ae5-9e556e0beabe"
+      Hint: SubTitle
+      Value: 0 PRODUCTS
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a24cc244-7786-4fa8-b299-2c223abf0c91"
+    - ID: "9a25dcf1-312f-40f7-a882-9e3234e02bc6"
+      Hint: IconClass
+      Value: 
+    - ID: "e95698ea-8042-4cc7-98f7-d06bc5414b0f"
+      Hint: Image
+      Value: |
+        <image mediaid="{1C86B72A-1C3A-446F-8E33-855A497F2859}" />

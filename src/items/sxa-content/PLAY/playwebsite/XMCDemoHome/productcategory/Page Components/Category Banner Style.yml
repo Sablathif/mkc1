@@ -1,0 +1,23 @@
+﻿---
+ID: "836df427-37f5-4c30-8e28-c9a34d18a215"
+Parent: "18a7b22e-84ec-471a-b63f-0cf0ea2c271d"
+Template: "4f5bd5b4-cdf8-4909-8dfa-8d9b1949c8c8"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/productcategory/Page Components/Category Banner Style
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1dfcadbd-ddac-4598-bbe4-3e0c8201974f"
+      Hint: BannerTitle
+      Value: Banner Style
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eb34eb78-95e5-4d8d-a0b4-be1cacf2506c"
+    - ID: "e4f4ae10-0e66-4e6a-af4c-11fec20ff37f"
+      Hint: Banners
+      Value: |
+        {C6FCF5A8-698E-4F11-B40B-654715856231}
+        {83E08870-239F-47A9-B4B9-2AA238DFA0E2}
+        {4CF90FE1-8005-4E37-ADBB-70A3E14480C5}
+        {D41C4424-2E22-4A4B-BC0E-50887D8613F3}

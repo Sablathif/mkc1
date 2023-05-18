@@ -1,0 +1,17 @@
+﻿---
+ID: "182e7490-96ae-48c4-9d58-72e7ec356ad5"
+Parent: "18a7b22e-84ec-471a-b63f-0cf0ea2c271d"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/productcategory/Page Components/Ellipse Category
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1900
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2aaeacc6-693f-4052-90ec-fa3b1ab06a41"

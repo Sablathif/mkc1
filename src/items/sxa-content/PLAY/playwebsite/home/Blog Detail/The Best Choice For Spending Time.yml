@@ -14,7 +14,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{48FADCE2-5EAB-48C2-A813-7C9DADE08F7D}" />
+    <image mediaid="{E1F4CD2C-7732-41B5-8A70-1684BFC964EA}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -67,7 +67,7 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ab4a2f57-e46b-495f-bf28-d6d99a06cbd4"
+      Value: "aad89fdc-8944-45c2-a5ed-6b11e4eb5906"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: The Best Choice For Spending Time

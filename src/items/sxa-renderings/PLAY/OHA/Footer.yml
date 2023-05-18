@@ -9,13 +9,13 @@ SharedFields:
   Value: Footer
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
-  Value: /sitecore/templates/Project/PLAY/OHA/Footer
+  Value: /sitecore/templates/Project/OneWebHeadless/Footer
 - ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
   Hint: Rendering Contents Resolver
   Value: "{3DF775BF-3F56-446F-9D81-43DE64DA4DDA}"
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
-  Value: /sitecore/content/PLAY/playwebsite/Data/OHA/Footer Datasource
+  Value: /sitecore/content/OneWebHeadless/DefaultSite/Home/Data/Footer Datasource
 Languages:
 - Language: en
   Versions:
@@ -23,4 +23,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "cf620652-7fa8-4f77-9fd4-f7ac07b42435"
+      Value: "b610b5a2-079d-4f6c-961b-9e4aff561301"

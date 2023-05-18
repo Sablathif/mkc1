@@ -622,3 +622,45 @@
             }
         }
     }
+    }
+    .slick-slider{
+        .slick-dots{
+            bottom:30px;
+            li{
+                button{
+                    &:before{
+                        font-size: 14px;
+                        color: #fff;
+                        opacity: 1 !important;
+                    }
+                }
+                &.slick-active{
+                    button{
+                        &:before{
+                            opacity: 1;
+                            color: white;
+                            width: 23px;
+                            content: '';
+                            background: white;
+                            height: 11px;
+                            top: 50%;
+                            transform: translateY(-50%);
+                            border-radius: 7px;
+
+                        }
+                    }   
+                }
+            }
+        }
+        .banner{
+            figure{
+                img{
+                    height:inherit;
+                }
+                video{
+                    object-fit: cover;
+                }
+            }
+        }
+    }
+    

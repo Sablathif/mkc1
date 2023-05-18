@@ -22,7 +22,7 @@ Languages:
       Value: Buy 2 Get
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7574abed-4068-4ed6-aaa1-5db2dff388d2"
+      Value: "f20104bb-e48e-4e73-80ef-398afbe68135"
     - ID: "9125f032-ee86-49d0-9632-e1a86d094767"
       Hint: BackgroundType
       Value: Image
@@ -46,4 +46,4 @@ Languages:
     - ID: "ff2b1450-de78-46c4-bf95-07daffb059c6"
       Hint: BackgroundVideo
       Value: |
-        <link id="{769B8ABB-D0C0-4CB0-8755-ED218565D8CA}" target="" linktype="media" url="/Project/PLAY/playwebsite/media/video/video-1" />
+        <link linktype="media" target="" id="{769B8ABB-D0C0-4CB0-8755-ED218565D8CA}" />
