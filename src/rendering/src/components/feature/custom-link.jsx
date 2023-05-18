@@ -4,6 +4,7 @@ import Link from 'next/link';
 
 import parseContent from '../../utils';
 
+// eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default function ALink({ children, className, content, style, ...props }) {
   const preventDefault = (e) => {
     if (props.href === '#') {
