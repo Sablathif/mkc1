@@ -16,7 +16,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{7423A04F-0370-46BE-8805-0F4A18E1D8D2}" />
+    <image mediaid="{CFC09F94-6F8D-4996-B0FB-3427EC3E7137}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -73,17 +73,9 @@ Languages:
               s:ccb="Clear on publish" />
             <r
               uid="{3BE7BE0E-00D7-4E62-BCF8-8CA76B4DC87B}"
-              p:after="r[@uid='{3E86CBD8-4A97-4F0F-85F8-37EBC7B3FDE7}']"
+              p:after="*[1=2]"
               s:ds="{345BBEEC-A220-4736-AF18-EF4AB1879380}"
               s:id="{2702C90A-5DCE-4B64-BE2C-7F0470DB1931}"
-              s:par="CSSStyles"
-              s:ph="headless-main"
-              s:ccb="Clear on publish" />
-            <r
-              uid="{437C86D5-E1F7-44BB-A78E-C2611FD9B381}"
-              p:after="*[1=2]"
-              s:ds="{4DB42699-4C89-49D4-A7AA-CCD3B3ADF592}"
-              s:id="{16A7E2BC-E836-4F7E-BC70-2E33E6F324A2}"
               s:par="CSSStyles"
               s:ph="headless-main"
               s:ccb="Clear on publish" />
@@ -94,7 +86,7 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2baae4ee-4c84-461e-abba-772759c159de"
+      Value: "93f7c7a4-a9df-431e-b5a4-7bf7e54cac3d"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Blog Page

@@ -33,7 +33,7 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "70291d57-be45-416c-9d28-2dde18150e6f"
+      Value: "c4c03562-2f3c-4314-8671-a14b39b13881"
     - ID: "9ed4a448-8114-4db6-82db-8691567209ee"
       Hint: Tag
       Value: Summer Season Sale
@@ -45,5 +45,4 @@ Languages:
       Value: About Us
     - ID: "ecbc6012-421e-4861-b6c4-5d1f3501faa1"
       Hint: CTA
-      Value: |
-        <link text="Show More" anchor="" linktype="internal" class="" title="Show More" target="" querystring="" id="{C5AE00E9-8086-4DA1-9E06-6D094369C4A2}" />
+      Value: 
