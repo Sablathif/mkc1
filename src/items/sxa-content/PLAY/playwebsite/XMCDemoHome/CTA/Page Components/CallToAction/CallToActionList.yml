@@ -1,0 +1,21 @@
+﻿---
+ID: "ae1cd824-19b0-4ca3-85ba-8a932c60565c"
+Parent: "c25a8579-8c5f-43b8-8a9a-29fe0813365e"
+Template: "cde86e1d-737f-4b6a-9438-9a5f2c7cccef"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/CTA/Page Components/CallToAction/CallToActionList
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f9798f5-faba-4243-82bd-bf17ba0f2c12"
+      Hint: Title
+      Value: 2 Column
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f7af1142-50a7-4cb5-b8ff-28f3e37d8c07"
+    - ID: "b460663f-70a3-4867-9db3-d3faea77d006"
+      Hint: CallToActionItem
+      Value: |
+        {2BC686D1-4FF1-495E-827E-AA936953A674}
+        {427ECAE5-89AF-48A6-B333-2607AA891960}

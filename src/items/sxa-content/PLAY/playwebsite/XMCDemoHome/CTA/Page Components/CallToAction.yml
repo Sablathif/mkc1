@@ -1,0 +1,13 @@
+﻿---
+ID: "c25a8579-8c5f-43b8-8a9a-29fe0813365e"
+Parent: "4dff9b69-ce76-43c1-b1e1-846ea3fb6c52"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/CTA/Page Components/CallToAction
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0cb900ff-e553-425d-9efa-6fa498b82490"

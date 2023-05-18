@@ -1,0 +1,35 @@
+﻿---
+ID: "779b5b61-f9de-4bbe-90db-ebaf17d9b780"
+Parent: "ae1cd824-19b0-4ca3-85ba-8a932c60565c"
+Template: "678b9817-e872-4282-a412-a05f296a1c57"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/CTA/Page Components/CallToAction/CallToActionList/Item2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "27fc954c-f583-44c0-9b93-76315b20fb6f"
+      Hint: Description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.
+    - ID: "5e08520b-9f95-4076-b155-d589394da03e"
+      Hint: Text
+      Value: Get a Riode gift card+25% off
+    - ID: "82fb52b9-0c74-47f9-92a0-5c52f7390230"
+      Hint: BackgroundImage
+      Value: |
+        <image mediaid="{A7F0DD1D-9893-46DE-ACBC-F23E4857CAE9}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "10b48b17-b7c4-4ca4-8bca-36439c56416c"
+    - ID: "b3ec4598-9588-44b3-9a95-df356c36a8ff"
+      Hint: BannerTitle
+      Value: "Trade-in"
+    - ID: "c1ba820a-2509-4df8-a4a0-5af2381b54c1"
+      Hint: CTAText
+      Value: Shop Now
+    - ID: "cd027c68-3610-4bf3-8ead-e115d5fd86fc"
+      Hint: Title
+      Value: 
+    - ID: "d5d8c736-fe1e-49a7-ab11-cb61df83b367"
+      Hint: BannerSubTitle
+      Value: Upgrade and save
