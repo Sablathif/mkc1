@@ -11,9 +11,12 @@ Languages:
     - ID: "59b3f3f0-9c64-47b8-9dd6-0da620d97c56"
       Hint: title
       Value: Fashion & Clothings
+    - ID: "868511b0-0283-484c-9a2f-c491462e83fc"
+      Hint: categoryURL
+      Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b89122d4-7d4a-4173-abd2-2596771b915a"
+      Value: "0cd104aa-0f6b-4716-a16e-6866380f66d0"
     - ID: "a3d18316-90a1-4c8e-9f65-8e4d66de2404"
       Hint: listingType
       Value: 

@@ -17,6 +17,7 @@ const endpoint = 'https://cm.xmcloudcm.localhost/sitecore/api/graph/edge'; //
 // const endpoint = process.env.PREVIEW_ENDPOINT;
 const apiKey = '{1047aee5-9bcd-4dbf-9744-a26e12b79ab6}';
 const query = gql`
+  # Write your query or mutation here
   query {
     # path can be an item tree path or GUID-based id
     item(
@@ -53,6 +54,13 @@ const query = gql`
               backgroudColour {
                 value
               }
+              categoryURL {
+                name
+                value
+                id
+                linkType
+                url
+              }
               categoryItems {
                 name
                 targetItems {
@@ -82,16 +90,16 @@ const graphQLClient = new GraphQLRequestClient(endpoint, {
   apiKey: apiKey,
 });
 const fetchUser = async () => {
-  return await graphQLClient.request(query);
+  const content: CategoryGroup1Props = await graphQLClient.request(query);
+  return content;
 };
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 type CategoryGroup1Props = {
-  componentTitle: Field<string>;
-  categories: {
-    name: Field<string>;
-    targetItems: {
+  item: {
+    componentTitle: Field<string>;
+    categories: {
       name: Field<string>;
-      Categories: Categories[];
+      targetItems: Categories[];
     };
   };
 };
@@ -102,6 +110,7 @@ type Categories = {
   iconClassName: TextField;
   image: ImageField;
   backgroudColour: TextField;
+  categoryURL: LinkField;
   categoryItems: {
     name: Field<string>;
     targetItems: CategoryItems[];
@@ -111,14 +120,11 @@ type CategoryItems = {
   itemName: TextField;
   itemUrl: LinkField;
 };
+// eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 const CategoryGroup1 = () => {
   const { isLoading, data } = useQuery(['get-user'], fetchUser);
-  // console.log('data.item.categories.targetItems', data);
-  // const person: CategoryGroup1Props = data;
-  // console.log(person);
-
+  console.log(data);
   if (isLoading) return <p>Loading...</p>;
-  console.log('endpoint', endpoint);
   return (
     <>
       <div className="page-content">
@@ -128,44 +134,58 @@ const CategoryGroup1 = () => {
               <Text field={data.item.componentTitle}></Text>
             </h2>
             <OwlCarousel adClass="owl-theme" options={mainSlider6}>
-              {data.item.categories.targetItems?.map((item: any) => (
-                <div className="category category-group-image" key={item}>
-                  <ALink href="#" className={undefined} content={undefined} style={undefined}>
-                    <figure className="category-media">
-                      <LazyLoadImage
-                        src={item.image.src}
-                        alt={item.image.alt}
-                        width={item.image.width}
-                        height={item.image.height}
-                        effect="opacity"
-                      />
-                    </figure>
-                  </ALink>
-                  <div className="category-content">
-                    <h4 className="category-name">
-                      <ALink href="#" className={undefined} content={undefined} style={undefined}>
-                        {item.title.value}
-                      </ALink>
-                    </h4>
-                    <ul className="category-list">
-                      {item.categoryItems.targetItems
-                        .slice(0, 5)
-                        .map((categoryItem: any, categoryItemIndex: any) => (
-                          <li key={categoryItemIndex}>
-                            <ALink
-                              href="#"
-                              className={undefined}
-                              content={undefined}
-                              style={undefined}
-                            >
-                              {categoryItem.itemName.value}
-                            </ALink>
-                          </li>
-                        ))}
-                    </ul>
+              {data.item.categories.targetItems &&
+                data.item.categories.targetItems.length > 0 &&
+                data.item.categories.targetItems?.map((item: any, index) => (
+                  <div className="category category-group-image" key={index}>
+                    <ALink
+                      href={item.categoryURL.url}
+                      className={undefined}
+                      content={undefined}
+                      style={undefined}
+                    >
+                      <figure className="category-media">
+                        <LazyLoadImage
+                          src={item.image.src}
+                          alt={item.image.alt}
+                          width={item.image.width}
+                          height={item.image.height}
+                          effect="opacity"
+                        />
+                      </figure>
+                    </ALink>
+                    <div className="category-content">
+                      <h4 className="category-name">
+                        <ALink
+                          href={item.categoryURL.url}
+                          className={undefined}
+                          content={undefined}
+                          style={undefined}
+                        >
+                          {item.title.value}
+                        </ALink>
+                      </h4>
+                      <ul className="category-list">
+                        {item.categoryItems.targetItems &&
+                          item.categoryItems.targetItems.length > 0 &&
+                          item.categoryItems.targetItems
+                            .slice(0, 5)
+                            .map((categoryItem: any, categoryItemIndex: any) => (
+                              <li key={categoryItemIndex}>
+                                <ALink
+                                  href={categoryItem.itemUrl.url}
+                                  className={undefined}
+                                  content={undefined}
+                                  style={undefined}
+                                >
+                                  {categoryItem.itemName.value}
+                                </ALink>
+                              </li>
+                            ))}
+                      </ul>
+                    </div>
                   </div>
-                </div>
-              ))}
+                ))}
             </OwlCarousel>
           </section>
         </div>

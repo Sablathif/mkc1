@@ -11,9 +11,13 @@ Languages:
     - ID: "59b3f3f0-9c64-47b8-9dd6-0da620d97c56"
       Hint: title
       Value: Computers
+    - ID: "868511b0-0283-484c-9a2f-c491462e83fc"
+      Hint: categoryURL
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{C365ACB1-5DAB-4C12-BC7C-589A1B1AEA47}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ed80d877-881d-451e-8916-f2838953d6a0"
+      Value: "4233423b-12c5-4c47-a779-026be5d72d83"
     - ID: "a3d18316-90a1-4c8e-9f65-8e4d66de2404"
       Hint: listingType
       Value: 

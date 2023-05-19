@@ -1,10 +1,10 @@
 ﻿# Do not commit this file to source control or modify it. It is safe to delete; it will recreate itself.
 ---
 File: |
-  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloud\src\items\DefaultRenderingHost\Default.yml
+  C:\Asmita\Project\Oneweb\Project\Oneweb\Oneweb-Playsummit-XMCloud\OHAXMCloudV2\src\items\DefaultRenderingHost\Default.yml
 ID: "dffee92b-0441-45a4-9207-67810b72bd46"
 Parent: "895e25c4-12b2-4b2c-8233-82f3b79eef53"
 Template: "bc71d442-3e4f-46ba-887c-746e54f9bb83"
 Path: /sitecore/system/Settings/Services/Rendering Hosts/Default
-Signature: bNtYxzZ+TPpL2kEQ6uJuVaGEdiZuo0JEIGP1SE7iZfg=
-Modified: 638175765083567762
+Signature: XV9ATN8PiopNHq0FRTtO2CstVICnSXjKC1r2v6B36P4=
+Modified: 638199157725721668
