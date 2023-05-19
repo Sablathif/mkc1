@@ -80,11 +80,13 @@ Languages:
               s:ph="headless-main"
               s:ccb="Clear on publish" />
             <r
-              uid="{018F8A9A-2D90-47CE-82ED-3E90F8DBE746}"
+              uid="{C54A48DB-CDDC-4E7B-9BDB-3F02906BD6EC}"
               p:after="*[1=2]"
+              s:ds="{B2F7DDE9-8C43-4C11-981E-F481D58C2590}"
               s:id="{ED33D0F3-C49B-4F2A-943C-905718916436}"
-              s:par="CacheClearingBehavior=Clear%20on%20publish&amp;CSSStyles"
-              s:ph="headless-main" />
+              s:par="CSSStyles"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
           </d>
         </r>
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
@@ -92,7 +94,7 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "833ef8dd-090f-4087-af80-8b79c5d41420"
+      Value: "7a4f2893-e712-4e11-9d64-663319eac760"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Blog Page

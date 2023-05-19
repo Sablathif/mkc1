@@ -1,0 +1,13 @@
+﻿---
+ID: "bda88df9-f73b-4231-9e40-30cb03b64aad"
+Parent: "8ae40f3a-c0c1-41ba-b4f0-25978b7bdcda"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Accordion/Accordion/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4d11208b-7c78-4d4d-844c-e431ad779ea2"

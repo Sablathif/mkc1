@@ -1,0 +1,16 @@
+﻿---
+ID: "2901a4a7-ad25-4494-8277-e30122670124"
+Parent: "6d4267bb-b45c-436b-8657-aeb85b1fcf9d"
+Template: "e51a5783-c723-4704-aa89-7e02b2052822"
+Path: /sitecore/content/PLAY/playwebsite/Global Data/IconClasses/IconClasses/faHeart
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "51dfc00a-6972-4f0a-9c50-238b77b90bcc"
+    - ID: "c9b63ceb-702d-4cc3-8412-e99624e795d4"
+      Hint: ClassName
+      Value: faHeart

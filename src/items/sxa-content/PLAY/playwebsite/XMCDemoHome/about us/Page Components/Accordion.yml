@@ -1,0 +1,13 @@
+﻿---
+ID: "beb984d7-bdcf-4910-9e81-95c08e5ce315"
+Parent: "57553199-8463-4925-aba8-2430f91c8114"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/about us/Page Components/Accordion
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "37e39d61-b160-4f26-95f1-494c4b061317"
