@@ -95,6 +95,14 @@ Languages:
               s:par="CSSStyles"
               s:ph="headless-main"
               s:ccb="Clear on publish" />
+            <r
+              uid="{0869F6C6-310A-4A1F-AF1F-ED11CA025B54}"
+              p:after="*[1=2]"
+              s:ds="{F14EA3FD-9973-49A4-9F3D-A3B92F7A6B5F}"
+              s:id="{9D08882D-839D-40C2-817F-C51A6E51F769}"
+              s:par="GridParameters&amp;ListingType=Ellipse&amp;FieldNames&amp;Styles&amp;CSSStyles"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
           </d>
         </r>
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"

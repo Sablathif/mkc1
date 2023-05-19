@@ -5,7 +5,7 @@ import { mainSlider9 } from '../../../../utils/data/carousel';
 
 function ellipsecategory(data) {
   const categories = data.data.fields.Categories;
-  console.log('category: ', categories);
+  console.log("category: ",categories)
   return (
     <>
       <section className="ellipse-section mt-10">
