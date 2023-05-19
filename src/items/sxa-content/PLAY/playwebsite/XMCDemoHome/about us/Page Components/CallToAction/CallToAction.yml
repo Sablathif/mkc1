@@ -14,12 +14,17 @@ Languages:
     - ID: "5e08520b-9f95-4076-b155-d589394da03e"
       Hint: Text
       Value: Get a Riode gift card+25% off
+    - ID: "8156d060-9a62-483f-8528-7de8d8e7b661"
+      Hint: CTALink
+      Value: |
+        <link text="MSN Link" linktype="external" url="http://www.msn.com" anchor="" target="_blank" />
     - ID: "82fb52b9-0c74-47f9-92a0-5c52f7390230"
       Hint: BackgroundImage
-      Value: 
+      Value: |
+        <image mediaid="{09085896-2355-53E8-8F71-BB9761E60380}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e5c20d50-0c64-4e56-9210-934e923918a1"
+      Value: "5d914614-731c-4e2f-bf23-37e83acc2e6d"
     - ID: "b3ec4598-9588-44b3-9a95-df356c36a8ff"
       Hint: BannerTitle
       Value: "Trade-in"

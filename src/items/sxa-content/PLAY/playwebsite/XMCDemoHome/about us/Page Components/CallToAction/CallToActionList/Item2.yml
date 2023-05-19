@@ -16,11 +16,10 @@ Languages:
       Value: Get a Riode gift card+25% off
     - ID: "82fb52b9-0c74-47f9-92a0-5c52f7390230"
       Hint: BackgroundImage
-      Value: |
-        <image mediaid="{A7F0DD1D-9893-46DE-ACBC-F23E4857CAE9}" />
+      Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "10b48b17-b7c4-4ca4-8bca-36439c56416c"
+      Value: "00d3013a-3e8e-4506-825b-7b419b96efab"
     - ID: "b3ec4598-9588-44b3-9a95-df356c36a8ff"
       Hint: BannerTitle
       Value: "Trade-in"
@@ -29,7 +28,7 @@ Languages:
       Value: Shop Now
     - ID: "cd027c68-3610-4bf3-8ead-e115d5fd86fc"
       Hint: Title
-      Value: 
+      Value: 2
     - ID: "d5d8c736-fe1e-49a7-ab11-cb61df83b367"
       Hint: BannerSubTitle
       Value: Upgrade and save
