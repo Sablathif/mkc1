@@ -13,8 +13,8 @@ import ALink from 'components/feature/custom-link';
 import OwlCarousel from 'components/feature/owl-carousel';
 import { mainSlider6 } from 'src/utils/data/carousel';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
-const endpoint = 'https://cm.xmcloudcm.localhost/sitecore/api/graph/edge'; //
-// const endpoint = process.env.PREVIEW_ENDPOINT;
+// const endpoint = 'https://cm.xmcloudcm.localhost/sitecore/api/graph/edge';
+const endpoint = 'https://xmc-14znhkjkgfiwyow0b42wwg.sitecorecloud.io/';
 const apiKey = '{1047aee5-9bcd-4dbf-9744-a26e12b79ab6}';
 const query = gql`
   # Write your query or mutation here

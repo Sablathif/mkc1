@@ -16,7 +16,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{CFC09F94-6F8D-4996-B0FB-3427EC3E7137}" />
+    <image mediaid="{38440194-CC44-4CE2-B2B5-BB3CC28B6BE0}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -56,7 +56,7 @@ Languages:
               <p:d />
             </r>
             <r
-              uid="{A778DA15-EFA7-43EF-B52D-A6FB91C2B3F8}"
+              uid="{2BFA6B33-28C1-43D5-BBFB-B9FE1EA132D5}"
               p:before="*"
               s:ds="{AA889234-5668-461A-AEEC-5E4625C5B19E}"
               s:id="{60E46443-0BAD-5861-823D-75F620401573}"
@@ -64,8 +64,8 @@ Languages:
               s:ph="headless-main"
               s:ccb="Clear on publish" />
             <r
-              uid="{3E86CBD8-4A97-4F0F-85F8-37EBC7B3FDE7}"
-              p:after="r[@uid='{A778DA15-EFA7-43EF-B52D-A6FB91C2B3F8}']"
+              uid="{1DB722D9-9313-4EDE-90FA-CD772D56F16F}"
+              p:after="r[@uid='{2BFA6B33-28C1-43D5-BBFB-B9FE1EA132D5}']"
               s:ds="{2C973A52-F264-48DA-ADB6-2418A2C6D472}"
               s:id="{2F9D05FD-8E58-56CC-B586-41A3EC155CD7}"
               s:par="FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles"
@@ -73,14 +73,14 @@ Languages:
               s:ccb="Clear on publish" />
             <r
               uid="{3BE7BE0E-00D7-4E62-BCF8-8CA76B4DC87B}"
-              p:after="r[@uid='{3E86CBD8-4A97-4F0F-85F8-37EBC7B3FDE7}']"
+              p:after="r[@uid='{1DB722D9-9313-4EDE-90FA-CD772D56F16F}']"
               s:ds="{345BBEEC-A220-4736-AF18-EF4AB1879380}"
               s:id="{2702C90A-5DCE-4B64-BE2C-7F0470DB1931}"
               s:par="CSSStyles"
               s:ph="headless-main"
               s:ccb="Clear on publish" />
             <r
-              uid="{018F8A9A-2D90-47CE-82ED-3E90F8DBE746}"
+              uid="{E76C20B8-EB9B-49FA-A453-3012B407BEDD}"
               p:after="*[1=2]"
               s:id="{ED33D0F3-C49B-4F2A-943C-905718916436}"
               s:par="CacheClearingBehavior=Clear%20on%20publish&amp;CSSStyles"
@@ -92,7 +92,7 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "833ef8dd-090f-4087-af80-8b79c5d41420"
+      Value: "e8fb2ede-8a5f-458f-b9e1-1e731f2390a6"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
-      Value: Blog Page
+      Value: About Us Page

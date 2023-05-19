@@ -19,7 +19,7 @@ Languages:
       Value: Summer Season's
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "45264d1f-7b1c-4b40-bb4c-dafea81337fc"
+      Value: "8e13098c-1402-480b-bfcf-b515538e5d0b"
     - ID: "9125f032-ee86-49d0-9632-e1a86d094767"
       Hint: BackgroundType
       Value: Video
@@ -28,8 +28,7 @@ Languages:
       Value: Check out our
     - ID: "da5fdae9-a2ca-4874-99e4-2d695729efd4"
       Hint: CTA
-      Value: |
-        <link text="SHOP NOW" anchor="" linktype="internal" class="" title=""  querystring="" id="{ABA2B256-3579-49AB-BFFD-39669B3119FF}" />
+      Value: 
     - ID: "e8794cf5-091f-47d1-a7e5-17b1c3b2c1d3"
       Hint: Description
       Value: |
