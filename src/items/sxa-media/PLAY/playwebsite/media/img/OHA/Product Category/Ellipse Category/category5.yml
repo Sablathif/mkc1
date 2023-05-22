@@ -34,6 +34,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: category5
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "53a9ef0a-a093-452c-8315-2c4013e469b2"
+      Value: "9f114936-0ad1-444b-b5db-f3a52c614ce3"

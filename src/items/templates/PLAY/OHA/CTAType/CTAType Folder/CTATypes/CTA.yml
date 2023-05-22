@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/PLAY/OHA/CTAType/CTAType Folder/CTATypes/CTA
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: /sitecore/content/OneWebHeadless/DefaultSite/Data/CTATypes
+  Value: /sitecore/content/PLAY/playwebsite/Global Data/CTATypes
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: Treelist
@@ -20,4 +20,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5b7f7fc8-9508-433c-af02-46e38f062954"
+      Value: "b963107d-ebd2-4ddf-bd63-84a32b189076"
