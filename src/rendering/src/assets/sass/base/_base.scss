@@ -60,9 +60,9 @@
         position: relative;
     }
 
-    body:not(.loaded) * {
-        transition: all 0s !important;
-    }
+    // body:not(.loaded) * {
+    //     transition: all 0s;
+    // }
 
     .loaded .page-wrapper {
         opacity: 1;
