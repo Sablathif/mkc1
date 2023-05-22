@@ -16,7 +16,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{F3754EF4-97FC-416E-91FC-95015030FA53}" />
+    <image mediaid="{40D89EC8-D25C-4E7B-94A0-B99B3E398112}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -41,6 +41,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
       Hint: __Final Renderings
       Value: |
@@ -72,10 +75,10 @@ Languages:
         </r>
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{F103752C-F458-47E0-B322-99785275BDB9}"
+      Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0f24a04b-0f40-422a-8cb9-9ea02660e49b"
+      Value: "a8de2237-f057-4f60-b986-611d08a3bca7"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Blog Page
@@ -83,8 +86,7 @@ Languages:
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
-      Value: |
-        <r owner="sitecore\nawaz.mehdi@altudo.co" date="20230503T071038Z" />
+      Value: <r />
     - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
       Hint: __Final Renderings
       Value: |
@@ -116,10 +118,10 @@ Languages:
         </r>
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{F103752C-F458-47E0-B322-99785275BDB9}"
+      Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "94f01c21-dc08-4229-a9a8-b72aff7d0aa5"
+      Value: "1999043e-9660-48ad-890b-e66bfdcb00d5"
     - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
       Hint: __Valid from
       Value: 20230503T070305Z
@@ -130,6 +132,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
       Hint: __Final Renderings
       Value: |
@@ -161,10 +166,10 @@ Languages:
         </r>
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{F103752C-F458-47E0-B322-99785275BDB9}"
+      Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0bc5a230-7d86-4fc3-bb4c-3eb3d7023115"
+      Value: "20671d56-7d3a-4cce-9748-a6c6f14d4782"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Blog Page

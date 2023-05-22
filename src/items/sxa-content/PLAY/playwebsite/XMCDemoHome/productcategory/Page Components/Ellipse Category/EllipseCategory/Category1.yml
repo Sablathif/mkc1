@@ -11,7 +11,7 @@ Languages:
     - ID: "088927fc-d004-4fd9-93ad-b95c459acdcd"
       Hint: CTA
       Value: |
-        <link text="Fashion" anchor="" linktype="internal" class="" title=""  querystring="" id="{ABA2B256-3579-49AB-BFFD-39669B3119FF}" />
+        <link text="Product Category" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{74DFD13C-852B-4914-A65F-D5F3D0BC6CFD}" />
     - ID: "3eec8a78-b7a3-40d3-826d-004596069b0e"
       Hint: Title
       Value: Newborn Essentials
@@ -20,7 +20,7 @@ Languages:
       Value: 0 PRODUCTS
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "19e94d14-1371-492e-8805-5eab2132d197"
+      Value: "91f4e17e-927b-4653-a5ad-e05aed0ed9ca"
     - ID: "9a25dcf1-312f-40f7-a882-9e3234e02bc6"
       Hint: IconClass
       Value: 

@@ -35,10 +35,10 @@ Languages:
         <link class="" id="{2D1D7ACA-9597-5CA6-85B2-9B04907E4298}" querystring="" anchor="" target="" title="" linktype="internal" text="Action Link" url="/PLAY/playwebsite/home" />
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{F103752C-F458-47E0-B322-99785275BDB9}"
+      Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "931d958a-fd38-453a-b282-a3fd3579c956"
+      Value: "e5abdeac-7b95-4efd-91a6-63fbe2fb9aa3"
 - Language: "fr-CA"
   Versions:
   - Version: 1
@@ -60,7 +60,7 @@ Languages:
         <link class="" id="{2D1D7ACA-9597-5CA6-85B2-9B04907E4298}" querystring="" anchor="" target="" title="" linktype="internal" text="Action Link" url="/PLAY/playwebsite/home" />
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{F103752C-F458-47E0-B322-99785275BDB9}"
+      Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "fa398fe9-177c-4815-a788-6011710f5b8f"
+      Value: "907ebcd1-8b6c-41a1-853a-c55e144394a6"

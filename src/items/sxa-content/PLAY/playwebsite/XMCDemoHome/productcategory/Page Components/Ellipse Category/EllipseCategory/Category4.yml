@@ -11,7 +11,7 @@ Languages:
     - ID: "088927fc-d004-4fd9-93ad-b95c459acdcd"
       Hint: CTA
       Value: |
-        <link text="Fashion" anchor="" linktype="internal" class="" title=""  querystring="" id="{ABA2B256-3579-49AB-BFFD-39669B3119FF}" />
+        <link text="Product Category" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{15B20460-D0D7-4014-A63D-CEE29D88E146}" />
     - ID: "3eec8a78-b7a3-40d3-826d-004596069b0e"
       Hint: Title
       Value: Clothes
@@ -20,7 +20,7 @@ Languages:
       Value: 0 PRODUCTS
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "aab789e7-e095-4ae7-abb1-fe9b5c95452a"
+      Value: "f4dac5fe-8188-438b-9c9c-c7755a365a95"
     - ID: "9a25dcf1-312f-40f7-a882-9e3234e02bc6"
       Hint: IconClass
       Value: 

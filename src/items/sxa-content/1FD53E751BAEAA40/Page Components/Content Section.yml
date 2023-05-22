@@ -18,6 +18,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "05607296-e17f-567f-898f-46bb9665d619"
       Hint: title
       Value: Lorem ipsum dolor sit amet, consectetur
@@ -32,14 +35,17 @@ Languages:
         <link class="" id="{2D1D7ACA-9597-5CA6-85B2-9B04907E4298}" querystring="" anchor="" target="" title="" linktype="internal" text="Action Link" url="/PLAY/playwebsite/home" />
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{F103752C-F458-47E0-B322-99785275BDB9}"
+      Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "931d958a-fd38-453a-b282-a3fd3579c956"
+      Value: "7578139e-2fcf-4e0d-908b-17c9768ecce4"
 - Language: "fr-CA"
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "05607296-e17f-567f-898f-46bb9665d619"
       Hint: title
       Value: Lorem ipsum dolor sit amet, consectetur
@@ -54,7 +60,7 @@ Languages:
         <link class="" id="{2D1D7ACA-9597-5CA6-85B2-9B04907E4298}" querystring="" anchor="" target="" title="" linktype="internal" text="Action Link" url="/PLAY/playwebsite/home" />
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{F103752C-F458-47E0-B322-99785275BDB9}"
+      Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "fa398fe9-177c-4815-a788-6011710f5b8f"
+      Value: "0cb5dc1d-1677-4cb4-86f8-3bc6549545a6"
