@@ -1,0 +1,19 @@
+﻿---
+ID: "1573f204-815b-421b-893f-19e0f360a7e2"
+Parent: "fc0c38d4-d178-4412-a84e-c565547cb101"
+Template: "bd014d49-4308-454e-a3b4-3870950a9ebe"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/Page Components/Teaser Promo/Teaser Promo Home
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ec692b2-6fd0-4885-9dc6-a8d8b4eccc32"
+    - ID: "f2bc37d8-c48b-423a-8485-50801f2cfa58"
+      Hint: TeaserSections
+      Value: |
+        {DB6F82B4-7D48-4437-90B3-2FD1F3301EE9}
+        {E57D8654-9565-4B4E-A9CB-5E867EF00E15}
+        {20CCA546-90C0-43FA-B8D4-BEFBF0E8630C}

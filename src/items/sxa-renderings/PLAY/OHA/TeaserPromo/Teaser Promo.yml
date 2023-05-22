@@ -1,0 +1,23 @@
+﻿---
+ID: "4e292417-e5df-4ae7-8e6d-d5ffbdaa8553"
+Parent: "646a300e-9a05-4370-8c38-17ffb02f8c50"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Project/PLAY/OHA/TeaserPromo/Teaser Promo
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: TeaserPromo
+- ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
+  Hint: Rendering Contents Resolver
+  Value: 
+- ID: "f6677a49-0a1d-4bad-b8ba-4f0f22bdee64"
+  Hint: Additional compatible templates
+  Value: "{BD014D49-4308-454E-A3B4-3870950A9EBE}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1e55c5c4-cdb2-48b9-9c48-93f3efe7ac0e"

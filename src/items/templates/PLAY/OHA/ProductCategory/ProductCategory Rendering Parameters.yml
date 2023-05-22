@@ -12,7 +12,7 @@ SharedFields:
   Value: 
 - ID: "f7d48a55-2158-4f02-9356-756654404f73"
   Hint: __Standard values
-  Value: "{D78CF387-10B6-453B-A77D-E7519E2A2FBE}"
+  Value: "{F4B4F2C3-F341-4CAE-9FCA-A233E6F44F19}"
 Languages:
 - Language: en
   Versions:
@@ -20,4 +20,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3bc5b03a-fbe8-41d8-b33c-2989e73c5a8c"
+      Value: "1e548945-a3ab-4cd9-b671-a1d0fe834ccd"

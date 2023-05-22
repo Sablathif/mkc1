@@ -1,0 +1,17 @@
+﻿---
+ID: "fc0c38d4-d178-4412-a84e-c565547cb101"
+Parent: "5f48fe3c-c393-41e3-849a-5f5c48d255e1"
+Template: "cfb0a44b-074a-4e1b-ad9c-6575400a49eb"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/Page Components/Teaser Promo
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 25
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dad8fbb4-2e2a-40c8-bc3b-41585b213a11"

@@ -1,0 +1,13 @@
+﻿---
+ID: "960b6c06-7e1f-42f3-9b5a-96a4c77bf237"
+Parent: "c157c676-e857-4a70-8556-4cf35cc0acf0"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/Teaser Promo/TeaserPromoData/Teaser Promo Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ecb719b1-379b-4e41-9594-86b3858faa2b"

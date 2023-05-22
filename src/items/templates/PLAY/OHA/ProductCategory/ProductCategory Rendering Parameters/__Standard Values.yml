@@ -1,12 +1,8 @@
 ﻿---
-ID: "d78cf387-10b6-453b-a77d-e7519e2a2fbe"
+ID: "f4b4f2c3-f341-4cae-9fca-a233e6f44f19"
 Parent: "3fa258c6-f221-466a-8e81-d26372500cd2"
 Template: "3fa258c6-f221-466a-8e81-d26372500cd2"
 Path: /sitecore/templates/Project/PLAY/OHA/ProductCategory/ProductCategory Rendering Parameters/__Standard Values
-SharedFields:
-- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
-  Hint: __Default workflow
-  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
 Languages:
 - Language: en
   Versions:
@@ -14,4 +10,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6959a76b-c63e-45f7-b472-0552757428db"
+      Value: "02d2a1f1-5846-4e62-aec1-3c9ec15f52d4"

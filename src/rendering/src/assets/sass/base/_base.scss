@@ -663,4 +663,26 @@
             }
         }
     }
+
+    .intro-section{
+        .service-list{
+            .slick-slide{
+                &:not(:last-child){
+                    .icon-box{
+                        &:after{
+                            content: "";
+                            height: 37px;
+                            width: 1px;
+                            background: #e1e1e1;
+                            position: absolute;
+                            right: 0;
+                            top: 50%;
+                            -webkit-transform: translateY(-50%);
+                            transform: translateY(-50%);
+                        }
+                    }
+                }                
+            }
+        }
+    }
     

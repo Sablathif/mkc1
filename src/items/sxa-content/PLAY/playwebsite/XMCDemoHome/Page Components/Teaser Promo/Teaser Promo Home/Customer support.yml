@@ -1,0 +1,29 @@
+﻿---
+ID: "e57d8654-9565-4b4e-a9cb-5e867ef00e15"
+Parent: "1573f204-815b-421b-893f-19e0f360a7e2"
+Template: "c157c676-e857-4a70-8556-4cf35cc0acf0"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/Page Components/Teaser Promo/Teaser Promo Home/Customer support
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "6e626d2f-7ac5-4a1d-b267-ae7800f2a9af"
+      Hint: Description
+      Value: Instant access to perfect support
+    - ID: "899b32ba-b5cd-451b-8b1c-569c1d2810af"
+      Hint: IconClass
+      Value: "icon-box-icon d-icon-service"
+    - ID: "8bf539a9-574e-4f74-933e-17f051dd9870"
+      Hint: Image
+      Value: |
+        <image mediaid="{BEF580EB-ACC4-4057-AC2B-11ABEBDC567A}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2569bc08-dd79-401f-a6ac-d87f94d80791"
+    - ID: "bb04b3cf-13e6-464e-9c8b-7a9d4ca6e920"
+      Hint: Heading
+      Value: Customer Support 24/7
+    - ID: "f4d0f445-6d98-4e31-b77e-19b56398c56f"
+      Hint: Delay
+      Value: 400

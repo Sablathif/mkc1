@@ -1,0 +1,20 @@
+﻿---
+ID: "8ae49285-20cf-43db-a464-ce33b34aa2d0"
+Parent: "cfb0a44b-074a-4e1b-ad9c-6575400a49eb"
+Template: "cfb0a44b-074a-4e1b-ad9c-6575400a49eb"
+Path: /sitecore/templates/Project/PLAY/OHA/Teaser Promo/Teaser Promo Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{BD014D49-4308-454E-A3B4-3870950A9EBE}"
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{BD014D49-4308-454E-A3B4-3870950A9EBE}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4931b228-8ac7-4a56-9bbe-905a7a593f57"

@@ -1,12 +1,8 @@
 ﻿---
-ID: "09d240b9-45c1-547a-85e5-68ae84b1a9d0"
+ID: "62f65997-fa2f-4b5e-89b4-a831356f8d07"
 Parent: "2e1c9cc9-6ed6-5f7f-bc24-846066e73d60"
 Template: "2e1c9cc9-6ed6-5f7f-bc24-846066e73d60"
 Path: /sitecore/templates/Project/PLAY/OHA/BannerCategory/BannerCategory Rendering Parameters/__Standard Values
-SharedFields:
-- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
-  Hint: __Default workflow
-  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
 Languages:
 - Language: en
   Versions:
@@ -14,4 +10,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7b7df7ed-c59d-4f5f-8912-e005a26e188d"
+      Value: "f2759034-3305-4a63-8ed1-fbbeee54f8df"

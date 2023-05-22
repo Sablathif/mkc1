@@ -1,0 +1,20 @@
+﻿---
+ID: "c157c676-e857-4a70-8556-4cf35cc0acf0"
+Parent: "8492c9f6-615b-4bba-92dd-7b37acfc5dd6"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Teaser Promo/TeaserPromoData
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Imaging/32x32/layer_new.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c642a609-24ce-43e9-a23f-a0b562dd4720"

@@ -1,0 +1,42 @@
+﻿---
+ID: "166fd673-73c7-48f7-851a-8f3def6d123c"
+Parent: "850201d9-3305-4a98-97dd-3e4bd7fd350d"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/PLAY/playwebsite/media/img/OHA/TeaserPromo/Truck-icon"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/166FD67373C748F7851A8F3DEF6D123C.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 54
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "5beeb4d3-61a3-44fc-be32-4dabcf7a8775"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADYAAAAxCAYAAACRQFplAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARHSURBVGhD7VjNKz5RFP79LxbKwoKSJEUWNkqUBQqxsiCxICRsJEk+FixIFiLZCCkJUWIhIvmOEMn3t3B+Pad7pzHvnTHzGnlf5qnTO+/MPffe55xz7zn3/qNfCo9YsMEjFmzwiAUb/i6x19dX2t/fp9nZWddkZWWFHh4exAjfA0tiBwcHlJWVRSEhIa5LREQEDQ8P0/v7uxjNXZgSe3l5oerqauWk3JKYmBhaX18XI7oLU2IXFxeUlpbGExgfH3fVsufn55SZmcl9DwwMiLfuwhax+fl58dYdYH0VFxd7xPzB3yP29vZGl5eXTBAbiZv4UWJ6gOTa2poyJ0mBV+/v74WGNYzE0D9Si6pf5FDkUqewRWxxcZFCQ0N5IlbS1NQkNKyhJ9bV1UXl5eU+feklISGBpqam2AB2YYvY4+Mj9ff3U3Nzs6m0t7fT4eGh0LCGnlh4eLgPEZXAsI2NjTwXO7BFzG3oiUFQhUxPTytz5cnJCVVVVWlt6+vrbZFTEkNMd3Z2UmpqqqlkZ2fT7u6u0HAGPbHo6GiamJhgUsvLy9yvHCM9PZ0GBwd57fb29mrLARHy2bpTEsMuWFtbq1lJJZjQ0tKS0HAG4+Yh0dDQ4DMOBGvw6uqKCeE/whcetsKPh6KRGETi+fmZOjo62FM9PT10d3dHpaWlrJecnEzHx8eipS80YgsLC+x6fbgZpbu725Wa0S4xACGHTSMuLo62traYDEhBF7uwWUhqxJCHsIihYCYITzeStRNiAHJZUlIStbW1sWFHRkbYi4mJifxNhYAKRXhAb0ijQAe6qIjkOXF0dFRof0RAEUOo6XdFo8gNw0xfj4AiZhdfIhbI1b1HTIXPiKEar6io4NhHmkClcn19Lb5aQzUxFLgzMzOUl5fHfeIX/1WF77cRm5ub48oD3/SSkZFBp6enopU5UCIVFhayDiaGXNTS0qI8QajKpy8Rg/WxQ0G5pqaGz0YbGxtclKakpHDOGxsb40Ex0dbWVp5YZWUl/8fdofFsJaWvr4/10R5Gw26HZ3h+Z2eHvbS3t0f5+fn8HnkLOyaStJ60X8SAoaGhD1ZE8pycnORnmSwlQKagoIDi4+NpdXVVs6iV5OTk8I0VDBcVFcVFsB64msMVHcoo9GkkhgS9vb0tWn+EJTF4A+TQAToCMVgIz6p1h+8wBDxgRSwsLIzq6uro7OxMCyuEPcJfD7kccnNz6ejoiMeUXsfzzc2NaOkLS2IqINNjcqgb9UDBWlZWxh5zcpxBiYZNSHV5KsMPHnt6ehJv7cExMVm3YUBYDeGINYETNrwF68MLTiBrv6KiIvYicHt7SyUlJWxEXIU7hWNiAHZFWTBHRkZqzwjZzc1N0co+YAiEJvqAxMbGamsb3sL6dQq/iMnTLhY/JgBiCCe7dx4qIJRxWpbrGb+46LF7x2GEX8SCAR6xYINHLNjgEQs2eMSCDb+UGNF/XuB+8MnwJlEAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1202
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: PNG
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 54 x 49
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 49
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Truck icon
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb51d378-73fc-40d9-ae5d-01c8ac5bf374"
