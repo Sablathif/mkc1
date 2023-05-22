@@ -1,0 +1,13 @@
+﻿---
+ID: "710fb229-b3c2-4c51-9e02-283853fa41d7"
+Parent: "8cc07eef-5402-4665-a8fa-d9bb845166db"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/PLAY/playwebsite/Global Data/IconClasses
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5cfb153e-9e4e-43b4-bdda-6c7d8cb03286"

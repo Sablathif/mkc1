@@ -1,0 +1,17 @@
+﻿---
+ID: "8ae40f3a-c0c1-41ba-b4f0-25978b7bdcda"
+Parent: "1e87a4bf-c8ed-486f-8cb7-8865bf76368f"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/Accordion/Accordion
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "79b9d50d-96a3-47e0-a78a-31497d1b26c1"

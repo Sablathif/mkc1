@@ -1,0 +1,23 @@
+﻿---
+ID: "8c3706bb-5003-4a51-9377-12ec643cf4fc"
+Parent: "bda88df9-f73b-4231-9e40-30cb03b64aad"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/Accordion/Accordion/Data/AccordionCard
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "query:/sitecore/content/PLAY/playwebsite/XMCDemoHome//*[@@templatename='AccordionCard']"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Multilist
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "073c37e7-333b-487e-9942-3c8dc385bc2e"
