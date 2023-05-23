@@ -7,7 +7,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{715EF47F-3447-4A15-9CE5-0FB6B64A29F8}" />
+    <image mediaid="{AF18A9DC-9758-43A0-BA42-562C176660C4}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -17,7 +17,7 @@ SharedFields:
         id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
         <r
           uid="{5ED0A33A-5A27-4EA6-A3D8-C1C3959246D8}"
-          s:ds="{3558BABD-991F-438D-908F-3502587C10B7}"
+          s:ds=""
           s:id="{2F9D05FD-8E58-56CC-B586-41A3EC155CD7}"
           s:par=""
           s:ph="/headless-main"
@@ -47,7 +47,7 @@ Languages:
         </r>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4b9d7031-e99a-4ef3-940a-08fef242bda4"
+      Value: "5678dbac-1b54-48a1-912f-0f99077dbbb3"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Blogs

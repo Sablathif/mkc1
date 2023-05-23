@@ -13,7 +13,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{178235BD-2F5B-4D00-B8D8-4B18FE1407F4}" />
+    <image mediaid="{868895D6-A3E0-4F4D-BE16-697329EC76BF}" />
 - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
   Hint: __Default workflow
   Value: 
@@ -26,7 +26,7 @@ SharedFields:
         id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
         <r
           uid="{5ED0A33A-5A27-4EA6-A3D8-C1C3959246D8}"
-          s:ds="{1F8DF300-A8B1-4048-B30C-604D42444E33}"
+          s:ds=""
           s:id="{2F9D05FD-8E58-56CC-B586-41A3EC155CD7}"
           s:par=""
           s:ph="/headless-main"
@@ -66,7 +66,7 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5b7e760a-1ef2-4a9f-b460-455b3ef255a3"
+      Value: "e187853b-3681-4ff5-83a7-df6d2a4f6813"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Womens Trending Sunglasses And Clothing

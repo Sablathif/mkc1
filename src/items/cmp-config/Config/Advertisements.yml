@@ -7,7 +7,7 @@ BranchID: "875e0f89-f23b-476b-9bf9-e991a107f693"
 SharedFields:
 - ID: "3f883dcb-c341-4929-9216-d07f4f1b00be"
   Hint: Bucket
-  Value: "{D0E54914-8373-4E4B-9DDE-91E57437CED2}"
+  Value: 
 - ID: "9e009c2f-ad3c-4108-aa48-15689c1d4e1b"
   Hint: EntityTypeSchema
   Value: M.ContentType.Advertisement
@@ -24,4 +24,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "06358848-9e86-480d-a28b-3cd991a44f46"
+      Value: "26150c5e-807d-46f8-99c7-999b5fc63646"

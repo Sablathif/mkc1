@@ -15,7 +15,7 @@ Languages:
     - ID: "01f53240-7eea-4dfe-859f-9387b216b8de"
       Hint: ctaLink
       Value: |
-        <link text="exploreaccessories1" anchor="" linktype="internal" class="" title="exploreaccessories1" target="" querystring="" id="{D70C9648-72FF-4F37-B501-189E173FA019}" />
+        <link class="" querystring="" id="{D70C9648-72FF-4F37-B501-189E173FA019}" anchor="" target="" title="exploreaccessories1" linktype="internal" text="exploreaccessories1" url="/PLAY/playwebsite/XMCDemoHome/Blogs/listing/spendingtime" />
     - ID: "1670a234-cf87-431c-8264-548949417903"
       Hint: blogimages
       Value: |
@@ -39,7 +39,7 @@ Languages:
       Value: Fashion
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "dc0cd440-c483-4122-ab70-80e3aacc0529"
+      Value: "b8bb53b5-44ef-41be-be23-68f15b8d52c2"
     - ID: "8fd5f032-4da3-4422-9f8b-2476f85b346d"
       Hint: postType
       Value: image

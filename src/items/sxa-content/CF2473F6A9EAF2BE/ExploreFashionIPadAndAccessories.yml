@@ -1,8 +1,8 @@
 ﻿---
-ID: "62f1c814-0045-440f-a8a5-e750aedcfdc3"
-Parent: "0d0d8eb7-5676-4eb8-acf3-02371b3af2ff"
+ID: "7a286300-341f-4724-b0a3-447eef7e0567"
+Parent: "cac64c16-6b06-4aee-94b5-2d615d6a614b"
 Template: "f20e7c85-7105-5375-a3d0-42fd54d93287"
-Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/Blogs/listing/autum22/Page Components/SkiToolsForEveryone_OriginalContent
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/Blogs/listing/exploreaccessories/Page Components/ExploreFashionIPadAndAccessories
 SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
@@ -67,41 +67,41 @@ Languages:
     - ID: "0ed1b546-4713-470c-bccd-2c02e3d0dede"
       Hint: Image
       Value: |
-        <image mediaid="{807F1790-0B1B-4D99-919F-8B4A13C38650}" />
+        <image mediaid="{05BBD39F-E2BB-40B2-9D7B-1A4164C5AF53}" />
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: 
     - ID: "599645ec-e5c9-4b25-a0eb-8c482ecca83e"
       Hint: Title
-      Value: Explore Fashion Trending For Women In Autumn 2022
+      Value: Explore Fashion IPad And Accessories
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e1822982-a6d4-41cc-ad6f-c1c2aa703bf9"
+      Value: "d405d229-c5f1-47ea-b8c2-c9a97c71de12"
     - ID: "b2482950-04a1-433b-bb34-b27b64ee63c0"
       Hint: Description
       Value: |
-        <p class="mb-5" style="color: #666666; margin-right: 0px; margin-bottom: 2.5rem; margin-left: 0px; text-align: justify; line-height: 1.72;">
-        </p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
-        <p>&nbsp;</p>
-        <h4>Quisque volutpat mattiseros.</h4>
-        <p>Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.</p>
-        <p>&nbsp;</p>
-        <h4>More Details</h4>
-        <ul>
+        <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+         
+        Quisque volutpat mattiseros.
+        Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
+         
+        More Details
+        
             <li>Tdio vulputate eleifend in in tortor. ellus massa.</li>
             <li>Massa ristique sit amet condim vel</li>
             <li>Dilisis Facilisis quis sapien. Praesent id enim sit amet</li>
             <li>Praesent id enim sit amet.</li>
             <li>Tdio vulputate eleifend in in tortor. ellus massa.</li>
-        </ul>
-        <p>&nbsp;</p>
-        <p>Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, fermentum et, dapibus sed, urna. Morbi interdum mollis sapien. Sed ac risus. Phasellus lacinia, magna a ullamcorper laoreet, lectus arcu pulvinar risus, vitae facilisis libero dolor a purus.</p>
-        <p>&nbsp;</p>
+        
+         
+        Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, fermentum et, dapibus sed, urna. Morbi interdum mollis sapien. Sed ac risus. Phasellus lacinia, magna a ullamcorper laoreet, lectus arcu pulvinar risus, vitae facilisis libero dolor a purus.
+        </p>
+        
     - ID: "bc123ba0-350f-495d-a0df-a0249442ce67"
       Hint: Date
-      Value: March 12,2022
+      Value: March 12,2021
 - Language: "fr-CA"
   Versions:
   - Version: 1

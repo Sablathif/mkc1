@@ -22,14 +22,14 @@ Languages:
       Hint: Slides
       Value: |
         {015FEEC5-4367-4B3D-AB3E-9A0EB067CF3C}
-        {DA4E02AE-E63F-4D75-9CA8-0352237CB15C}
-        {03E9DF7B-3D3D-46C9-AC34-8C26F06FFA6B}
+        {4A06032B-722D-4E6B-9AB5-A682E02B2BC2}
+        {6966F218-828B-40DC-BEA1-8D6DB95176CB}
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7f713274-e799-43b4-89d7-826d44684a0b"
+      Value: "bc563c60-7298-47e3-8c92-a52f45a0c7f9"
 - Language: "fr-CA"
   Versions:
   - Version: 1
@@ -39,13 +39,10 @@ Languages:
       Value: <r />
     - ID: "35f22051-5d55-4d35-b8b6-54e897b83dc5"
       Hint: Slides
-      Value: |
-        {D6415DBC-4B5C-448E-A458-490A62561DF7}
-        {DA4E02AE-E63F-4D75-9CA8-0352237CB15C}
-        {03E9DF7B-3D3D-46C9-AC34-8C26F06FFA6B}
+      Value: 
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "035b10dd-36bd-45e5-b484-03faa37b4b76"
+      Value: "15a0d22c-1323-4ac7-8ba6-08690b140f9f"

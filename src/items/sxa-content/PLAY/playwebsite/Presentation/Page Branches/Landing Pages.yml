@@ -13,8 +13,7 @@ SharedFields:
         <conditions>
           <condition
             id="{7D5DA661-BEF9-441C-B1F7-D80DE3E0972F}"
-            uid="1D7DC83C5ECB44469E936660807E4D2D"
-            itemid="{4D587C56-3717-41CB-936C-5D0412A50B6B}" />
+            uid="1D7DC83C5ECB44469E936660807E4D2D" />
         </conditions>
         <actions>
           <action
@@ -39,4 +38,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "88f642f3-59d8-4359-8d89-6aa9c8b701ff"
+      Value: "1c80fef5-d41f-49b6-8739-ba926214821f"

@@ -37,10 +37,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "be27d448-91c6-40f6-bb2a-d5a73d8b00dd"
+      Value: "7e5d6054-0ffe-4a0a-847c-e967383a9054"
     - ID: "e4f4ae10-0e66-4e6a-af4c-11fec20ff37f"
       Hint: Banners
-      Value: |
-        {6D6E8E53-EB8B-4AF6-B019-07AEC0074439}
-        {E92C0FA3-EAAF-4493-8B8C-029504EC7C0C}
-        {FAA0D916-C6FA-4991-A845-E97D9D30EFC8}
+      Value: 

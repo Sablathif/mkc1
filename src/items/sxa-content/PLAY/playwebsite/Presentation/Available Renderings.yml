@@ -3,6 +3,10 @@ ID: "d1d2140c-755e-43f6-8b45-9742188684fa"
 Parent: "8fb503df-d132-4fc1-a096-18c8b8f19873"
 Template: "26ec1d18-11b2-4dd9-8326-f6115f4fd7eb"
 Path: /sitecore/content/PLAY/playwebsite/Presentation/Available Renderings
+SharedFields:
+- ID: "7147ca94-cd06-4aba-8af3-e179a24f4de5"
+  Hint: IsShared
+  Value: 
 Languages:
 - Language: en
   Versions:
@@ -10,4 +14,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3c377cbb-e11d-477d-9e9a-3a1126c9834d"
+      Value: "cc1a2e00-fc18-4a57-8830-3b58895939e0"

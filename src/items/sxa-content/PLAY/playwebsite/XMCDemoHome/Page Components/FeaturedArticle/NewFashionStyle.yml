@@ -15,7 +15,7 @@ Languages:
     - ID: "01f53240-7eea-4dfe-859f-9387b216b8de"
       Hint: ctaLink
       Value: |
-        <link text="autum21" anchor="" linktype="internal" class="" title="autum21" target="" querystring="" id="{56BDD3D8-7905-489D-9C6B-20248E044FC3}" />
+        <link class="" querystring="" id="{56BDD3D8-7905-489D-9C6B-20248E044FC3}" anchor="" target="" title="autum21" linktype="internal" text="autum21" url="/PLAY/playwebsite/XMCDemoHome/Blogs/listing/sunglasses" />
     - ID: "1670a234-cf87-431c-8264-548949417903"
       Hint: blogimages
       Value: |
@@ -40,7 +40,7 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f514cb03-97bf-401f-9952-24208da8949d"
+      Value: "0101cecd-6e3d-498c-ba4e-57647670ab1e"
     - ID: "8fd5f032-4da3-4422-9f8b-2476f85b346d"
       Hint: postType
       Value: image

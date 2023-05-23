@@ -26,7 +26,7 @@ SharedFields:
         id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
         <r
           uid="{5ED0A33A-5A27-4EA6-A3D8-C1C3959246D8}"
-          s:ds="{2E92165A-6EFE-4DA0-A801-34C78088609B}"
+          s:ds=""
           s:id="{2F9D05FD-8E58-56CC-B586-41A3EC155CD7}"
           s:par=""
           s:ph="/headless-main"
@@ -60,13 +60,13 @@ Languages:
               p:before="*"
               s:ds="{AF8CC5C3-3121-4DBF-8C59-3AC009E6B3C8}"
               s:id="{60E46443-0BAD-5861-823D-75F620401573}"
-              s:par="GridParameters&amp;BannerType=BannerWithoutCTA&amp;FieldNames&amp;Styles&amp;CSSStyles"
+              s:par="FieldNames&amp;CacheClearingBehavior=Clear+on+publish&amp;Styles&amp;CSSStyles&amp;GridParameters&amp;BannerType=BannerWithoutCTA"
               s:ph="headless-main"
               s:ccb="Clear on publish" />
             <r
               uid="{3E86CBD8-4A97-4F0F-85F8-37EBC7B3FDE7}"
               p:after="r[@uid='{A778DA15-EFA7-43EF-B52D-A6FB91C2B3F8}']"
-              s:ds="{2C973A52-F264-48DA-ADB6-2418A2C6D472}"
+              s:ds=""
               s:id="{2F9D05FD-8E58-56CC-B586-41A3EC155CD7}"
               s:par="FieldNames&amp;CacheClearingBehavior=Clear+on+publish&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles"
               s:ph="headless-main"
@@ -84,7 +84,7 @@ Languages:
               p:after="r[@uid='{BFBC7DA7-D414-4BAB-BF76-D8BE36F51F75}']"
               s:ds="{7421BC99-2E33-4365-99E9-D0A87922C0C7}"
               s:id="{1C1FC053-EC78-4B8F-AB05-6CEF601D9B2B}"
-              s:par="CSSStyles"
+              s:par="CacheClearingBehavior=Clear+on+publish&amp;CSSStyles"
               s:ph="headless-main"
               s:ccb="Clear on publish" />
             <r
@@ -92,7 +92,7 @@ Languages:
               p:after="*[1=2]"
               s:ds="{F14EA3FD-9973-49A4-9F3D-A3B92F7A6B5F}"
               s:id="{9D08882D-839D-40C2-817F-C51A6E51F769}"
-              s:par="GridParameters&amp;ListingType=Ellipse&amp;FieldNames&amp;Styles&amp;CSSStyles"
+              s:par="FieldNames&amp;CacheClearingBehavior=Clear+on+publish&amp;Styles&amp;CSSStyles&amp;GridParameters&amp;ListingType=Ellipse"
               s:ph="headless-main"
               s:ccb="Clear on publish" />
           </d>
@@ -102,7 +102,7 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "04b110e8-ea13-4946-bd82-40b53c7f8ad1"
+      Value: "67354ef2-594c-44f4-96f6-e523139a2304"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Product Page

@@ -34,6 +34,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: slide1
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "694fb52f-d6f9-46ef-8342-b0eb5f3d994c"
+      Value: "8e37abaf-567a-43e9-8d9d-a16d41900eb3"

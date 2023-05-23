@@ -1,12 +1,12 @@
 ﻿---
-ID: "169bdc41-10a0-4629-9b8e-d6e9eb04d6fe"
-Parent: "a5a863df-b18c-428b-85ec-f8843db28bfe"
+ID: "06a547df-6f07-433a-8cda-e23a39cd9e82"
+Parent: "9a593fea-0b08-47f7-8e5c-6af63fcf81d8"
 Template: "0b8a5ed2-fb6c-412f-a64b-cbeac7e3c3af"
-Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/Page Components/FeaturedArticle/CouponforCyberWeek
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/Blogs/listing/Page Components/BlogList/TheBestChoiceForSpendingTime
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: "-150"
+  Value: 25
 Languages:
 - Language: en
   Versions:
@@ -15,20 +15,20 @@ Languages:
     - ID: "01f53240-7eea-4dfe-859f-9387b216b8de"
       Hint: ctaLink
       Value: |
-        <link class="" querystring="" id="{1386EB48-E5BF-4872-A75F-426B233557CE}" anchor="" target="" title="CyberWeek" linktype="internal" text="CyberWeek" url="/PLAY/playwebsite/XMCDemoHome/Blogs/listing/autum22" />
+        <link class="" querystring="" id="{D70C9648-72FF-4F37-B501-189E173FA019}" anchor="" target="" title="" linktype="internal" text="" url="/PLAY/playwebsite/XMCDemoHome/Blogs/listing/spendingtime" />
     - ID: "1670a234-cf87-431c-8264-548949417903"
       Hint: blogimages
       Value: |
-        <image mediaid="{60A0789E-A594-4008-89EE-0B293AC5A20B}" />
+        <image mediaid="{2F1DE314-B0B8-40EB-B202-C2EB9650059C}" />
     - ID: "256a15ab-17cd-4381-bfc8-2dc609c92842"
       Hint: imageList
-      Value: "{821D0878-7D91-4167-A85A-E41463F4FBF9}"
+      Value: "{2F1DE314-B0B8-40EB-B202-C2EB9650059C}"
     - ID: "3b32ddd8-cba3-4f47-8e51-00d5afbab3d4"
       Hint: date
-      Value: 
+      Value: 20230212T183000Z
     - ID: "53c6dbd6-739a-457a-b2d5-b248d9321690"
       Hint: author
-      Value: 
+      Value: JOHN DOE
     - ID: "6a6ae7eb-51e0-4a2c-8331-e71c5c0cf763"
       Hint: ctaText
       Value: Read More
@@ -40,22 +40,22 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "49a7aa71-6022-4358-8fc6-6d068f2ded8e"
+      Value: "de81f574-bb05-4a44-abaa-a336bf03a3b3"
     - ID: "8fd5f032-4da3-4422-9f8b-2476f85b346d"
       Hint: postType
       Value: image
     - ID: "9ba7797c-0d25-470a-b894-b3b169db6782"
       Hint: day
-      Value: 5
+      Value: 3
     - ID: "d17b0da0-ed56-4daf-b701-3b5d0ba53bcd"
       Hint: month
-      Value: Mar
+      Value: Apr
     - ID: "d2c80f61-20b6-4c77-b935-508aaf90a7e8"
       Hint: heading
-      Value: Explore Fashion Trending For Women In Autumn 2021
+      Value: The Best Choice For Spending Time
     - ID: "d38f4785-8c9d-4ee7-ae06-64ab2946f5be"
       Hint: comment
-      Value: 
+      Value: 3
     - ID: "dee18293-2839-4fcc-bc8f-e2aba1882f15"
       Hint: description
-      Value: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit.
+      Value: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi.
