@@ -15,7 +15,7 @@ Languages:
     - ID: "01f53240-7eea-4dfe-859f-9387b216b8de"
       Hint: ctaLink
       Value: |
-        <link class="" querystring="" id="{1386EB48-E5BF-4872-A75F-426B233557CE}" anchor="" target="" title="CyberWeek" linktype="internal" text="CyberWeek" url="/PLAY/playwebsite/XMCDemoHome/Blogs/listing/autum22" />
+        <link class="" id="{1386EB48-E5BF-4872-A75F-426B233557CE}" querystring="" anchor="" target="" title="CyberWeek" linktype="internal" text="CyberWeek" url="/PLAY/playwebsite/XMCDemoHome/listing/autum22" />
     - ID: "1670a234-cf87-431c-8264-548949417903"
       Hint: blogimages
       Value: |
@@ -40,7 +40,7 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "49a7aa71-6022-4358-8fc6-6d068f2ded8e"
+      Value: "138913c8-d162-45fc-a70e-149d16da5186"
     - ID: "8fd5f032-4da3-4422-9f8b-2476f85b346d"
       Hint: postType
       Value: image

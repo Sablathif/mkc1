@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/PLAY/OHA/Banner/Banner List/Banners/Banners
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: /sitecore/content/PLAY/playwebsite/XMCDemoHome/Page Components/Deal Section
+  Value: .
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: Multilist
@@ -20,4 +20,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3bcf8a05-1265-4f03-9d05-dff56bf5e7cc"
+      Value: "fa379fd3-3391-47dd-961e-e996bfee2a92"

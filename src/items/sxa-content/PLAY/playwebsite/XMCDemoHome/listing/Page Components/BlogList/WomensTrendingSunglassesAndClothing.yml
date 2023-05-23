@@ -1,12 +1,12 @@
 ﻿---
-ID: "abd4a3b4-9e54-4023-867f-978651f9b883"
-Parent: "a5a863df-b18c-428b-85ec-f8843db28bfe"
+ID: "818eb49d-220a-4dcb-ac94-953048cf609e"
+Parent: "9a593fea-0b08-47f7-8e5c-6af63fcf81d8"
 Template: "0b8a5ed2-fb6c-412f-a64b-cbeac7e3c3af"
-Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/Page Components/FeaturedArticle/NewFashionStyle
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/listing/Page Components/BlogList/WomensTrendingSunglassesAndClothing
 SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 550
+  Value: 38
 Languages:
 - Language: en
   Versions:
@@ -15,17 +15,17 @@ Languages:
     - ID: "01f53240-7eea-4dfe-859f-9387b216b8de"
       Hint: ctaLink
       Value: |
-        <link class="" id="{56BDD3D8-7905-489D-9C6B-20248E044FC3}" querystring="" anchor="" target="" title="autum21" linktype="internal" text="autum21" url="/PLAY/playwebsite/XMCDemoHome/listing/sunglasses" />
+        <link class="" id="{56BDD3D8-7905-489D-9C6B-20248E044FC3}" querystring="" anchor="" target="" title="" linktype="internal" text="" url="/PLAY/playwebsite/XMCDemoHome/listing/sunglasses" />
     - ID: "1670a234-cf87-431c-8264-548949417903"
       Hint: blogimages
       Value: |
-        <image mediaid="{D9FA6A73-6172-4322-A179-A7DC0E51C8C2}" />
+        <image mediaid="{18184D7B-DB4A-4444-A507-EEC88A0A06F4}" />
     - ID: "256a15ab-17cd-4381-bfc8-2dc609c92842"
       Hint: imageList
-      Value: "{F17C05D3-81E1-4D49-BBDF-524410717A3C}"
+      Value: "{18184D7B-DB4A-4444-A507-EEC88A0A06F4}"
     - ID: "3b32ddd8-cba3-4f47-8e51-00d5afbab3d4"
       Hint: date
-      Value: 20230212T183000Z
+      Value: 20230213T183000Z
     - ID: "53c6dbd6-739a-457a-b2d5-b248d9321690"
       Hint: author
       Value: JOHN DOE
@@ -35,27 +35,24 @@ Languages:
     - ID: "6c0dbf9c-6b79-426f-9842-39ec20e9ba0b"
       Hint: blogCategoryList
       Value: Fashion
-    - ID: "819c5ccc-843d-4b4b-91d2-84a7809ee862"
-      Hint: video
-      Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8260dc93-2b6d-4a20-afa2-7a5c0b96d2e0"
+      Value: "580c59b3-2bff-4cb8-9a53-ae9215e32b88"
     - ID: "8fd5f032-4da3-4422-9f8b-2476f85b346d"
       Hint: postType
       Value: image
     - ID: "9ba7797c-0d25-470a-b894-b3b169db6782"
       Hint: day
-      Value: 4
+      Value: 12
     - ID: "d17b0da0-ed56-4daf-b701-3b5d0ba53bcd"
       Hint: month
-      Value: Mar
+      Value: Apr
     - ID: "d2c80f61-20b6-4c77-b935-508aaf90a7e8"
       Hint: heading
-      Value: Womens Trending Sunglasses And Clothing
+      Value: Women’s Trending Sunglasses And Clothing
     - ID: "d38f4785-8c9d-4ee7-ae06-64ab2946f5be"
       Hint: comment
-      Value: 3
+      Value: 2
     - ID: "dee18293-2839-4fcc-bc8f-e2aba1882f15"
       Hint: description
-      Value: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit.
+      Value: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi.
