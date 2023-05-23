@@ -25,7 +25,7 @@ query SearchQuery
             operator: EQ
           },
           { name: "Category", value: $keyword, operator: CONTAINS },
-          { name: "Title", value: $keyword, operator: CONTAINS },
+         
         ]
       },
       first: $limit
@@ -66,27 +66,31 @@ query SearchQuery
       path
     }
   }
-}
-`;
+}`;
 
 const SearchListing = () => {
+  const router = useRouter();
   const API_KEY = '1047AEE5-9BCD-4DBF-9744-A26E12B79AB6';
   const API_URL = `https://cm.xmcloudcm.localhost/sitecore/api/graph/edge?sc_apikey=${API_KEY}`;
- 
+  const [searchTerm, setSearchTerm] = useState('');
   const [results, setResults] = useState([]);
   const [displayedResults, setDisplayedResults] = useState([]);
   const [limit, setLimit] = useState(10);
-  const router = useRouter();
-  const [searchTerm, setSearchTerm] = useState('');
+  const [state, setState] = useState(false);
 
-  
   useEffect(() => {
-    const queryString = router.asPath.split('=')[1];    
-    if(queryString != null && queryString != ''){
-    setSearchTerm(queryString);    
-    handleSearch();
+    setState(true);
+  }, []);
+
+  useEffect(() => {
+    const queryString = router?.asPath?.split('=')[1];
+    if (queryString !== null && queryString !== '' && queryString !== undefined) {
+      setSearchTerm(queryString);
+      handleSearch();
     }
-   
+  }, [state]);
+
+  useEffect(() => {
     setDisplayedResults(results?.slice(0, limit));
   }, [results, limit]);
 
@@ -95,8 +99,7 @@ const SearchListing = () => {
       pathname: '/Product Search',
       query: { search: searchTerm },
     });
-   
-    
+
     fetch(API_URL, {
       method: 'POST',
       headers: {
@@ -113,13 +116,13 @@ const SearchListing = () => {
       }),
     })
       .then((res) => res.json())
-      .then((data) => {       
+      .then((data) => {
         setResults(
           data?.data?.pageOne?.results?.filter((item: any) =>
             item?.name?.toLowerCase().includes(searchTerm.toLowerCase())
           )
         );
-       // setSearchTerm('');
+        //setSearchTerm('');
       })
       .catch((error) => console.error(error));
   };
@@ -127,11 +130,8 @@ const SearchListing = () => {
   const handleLoadMore = () => {
     setLimit(limit + 1);
   };
-
   return (
-    
     <>
-    
       <div className="pt-6">
         <input
           className="... ring-2 ring-pink-300 ring-inset"
@@ -195,4 +195,5 @@ const SearchListing = () => {
     </>
   );
 };
+
 export const Default = SearchListing;
