@@ -6,7 +6,7 @@ Path: /sitecore/templates/Project/PLAY/OHA/Search/Product/Product Detail Page/Pr
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: /sitecore/content/PLAY/playwebsite/sxastarter/Product Search/Page Components/product/Data/Products/Size
+  Value: /sitecore/content/PLAY/playwebsite/XMCDemoHome/Product Search/Page Components/product/Data/Products/Size
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: Droplist
@@ -20,4 +20,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7a6002ad-4a52-49d3-88d2-8c6ed65d8f95"
+      Value: "0520d208-fed7-4d7b-9f01-81dceeb54a74"
