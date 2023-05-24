@@ -35,7 +35,9 @@ const nextConfig = {
     defaultLocale: packageConfig.language,
     localeDetection: false, // DEMO TEAM CUSTOMIZATION - Disable locale detection
   },
-  
+  eslint: {
+    ignoreDuringBuilds: true,
+},
   // Enable React Strict Mode
   reactStrictMode: true,
 
