@@ -1,0 +1,152 @@
+﻿---
+ID: "7a286300-341f-4724-b0a3-447eef7e0567"
+Parent: "cac64c16-6b06-4aee-94b5-2d615d6a614b"
+Template: "f20e7c85-7105-5375-a3d0-42fd54d93287"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/listing/exploreaccessories/Page Components/ExploreFashionIPadAndAccessories
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01a40e95-016e-464a-b752-78a2300474bb"
+      Hint: Author
+      Value: JOHN DOE
+    - ID: "0ed1b546-4713-470c-bccd-2c02e3d0dede"
+      Hint: Image
+      Value: |
+        <image mediaid="{6A97B57F-615E-4336-8086-C54E1AFB8DE4}" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "599645ec-e5c9-4b25-a0eb-8c482ecca83e"
+      Hint: Title
+      Value: Pellentesque Fusce Suscipit.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c17b6da4-2292-44bb-90cb-256eb76f9c9b"
+    - ID: "b2482950-04a1-433b-bb34-b27b64ee63c0"
+      Hint: Description
+      Value: |
+        <p class="mb-5" style="color: #666666; margin-right: 0px; margin-bottom: 2.5rem; margin-left: 0px; text-align: justify; line-height: 1.72;">Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Suspendisse potenti. Sed egestas, ante et vulputate volutpat, uctus metus libero eu augue.</p>
+        <p class="mb-6" style="color: #666666; margin: 0px 0px 3rem; text-align: justify; line-height: 1.72;">Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a&nbsp;<a href="https://d-themes.com/react/riode/demo-1/blog/single/pellentesque-fusce-suscipit/#" style="color: #222222;">ultrices sagittis</a>, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, fermentum et, dapibus sed, urna.</p>
+        <div class="with-img row align-items-center" style="color: #666666; margin-right: -10px; margin-left: -10px;">
+        <div class="col-md-6 mb-6" style="width: 448.75px; margin-bottom: 3rem; padding-right: 10px; padding-left: 10px;"><figure style="margin: 0px auto;"><span class=" lazy-load-image-background opacity lazy-load-image-loaded" style="height: 415px; width: 336px;"><img alt="" src="-/media/5943B50204EB4763B6C30922B3DF18A3.ashx" "="" alt="post single image" width="336" height="415" class="float-left" style="background-color: #dee6e8; opacity: 1; height: auto;" /></span> <figcaption class="text-left mt-1" style="color: #999999; margin-top: 0.5rem;">Designe by&nbsp;<a href="https://d-themes.com/react/riode/demo-1/blog/single/pellentesque-fusce-suscipit/#" style="color: inherit; border-bottom: 1px solid #999999;">Casper Dalin</a></figcaption></figure></div>
+        <div class="col-md-6 mb-6" style="width: 448.75px; margin-bottom: 3rem; padding-right: 10px; padding-left: 10px;">
+        <h4 class="font-weight-semi-bold ls-s" style="color: #222222; margin: 0px 0px 2rem; letter-spacing: -0.01em; line-height: 1.2;">Quisque volutpat mattiseros.</h4>
+        <p class="mb-8 col-lg-11" style="margin: 0px 0px 4rem; text-align: justify; line-height: 1.72;">Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.</p>
+        <h4 class="font-weight-semi-bold ls-s" style="color: #222222; margin: 0px 0px 2rem; letter-spacing: -0.01em; line-height: 1.2;">More Details</h4>
+        <ul class="list list-type-check mb-6" style="margin: 0px 0px 3rem; padding: 0px; list-style-type: none; line-height: 1.82;">
+            <li style="margin-bottom: 0.3rem; padding-left: 2.4rem; text-align: justify;">Praesent id enim sit amet.</li>
+            <li style="margin-bottom: 0.3rem; padding-left: 2.4rem; text-align: justify;">Tdio vulputate eleifend in in tortor. ellus massa.</li>
+            <li style="margin-bottom: 0.3rem; padding-left: 2.4rem; text-align: justify;">Massa ristique sit amet condim vel</li>
+            <li style="margin-bottom: 0.3rem; padding-left: 2.4rem; text-align: justify;">Dilisis Facilisis quis sapien. Praesent id enim sit amet</li>
+            <li style="margin-bottom: 0.3rem; padding-left: 2.4rem; text-align: justify;">Praesent id enim sit amet.</li>
+            <li style="padding-left: 2.4rem; text-align: justify;">Tdio vulputate eleifend in in tortor. ellus massa.</li>
+        </ul>
+        </div>
+        </div>
+        <blockquote class="mt-1 mb-6 p-relative" style="color: #666666; margin: 0.5rem 0px 3rem; padding-left: 6rem;">
+        <p class="font-weight-semi-bold ls-m" style="margin-right: 0px; margin-bottom: 2rem; margin-left: 0px; text-align: justify; letter-spacing: -0.025em; line-height: 1.72;">&ldquo; Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. &rdquo;</p>
+        </blockquote>
+        <p style="color: #666666; margin: 0px 0px 2rem; text-align: justify; line-height: 1.72;">Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, fermentum et, dapibus sed, urna. Morbi interdum mollis sapien. Sed ac risus. Phasellus lacinia, magna a ullamcorper laoreet, lectus arcu pulvinar risus, vitae facilisis libero dolor a purus.</p>
+    - ID: "bc123ba0-350f-495d-a0df-a0249442ce67"
+      Hint: Date
+      Value: March 12,2021
+  - Version: 2
+    Fields:
+    - ID: "01a40e95-016e-464a-b752-78a2300474bb"
+      Hint: Author
+      Value: JOHN DOE
+    - ID: "0ed1b546-4713-470c-bccd-2c02e3d0dede"
+      Hint: Image
+      Value: |
+        <image mediaid="{05BBD39F-E2BB-40B2-9D7B-1A4164C5AF53}" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "599645ec-e5c9-4b25-a0eb-8c482ecca83e"
+      Hint: Title
+      Value: Explore Fashion IPad And Accessories
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d405d229-c5f1-47ea-b8c2-c9a97c71de12"
+    - ID: "b2482950-04a1-433b-bb34-b27b64ee63c0"
+      Hint: Description
+      Value: |
+        <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+         
+        Quisque volutpat mattiseros.
+        Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.
+         
+        More Details
+        
+            <li>Tdio vulputate eleifend in in tortor. ellus massa.</li>
+            <li>Massa ristique sit amet condim vel</li>
+            <li>Dilisis Facilisis quis sapien. Praesent id enim sit amet</li>
+            <li>Praesent id enim sit amet.</li>
+            <li>Tdio vulputate eleifend in in tortor. ellus massa.</li>
+        
+         
+        Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, fermentum et, dapibus sed, urna. Morbi interdum mollis sapien. Sed ac risus. Phasellus lacinia, magna a ullamcorper laoreet, lectus arcu pulvinar risus, vitae facilisis libero dolor a purus.
+        </p>
+        
+    - ID: "bc123ba0-350f-495d-a0df-a0249442ce67"
+      Hint: Date
+      Value: March 12,2021
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01a40e95-016e-464a-b752-78a2300474bb"
+      Hint: Author
+      Value: JOHN DOE
+    - ID: "0ed1b546-4713-470c-bccd-2c02e3d0dede"
+      Hint: Image
+      Value: |
+        <image mediaid="{6A97B57F-615E-4336-8086-C54E1AFB8DE4}" />
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "599645ec-e5c9-4b25-a0eb-8c482ecca83e"
+      Hint: Title
+      Value: Complete Set Of Ski Tools For Everyone
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d137deb0-6284-4abc-8cb7-74cc5db850e3"
+    - ID: "b2482950-04a1-433b-bb34-b27b64ee63c0"
+      Hint: Description
+      Value: |
+        <p class="mb-5" style="color: #666666; margin-right: 0px; margin-bottom: 2.5rem; margin-left: 0px; text-align: justify; line-height: 1.72;">Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Suspendisse potenti. Sed egestas, ante et vulputate volutpat, uctus metus libero eu augue.</p>
+        <p class="mb-6" style="color: #666666; margin: 0px 0px 3rem; text-align: justify; line-height: 1.72;">Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a&nbsp;<a href="https://d-themes.com/react/riode/demo-1/blog/single/pellentesque-fusce-suscipit/#" style="color: #222222;">ultrices sagittis</a>, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, fermentum et, dapibus sed, urna.</p>
+        <div class="with-img row align-items-center" style="color: #666666; margin-right: -10px; margin-left: -10px;">
+        <div class="col-md-6 mb-6" style="width: 448.75px; margin-bottom: 3rem; padding-right: 10px; padding-left: 10px;"><figure style="margin: 0px auto;"><span class=" lazy-load-image-background opacity lazy-load-image-loaded" style="height: 415px; width: 336px;"><img alt="" src="-/media/5943B50204EB4763B6C30922B3DF18A3.ashx" "="" alt="post single image" width="336" height="415" class="float-left" style="background-color: #dee6e8; opacity: 1; height: auto;" /></span> <figcaption class="text-left mt-1" style="color: #999999; margin-top: 0.5rem;">Designe by&nbsp;<a href="https://d-themes.com/react/riode/demo-1/blog/single/pellentesque-fusce-suscipit/#" style="color: inherit; border-bottom: 1px solid #999999;">Casper Dalin</a></figcaption></figure></div>
+        <div class="col-md-6 mb-6" style="width: 448.75px; margin-bottom: 3rem; padding-right: 10px; padding-left: 10px;">
+        <h4 class="font-weight-semi-bold ls-s" style="color: #222222; margin: 0px 0px 2rem; letter-spacing: -0.01em; line-height: 1.2;">Quisque volutpat mattiseros.</h4>
+        <p class="mb-8 col-lg-11" style="margin: 0px 0px 4rem; text-align: justify; line-height: 1.72;">Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.</p>
+        <h4 class="font-weight-semi-bold ls-s" style="color: #222222; margin: 0px 0px 2rem; letter-spacing: -0.01em; line-height: 1.2;">More Details</h4>
+        <ul class="list list-type-check mb-6" style="margin: 0px 0px 3rem; padding: 0px; list-style-type: none; line-height: 1.82;">
+            <li style="margin-bottom: 0.3rem; padding-left: 2.4rem; text-align: justify;">Praesent id enim sit amet.</li>
+            <li style="margin-bottom: 0.3rem; padding-left: 2.4rem; text-align: justify;">Tdio vulputate eleifend in in tortor. ellus massa.</li>
+            <li style="margin-bottom: 0.3rem; padding-left: 2.4rem; text-align: justify;">Massa ristique sit amet condim vel</li>
+            <li style="margin-bottom: 0.3rem; padding-left: 2.4rem; text-align: justify;">Dilisis Facilisis quis sapien. Praesent id enim sit amet</li>
+            <li style="margin-bottom: 0.3rem; padding-left: 2.4rem; text-align: justify;">Praesent id enim sit amet.</li>
+            <li style="padding-left: 2.4rem; text-align: justify;">Tdio vulputate eleifend in in tortor. ellus massa.</li>
+        </ul>
+        </div>
+        </div>
+        <blockquote class="mt-1 mb-6 p-relative" style="color: #666666; margin: 0.5rem 0px 3rem; padding-left: 6rem;">
+        <p class="font-weight-semi-bold ls-m" style="margin-right: 0px; margin-bottom: 2rem; margin-left: 0px; text-align: justify; letter-spacing: -0.025em; line-height: 1.72;">&ldquo; Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. &rdquo;</p>
+        </blockquote>
+        <p style="color: #666666; margin: 0px 0px 2rem; text-align: justify; line-height: 1.72;">Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, fermentum et, dapibus sed, urna. Morbi interdum mollis sapien. Sed ac risus. Phasellus lacinia, magna a ullamcorper laoreet, lectus arcu pulvinar risus, vitae facilisis libero dolor a purus.</p>
+    - ID: "bc123ba0-350f-495d-a0df-a0249442ce67"
+      Hint: Date
+      Value: March 12,2021
