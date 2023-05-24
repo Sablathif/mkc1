@@ -60,5 +60,6 @@ const BlogDetail = (props: BlogDetailProps): JSX.Element => (
     </div>
   </div>
 );
+
 export const Default = BlogDetail;
 // export default withDatasourceCheck()<BlogDetailProps>(BlogDetail);
