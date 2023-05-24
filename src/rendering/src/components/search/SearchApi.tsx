@@ -12,7 +12,8 @@ export async function search(query: any) {
   //let returnData = '';
 
   const graphQLClient: any = new GraphQLRequestClient(
-    'https://cm.xmcloudcm.localhost/sitecore/api/graph/edge/ide',
+    //'https://cm.xmcloudcm.localhost/sitecore/api/graph/edge/ide',
+    'https://xmc-14znhkjkgfiwyow0b42wwg.sitecorecloud.io/sitecore/api/graph/edge/ide',
     {
       apiKey: '{1047AEE5-9BCD-4DBF-9744-A26E12B79AB6}',
     }
