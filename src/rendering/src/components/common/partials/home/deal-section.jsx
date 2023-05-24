@@ -12,17 +12,16 @@ function DealSection(props) {
     <section className="banner-group mt-4">
       <div className="container">
         <h2 className="title d-none">Banner Group</h2>
-
         <div className="row justify-content-center">
           {banners?.map((data, index) => (
             <div className="col-lg-4 col-sm-6 mb-4" key={index}>
               <Reveal keyframes={fadeInLeftShorter} delay={200} duration={1000} triggerOnce>
                 <div
-                  className={`banner banner-fixed banner-radius content-middle overlay-zoom ${data.fields.BannerType.value}`}
+                  className={`banner banner-fixed banner-radius content-middle overlay-zoom ${data?.fields?.BannerType?.value}`}
                 >
                   <figure>
                     <LazyLoadImage
-                      src={'/-' + data.fields.BackgroundImage.value.src.split('/-').pop()}
+                      src={'/-' + data?.fields?.BackgroundImage?.value?.src?.split('/-').pop()}
                       alt="Banner Image"
                       effect="opacity, transform"
                       width={100}
@@ -30,25 +29,25 @@ function DealSection(props) {
                       loading="lazy"
                     />
                   </figure>
-                  {data.fields.BannerType.value.toLowerCase() == 'banner-4' ? (
+                  {data?.fields?.BannerType?.value?.toLowerCase() == 'banner-4' ? (
                     <>
                       {' '}
                       <div className="banner-content d-flex align-items-center w-100 text-left">
                         <div className="mr-auto mb-4 mb-md-0">
                           <h4 className="banner-subtitle text-white">
-                            {data.fields.SubTitle.value}
+                            {data?.fields?.SubTitle?.value}
                             <br />
-                            <span className="ls-l">{data.fields.Description.value}</span>
+                            <span className="ls-l">{data?.fields?.Description?.value}</span>
                           </h4>
                           <h3 className="banner-title text-primary font-weight-bold lh-1 mb-0">
-                            {data.fields.Title.value}
+                            {data?.fields?.Title?.value}
                           </h3>
                         </div>
                         <ALink
-                          href={data.fields.CTALink.value.href}
+                          href={data?.fields?.CTALink?.value?.href}
                           className="btn btn-primary btn-outline btn-rounded font-weight-bold text-white"
                         >
-                          {data.fields.CTAText.value}
+                          {data?.fields?.CTAText?.value}
                           <i className="d-icon-arrow-right"></i>
                         </ALink>
                       </div>
@@ -56,16 +55,16 @@ function DealSection(props) {
                   ) : (
                     <>
                       <div className="banner-content">
-                        <h3 className="banner-title text-white mb-1">{data.fields.Title.value}</h3>
+                        <h3 className="banner-title text-white mb-1">{data?.fields?.Title?.value}</h3>
 
                         <h4 className="banner-subtitle text-uppercase font-weight-normal text-white">
-                          {data.fields.SubTitle.value}
+                          {data?.fields?.SubTitle?.value}
                         </h4>
 
                         <hr className="banner-divider" />
 
                         <ALink
-                          href={data.fields.CTALink.value.href}
+                          href={data?.fields?.CTALink?.value?.href}
                           className="btn btn-white btn-link btn-underline"
                         >
                           {data.fields.CTAText.value}

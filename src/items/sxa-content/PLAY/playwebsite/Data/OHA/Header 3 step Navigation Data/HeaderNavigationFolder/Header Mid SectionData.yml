@@ -15,7 +15,7 @@ Languages:
     - ID: "0c0cef81-2018-4295-9f79-710a3b773854"
       Hint: CallUsNow
       Value: |
-        Call Us Now:<br />
+        Call Us Now:
         0(800) 123-456
     - ID: "7030ca3d-52c0-40c1-b455-1f1a11520d4c"
       Hint: WishList
@@ -26,4 +26,4 @@ Languages:
         <image mediaid="{2574004C-14A0-4364-BC61-F1E6E778F218}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "098bb541-4487-4454-834a-60a96f03470d"
+      Value: "0f0fec47-35d8-4d7a-a4b2-ba53c5247984"

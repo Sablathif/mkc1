@@ -14,12 +14,10 @@ Languages:
     Fields:
     - ID: "178cc816-eeda-42b0-9060-ae19d5180278"
       Hint: Buy
-      Value: |
-        <link text="Buy Riode!" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2D1D7ACA-9597-5CA6-85B2-9B04907E4298}" />
+      Value: 
     - ID: "45bb94af-0966-4ffa-a3fb-d944cd441836"
       Hint: SpecialOffers
-      Value: |
-        <link text="Special Offers" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2D1D7ACA-9597-5CA6-85B2-9B04907E4298}" />
+      Value: 
     - ID: "8aaadfa7-fd22-4415-be09-ad8d7f59f1d0"
       Hint: MainNavigationList
       Value: |
@@ -29,4 +27,4 @@ Languages:
         {1D3C3FAF-439D-46D5-A0AF-0C5E018DA6DC}
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "75ae0a69-d858-4a76-87d4-4265d5326955"
+      Value: "47ad8a9f-cf90-43a5-872c-d0306f5c7ff0"

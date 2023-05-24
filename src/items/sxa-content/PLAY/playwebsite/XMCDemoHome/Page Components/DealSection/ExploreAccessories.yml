@@ -1,0 +1,82 @@
+﻿---
+ID: "d3f17455-d415-4b5b-8b4e-8c9b4a6ec63e"
+Parent: "8c4248d7-d6da-4ef8-a91e-b1333db1d24e"
+Template: "61be6f7d-3a37-45f8-924f-f8fedc8f7a05"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/Page Components/DealSection/ExploreAccessories
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0ec71f-866d-42f1-940d-905d676de684"
+      Hint: Title
+      Value: Explore Accessories
+    - ID: "0ce13285-e8c1-4894-81d8-8d80beddc675"
+      Hint: CTAFlag
+      Value: 
+    - ID: "43736d85-57c3-4220-8972-9d4759c156ff"
+      Hint: CTALink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{44F0AAB5-B46A-4A73-88B1-94FF9B63F1FA}" />
+    - ID: "47fd91ea-1825-442d-9373-7c5c805830c8"
+      Hint: BackgroundImage
+      Value: |
+        <image mediaid="{583D0731-3410-49CA-B470-102297FDAF6F}" />
+    - ID: "52538d72-9bea-455f-8707-7a81d0a53508"
+      Hint: SubTitle
+      Value: 
+    - ID: "71415def-af8c-4e49-9ec7-7abab3b5ff6a"
+      Hint: BannerType
+      Value: "banner-3"
+    - ID: "71dcee88-aeba-40df-891b-6e85101bb19b"
+      Hint: CTAType
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b6995573-91a2-44da-b25f-a4f8eb8f24c2"
+    - ID: "df08957b-e019-4862-a95f-707922cc2b17"
+      Hint: CTAText
+      Value: Go To Blog
+    - ID: "e90ca7ff-8416-449c-8372-98d865400789"
+      Hint: Description
+      Value: 
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b0ec71f-866d-42f1-940d-905d676de684"
+      Hint: Title
+      Value: Sale
+    - ID: "0ce13285-e8c1-4894-81d8-8d80beddc675"
+      Hint: CTAFlag
+      Value: 1
+    - ID: "43736d85-57c3-4220-8972-9d4759c156ff"
+      Hint: CTALink
+      Value: |
+        <link text="Altudo" linktype="external" url="https://www.altudo.co/" anchor="" target="" />
+    - ID: "47fd91ea-1825-442d-9373-7c5c805830c8"
+      Hint: BackgroundImage
+      Value: |
+        <image mediaid="{583D0731-3410-49CA-B470-102297FDAF6F}" />
+    - ID: "52538d72-9bea-455f-8707-7a81d0a53508"
+      Hint: SubTitle
+      Value: Up to 20% Off
+    - ID: "71415def-af8c-4e49-9ec7-7abab3b5ff6a"
+      Hint: BannerType
+      Value: "banner-3"
+    - ID: "71dcee88-aeba-40df-891b-6e85101bb19b"
+      Hint: CTAType
+      Value: button
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "af8ca053-bfe2-4ce8-895c-91e74bcdf49e"
+    - ID: "df08957b-e019-4862-a95f-707922cc2b17"
+      Hint: CTAText
+      Value: SHOP NOW
+    - ID: "e90ca7ff-8416-449c-8372-98d865400789"
+      Hint: Description
+      Value: Black Friday

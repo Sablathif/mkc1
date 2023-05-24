@@ -1,0 +1,43 @@
+﻿---
+ID: "8c4248d7-d6da-4ef8-a91e-b1333db1d24e"
+Parent: "5f48fe3c-c393-41e3-849a-5f5c48d255e1"
+Template: "4f5bd5b4-cdf8-4909-8dfa-8d9b1949c8c8"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/Page Components/DealSection
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: office/32x32/graph_star.png
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{DE20228B-32CF-4FB0-BD36-46E91916345B}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Banner Category
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "13149849-bb96-4595-9e70-dca420ebadc5"
+    - ID: "e4f4ae10-0e66-4e6a-af4c-11fec20ff37f"
+      Hint: Banners
+      Value: |
+        {A5808BDE-DF9B-40D3-AC5A-99406ECE47F1}
+        {3628318C-4B35-4C46-8639-5FE642B0C3FF}
+        {D3F17455-D415-4B5B-8B4E-8C9B4A6EC63E}
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7e5d6054-0ffe-4a0a-847c-e967383a9054"
+    - ID: "e4f4ae10-0e66-4e6a-af4c-11fec20ff37f"
+      Hint: Banners
+      Value: 

@@ -19,7 +19,7 @@ Languages:
       Value: Coming soon
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bb03c67e-92aa-499e-965d-b919b1f55f76"
+      Value: "0a89bcc7-8f00-4f70-bb50-cf38e890a391"
     - ID: "9125f032-ee86-49d0-9632-e1a86d094767"
       Hint: BackgroundType
       Value: Image
@@ -31,7 +31,8 @@ Languages:
       Value: Sale
     - ID: "da5fdae9-a2ca-4874-99e4-2d695729efd4"
       Hint: CTA
-      Value: 
+      Value: |
+        <link text="Shop Now" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{15B20460-D0D7-4014-A63D-CEE29D88E146}" />
     - ID: "db7a0afd-5ae1-4e47-b496-b10e6cfb8ff2"
       Hint: BackgroundImage
       Value: |

@@ -33,10 +33,10 @@ Languages:
         <image mediaid="{FFA1E07F-C00F-4B65-9710-1782307BCD9B}" />
     - ID: "84953286-1b9a-47fe-bb25-88510de02104"
       Hint: Heading
-      Value: Extra  
+      Value: Extra 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1a912c34-09de-4025-8cd0-b428c90e0f1d"
+      Value: "2fe2fa1d-d6e9-498b-978e-5c6bcdb03e3c"
     - ID: "9ed4a448-8114-4db6-82db-8691567209ee"
       Hint: Tag
       Value: Summer Season Sale
@@ -49,4 +49,4 @@ Languages:
     - ID: "ecbc6012-421e-4861-b6c4-5d1f3501faa1"
       Hint: CTA
       Value: |
-        <link text="Show More" anchor="" linktype="internal" class="" title="Show More" target="" querystring="" id="{15B20460-D0D7-4014-A63D-CEE29D88E146}" />
+        <link text="Shop Now" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{15B20460-D0D7-4014-A63D-CEE29D88E146}" />
