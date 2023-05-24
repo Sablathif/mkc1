@@ -22,27 +22,25 @@ Languages:
         <image mediaid="{2F1DE314-B0B8-40EB-B202-C2EB9650059C}" />
     - ID: "256a15ab-17cd-4381-bfc8-2dc609c92842"
       Hint: imageList
-      Value: |
-        {566BEEF9-A066-49FE-8170-CDD358874A4D}
-        {BED85220-0910-4E69-856C-04C766EE703C}
+      Value: 
     - ID: "3b32ddd8-cba3-4f47-8e51-00d5afbab3d4"
       Hint: date
-      Value: 20230212T183000Z
+      Value: 
     - ID: "53c6dbd6-739a-457a-b2d5-b248d9321690"
       Hint: author
-      Value: JOHN DOE
+      Value: 
     - ID: "6a6ae7eb-51e0-4a2c-8331-e71c5c0cf763"
       Hint: ctaText
       Value: Read More
     - ID: "6c0dbf9c-6b79-426f-9842-39ec20e9ba0b"
       Hint: blogCategoryList
-      Value: Fashion
+      Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c7a4aba4-6d85-4930-bf50-4a421c9ba31d"
+      Value: "c059b1f0-77cd-4e1d-8619-e2edb3c8c94d"
     - ID: "8fd5f032-4da3-4422-9f8b-2476f85b346d"
       Hint: postType
-      Value: image
+      Value: 
     - ID: "9ba7797c-0d25-470a-b894-b3b169db6782"
       Hint: day
       Value: 1
@@ -54,7 +52,7 @@ Languages:
       Value: The Best Choice For Spending Time
     - ID: "d38f4785-8c9d-4ee7-ae06-64ab2946f5be"
       Hint: comment
-      Value: 1
+      Value: 
     - ID: "dee18293-2839-4fcc-bc8f-e2aba1882f15"
       Hint: description
       Value: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit.
