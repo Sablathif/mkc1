@@ -14,11 +14,11 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "392e0f63-aec8-48c0-88cd-084373f60447"
+      Value: "447003c8-9c6c-4d35-80b1-49c99393f7b4"
     - ID: "90859bf3-2457-42ed-bca3-672e707ae756"
       Hint: itemUrl
       Value: |
-        <link text="About Us" anchor="About Us" linktype="internal" class="" title="" target="" querystring="" id="{9C226991-475E-450B-89B1-11F2C57D544D}" />
+        <link class="" id="{9C226991-475E-450B-89B1-11F2C57D544D}" querystring="" anchor="About Us" target="" title="" linktype="internal" text="About Us" url="/PLAY/playwebsite/XMCDemoHome/about us" />
     - ID: "e5badbad-aa22-4ae3-8212-601ae7d94ac9"
       Hint: itemName
       Value: Machines

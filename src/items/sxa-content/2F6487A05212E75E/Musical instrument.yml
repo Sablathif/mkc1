@@ -14,11 +14,11 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2094aa07-7b85-4b04-b76b-76b4cbad8b6a"
+      Value: "863a8f71-a760-4d30-9617-9a9ab894e481"
     - ID: "90859bf3-2457-42ed-bca3-672e707ae756"
       Hint: itemUrl
       Value: |
-        <link text="About Us" anchor="About Us" linktype="internal" class="" title="" target="" querystring="" id="{9C226991-475E-450B-89B1-11F2C57D544D}" />
+        <link class="" id="{9C226991-475E-450B-89B1-11F2C57D544D}" querystring="" anchor="About Us" target="" title="" linktype="internal" text="About Us" url="/PLAY/playwebsite/XMCDemoHome/about us" />
     - ID: "e5badbad-aa22-4ae3-8212-601ae7d94ac9"
       Hint: itemName
       Value: Musical instrument

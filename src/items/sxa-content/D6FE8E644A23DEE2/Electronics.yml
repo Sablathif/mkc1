@@ -14,10 +14,10 @@ Languages:
     - ID: "868511b0-0283-484c-9a2f-c491462e83fc"
       Hint: categoryURL
       Value: |
-        <link text="about us" anchor="about us" linktype="internal" class="" title="about us" target="" querystring="" id="{9C226991-475E-450B-89B1-11F2C57D544D}" />
+        <link class="" id="{9C226991-475E-450B-89B1-11F2C57D544D}" querystring="" anchor="about us" target="" title="about us" linktype="internal" text="about us" url="/PLAY/playwebsite/XMCDemoHome/about us" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "57a0cc9b-d9b7-4bcf-b470-8b7ccdcf0c99"
+      Value: "2356f2cd-ec0e-43a4-acf8-74688b09474b"
     - ID: "a3d18316-90a1-4c8e-9f65-8e4d66de2404"
       Hint: listingType
       Value: 
