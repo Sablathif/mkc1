@@ -55,7 +55,9 @@ function DealSection(props) {
                   ) : (
                     <>
                       <div className="banner-content">
-                        <h3 className="banner-title text-white mb-1">{data?.fields?.Title?.value}</h3>
+                        <h3 className="banner-title text-white mb-1">
+                          {data?.fields?.Title?.value}
+                        </h3>
 
                         <h4 className="banner-subtitle text-uppercase font-weight-normal text-white">
                           {data?.fields?.SubTitle?.value}
