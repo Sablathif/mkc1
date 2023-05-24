@@ -20,11 +20,10 @@ Languages:
         <link text="MSN Link" linktype="external" url="http://www.msn.com" anchor="" target="_blank" />
     - ID: "82fb52b9-0c74-47f9-92a0-5c52f7390230"
       Hint: BackgroundImage
-      Value: |
-        <image mediaid="{09085896-2355-53E8-8F71-BB9761E60380}" />
+      Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5d914614-731c-4e2f-bf23-37e83acc2e6d"
+      Value: "b0bb4178-28f6-4c39-a706-754120aea5ad"
     - ID: "b3ec4598-9588-44b3-9a95-df356c36a8ff"
       Hint: BannerTitle
       Value: "Trade-in"
