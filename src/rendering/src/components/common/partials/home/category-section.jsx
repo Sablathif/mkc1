@@ -4,13 +4,14 @@ import { LazyLoadImage } from 'react-lazy-load-image-component';
 import ALink from '../../../../components/feature/custom-link';
 import { fadeIn } from '../../../../utils/data/keyframes';
 
-function CategorySection(data) {
-  const categories = data.data.fields.Categories;
+function CategorySection(props) {
+  const categories = props.props.fields.Categories;
+  const data = props.props;
   return (
     <Reveal keyframes={fadeIn} delay={300} duration={1200} triggerOnce>
       <section className="pt-10 mt-7">
         <div className="container">
-          <h2 className="title title-center mb-5">{data.data.fields.Title.value}</h2>
+          <h2 className="title title-center mb-5">{data.fields.Title.value}</h2>
 
           <div className="row">
             {categories?.map((data, index) => (
