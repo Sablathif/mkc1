@@ -1,6 +1,7 @@
 import { Field } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
 import dynamic from 'next/dynamic';
+import React from 'react';
 
 const Icon = dynamic(() => import('../../components/common/partials/elements/icon-category'));
 const Image = dynamic(() => import('../../components/common/partials/home/category-section'));

@@ -1,9 +1,7 @@
-import React, { useState } from 'react';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import React from 'react';
 import { ComponentProps } from 'lib/component-props';
 import { Text, Field } from '@sitecore-jss/sitecore-jss-nextjs';
-import { faHeart, faPlus, faMinus, faCircle, faStar } from '@fortawesome/free-solid-svg-icons';
-
+import AccordionsIcon from '../Accordions/AccordionIcon';
 type AccordionCardProps = ComponentProps & {
   fields: {
     Title: Field<string>;
@@ -18,12 +16,7 @@ type AccordionCardProps = ComponentProps & {
     ];
   };
 };
-
 const Accordions = (props: AccordionCardProps): JSX.Element => {
-  const [activeIndex, setActiveIndex] = useState<number | null>(0);
-  const handleClick = (index: number) => {
-    setActiveIndex((prevIndex) => (prevIndex === index ? null : index));
-  };
   return (
     <section className="accordion-wrapper section grey-section">
       <div className="container">
@@ -32,42 +25,7 @@ const Accordions = (props: AccordionCardProps): JSX.Element => {
         </h2>
         <div className="accordion accordion-background">
           {props.fields.AccordionCard.map((item, index) => (
-            <div
-              className={`accordion-item ${activeIndex === index ? 'expanded' : ''}`}
-              key={index}
-            >
-              <div className="card-header">
-                {item.fields.IconClass.value == 'faHeart' ? (
-                  <FontAwesomeIcon icon={faHeart} />
-                ) : (
-                  <></>
-                )}
-                {item.fields.IconClass.value == 'faStar' ? (
-                  <FontAwesomeIcon icon={faStar} />
-                ) : (
-                  <></>
-                )}
-                {item.fields.IconClass.value == 'faCircle' ? (
-                  <FontAwesomeIcon icon={faCircle} />
-                ) : (
-                  <></>
-                )}
-                <button onClick={() => handleClick(index)}>
-                  <Text field={item.fields.Heading} />
-                  <FontAwesomeIcon
-                    icon={activeIndex === index ? faMinus : faPlus}
-                    className="accordion-icon"
-                  />
-                </button>
-              </div>
-              {activeIndex === index && (
-                <div className="card-body">
-                  <p>
-                    <Text field={item.fields.Description} />
-                  </p>
-                </div>
-              )}
-            </div>
+            <AccordionsIcon props={item} index={index} key={index} />
           ))}
         </div>
       </div>
