@@ -30,5 +30,4 @@ const BannerCategory = (props: BannerCategoryProps): JSX.Element => (
     <DealSection props={props} />
   </>
 );
-export const Default = BannerCategory;
-// export default withDatasourceCheck()<BannerCategoryProps>(BannerCategory);
+export default BannerCategory;

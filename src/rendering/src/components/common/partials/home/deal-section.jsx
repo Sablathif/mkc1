@@ -3,11 +3,8 @@ import Reveal from 'react-awesome-reveal';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import ALink from '../../../../components/feature/custom-link';
 import { fadeInLeftShorter } from '../../../../utils/data/keyframes';
-// import Media from 'components/common/media'
 function DealSection(props) {
   const banners = props.props.fields.Banners;
-  //let bannerType = BannerType;
-  //let bannerClass = `banner-${bannerType}`;
   return (
     <section className="banner-group mt-4">
       <div className="container">
@@ -29,7 +26,7 @@ function DealSection(props) {
                       loading="lazy"
                     />
                   </figure>
-                  {data?.fields?.BannerType?.value?.toLowerCase() == 'banner-4' ? (
+                  {data?.fields?.BannerType?.value?.toLowerCase() === 'banner-4' ? (
                     <>
                       {' '}
                       <div className="banner-content d-flex align-items-center w-100 text-left">
@@ -84,5 +81,4 @@ function DealSection(props) {
     </section>
   );
 }
-
-export default React.memo(DealSection);
+export default DealSection;
