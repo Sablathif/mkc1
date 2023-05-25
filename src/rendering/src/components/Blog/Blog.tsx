@@ -1,18 +1,22 @@
 import React from 'react';
-import Listing from './Listing';
-import BlogGridSidebar from './GridSidebar';
-import BlogClassic from './Classic';
-import BlogSection from '../common/partials/home/blog-section';
 import BlogType from './Blog.type';
+import dynamic from 'next/dynamic';
+const FeaturedArticle = dynamic(() => import('../common/partials/home/blog-section'));
+const Listing = dynamic(() => import('./Listing'));
+const GridSidebar = dynamic(() => import('./GridSidebar'));
+const Classic = dynamic(() => import('./Classic'));
+
+const BLOGS: Record<string, any> = {
+  FeaturedArticle,
+  Listing,
+  GridSidebar,
+  Classic,
+};
+
 const Blog = (Props: BlogType): JSX.Element => {
   const blogType = Props?.fields?.blogType?.value;
-  const BLOGS = {
-    FeaturedArticle: <BlogSection BlogProps={Props} />,
-    Listing: <Listing BlogProps={Props} />,
-    BlogGridSidebar: <BlogGridSidebar BlogProps={Props} />,  
-    BlogClassic: <BlogClassic BlogProps={Props} />,
-  };
-  return BLOGS[blogType as keyof typeof BLOGS] || <></>;
+  const Component = blogType ? BLOGS[blogType] : FeaturedArticle;
+  return <Component BlogProps={Props} />;
 };
 export const Default = Blog;
 //export default Blog;
