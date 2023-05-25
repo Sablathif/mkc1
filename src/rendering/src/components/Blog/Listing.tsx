@@ -115,4 +115,5 @@ function Listing(BlogProps: any) {
   );
 }
 // export const Default = Listing;
-export default React.memo(Listing);
+//export default React.memo(Listing);
+export default Listing;

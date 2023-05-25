@@ -11,24 +11,15 @@ type BlogProps = ComponentProps & {
   };
 };
 
-const Blog = (Props: BlogProps): JSX.Element => (
-  <>
-    {Props.fields.blogType.value.toLowerCase() == 'classic' ? (
-      <BlogClassic BlogProps={Props} />
-    ) : (
-      <></>
-    )}
-    {Props.fields.blogType.value.toLowerCase() == 'listing' ? <Listing BlogProps={Props} /> : <></>}
-    {Props.fields.blogType.value.toLowerCase() == 'grid sidebar' ? (
-      <BlogGridSidebar BlogProps={Props} />
-    ) : (
-      <></>
-    )}
-    {Props.fields.blogType.value.toLowerCase() == 'Featured Article'.toLowerCase() ? (
-      <BlogSection BlogProps={Props} />
-    ) : (
-      <></>
-    )}
-  </>
-);
+const Blog = (Props: BlogProps): JSX.Element => {
+  const blogType = Props?.fields?.blogType?.value;
+  const BLOGS = {
+    FeaturedArticle: <BlogSection BlogProps={Props} />,
+    Listing: <Listing BlogProps={Props} />,
+    BlogGridSidebar: <BlogGridSidebar BlogProps={Props} />,  
+    BlogClassic: <BlogClassic BlogProps={Props} />,
+  };
+  return BLOGS[blogType as keyof typeof BLOGS] || <></>;
+};
 export const Default = Blog;
+//export default Blog;
