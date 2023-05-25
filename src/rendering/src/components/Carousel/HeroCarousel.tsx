@@ -39,13 +39,13 @@ const HeroCarousel = (props: HeroCarouselProps): JSX.Element => (
   <SlickCarousel adClass="intro-slider animation-slider" options={introSlider}>
     {props?.fields?.Slides?.map((data) => (
       <>
-        {data.fields.SlideVariant.value == 'intro-slide1' ? (
+        {data.fields.SlideVariant.value === 'intro-slide1' ? (
           <div
             className="banner banner-fixed intro-slide1"
             style={{ backgroundColor: `${data.fields.BackgroundColor.value}` }}
           >
             <figure>
-              {data.fields.BackgroundType.value == 'Image' ? (
+              {data.fields.BackgroundType.value === 'Image' ? (
                 <LazyLoadImage
                   src={'/-' + data?.fields?.BackgroundImage?.value?.src.split('/-').pop()}
                   alt="Intro Slider"
@@ -109,13 +109,13 @@ const HeroCarousel = (props: HeroCarouselProps): JSX.Element => (
         ) : (
           <></>
         )}
-        {data.fields.SlideVariant.value == 'intro-slide2' ? (
+        {data.fields.SlideVariant.value === 'intro-slide2' ? (
           <div
             className="banner banner-fixed intro-slide2"
             style={{ backgroundColor: `${data.fields.BackgroundColor.value}` }}
           >
             <figure>
-              {data.fields.BackgroundType.value == 'Image' ? (
+              {data.fields.BackgroundType.value === 'Image' ? (
                 <LazyLoadImage
                   // src={data?.fields?.BackgroundImage?.value?.src}
                   src={'/-' + data?.fields?.BackgroundImage?.value?.src.split('/-').pop()}
@@ -172,13 +172,13 @@ const HeroCarousel = (props: HeroCarouselProps): JSX.Element => (
         ) : (
           <></>
         )}
-        {data.fields.SlideVariant.value == 'intro-slide3' ? (
+        {data.fields.SlideVariant.value === 'intro-slide3' ? (
           <div
             className="banner banner-fixed video-banner intro-slide3"
             style={{ backgroundColor: `${data.fields.BackgroundColor.value}` }}
           >
             <figure>
-              {data.fields.BackgroundType.value == 'Image' ? (
+              {data.fields.BackgroundType.value === 'Image' ? (
                 <LazyLoadImage
                   src={'/-' + data?.fields?.BackgroundImage?.value?.src.split('/-').pop()}
                   alt="Intro Slider"
