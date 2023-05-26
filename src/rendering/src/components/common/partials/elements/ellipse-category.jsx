@@ -4,9 +4,9 @@ import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import ALink from '../../../../components/feature/custom-link';
 
-function ellipsecategory(data) {
-  const categories = data.data.fields.Categories;
-  console.log('category: ', categories);
+function ellipsecategory(props) {
+  const categories = props?.props?.fields?.Categories;
+  const data = props?.props;
   const settings = {
     dots: true,
     arrows: false,
@@ -45,7 +45,7 @@ function ellipsecategory(data) {
     <>
       <section className="ellipse-section ellipse-carousel section">
         <div className="container">
-          <h2 className="title title-center">{data.data.fields.Title.value}</h2>
+          <h2 className="title title-center">{data.fields.Title.value}</h2>
           <Slider {...settings}>
             {categories?.map((data, index) => (
               <div className="category category-ellipse" key={index}>

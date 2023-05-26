@@ -1,8 +1,8 @@
 ﻿---
-ID: "83bca054-8173-453b-b591-ef2c555110c4"
+ID: "4ac9cfe9-8ace-4948-8732-695e8dcc142e"
 Parent: "980bbffa-378b-42df-8f34-b61102f9df5b"
 Template: "6b1aee01-9742-4c9c-a4e1-41c8dc4f4c2e"
-Path: /sitecore/content/PLAY/playwebsite/Global Data/Blog Type/Grid 2 Columns
+Path: /sitecore/content/PLAY/playwebsite/Global Data/Blog Type/GridSidebar
 Languages:
 - Language: en
   Versions:
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bc7215d0-6298-4b59-87a7-70836cc6cf48"
+      Value: "cf08b8fa-5eaf-434e-b639-03e552c3eb7a"
     - ID: "d8ce9dff-c34e-4111-960f-9ca7af8f14e3"
       Hint: blogType
-      Value: Grid 2 Columns
+      Value: Grid Sidebar
