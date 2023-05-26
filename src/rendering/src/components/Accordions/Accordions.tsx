@@ -33,4 +33,4 @@ const Accordions = (props: AccordionCardProps): JSX.Element => {
   );
 };
 
-export const Default = Accordions;
+export default Accordions;

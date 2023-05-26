@@ -17,7 +17,7 @@ Languages:
       Value: Explore Accessories
     - ID: "0ce13285-e8c1-4894-81d8-8d80beddc675"
       Hint: CTAFlag
-      Value: 1
+      Value: 
     - ID: "43736d85-57c3-4220-8972-9d4759c156ff"
       Hint: CTALink
       Value: |
@@ -34,13 +34,13 @@ Languages:
       Value: "banner-3"
     - ID: "71dcee88-aeba-40df-891b-6e85101bb19b"
       Hint: CTAType
-      Value: button
+      Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7b865c07-0071-4326-9753-a62db90507db"
+      Value: "1ae209ef-a15c-407b-9be5-bf9e0339980b"
     - ID: "df08957b-e019-4862-a95f-707922cc2b17"
       Hint: CTAText
-      Value: Go To Blog
+      Value: GO TO BLOG
     - ID: "e90ca7ff-8416-449c-8372-98d865400789"
       Hint: Description
       Value: 
