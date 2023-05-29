@@ -1,11 +1,20 @@
-.newsletter {
+.newsletter img{
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    padding: 20px 15px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    height: 150px;
+    width: 100%;
 }
+
+@media (max-width:992px){
+    .newsletter img{
+        height: 300px;
+    }
+}
+.newsletter{
+    position: relative;
+}
+
 .newsletter h3 {
     font-size: 42px;
     font-weight: 400;
@@ -19,6 +28,12 @@
     font-family: "Trade Gothic Light";
     color: #fff;
 }
+
+.newsletter .content{
+    position: absolute;
+    top: 20px;
+}
+
 .newsletterRow {
     align-items: center;
 }
