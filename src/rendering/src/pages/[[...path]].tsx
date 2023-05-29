@@ -15,7 +15,7 @@ import { sitecorePagePropsFactory } from 'lib/page-props-factory';
 // different componentFactory method will be used based on whether page is being edited
 import { componentFactory, editingComponentFactory } from 'temp/componentFactory';
 import { sitemapFetcher } from 'lib/sitemap-fetcher';
-import { initialize as initializeSend } from '../services/SendService'; // DEMO TEAM CUSTOMIZATION - Sitecore Send integration
+// import { initialize as initializeSend } from '../services/SendService'; // DEMO TEAM CUSTOMIZATION - Sitecore Send integration
 
 const SitecorePage = ({ notFound, componentProps, layoutData }: SitecorePageProps): JSX.Element => {
   useEffect(() => {
@@ -24,9 +24,9 @@ const SitecorePage = ({ notFound, componentProps, layoutData }: SitecorePageProp
   }, []);
 
   // DEMO TEAM CUSTOMIZATION - Sitecore Send integration
-  useEffect(() => {
-    initializeSend(layoutData.sitecore.context.pageState);
-  }, [layoutData.sitecore.context.pageState]);
+  // useEffect(() => {
+  //   initializeSend(layoutData.sitecore.context.pageState);
+  // }, [layoutData.sitecore.context.pageState]);
   // END CUSTOMIZATION
 
   if (notFound || !layoutData.sitecore.route) {

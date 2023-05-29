@@ -4,10 +4,10 @@ import { SitecorePageProps } from 'lib/page-props';
 // DEMO TEAM CUSTOMIZATION - CDP and Sitecore Send integration. Per page layouts. Fonts and icons. etc.
 import { ReactElement, useEffect } from 'react';
 import Head from 'next/head';
-import { CdpScripts } from '../services/CdpService';
-import { SendScripts } from '../services/SendService';
-import { identifyVisitor } from '../services/IdentificationService';
-import { KeypressHandler } from '../services/KeypressHandlerService';
+// import { CdpScripts } from '../services/CdpService';
+// import { SendScripts } from '../services/SendService';
+// import { identifyVisitor } from '../services/IdentificationService';
+// import { KeypressHandler } from '../services/KeypressHandlerService';
 import { config } from '@fortawesome/fontawesome-svg-core';
 import '@fortawesome/fontawesome-svg-core/styles.css';
 config.autoAddCss = false;
@@ -41,12 +41,12 @@ function App({ Component, pageProps, router }: AppPropsWithLayout): JSX.Element 
       } else if (typeof emailQueryStringValue === 'object') {
         email = emailQueryStringValue[0];
       }
-
-      identifyVisitor(email);
+      console.log(email);
+      // identifyVisitor(email);
     }
 
     // Register a key press handler to close CDP sessions and forget CDP guests
-    KeypressHandler();
+    // KeypressHandler();
   });
   // END CUSTOMIZATION
 
@@ -68,11 +68,11 @@ function App({ Component, pageProps, router }: AppPropsWithLayout): JSX.Element 
       </Head>
 
       {/* DEMO TEAM CUSTOMIZATION - CDP integration. It is important this script is rendered before the <Component> so the CDP calls made on the first page load are successful. */}
-      {CdpScripts}
+      {/* {CdpScripts} */}
       {/* END CUSTOMIZATION*/}
 
       {/* DEMO TEAM CUSTOMIZATION - Sitecore Send integration. It is important this script is rendered before the <Component> so the Send calls made on the first page load are successful. */}
-      {SendScripts}
+      {/* {SendScripts} */}
       {/* END CUSTOMIZATION*/}
 
       {/*

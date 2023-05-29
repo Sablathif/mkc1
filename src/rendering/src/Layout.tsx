@@ -1,7 +1,7 @@
 /**
  * This Layout is needed for Starter Kit.
  */
-import React, { useEffect } from 'react'; // DEMO TEAM CUSTOMIZATION - Log page views
+import React from 'react'; // DEMO TEAM CUSTOMIZATION - Log page views
 import Head from 'next/head';
 // DEMO TEAM CUSTOMIZATION - Add LayoutServicePageState
 import {
@@ -12,13 +12,13 @@ import {
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import Scripts from 'src/Scripts';
 // DEMO TEAM CUSTOMIZATION - CDP and Sitecore Send integration
-import { trackViewEvent } from './services/TrackingService';
+// import { trackViewEvent } from './services/TrackingService';
 import HeaderCdpMessageBar from './components/HeaderCdpMessageBar';
-import { isEditingOrPreviewingPage } from './helpers/LayoutServiceHelper';
+import { isEditingOrPreviewingPage } from './utils/helpers/LayoutServiceHelper';
 // END CUSTOMIZATION
 // DEMO TEAM CUSTOMIZATION - Sitecore Search integration
 import { QueryClientProvider } from '@tanstack/react-query';
-import { queryClient } from './helpers/ContentSearchHelper';
+import { queryClient } from './utils/helpers/ContentSearchHelper';
 // END CUSTOMIZATION
 
 // Prefix public assets with a public URL to enable compatibility with Sitecore Experience Editor.
@@ -42,11 +42,11 @@ const Layout = ({ layoutData }: LayoutProps): JSX.Element => {
   const mainClassPageEditing = isPageEditing ? 'editing-mode' : 'prod-mode';
 
   // DEMO TEAM CUSTOMIZATION - Log page views
-  useEffect(() => {
-    (async () => {
-      await trackViewEvent(route);
-    })();
-  }, [route]);
+  // useEffect(() => {
+  //   (async () => {
+  //     await trackViewEvent(route);
+  //   })();
+  // }, [route]);
   // END CUSTOMIZATION
 
   // DEMO TEAM CUSTOMIZATION - Add CSS classes when Sitecore editors are active
