@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.css';
 import { ComponentProps } from 'lib/component-props';
-import Image from 'src/core/atoms/Image';
+import Image from '../../core/atoms/Image';
 import Styles from './promoCard.module.scss';
 
 type Item = {
