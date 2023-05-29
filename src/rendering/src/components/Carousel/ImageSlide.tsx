@@ -1,7 +1,7 @@
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 
 function ImageSlide(props: any) {
-  const data = props.props.props;
+  const data = props?.props?.props;
   return (
     <div
       className="banner banner-fixed intro-slide1"

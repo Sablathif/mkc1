@@ -5,11 +5,10 @@ import SliderCard from './SliderCard';
 
 const HeroCarousel = (props: HeroCarouselType): JSX.Element => (
   <SlickCarousel adClass="intro-slider animation-slider" options={introSlider}>
-    {props?.fields?.Slides?.map((data) => (
-     <SliderCard props={data} />
+    {props?.fields?.Slides?.map((data, index) => (
+      <SliderCard props={data} index={index} key={index} />
     ))}
   </SlickCarousel>
 );
 
 export const Default = HeroCarousel;
-// export default withDatasourceCheck()<HeroCarouselProps>(HeroCarousel);

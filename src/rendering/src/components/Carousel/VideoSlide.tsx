@@ -1,10 +1,9 @@
 function VideoSlide(props: any) {
-  const data = props.props.props;
-  console.log('IntroSlide1 data', data);
+  const data = props?.props?.props;
   return (
     <div
       className="banner banner-fixed intro-slide1"
-      style={{ backgroundColor: `${data.fields.BackgroundColor.value}` }}
+      style={{ backgroundColor: `${data?.fields?.BackgroundColor?.value}` }}
     >
       <figure>
         <video

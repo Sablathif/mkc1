@@ -4,7 +4,7 @@ import { LazyLoadImage } from 'react-lazy-load-image-component';
 import ALink from '../../../feature/custom-link';
 import { fadeInLeftShorter } from '../../../../utils/data/keyframes';
 function BannerCard(props, index) {
-  const data= props.props;
+  const data = props.props;
   return (
     <div className="col-lg-4 col-sm-6 mb-4" key={index}>
       <Reveal keyframes={fadeInLeftShorter} delay={200} duration={1000} triggerOnce>
