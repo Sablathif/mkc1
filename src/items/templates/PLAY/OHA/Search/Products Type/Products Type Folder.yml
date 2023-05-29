@@ -1,8 +1,8 @@
 ﻿---
-ID: "74aa146b-f8c7-45ee-9e51-bdd6300f76d3"
-Parent: "59c0d21e-d5db-43b1-bfa3-9e3f6b715a6a"
+ID: "8b788215-0b86-422c-8807-4d6321564391"
+Parent: "8a5fc2fb-d281-4845-b734-498d6f266700"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/PLAY/OHA/Background Type/Background Type Folder
+Path: /sitecore/templates/Project/PLAY/OHA/Search/Products Type/Products Type Folder
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -17,7 +17,7 @@ SharedFields:
   Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
 - ID: "f7d48a55-2158-4f02-9356-756654404f73"
   Hint: __Standard values
-  Value: "{9787466E-A3CF-4EF5-8718-0644AD6EC2E0}"
+  Value: "{86714DB8-3F3D-4753-85CF-9A54104AB49F}"
 Languages:
 - Language: en
   Versions:
@@ -25,9 +25,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d22140e5-6058-4e52-bb20-6b1e17ab6e57"
-  - Version: 2
-    Fields:
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "d22140e5-6058-4e52-bb20-6b1e17ab6e57"
+      Value: "ccefa566-b058-4260-b25f-d9b8d193e048"
