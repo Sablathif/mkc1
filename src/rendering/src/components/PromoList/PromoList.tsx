@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.css';
 import { ComponentProps } from 'lib/component-props';
-import Image from '../../core/atoms/Image';
+// import Image from '../../core/atoms/Image';
 import Styles from './promoCard.module.scss';
 
 type Item = {
@@ -49,21 +49,21 @@ const Promocard = (props: PromoListProps): JSX.Element => {
     }));
 
   return (
-    <>
+       <>
       <div className="container">
         <div className="row">
           {card?.map((Promocard, index) => (
             <div className={'col-lg-6 ' + Styles.promoCard} key={index}>
-              <div className={Styles.cardContent}>
-                <Image field={Promocard.src} priority />
-                <div className={Styles.content}>
-                  <h3>{Promocard.title}</h3>
-                  <p>{Promocard.info}</p>
-                  <div className={Styles.btnLib}>
-                    <a className="btn-primary btn" href={Promocard.href}>
-                      {Promocard.btnText}
-                    </a>
-                  </div>
+              <div
+                className={Styles.cardContent}
+                style={{ backgroundImage: `url(${'/-' + Promocard.src.split('/-').pop()})` }}
+              >
+                <h3>{Promocard.title}</h3>
+                <p>{Promocard.info}</p>
+                <div className={Styles.btnLib}>
+                  <a className="btn-primary btn " href={Promocard.href}>
+                    {Promocard.btnText}
+                  </a>
                 </div>
               </div>
             </div>
