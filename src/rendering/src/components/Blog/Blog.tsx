@@ -6,7 +6,7 @@ const Listing = dynamic(() => import('./Listing'));
 
 const BLOGS: Record<string, any> = {
   FeaturedArticle,
-  Listing
+  Listing,
 };
 
 const Blog = (Props: BlogType): JSX.Element => {
@@ -15,3 +15,4 @@ const Blog = (Props: BlogType): JSX.Element => {
   return <Component BlogProps={Props} />;
 };
 export const Default = Blog;
+//export default Blog;
