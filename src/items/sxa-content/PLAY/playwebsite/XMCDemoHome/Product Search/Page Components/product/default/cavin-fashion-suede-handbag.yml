@@ -14,7 +14,7 @@ Languages:
     Fields:
     - ID: "1f11c575-7063-4dec-b5d5-2c762461abad"
       Hint: Color
-      Value: Black
+      Value: Blue
     - ID: "3a41ad83-a199-41c8-8eed-495d81cf4bbe"
       Hint: MediaList
       Value: |
@@ -28,13 +28,13 @@ Languages:
       Value: COSMETIC
     - ID: "772b8922-b07d-42e9-953c-37755b10dc21"
       Hint: Brand
-      Value: Cinderella
+      Value: SLS
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "421364b0-73c2-472f-95bd-446d6ed45a37"
+      Value: "9c9d660e-4a9e-40f8-9035-20be261e9a4e"
     - ID: "ca409045-b9b7-4d7a-9d26-9f1220353b89"
       Hint: Size
       Value: Extra Large
     - ID: "e4eed1db-d092-4344-b7b2-7212de86954d"
       Hint: Title
-      Value: Cavin Fashion Suede Handbag
+      Value: Cavin Fashion Suede Handbag shirt
