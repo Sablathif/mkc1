@@ -64,16 +64,8 @@ Languages:
               s:ph="headless-main"
               s:ccb="Clear on publish" />
             <r
-              uid="{3E86CBD8-4A97-4F0F-85F8-37EBC7B3FDE7}"
-              p:after="r[@uid='{A778DA15-EFA7-43EF-B52D-A6FB91C2B3F8}']"
-              s:ds=""
-              s:id="{2F9D05FD-8E58-56CC-B586-41A3EC155CD7}"
-              s:par="FieldNames&amp;CacheClearingBehavior=Clear+on+publish&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles"
-              s:ph="headless-main"
-              s:ccb="Clear on publish" />
-            <r
               uid="{BFBC7DA7-D414-4BAB-BF76-D8BE36F51F75}"
-              p:after="r[@uid='{3E86CBD8-4A97-4F0F-85F8-37EBC7B3FDE7}']"
+              p:after="r[@uid='{A778DA15-EFA7-43EF-B52D-A6FB91C2B3F8}']"
               s:ds="{836DF427-37F5-4C30-8E28-C9A34D18A215}"
               s:id="{EA63DC31-3AE7-4FE1-B248-2A230EDAF806}"
               s:par="CacheClearingBehavior=Clear+on+publish&amp;CSSStyles"
@@ -102,7 +94,7 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "67354ef2-594c-44f4-96f6-e523139a2304"
+      Value: "5dfdb011-f73d-4559-9357-a014da2d5b4d"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Product Page
