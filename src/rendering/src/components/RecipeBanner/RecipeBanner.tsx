@@ -1,6 +1,7 @@
 import React from 'react';
 import { ComponentProps } from 'lib/component-props';
 import Styles from './banner.module.scss';
+import { ImageField } from '@sitecore-jss/sitecore-jss-nextjs';
 
 type RecipeBannerProps = ComponentProps & {
   fields: {
