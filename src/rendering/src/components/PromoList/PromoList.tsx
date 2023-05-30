@@ -40,13 +40,14 @@ export type PromoListProps = ComponentProps & {
 const Promocard = (props: PromoListProps): JSX.Element => {
   const card = props.fields.items
     .filter((item: Item) => item.name.startsWith('PromoCard'))
-    .map((item: Item) => ({
-      src: item.fields.CardImage,
+    .map((item) => ({
+      src: item.fields.CardImage.value.src,
       title: item.fields.CardTitle.value,
       info: item.fields.CardDescription.value,
       href: item.fields.CardButton.value.href,
       btnText: item.fields.CardButton.value.text,
     }));
+  console.log(Promocard);
 
   return (
        <>
