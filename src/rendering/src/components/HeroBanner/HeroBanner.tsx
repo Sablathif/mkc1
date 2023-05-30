@@ -16,7 +16,7 @@ type HeroBannerProps = ComponentProps & {
 };
 
 const HeroBanner = (props: HeroBannerProps): JSX.Element => {
-  const bannerType = props?.params?.BannerType?.value;
+  const bannerType = props?.params?.BannerType?.toString();
   const Component = bannerType ? HeroBanners[bannerType] : SimpleBanner;
   return <Component props={props} />;
 };
