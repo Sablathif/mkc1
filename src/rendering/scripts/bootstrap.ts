@@ -34,4 +34,4 @@ import './generate-plugins';
   Generates the /src/temp/categoriesData.ts file in order to be used
   by the CategoryBreadcrumb component
 */
-import './generate-categories-data';
+// import './generate-categories-data';

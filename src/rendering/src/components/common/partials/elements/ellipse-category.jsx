@@ -6,7 +6,6 @@ import ALink from '../../../../components/feature/custom-link';
 
 function ellipsecategory(data) {
   const categories = data.data.fields.Categories;
-  console.log('category: ', categories);
   const settings = {
     dots: true,
     arrows: false,

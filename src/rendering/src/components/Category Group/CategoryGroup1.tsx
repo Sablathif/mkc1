@@ -123,7 +123,6 @@ type CategoryItems = {
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 const CategoryGroup1 = () => {
   const { isLoading, data } = useQuery(['get-user'], fetchUser);
-  console.log(data);
   if (isLoading) return <p>Loading...</p>;
   return (
     <>
