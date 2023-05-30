@@ -17,15 +17,14 @@ query SearchQuery
           {
             name: "_parent"
             value: $rootItem
-            operator: CONTAINS
+            operator: EQ
           },
           {
             name: "_templates"
             value: $templateId
             operator: EQ
           },
-          { name: "Category", value: $keyword, operator: CONTAINS },
-         
+          { name: "Title", value: $keyword, operator: CONTAINS },
         ]
       },
       first: $limit
@@ -42,6 +41,9 @@ query SearchQuery
         id
         template {
           id
+        }
+        Title: field(name: "Title") {
+          value
         }
         Category: field(name: "Category") {
           value
@@ -71,8 +73,8 @@ query SearchQuery
 const SearchListing = () => {
   const router = useRouter();
   const API_KEY = '1047AEE5-9BCD-4DBF-9744-A26E12B79AB6';
-  //const API_URL = `https://cm.xmcloudcm.localhost/sitecore/api/graph/edge?sc_apikey=${API_KEY}`;
-  const API_URL = `https://xmc-14znhkjkgfiwyow0b42wwg.sitecorecloud.io/sitecore/api/graph/edge?sc_apikey=${API_KEY}`;
+  const API_URL = `https://cm.xmcloudcm.localhost/sitecore/api/graph/edge?sc_apikey=${API_KEY}`;
+  //const API_URL = `https://xmc-14znhkjkgfiwyow0b42wwg.sitecorecloud.io/sitecore/api/graph/edge?sc_apikey=${API_KEY}`;
   const [searchTerm, setSearchTerm] = useState('');
   const [results, setResults] = useState([]);
   const [displayedResults, setDisplayedResults] = useState([]);
@@ -120,7 +122,7 @@ const SearchListing = () => {
       .then((data) => {
         setResults(
           data?.data?.pageOne?.results?.filter((item: any) =>
-            item?.name?.toLowerCase().includes(searchTerm.toLowerCase())
+             item?.Title.value.toLowerCase().includes(searchTerm.toLowerCase())
           )
         );
         //setSearchTerm('');
@@ -155,7 +157,7 @@ const SearchListing = () => {
                   <ALink href="#" className={undefined} content={undefined} style={undefined}>
                     <img
                       src="https://d-themes.com/react_asset_api/riode/uploads/images/demo-1/products/product-7-2-300x338.jpg"
-                      alt={item?.name}
+                      alt={item?.Title.value}
                     />
                   </ALink>
                   <div className="product-action">
@@ -173,7 +175,7 @@ const SearchListing = () => {
               <div className="product-cat mt-2">
                 <RichText field={item?.Category}></RichText>
               </div>
-              <h3 className="product-name mt-2">{item?.name}</h3>
+              <h3 className="product-name mt-2">{item?.Title.value}</h3>
               <p className="product-price">
                 <RichText field={item?.Price}></RichText>
               </p>
