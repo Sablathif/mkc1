@@ -50,7 +50,7 @@ const PowerReviews = () => {
   return (
     <>
       <h1>Power Review</h1>
-      <div id="pr-write"></div>
+      <div id="pr-write" classname="m-2"></div>
     </>
   );
 };
