@@ -1,6 +1,5 @@
-import 'bootstrap/dist/css/bootstrap.css';
+import React from 'react';
 import { ComponentProps } from 'lib/component-props';
-// import Image from '../../core/atoms/Image';
 import Styles from './promoCard.module.scss';
 
 type Item = {
@@ -47,10 +46,9 @@ const Promocard = (props: PromoListProps): JSX.Element => {
       href: item.fields.CardButton.value.href,
       btnText: item.fields.CardButton.value.text,
     }));
-  console.log(Promocard);
 
   return (
-       <>
+    <>
       <div className="container">
         <div className="row">
           {card?.map((Promocard, index) => (
