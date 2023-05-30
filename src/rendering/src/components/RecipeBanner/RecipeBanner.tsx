@@ -1,6 +1,6 @@
 import { ImageField } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
-import Image from 'src/core/atoms/Image';
+// import Image from 'src/core/atoms/Image';
 import Styles from './banner.module.scss';
 
 type RecipeBannerProps = ComponentProps & {
@@ -18,13 +18,14 @@ const RecipeBanner = (props: RecipeBannerProps): JSX.Element => {
           <div className="row">
             <div className="col-12 p-0">
               <div className={Styles.fullBanner}>
+                 {props.fields?.Desktop_Image.value.src ? <img src={imgsrc} alt="image" /> : null}
                 {/* <picture title="banner">
                   <source
                     media="(min-width:0px)"
                     srcSet={props.fields.Desktop_Image.value.src.slice(10)}
                   />
                   <img src={props.fields.Desktop_Image.value.src.slice(10)} alt="banner" /> */}
-                <Image field={props.fields.Desktop_Image} priority />
+<!--                 <Image field={props.fields.Desktop_Image} priority /> -->
                 {/* </picture> */}
               </div>
             </div>
