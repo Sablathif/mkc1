@@ -10,4 +10,9 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0abc05da-450c-4708-b5ec-4cc16a0b45cb"
+      Value: "415a853a-25de-423b-a091-8107029870cb"
+  - Version: 2
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8b2cce8a-ea2f-4a43-812a-e2958a5b1579"

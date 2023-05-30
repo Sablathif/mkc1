@@ -1,0 +1,40 @@
+﻿---
+ID: "78fe9dcf-de2d-4c02-9800-8fca3d6a6fd1"
+Parent: "dfecc2b4-0cef-4c1f-b321-33cc92978f8f"
+Template: "bd30a65c-a646-474f-9dde-1a21687ab192"
+Path: "/sitecore/content/PLAY/playwebsite/XMCDemoHome/Product Search/Page Components/product/default/best-dark-blue-pedestrian-bag"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f11c575-7063-4dec-b5d5-2c762461abad"
+      Hint: Color
+      Value: Black
+    - ID: "3a41ad83-a199-41c8-8eed-495d81cf4bbe"
+      Hint: MediaList
+      Value: |
+        {8288B78E-CBA9-4C14-8D39-1DBB19524197}
+        {C1FBA633-788B-4509-B625-CDE293A24219}
+    - ID: "3c04ced7-79e4-4139-a8c7-706307d9df46"
+      Hint: Price
+      Value: $99.00
+    - ID: "6ca36a59-940f-4461-bfc0-af984f863f25"
+      Hint: Category
+      Value: Cosmetic, Fashion
+    - ID: "772b8922-b07d-42e9-953c-37755b10dc21"
+      Hint: Brand
+      Value: Cinderella
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "86a7a998-8b20-43c5-ab67-92e6808cc65b"
+    - ID: "ca409045-b9b7-4d7a-9d26-9f1220353b89"
+      Hint: Size
+      Value: Extra Large
+    - ID: "e4eed1db-d092-4344-b7b2-7212de86954d"
+      Hint: Title
+      Value: Best Dark blue pedestrian bag

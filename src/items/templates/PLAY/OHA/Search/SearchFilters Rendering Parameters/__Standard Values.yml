@@ -1,0 +1,17 @@
+﻿---
+ID: "1425da3a-13f1-5624-ad37-5dfd35dd7ab8"
+Parent: "a3ceeeeb-c424-5a6f-ba74-468625979580"
+Template: "a3ceeeeb-c424-5a6f-ba74-468625979580"
+Path: /sitecore/templates/Project/PLAY/OHA/Search/SearchFilters Rendering Parameters/__Standard Values
+SharedFields:
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3b3b6268-0d39-40f6-88d8-ba873c5f91b6"
