@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 //import { parseContent } from '~/utils';
 
-import parseContent from '../../utils';
+//import parseContent from '../../utils';
 
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 function ALink({ children, className, content, style, ...props }) {
@@ -22,7 +22,7 @@ function ALink({ children, className, content, style, ...props }) {
         className={className}
         style={style}
         onClick={preventDefault}
-        dangerouslySetInnerHTML={parseContent(content)}
+        // dangerouslySetInnerHTML={parseContent(content)}
       >
         {children}
       </a>
