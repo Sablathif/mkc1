@@ -19,15 +19,7 @@ const RecipeBanner = (props: RecipeBannerProps): JSX.Element => {
           <div className="row">
             <div className="col-12 p-0">
               <div className={Styles.fullBanner}>
-                 {props.fields?.Desktop_Image.value.src ? <img src={imgsrc} alt="image" /> : null}
-                {/* <picture title="banner">
-                  <source
-                    media="(min-width:0px)"
-                    srcSet={props.fields.Desktop_Image.value.src.slice(10)}
-                  />
-                  <img src={props.fields.Desktop_Image.value.src.slice(10)} alt="banner" /> 
-                <Image field={props.fields.Desktop_Image} priority />
-                 </picture> */}
+              {props.fields?.Desktop_Image.value.src ? <img src={imgsrc} alt="image" /> : null}
               </div>
             </div>
           </div>
