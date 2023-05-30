@@ -1,8 +1,8 @@
 ﻿---
-ID: "4ac9cfe9-8ace-4948-8732-695e8dcc142e"
+ID: "9399898b-7265-4666-b3f5-cc24f8aec27c"
 Parent: "980bbffa-378b-42df-8f34-b61102f9df5b"
 Template: "6b1aee01-9742-4c9c-a4e1-41c8dc4f4c2e"
-Path: /sitecore/content/PLAY/playwebsite/Global Data/Blog Type/Grid Sidebar
+Path: /sitecore/content/PLAY/playwebsite/Global Data/Blog Type/MaskMasonry
 Languages:
 - Language: en
   Versions:
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "cf08b8fa-5eaf-434e-b639-03e552c3eb7a"
+      Value: "08a00a35-6a7f-44ef-9893-aba45ac428a5"
     - ID: "d8ce9dff-c34e-4111-960f-9ca7af8f14e3"
       Hint: blogType
-      Value: Grid Sidebar
+      Value: Mask Masonry

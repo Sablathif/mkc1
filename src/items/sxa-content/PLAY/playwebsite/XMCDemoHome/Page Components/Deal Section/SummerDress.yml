@@ -37,10 +37,10 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3c3546e3-6f29-4b25-8822-4618536b9daa"
+      Value: "1c535ac8-867b-4de5-ac02-22ec81f3948a"
     - ID: "df08957b-e019-4862-a95f-707922cc2b17"
       Hint: CTAText
-      Value: Go To Blog
+      Value: GO TO BLOG
 - Language: "fr-CA"
   Versions:
   - Version: 1

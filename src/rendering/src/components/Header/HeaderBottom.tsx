@@ -1,15 +1,8 @@
-import { Field, Link, LinkField } from '@sitecore-jss/sitecore-jss-nextjs';
-import { ComponentProps } from 'lib/component-props';
+import { Link } from '@sitecore-jss/sitecore-jss-nextjs';
 import Styles from './HeaderBottom.module.css';
-type HeaderBottomProps = ComponentProps & {
-  fields: {
-    MainNavigationList: [children: { fields: { Link: Field<any> } }];
-    SpecialOffers: LinkField;
-    Buy: LinkField;
-  };
-};
+import HeaderBottomType from './HeaderBottom.type';
 
-const HeaderBottom = (props: HeaderBottomProps): JSX.Element => (
+const HeaderBottom = (props: HeaderBottomType): JSX.Element => (
   <div className="header header-border">
     <div className="header-bottom d-lg-show">
       <div className="container">
@@ -23,5 +16,3 @@ const HeaderBottom = (props: HeaderBottomProps): JSX.Element => (
   </div>
 );
 export const Default = HeaderBottom;
-
-// export default withDatasourceCheck()<HeaderBottomProps>(HeaderBottom);

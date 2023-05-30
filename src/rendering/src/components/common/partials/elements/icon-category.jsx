@@ -2,12 +2,13 @@ import React from 'react';
 
 import ALink from '../../../../components/feature/custom-link';
 
-function iconcategory(data) {
-  const categories = data.data.fields.Categories;
+function iconcategory(props) {
+  const categories = props.props.fields.Categories;
+  const data = props.props;
   return (
     <>
       <section className="mt-10 pt-4">
-        <h2 className="title title-center">{data.data.fields.Title.value}</h2>
+        <h2 className="title title-center">{data.fields.Title.value}</h2>
 
         <div className="row">
           {categories?.map((data, index) => (

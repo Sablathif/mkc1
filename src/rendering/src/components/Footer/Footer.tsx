@@ -29,5 +29,4 @@ const Footer = (/*props: FooterProps*/): JSX.Element => (
   </>
 );
 
-export const Default = Footer;
-// export default withDatasourceCheck()<FooterProps>(Footer);
+export default Footer;
