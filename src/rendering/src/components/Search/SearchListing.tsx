@@ -74,7 +74,7 @@ const SearchListing = () => {
   const router = useRouter();
   const API_KEY = '1047AEE5-9BCD-4DBF-9744-A26E12B79AB6';
   //const API_URL = `https://cm.xmcloudcm.localhost/sitecore/api/graph/edge?sc_apikey=${API_KEY}`;
-  const API_URL = `https://xmc-14znhkjkgfiwyow0b42wwg.sitecorecloud.io/sitecore/api/graph/edge?sc_apikey=${API_KEY}`;
+  const API_URL = `https://xmc-3grg5v0uit5oa43nqowrr0.sitecorecloud.io/sitecore/api/graph/edge?sc_apikey=${API_KEY}`;
   const [searchTerm, setSearchTerm] = useState('');
   const [results, setResults] = useState([]);
   const [displayedResults, setDisplayedResults] = useState([]);

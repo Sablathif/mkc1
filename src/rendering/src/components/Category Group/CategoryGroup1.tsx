@@ -8,7 +8,7 @@ import { mainSlider6 } from 'src/utils/data/carousel';
 import CategoryGroup1Type from './CategoryGroup1.type';
 import CategoryGroup1Card1 from './CategoryGroup1Card1';
 // const endpoint = 'https://cm.xmcloudcm.localhost/sitecore/api/graph/edge';
-const endpoint = 'https://xmc-14znhkjkgfiwyow0b42wwg.sitecorecloud.io/sitecore/api/graph/edge';
+const endpoint = 'https://xmc-3grg5v0uit5oa43nqowrr0.sitecorecloud.io/sitecore/api/graph/edge';
 const apiKey = '{1047aee5-9bcd-4dbf-9744-a26e12b79ab6}';
 const query = gql`
   # Write your query or mutation here
