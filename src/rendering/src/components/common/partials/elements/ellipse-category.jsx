@@ -2,7 +2,7 @@ import React from 'react';
 import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
-import ALink from '../../../../components/feature/custom-link';
+import EllipseCategoryCard from './EllipseCategoryCard';
 
 function ellipsecategory(props) {
   const categories = props?.props?.fields?.Categories;
@@ -45,28 +45,10 @@ function ellipsecategory(props) {
     <>
       <section className="ellipse-section ellipse-carousel section">
         <div className="container">
-          <h2 className="title title-center">{data.fields.Title.value}</h2>
+          <h2 className="title title-center">{data?.fields?.Title?.value}</h2>
           <Slider {...settings}>
             {categories?.map((data, index) => (
-              <div className="category category-ellipse" key={index}>
-                <ALink href={data.fields.CTA.value.href}>
-                  <figure className="category-media">
-                    <img
-                      src={'/-' + data.fields?.Image?.value?.src.split('/-').pop()}
-                      alt="Cateogry"
-                      width="196"
-                      height="196"
-                    />
-                  </figure>
-                </ALink>
-
-                <div className="category-content">
-                  <h4 className="category-name">
-                    <ALink href={data.fields.CTA.value.href}>{data.fields.Title.value}</ALink>
-                  </h4>
-                  <span className="category-count">{data.fields.SubTitle.value}</span>
-                </div>
-              </div>
+              <EllipseCategoryCard props={data} index={index} key={index} />
             ))}
           </Slider>
         </div>
