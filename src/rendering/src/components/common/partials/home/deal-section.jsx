@@ -1,7 +1,7 @@
 import React from 'react';
 import BannerCard from './banner-card';
 function DealSection(props) {
-  const banners = props.props.fields.Banners;
+  const banners = props?.props?.fields?.Banners;
   return (
     <section className="banner-group mt-4">
       <div className="container">

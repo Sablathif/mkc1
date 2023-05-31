@@ -24,7 +24,7 @@ function AccordionIcon(props: any, index: number) {
   const handleClick = (index: number) => {
     setActiveIndex((prevIndex) => (prevIndex === index ? null : index));
   };
-  const iconClass = props?.props?.fields?.IconClass?.value.toString();
+  const iconClass = props?.props?.fields?.IconClass?.value?.toString();
   const data = props?.props;
   const icon = iconClass ? Icons[iconClass] : faCheck;
 
