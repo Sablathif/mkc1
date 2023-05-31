@@ -92,24 +92,22 @@ const CategoryGroup1 = () => {
   const { isLoading, data } = useQuery(['get-user'], fetchUser);
   if (isLoading) return <p>Loading...</p>;
   return (
-    <>
-      <div className="page-content">
-        <div className="container">
-          <section className="mt-10 pt-4 border-container">
-            <h2 className="title title-center">
-              <Text field={data?.item?.componentTitle}></Text>
-            </h2>
-            <OwlCarousel adClass="owl-theme" options={mainSlider6}>
-              {data?.item?.categories?.targetItems &&
-                data?.item?.categories?.targetItems?.length > 0 &&
-                data?.item?.categories?.targetItems?.map((item: any, index) => (
-                  <CategoryGroup1Card1 props={item} index={index} key={index} />
-                ))}
-            </OwlCarousel>
-          </section>
-        </div>
+    <div className="page-content">
+      <div className="container">
+        <section className="mt-10 pt-4 border-container">
+          <h2 className="title title-center">
+            <Text field={data?.item?.componentTitle}></Text>
+          </h2>
+          <OwlCarousel adClass="owl-theme" options={mainSlider6}>
+            {data?.item?.categories?.targetItems &&
+              data?.item?.categories?.targetItems?.length > 0 &&
+              data?.item?.categories?.targetItems?.map((item: any, index) => (
+                <CategoryGroup1Card1 props={item} index={index} key={index} />
+              ))}
+          </OwlCarousel>
+        </section>
       </div>
-    </>
+    </div>
   );
 };
 

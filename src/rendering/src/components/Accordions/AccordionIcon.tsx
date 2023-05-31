@@ -24,8 +24,8 @@ function AccordionIcon(props: any, index: number) {
   const handleClick = (index: number) => {
     setActiveIndex((prevIndex) => (prevIndex === index ? null : index));
   };
-  const iconClass = props.props.fields.IconClass.value.toString();
-  const data = props.props;
+  const iconClass = props?.props?.fields?.IconClass?.value?.toString();
+  const data = props?.props;
   const icon = iconClass ? Icons[iconClass] : faCheck;
 
   return (
@@ -33,7 +33,7 @@ function AccordionIcon(props: any, index: number) {
       <div className="card-header">
         <FontAwesomeIcon icon={icon} />
         <button onClick={() => handleClick(index)}>
-          <Text field={data.fields.Heading} />
+          <Text field={data?.fields?.Heading} />
           <FontAwesomeIcon
             icon={activeIndex === index ? faMinus : faPlus}
             className="accordion-icon"
@@ -43,7 +43,7 @@ function AccordionIcon(props: any, index: number) {
       {activeIndex === index && (
         <div className="card-body">
           <p>
-            <Text field={data.fields.Description} />
+            <Text field={data?.fields?.Description} />
           </p>
         </div>
       )}
