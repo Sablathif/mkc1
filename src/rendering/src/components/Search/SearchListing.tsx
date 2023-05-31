@@ -121,8 +121,8 @@ const SearchListing = () => {
       .then((res) => res.json())
       .then((data) => {
         setResults(
-          data?.data?.pageOne?.results?.filter(
-            (item: any) => item?.Title?.value.toLowerCase().includes(searchTerm.toLowerCase())
+          data?.data?.pageOne?.results?.filter((item: any) =>
+            item?.Title?.value.toLowerCase().includes(searchTerm.toLowerCase())
           )
         );
       })

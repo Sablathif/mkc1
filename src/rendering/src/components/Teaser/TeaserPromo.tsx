@@ -54,4 +54,3 @@ const TeaserPromo = (props: TeaserPromoType): JSX.Element => (
   </div>
 );
 export default TeaserPromo;
-//export default withDatasourceCheck()<TeaserPromoProps>(TeaserPromo);
