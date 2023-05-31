@@ -1,17 +1,9 @@
-import { ImageField, RichTextField } from '@sitecore-jss/sitecore-jss-nextjs';
-import { ComponentProps } from 'lib/component-props';
 import ALink from 'components/feature/custom-link';
 import HeaderSearch from 'components/Header/HeaderSearch';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
+import HeaderMidSectionType from './HeaderMidSection.type';
 
-type HeaderMidSectionProps = ComponentProps & {
-  fields: {
-    Logo: ImageField;
-    CallUsNow: RichTextField;
-  };
-};
-
-const HeaderMidSection = (props: HeaderMidSectionProps): JSX.Element => (
+const HeaderMidSection = (props: HeaderMidSectionType): JSX.Element => (
   <header className="header header-border">
     <div className="header-middle sticky-header fix-top sticky-content">
       <div className="container">

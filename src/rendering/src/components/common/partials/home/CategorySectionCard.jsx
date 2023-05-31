@@ -1,7 +1,7 @@
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import ALink from '../../../feature/custom-link';
 
-function CategorySectionCard(props) {
+function CategorySectionCard(props, index) {
   const data = props?.props;
   return (
     <div className="col-xs-6 col-lg-3 mb-4" key={index}>

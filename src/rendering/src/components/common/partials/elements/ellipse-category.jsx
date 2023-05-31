@@ -42,18 +42,16 @@ function ellipsecategory(props) {
     ],
   };
   return (
-    <>
-      <section className="ellipse-section ellipse-carousel section">
-        <div className="container">
-          <h2 className="title title-center">{data?.fields?.Title?.value}</h2>
-          <Slider {...settings}>
-            {categories?.map((data, index) => (
-              <EllipseCategoryCard props={data} index={index} key={index} />
-            ))}
-          </Slider>
-        </div>
-      </section>
-    </>
+    <section className="ellipse-section ellipse-carousel section">
+      <div className="container">
+        <h2 className="title title-center">{data?.fields?.Title?.value}</h2>
+        <Slider {...settings}>
+          {categories?.map((data, index) => (
+            <EllipseCategoryCard props={data} index={index} key={index} />
+          ))}
+        </Slider>
+      </div>
+    </section>
   );
 }
 
