@@ -1,6 +1,5 @@
-import { Field } from '@sitecore-jss/sitecore-jss-nextjs';
-import { ComponentProps } from 'lib/component-props';
 import dynamic from 'next/dynamic';
+import HeroBannerType from './HeroBanner.type';
 
 const SimpleBanner = dynamic(() => import('components/common/partials/home/cta-section'));
 const BoxedBanner = dynamic(() => import('components/common/partials/elements/boxed-banner'));
@@ -11,11 +10,8 @@ const HeroBanners: Record<string, any> = {
   BannerWithoutCTA,
   SimpleBanner,
 };
-type HeroBannerProps = ComponentProps & {
-  params: { BannerType: Field<string> };
-};
 
-const HeroBanner = (props: HeroBannerProps): JSX.Element => {
+const HeroBanner = (props: HeroBannerType): JSX.Element => {
   const bannerType = props?.params.BannerType.toString();
   const Component = bannerType ? HeroBanners[bannerType] : SimpleBanner;
   return <Component props={props} />;
