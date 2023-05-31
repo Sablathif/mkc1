@@ -2,6 +2,7 @@ import { ImageField, Image, RichTextField } from '@sitecore-jss/sitecore-jss-nex
 import { ComponentProps } from 'lib/component-props';
 import ALink from 'components/feature/custom-link';
 import HeaderSearch from 'components/Header/HeaderSearch';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 
 type HeaderMidSectionProps = ComponentProps & {
   fields: {
@@ -15,14 +16,15 @@ const HeaderMidSection = (props: HeaderMidSectionProps): JSX.Element => (
     <div className="header-middle sticky-header fix-top sticky-content">
       <div className="container">
         <div className="header-left">
-          {/* <ALink href="#" className="mobile-menu-toggle" onClick={ showMobileMenu }>
-                    <i className="d-icon-bars2"></i>
-                </ALink> */}
-
           <ALink href="/" className="logo" content={undefined} style={undefined}>
-            <Image field={props.fields.Logo} />
+            <LazyLoadImage
+              src={'/-' + props.fields.Logo.value.src.split('/-').pop()}
+              alt={`${props?.fields?.Logo?.value?.alt}`}
+              width={`${props?.fields?.Logo?.value?.width}`}
+              height={`${props?.fields?.Logo?.value?.height}`}
+              loading="lazy"
+            />
           </ALink>
-
           <HeaderSearch />
         </div>
 
