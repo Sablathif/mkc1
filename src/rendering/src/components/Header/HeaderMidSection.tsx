@@ -1,4 +1,4 @@
-import { ImageField, Image, RichTextField, RichText } from '@sitecore-jss/sitecore-jss-nextjs';
+import { ImageField, Image, RichTextField } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
 import ALink from 'components/feature/custom-link';
 import HeaderSearch from 'components/Header/HeaderSearch';
