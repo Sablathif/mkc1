@@ -122,7 +122,7 @@ const SearchListing = () => {
       .then((data) => {
         setResults(
           data?.data?.pageOne?.results?.filter(
-            (item: any) => item?.Title.value.toLowerCase().includes(searchTerm.toLowerCase())
+            (item: any) => item?.Title?.value.toLowerCase().includes(searchTerm.toLowerCase())
           )
         );
       })
@@ -174,11 +174,10 @@ const SearchListing = () => {
               <div className="product-cat mt-2">
                 <RichText field={item?.Category}></RichText>
               </div>
-              <h3 className="product-name mt-2">{item?.Title.value}</h3>
+              <h3 className="product-name mt-2">{item?.Title?.value}</h3>
               <p className="product-price">
                 <RichText field={item?.Price}></RichText>
               </p>
-              {/* <p><RichText field={item?.Size}></RichText></p> */}
               <span className="text-gray-900">
                 <RichText field={item?.Color}></RichText>
               </span>
