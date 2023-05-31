@@ -10,22 +10,22 @@ function boxedbanner(props) {
           <div
             className="shop-boxed-banner banner mb-lg-6"
             style={{
-              backgroundImage: `url(${props.props.fields.BackgroundImage?.value.src})`,
+              backgroundImage: `url(${props?.props?.fields?.BackgroundImage?.value.src})`,
               backgroundColor: '#f2f2f3',
             }}
           >
             <div className="banner-content">
               <h4 className="banner-subtitle font-weight-bold ls-normal text-uppercase text-white">
-                {props.props.fields.Heading.value}
+                {props?.props?.fields?.Heading?.value}
               </h4>
               <h1 className="banner-title font-weight-bold text-white">
-                {props.props.fields.Title.value}
+                {props?.props?.fields?.Title?.value}
               </h1>
               <ALink
-                href={props.props.fields.CTA.value.href}
+                href={props?.props?.fields?.CTA?.value?.href}
                 className="btn btn-white btn-outline btn-rounded text-normal"
               >
-                {props.props.fields.CTA.value.text}
+                {props?.props?.fields?.CTA?.value?.text}
                 <i className="d-icon-arrow-right"></i>
               </ALink>
             </div>
