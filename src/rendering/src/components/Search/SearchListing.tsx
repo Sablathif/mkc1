@@ -98,11 +98,6 @@ const SearchListing = () => {
   }, [results, limit]);
 
   const handleSearch = () => {
-    router.push({
-      pathname: '/Product Search',
-      query: { search: searchTerm },
-    });
-
     fetch(API_URL, {
       method: 'POST',
       headers: {
@@ -134,57 +129,46 @@ const SearchListing = () => {
   };
   return (
     <>
-      <div className="pt-6">
-        <input
-          className="... ring-2 ring-pink-300 ring-inset"
-          type="text"
-          value={searchTerm}
-          onChange={(e) => setSearchTerm(e.target.value)}
-        />
-        <br />
-        <br />
-        <button className="btn btn-primary" onClick={handleSearch}>
-          Search
-        </button>
-      </div>
-      <div className="container">
-        <div className="row">
-          {displayedResults?.map((item: any) => (
-            <div key={item?.id} className="col-xs-6 col-lg-3 mb-4 mb-10">
-              <div className="product text-left">
-                <div className="image-wrap">
-                  <ALink href="#" className={undefined} content={undefined} style={undefined}>
-                    <img
-                      src="https://d-themes.com/react_asset_api/riode/uploads/images/demo-1/products/product-7-2-300x338.jpg"
-                      alt={item?.Title.value}
-                    />
-                  </ALink>
-                  <div className="product-action">
-                    <ALink
-                      href="#"
-                      className="btn-product btn-quickview"
-                      content={undefined}
-                      style={undefined}
-                    >
-                      Quick View
+      <section className="section">
+        <div className="container">
+          <div className="row">
+            {displayedResults?.map((item: any) => (
+              <div key={item?.id} className="col-xs-6 col-lg-3 mb-4 mb-10">
+                <div className="product text-left">
+                  <div className="image-wrap">
+                    <ALink href="#" className={undefined} content={undefined} style={undefined}>
+                      <img
+                        src="https://d-themes.com/react_asset_api/riode/uploads/images/demo-1/products/product-7-2-300x338.jpg"
+                        alt={item?.Title.value}
+                      />
                     </ALink>
+                    <div className="product-action">
+                      <ALink
+                        href="#"
+                        className="btn-product btn-quickview"
+                        content={undefined}
+                        style={undefined}
+                      >
+                        Quick View
+                      </ALink>
+                    </div>
                   </div>
                 </div>
+                <div className="product-cat mt-2">
+                  <RichText field={item?.Category}></RichText>
+                </div>
+                <h3 className="product-name mt-2">{item?.Title?.value}</h3>
+                <p className="product-price">
+                  <RichText field={item?.Price}></RichText>
+                </p>
+                <span className="text-gray-900">
+                  <RichText field={item?.Color}></RichText>
+                </span>
               </div>
-              <div className="product-cat mt-2">
-                <RichText field={item?.Category}></RichText>
-              </div>
-              <h3 className="product-name mt-2">{item?.Title?.value}</h3>
-              <p className="product-price">
-                <RichText field={item?.Price}></RichText>
-              </p>
-              <span className="text-gray-900">
-                <RichText field={item?.Color}></RichText>
-              </span>
-            </div>
-          ))}
+            ))}
+          </div>
         </div>
-      </div>
+      </section>
       {results?.length > limit && (
         <button
           className="w-auto mb-3 mx-auto text-center px-6 py-3 bg-indigo-500 text-white rounded-lg hover:bg-indigo-600"
