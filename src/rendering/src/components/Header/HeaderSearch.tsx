@@ -13,13 +13,11 @@ const HeaderSearch = () => {
 
   function onSubmitSearchForm(event: React.FormEvent<HTMLFormElement>) {
     event.preventDefault();
-    console.log('Form Submitted');
     router.push({
       pathname: '/Product Search',
       query: { search: searchTerm },
     });
   }
-  console.log('Search Box term', searchTerm);
   return (
     <div className="header-search hs-simple">
       <form action="#" method="get" onSubmit={onSubmitSearchForm} className="input-wrapper">
