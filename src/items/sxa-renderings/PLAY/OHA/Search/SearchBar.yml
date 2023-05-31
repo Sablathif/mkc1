@@ -1,0 +1,23 @@
+﻿---
+ID: "f8bdf43e-6a50-520e-b19a-ffa86116c0e9"
+Parent: "b07191e0-b1ac-4492-97db-8e106dfe1d03"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Project/PLAY/OHA/Search/SearchBar
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: SearchBar
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Value: 
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{31597EB0-A844-5546-9F7F-0B0DC067DC34}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1804b3e7-0ae2-435f-8525-4417e42d2beb"

@@ -1,0 +1,13 @@
+﻿---
+ID: "c7ce0e6d-2bd7-47e9-b9ba-1035d75ccc70"
+Parent: "f0894970-0452-4a34-ad5e-4db97a8ef932"
+Template: "645317fe-3c05-4cde-93ec-8a1989204d29"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/Product Search/Page Components/product/Data/Products/Size/Medium
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d1683fb4-be46-4c0e-abf1-7398c3b14053"
