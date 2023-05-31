@@ -10,7 +10,7 @@ const HeaderMidSection = (props: HeaderMidSectionType): JSX.Element => (
         <div className="header-left">
           <ALink href="/" className="logo" content={undefined} style={undefined}>
             <LazyLoadImage
-              src={'/-' + props.fields.Logo.value.src.split('/-').pop()}
+              src={'/-' + props?.fields?.Logo?.value?.src?.split('/-').pop()}
               alt={`${props?.fields?.Logo?.value?.alt}`}
               width={`${props?.fields?.Logo?.value?.width}`}
               height={`${props?.fields?.Logo?.value?.height}`}

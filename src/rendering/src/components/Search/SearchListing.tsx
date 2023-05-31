@@ -1,6 +1,4 @@
-import { RichText } from '@sitecore-jss/sitecore-jss-nextjs';
 import React, { useState, useEffect } from 'react';
-import ALink from '../feature/custom-link';
 import { useRouter } from 'next/router';
 import SearchCard from './SearchCard';
 
@@ -63,7 +61,7 @@ query SearchQuery
         }
         MediaList: field(name: "MediaList") {
           ... on MultilistField {
-            value
+            jsonValue
           }
       }
       path

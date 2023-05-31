@@ -1,18 +1,21 @@
 import { RichText } from '@sitecore-jss/sitecore-jss-nextjs';
 import ALink from 'components/feature/custom-link';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 
 function SearchCard(props: any) {
   const item = props?.props;
+  console.log('Image src', item?.MediaList?.jsonValue[0]?.url);
   return (
     <div key={item?.id} className="col-xs-6 col-lg-3 mb-4 mb-10">
       <div className="product text-left">
         <div className="image-wrap">
-          <ALink href="#" className={undefined} content={undefined} style={undefined}>
-            <img
-              src="https://d-themes.com/react_asset_api/riode/uploads/images/demo-1/products/product-7-2-300x338.jpg"
-              alt={item?.Title?.value}
-            />
-          </ALink>
+          <LazyLoadImage
+            src={'/-' + item?.MediaList?.jsonValue[0]?.url.split('/-').pop()}
+            alt={`${item?.MediaList?.jsonValue[0]?.name}`}
+            width={`${item?.MediaList?.jsonValue[0]?.fields?.Width?.value}`}
+            height={`${item?.MediaList?.jsonValue[0]?.fields?.Height?.value}`}
+            loading="lazy"
+          />
           <div className="product-action">
             <ALink
               href="#"
