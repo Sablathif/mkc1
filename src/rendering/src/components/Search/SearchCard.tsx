@@ -4,13 +4,12 @@ import { LazyLoadImage } from 'react-lazy-load-image-component';
 
 function SearchCard(props: any) {
   const item = props?.props;
-  console.log('Image src', item?.MediaList?.jsonValue[0]?.url);
   return (
     <div key={item?.id} className="col-xs-6 col-lg-3 mb-4 mb-10">
       <div className="product text-left">
         <div className="image-wrap">
           <LazyLoadImage
-            src={'/-' + item?.MediaList?.jsonValue[0]?.url.split('/-').pop()}
+            src={item?.MediaList?.jsonValue[0]?.url}
             alt={`${item?.MediaList?.jsonValue[0]?.name}`}
             width={`${item?.MediaList?.jsonValue[0]?.fields?.Width?.value}`}
             height={`${item?.MediaList?.jsonValue[0]?.fields?.Height?.value}`}
