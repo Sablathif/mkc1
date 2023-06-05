@@ -9,9 +9,8 @@ const BLOGS: Record<string, any> = {
   Listing,
 };
 
-const Blog = (Props: BlogType): JSX.Element => {
+export const Default = (Props: BlogType): JSX.Element => {
   const blogType = Props?.fields?.blogType?.value;
   const Component = blogType ? BLOGS[blogType] : FeaturedArticle;
   return <Component BlogProps={Props} />;
 };
-export const Default = Blog;

@@ -22,7 +22,7 @@ type CallToActionCol2Props = ComponentProps & {
   };
 };
 
-const CallToActionCol2 = (props: CallToActionCol2Props): JSX.Element => (
+export const Default = (props: CallToActionCol2Props): JSX.Element => (
   <>
     <section className="mt-10 pt-4">
       <div className="container">
@@ -112,5 +112,4 @@ const CallToActionCol2 = (props: CallToActionCol2Props): JSX.Element => (
   </>
 );
 
-//export default withDatasourceCheck()<ProductCategoryProps>(ProductCategory);
-export const Default = CallToActionCol2;
+// export const Default = CallToActionCol2;

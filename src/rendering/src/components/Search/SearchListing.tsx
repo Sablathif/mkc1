@@ -69,7 +69,7 @@ query SearchQuery
   }
 }`;
 
-const SearchListing = () => {
+export const Default = () => {
   const router = useRouter();
   const API_KEY = '1047AEE5-9BCD-4DBF-9744-A26E12B79AB6';
   //const API_URL = `https://cm.xmcloudcm.localhost/sitecore/api/graph/edge?sc_apikey=${API_KEY}`;
@@ -149,4 +149,4 @@ const SearchListing = () => {
   );
 };
 
-export const Default = SearchListing;
+// export const Default = SearchListing;

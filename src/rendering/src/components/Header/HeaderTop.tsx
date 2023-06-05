@@ -20,7 +20,7 @@ type HeaderTopProps = ComponentProps & {
   };
 };
 
-const HeaderTop = (props: HeaderTopProps): JSX.Element => {
+export const Default = (props: HeaderTopProps): JSX.Element => {
   return (
     <header className="header header-border">
       <div className="header-top">
@@ -116,6 +116,6 @@ const HeaderTop = (props: HeaderTopProps): JSX.Element => {
     </header>
   );
 };
-export const Default = HeaderTop;
+// export const Default = HeaderTop;
 
 // export default withDatasourceCheck()<HeaderTopProps>(HeaderTop);

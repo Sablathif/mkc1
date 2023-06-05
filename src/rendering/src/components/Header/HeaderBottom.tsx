@@ -2,7 +2,7 @@ import { Link } from '@sitecore-jss/sitecore-jss-nextjs';
 import Styles from './HeaderBottom.module.css';
 import HeaderBottomType from './HeaderBottom.type';
 
-const HeaderBottom = (props: HeaderBottomType): JSX.Element => (
+export const Default = (props: HeaderBottomType): JSX.Element => (
   <div className="header header-border">
     <div className="header-bottom d-lg-show">
       <div className="container">
@@ -15,4 +15,3 @@ const HeaderBottom = (props: HeaderBottomType): JSX.Element => (
     </div>
   </div>
 );
-export const Default = HeaderBottom;

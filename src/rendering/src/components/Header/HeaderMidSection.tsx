@@ -3,7 +3,7 @@ import HeaderSearch from 'components/Header/HeaderSearch';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 import HeaderMidSectionType from './HeaderMidSection.type';
 
-const HeaderMidSection = (props: HeaderMidSectionType): JSX.Element => (
+export const Default = (props: HeaderMidSectionType): JSX.Element => (
   <header className="header header-border">
     <div className="header-middle sticky-header fix-top sticky-content">
       <div className="container">
@@ -48,6 +48,6 @@ const HeaderMidSection = (props: HeaderMidSectionType): JSX.Element => (
     </div>
   </header>
 );
-export const Default = HeaderMidSection;
+// export const Default = HeaderMidSection;
 
 // export default withDatasourceCheck()<HeaderMidSectionProps>(HeaderMidSection);
