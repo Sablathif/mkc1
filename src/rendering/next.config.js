@@ -5,6 +5,9 @@ const plugins = require('./src/temp/next-config-plugins') || {};
 
 const publicUrl = getPublicUrl();
 const withPurgeCSSModules = require('next-purge-css-modules');
+const withBundleAnalyzer = require('@next/bundle-analyzer')({
+  enabled: process.env.ANALYZE === 'true',
+});
 /**
  * @type {import('next').NextConfig}
  */
@@ -59,5 +62,9 @@ const nextConfig = {
 
 module.exports = () => {
   // Run the base config through any configured plugins
-  return Object.values(plugins).reduce((acc, plugin) => plugin(acc), nextConfig);
+  return Object.values(plugins).reduce(
+    (acc, plugin) => plugin(acc),
+    nextConfig,
+    withBundleAnalyzer
+  );
 };

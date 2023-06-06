@@ -43,7 +43,7 @@
     "@fortawesome/free-regular-svg-icons": "^5.15.3",
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
     "@fortawesome/react-fontawesome": "^0.1.14",
-    "@next/bundle-analyzer": "^12.2.4",
+    "@next/bundle-analyzer": "^12.3.4",
     "@ordercloud/catalyst": "^1.2.0",
     "@ordercloud/portal-javascript-sdk": "0.0.1-beta.19",
     "@radix-ui/react-icons": "^1.1.1",
