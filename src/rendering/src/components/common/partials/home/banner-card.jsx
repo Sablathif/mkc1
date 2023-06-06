@@ -16,8 +16,8 @@ function BannerCard(props, index) {
               src={'/-' + data?.fields?.BackgroundImage?.value?.src?.split('/-').pop()}
               alt="Banner Image"
               effect="opacity, transform"
-              width={100}
-              height={220}
+              width={data?.fields?.BackgroundImage?.value?.width}
+              height={data?.fields?.BackgroundImage?.value?.height}
               loading="lazy"
             />
           </figure>

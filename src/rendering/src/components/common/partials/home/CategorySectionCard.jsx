@@ -12,8 +12,8 @@ function CategorySectionCard(props, index) {
               src={'/-' + data?.fields?.Image?.value?.src.split('/-').pop()}
               alt="Intro Slider"
               effect="opacity; transform"
-              width={280}
-              height={280}
+              width={data?.fields?.Image?.value?.width}
+              height={data?.fields?.Image?.value?.height}
               loading="lazy"
             />
           </figure>
