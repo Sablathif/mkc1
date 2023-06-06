@@ -1,7 +1,7 @@
 import { Text, RichText } from '@sitecore-jss/sitecore-jss-nextjs';
 import ALink from 'components/feature/custom-link';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
 import BlogDetailType from './BlogDetail.type';
+import Image from 'next/image';
 
 const BlogDetail = (props: BlogDetailType): JSX.Element => (
   <div className="container">
@@ -10,7 +10,7 @@ const BlogDetail = (props: BlogDetailType): JSX.Element => (
         <div className="post post-single ">
           <figure className="post-media">
             <ALink href="#" className={undefined} content={undefined} style={undefined}>
-              <LazyLoadImage
+              <Image
                 src={'/-' + props?.fields?.Image?.value?.src?.split('/-').pop()}
                 alt={`${props?.fields?.Image?.value?.alt}`}
                 width={`${props?.fields?.Image?.value?.width}`}

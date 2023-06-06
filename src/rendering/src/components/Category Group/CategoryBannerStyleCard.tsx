@@ -1,6 +1,6 @@
 import React from 'react';
 import ALink from 'components/feature/custom-link';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
+import Image from 'next/image';
 
 function CategoryBannerStyleCard(props: any, index: any) {
   const data = props?.props;
@@ -22,12 +22,12 @@ function CategoryBannerStyleCard(props: any, index: any) {
       >
         <ALink href="#" className={undefined} content={undefined} style={undefined}>
           <figure className="category-media">
-            <LazyLoadImage
+            <Image
               src={'/-' + data?.fields?.BackgroundImage?.value?.src.split('/-').pop()}
               alt={`${data?.fields?.BackgroundImage?.value?.alt}`}
               width="585"
               height={data?.fields?.BannerType?.value.toString() === 'height-x2' ? '397' : '205'}
-              effect="opacity"
+              // effect="opacity"
             />
           </figure>
         </ALink>

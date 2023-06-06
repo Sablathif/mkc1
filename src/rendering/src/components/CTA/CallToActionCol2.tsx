@@ -1,7 +1,7 @@
 import { Field, ImageField, LinkField } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from '../../lib/component-props';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
 import ALink from '../../components/feature/custom-link';
+import Image from 'next/image';
 
 type CallToActionCol2Props = ComponentProps & {
   fields: {
@@ -34,12 +34,12 @@ export const Default = (props: CallToActionCol2Props): JSX.Element => (
                 <div className="col-md-6 mb-4" key={index}>
                   <div className="banner banner-1 banner-fixed content-center content-middle">
                     <figure>
-                      <LazyLoadImage
+                      <Image
                         src={'/-' + data?.fields?.BackgroundImage?.value?.src.split('/-').pop()}
                         alt="banner"
                         width="580"
                         height="330"
-                        effect="opacity"
+                        // effect="opacity"
                       />
                     </figure>
                     <div className="banner-content">
@@ -68,12 +68,12 @@ export const Default = (props: CallToActionCol2Props): JSX.Element => (
                 <div className="col-md-6 mb-4" key={index}>
                   <div className="banner banner-2 banner-fixed content-center content-middle">
                     <figure>
-                      <LazyLoadImage
+                      <Image
                         src={'/-' + data?.fields?.BackgroundImage?.value?.src.split('/-').pop()}
                         alt="banner"
                         width="580"
                         height="330"
-                        effect="opacity"
+                        // effect="opacity"
                       />
                     </figure>
                     <div className="banner-content">

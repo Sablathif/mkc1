@@ -1,9 +1,9 @@
 import React from 'react';
 import Reveal from 'react-awesome-reveal';
 import { fadeInRightShorter } from '../../utils/data/keyframes';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
+import Image from 'next/image';
 
 function TeaserCard(props: any, index: any) {
   const data = props?.props;
@@ -17,9 +17,12 @@ function TeaserCard(props: any, index: any) {
       >
         <div className="icon-box icon-box-side icon-box1">
           <figure className="category-media">
-            <LazyLoadImage
+            <Image
               src={'/-' + data?.fields?.Image?.value?.src.split('/-').pop()}
-              effect="opacity"
+              alt={data?.fields?.Image?.value?.alt}
+              width={data?.fields?.Image?.value?.width}
+              height={data?.fields?.Image?.value?.height}
+              loading="lazy"
             />
           </figure>
           <div className="icon-box-content">

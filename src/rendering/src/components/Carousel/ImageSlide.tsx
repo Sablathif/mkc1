@@ -1,4 +1,4 @@
-import { LazyLoadImage } from 'react-lazy-load-image-component';
+import Image from 'next/image';
 
 function ImageSlide(props: any) {
   const data = props?.props?.props;
@@ -8,12 +8,13 @@ function ImageSlide(props: any) {
       style={{ backgroundColor: `${data?.fields?.BackgroundColor?.value}` }}
     >
       <figure>
-        <LazyLoadImage
+        <Image
           src={'/-' + data?.fields?.BackgroundImage?.value?.src?.split('/-').pop()}
           alt="Intro Slider"
-          effect="opacity"
-          width="auto"
-          height={630}
+          // effect="opacity"
+          width={data?.fields?.BackgroundImage?.value?.width}
+          height={data?.fields?.BackgroundImage?.value?.height}
+          loading="lazy"
         />
       </figure>
     </div>

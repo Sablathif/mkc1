@@ -1,14 +1,14 @@
 import React from 'react';
 import { videoHandler } from 'src/utils';
 import ALink from 'components/feature/custom-link';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
+import Image from 'next/image';
 
 function VideoListingCard(props: any) {
   const item = props?.props?.props?.props;
   return (
     <figure className="post-media">
       <ALink href="#" className={undefined} content={undefined} style={undefined}>
-        <LazyLoadImage
+        <Image
           src={'/-' + item?.fields?.blogimages?.value?.src.split('/-').pop()}
           alt={item?.fields?.blogimages?.value?.alt}
           width={item?.fields?.blogimages?.value?.width}

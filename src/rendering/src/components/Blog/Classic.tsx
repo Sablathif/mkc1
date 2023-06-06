@@ -4,7 +4,7 @@ import ALink from 'components/feature/custom-link';
 import { videoHandler } from 'src/utils';
 import OwlCarousel from 'components/feature/owl-carousel';
 import { mainSlider20 } from 'src/utils/data/carousel';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
+import Image from 'next/image';
 
 function Classic(BlogProps: any) {
   const blog = BlogProps.BlogProps.fields.blog;
@@ -28,7 +28,7 @@ function Classic(BlogProps: any) {
                     <>
                       <figure className="post-media">
                         <ALink href="#" className={undefined} content={undefined} style={undefined}>
-                          <LazyLoadImage
+                          <Image
                             src={'/-' + item.fields.blogimages.value.src.split('/-').pop()}
                             alt={item.fields.blogimages.value.alt}
                             width={item.fields.blogimages.value.width}
@@ -67,7 +67,7 @@ function Classic(BlogProps: any) {
                                 content={undefined}
                                 style={undefined}
                               >
-                                <LazyLoadImage
+                                <Image
                                   src={'/-' + item.fields.blogimages.value.src.split('/-').pop()}
                                   alt={item.fields.blogimages.value.alt}
                                   width={item.fields.blogimages.value.width}
@@ -85,7 +85,7 @@ function Classic(BlogProps: any) {
                               content={undefined}
                               style={undefined}
                             >
-                              <LazyLoadImage
+                              <Image
                                 src={'/-' + item.fields.blogimages.value.src.split('/-').pop()}
                                 alt={item.fields.blogimages.value.alt}
                                 width={item.fields.blogimages.value.width}

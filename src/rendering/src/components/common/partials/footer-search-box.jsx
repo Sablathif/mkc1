@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useRouter } from 'next/router';
 // import { useLazyQuery } from '@apollo/react-hooks';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
 
 import ALink from '../../feature/custom-link';
 
@@ -9,6 +8,7 @@ import ALink from '../../feature/custom-link';
 // import withApollo from '../../../../server/apollo';
 
 import { toDecimal } from '../../../utils';
+import Image from 'next/image';
 
 function SearchForm() {
   const router = useRouter();
@@ -130,7 +130,7 @@ function SearchForm() {
                 className="autocomplete-suggestion"
                 key={`search-result-${index}`}
               >
-                <LazyLoadImage
+                <Image
                   effect="opacity"
                   src={process.env.NEXT_PUBLIC_ASSET_URI + product.pictures[0].url}
                   width={40}

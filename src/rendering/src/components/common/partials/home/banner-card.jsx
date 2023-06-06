@@ -1,8 +1,8 @@
 import React from 'react';
 import Reveal from 'react-awesome-reveal';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
 import ALink from '../../../feature/custom-link';
 import { fadeInLeftShorter } from '../../../../utils/data/keyframes';
+import Image from 'next/image';
 function BannerCard(props, index) {
   const data = props.props;
   return (
@@ -12,7 +12,7 @@ function BannerCard(props, index) {
           className={`banner banner-fixed banner-radius content-middle overlay-zoom ${data?.fields?.BannerType?.value}`}
         >
           <figure>
-            <LazyLoadImage
+            <Image
               src={'/-' + data?.fields?.BackgroundImage?.value?.src?.split('/-').pop()}
               alt="Banner Image"
               effect="opacity, transform"

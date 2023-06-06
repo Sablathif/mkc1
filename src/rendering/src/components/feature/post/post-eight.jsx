@@ -1,6 +1,6 @@
 import React from 'react';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
 import ALink from 'components/feature/custom-link';
+import Image from 'next/image';
 
 function PostEight(props) {
   const post = props.post;
@@ -9,7 +9,7 @@ function PostEight(props) {
     <div className={`post post-frame`}>
       <figure className="post-media">
         <ALink href={post.fields.ctaLink.value.href}>
-          <LazyLoadImage
+          <Image
             src={'/-' + post.fields.blogimages.value.src.split('/-').pop()}
             alt={post.fields.blogimages.value.alt}
             width={post.fields.blogimages.value.width}

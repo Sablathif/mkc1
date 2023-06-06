@@ -1,5 +1,5 @@
-import { LazyLoadImage } from 'react-lazy-load-image-component';
 import ALink from '../../../feature/custom-link';
+import Image from 'next/image';
 
 function CategorySectionCard(props, index) {
   const data = props?.props;
@@ -8,7 +8,7 @@ function CategorySectionCard(props, index) {
       <div className="category category-default1 category-absolute banner-radius overlay-zoom">
         <ALink href={data?.fields?.CTA?.value?.href}>
           <figure className="category-media">
-            <LazyLoadImage
+            <Image
               src={'/-' + data?.fields?.Image?.value?.src.split('/-').pop()}
               alt="Intro Slider"
               effect="opacity; transform"

@@ -1,7 +1,7 @@
 import ALink from 'components/feature/custom-link';
 import HeaderSearch from 'components/Header/HeaderSearch';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
 import HeaderMidSectionType from './HeaderMidSection.type';
+import Image from 'next/image';
 
 export const Default = (props: HeaderMidSectionType): JSX.Element => (
   <header className="header header-border">
@@ -9,7 +9,7 @@ export const Default = (props: HeaderMidSectionType): JSX.Element => (
       <div className="container">
         <div className="header-left">
           <ALink href="/" className="logo" content={undefined} style={undefined}>
-            <LazyLoadImage
+            <Image
               src={'/-' + props?.fields?.Logo?.value?.src?.split('/-').pop()}
               alt={`${props?.fields?.Logo?.value?.alt}`}
               width={`${props?.fields?.Logo?.value?.width}`}

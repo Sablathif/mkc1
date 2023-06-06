@@ -1,7 +1,7 @@
 import React from 'react';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
 
 import ALink from 'components/feature/custom-link';
+import Image from 'next/image';
 
 function PostTwo(props) {
   const { post, adClass = '', isLazy = false } = props;
@@ -11,7 +11,7 @@ function PostTwo(props) {
       <figure className="post-media">
         {isLazy ? (
           <ALink href={`/blog/single/${post.slug}`}>
-            <LazyLoadImage
+            <Image
               src={process.env.NEXT_PUBLIC_ASSET_URI + post.small_picture[0].url}
               alt="post image"
               width={post.small_picture[0].width}
