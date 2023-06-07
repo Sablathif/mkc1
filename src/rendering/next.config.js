@@ -6,6 +6,7 @@ const plugins = require('./src/temp/next-config-plugins') || {};
 const publicUrl = getPublicUrl();
 const withCss = require('@zeit/next-css');
 const withPurgeCss = require('next-purgecss');
+const OptimizePlugin = require('optimize-plugin');
 /**
  * @type {import('next').NextConfig}
  */
@@ -63,6 +64,7 @@ module.exports = () => {
   return Object.values(plugins).reduce(
     (acc, plugin) => plugin(acc),
     nextConfig,
+    OptimizePlugin,
     withCss(
       withPurgeCss({
         purgeCssPaths: [
