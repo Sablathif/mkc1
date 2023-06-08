@@ -183,6 +183,7 @@
         span {
             font-family: 'Segoe Script', sans-serif;
             font-size: 1.71em;
+            font-display: swap !important;
         }
     }
     .banner-title {
@@ -233,6 +234,7 @@
         font-family: 'Segoe Script', sans-serif;
         font-size: 3em;
         line-height: 1.6;
+        font-display: swap !important;
     }
     .banner-title {
         margin-bottom: .7rem;
@@ -277,6 +279,7 @@
         font-family: 'Font Awesome 5 Free';
         font-size: .467em;
         font-weight: 400;
+        font-display: swap !important;
     }
     &::before {
         margin-left: .5rem;

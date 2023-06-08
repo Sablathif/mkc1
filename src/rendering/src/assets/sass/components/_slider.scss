@@ -164,6 +164,7 @@
     }
     &::before {
       font-family: 'riode';
+      font-display: swap !important;
     }
     &:not(.disabled):hover,
     &:not(.disabled):active,

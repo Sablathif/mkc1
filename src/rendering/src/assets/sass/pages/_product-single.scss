@@ -244,6 +244,7 @@
             font-weight: 700;
             font-size: 1.2rem;
             color: #222;
+            font-display: swap !important;
         }
     }
     .table {
@@ -428,6 +429,7 @@
 		text-indent: 0;
 		overflow: hidden;
 		white-space: nowrap;
+        font-display: swap !important;
 	}
 
 	a.active:before,

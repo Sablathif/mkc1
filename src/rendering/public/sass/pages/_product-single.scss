@@ -241,6 +241,7 @@
             top: 2px;
             content: '\e960';
             font-family: 'riode';
+            font-display: swap !important;
             font-weight: 700;
             font-size: 1.2rem;
             color: #222;
@@ -425,6 +426,7 @@
 		height: 14px;
 		line-height: 1;
         font-family: 'riode';
+        font-display: swap !important;
 		text-indent: 0;
 		overflow: hidden;
 		white-space: nowrap;

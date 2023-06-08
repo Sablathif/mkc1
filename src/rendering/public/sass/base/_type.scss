@@ -32,6 +32,7 @@ h4,
 h5,
 h6 {
 	font-family: $font-family;
+	font-display: swap !important;
 	font-weight: 600;
 	line-height: 1.4;
 	color: #222;
@@ -56,6 +57,7 @@ h6 {
 }
 p {
 	font-family: $font-family;
+	font-display: swap !important;
 	font-size: 1.4rem;
 	line-height: 1.86;
 }
@@ -86,6 +88,7 @@ blockquote {
 			left: 3px;
 			top: 2px;
 			font-family: "riode";
+			font-display: swap !important;
 			content: '\e960';
 			font-weight: 700;
 			font-size: 1.2rem;
@@ -123,8 +126,9 @@ blockquote {
 			opacity: 0;
 			visibility: hidden;
 			font-family: "riode";
+			font-display: swap !important;
 			font-size: 1.4rem;
-			transition: opacity .3s, visibility .3s; 
+			transition: opacity .3s, visibility .3s;
 		}
 		&:hover,
 		&.show {

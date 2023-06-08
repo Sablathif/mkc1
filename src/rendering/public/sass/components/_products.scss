@@ -17,6 +17,7 @@
 	(
 		product: (
             font-family: $font-family,
+            font-display: swap,
             font-size: 1.4rem,
             color: #999,
             body: (
@@ -326,6 +327,7 @@
     background-color: $primary-color;
     color: #fff;
     font-family: $font-family;
+    font-display: swap !important;
     font: {
         size: 1.4rem;
         weight: 700;
@@ -483,6 +485,7 @@
 .ratings {
     position: relative;
     font-family: 'riode';
+    font-display: swap !important;
 }
 .ratings-full {
     & + .rating-reviews {
@@ -493,6 +496,7 @@
         content: "\e955 " "\e955 " "\e955 " "\e955 " "\e955";
         color: rgba(0, 0, 0, 0.16);
         font-family: 'riode';
+        font-display: swap !important;
     }
 
     &:hover {
@@ -513,6 +517,7 @@
         content: "\e955 " "\e955 " "\e955 " "\e955 " "\e955";
         @include css( color, product, rating, _star-color );
         font-family: 'riode';
+        font-display: swap !important;
     }
 }
 .rating-reviews {
@@ -1034,6 +1039,7 @@
     &.product-variable:not(.cart-full) .btn-cart::after {
         display: none;
         font-family: 'riode';
+        font-display: swap !important;
         content: '\e97f';
         font-size: 1.8rem;
         font-weight: 400;

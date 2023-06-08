@@ -97,6 +97,7 @@
     font-size: 2.4rem;
     font-weight: 900;
     font-family: "riode";
+    font-display: swap !important;
     text-align: center;
     opacity: .5;
     right: 10%;
@@ -122,6 +123,7 @@
 .pswp__button--arrow--right::before {
     content: "\e950";
     font-family: 'riode';
+    font-display: swap !important;
 }
 .mfp-arrow::before,
 .mfp-arrow::after {
@@ -158,6 +160,7 @@ button.mfp-close {
     font-style: normal;
     font-size: 28px;
     font-family: Arial, Baskerville, monospace;
+    font-display: swap !important;
     transform: rotateZ(45deg);
     transition: transform .3s;
     width: 18px;
@@ -210,6 +213,7 @@ button.mfp-close {
     &::before {
         content: "\e951";
         font-family: 'riode';
+        font-display: swap !important;
     }
 }
 

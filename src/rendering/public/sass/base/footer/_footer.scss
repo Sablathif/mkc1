@@ -14,12 +14,13 @@
 	(
 		footer: (
             font-family: $font-family,
+            font-display: swap,
             font-size: 1.3rem,
             letter-spacing: false,
             background: #222,
             color: false,
             _link-active-color: #fff,
-
+            font-display: swap,
             top: (
                 padding: 4rem 0,
                 border-top: false,
@@ -42,7 +43,8 @@
                         letter-spacing: 0,
                         line-height: false,
                         text-transform: capitalize,
-                        color: #e1e1e1, 
+                        color: #e1e1e1,
+                        font-display: swap,
                     ),
                     body: (
                         padding: 8px 0 0,

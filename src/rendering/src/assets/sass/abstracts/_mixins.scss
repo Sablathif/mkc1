@@ -31,9 +31,11 @@ $break-mobile-large: 992px;
     @mixin proxima-font($weight:semibold) {
         @if($weight==semibold) {
             font-family: "ProximaNova-Semibold", arial, helvetica, sans-serif;
+            font-display: swap !important;
         }
         @else if($weight==light) {
             font-family: "ProximaNova-Light", arial, helvetica, sans-serif;
+            font-display: swap !important;
         }
     }
 @mixin opensans-font-stack() {

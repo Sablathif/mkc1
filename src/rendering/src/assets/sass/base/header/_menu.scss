@@ -131,6 +131,7 @@
                 font-size: 1.8rem,
                 font-weight: 700,
                 font-family: $font-family,
+                font-display: swap,
                 line-height: 1,
                 letter-spacing: -.05em,
                 color: #222
@@ -160,6 +161,7 @@
                 padding: 2rem 0,
                 background: #fff,
                 font-family: $font-family,
+                font-display: swap,
                 font-size: 1.4rem,
                 font-weight: false,
                 line-height: 1.5,
@@ -317,6 +319,7 @@
             line-height: 0;
             vertical-align: middle;
             font-family: 'Font Awesome 5 Free';
+            font-display: swap !important;
             font-weight: 700;
             font-size: 1.1rem;
             color: inherit;
@@ -429,6 +432,7 @@
         font-size: 1rem;
         font-weight: 600;
         font-family: 'Font Awesome 5 Free';
+        font-display: swap !important;
         line-height: 1;
         transition: transform .5s;
     }
@@ -570,6 +574,7 @@
     bottom: 0;
     z-index: 10000;
     font-family: $font-family;
+    font-display: swap !important;
     transition: visibility .4s;
 }
 

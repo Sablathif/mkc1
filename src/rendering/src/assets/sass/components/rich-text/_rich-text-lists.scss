@@ -19,6 +19,7 @@
         vertical-align: middle;
         @include font-size(1.2);
         font-family: 'FontAwesome', sans-serif;
+        font-display: swap !important;
         position: absolute;
         top: 3px;
         left: 0;
@@ -40,6 +41,7 @@
         vertical-align: middle;
         @include font-size(1.2);
         font-family: 'FontAwesome', sans-serif;
+        font-display: swap !important;
         position: absolute;
         top: 3px;
         left: 0;

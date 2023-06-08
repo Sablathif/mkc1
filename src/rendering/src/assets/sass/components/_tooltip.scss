@@ -4,6 +4,7 @@
 
 .tooltiptext {
 	font-family: $font-family;
+	font-display: swap !important;
 	position: absolute;
 	padding: 1rem .7rem;
 	bottom : 150%;

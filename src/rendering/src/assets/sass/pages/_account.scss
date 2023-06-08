@@ -10,6 +10,7 @@
     }
     p {
         font-family: $font-family;
+        font-display: swap !important;
         line-height: 2.15;
         letter-spacing: -.017em;
         span {
@@ -38,6 +39,7 @@
     .form-control {
         font-size: 1.3rem;
         font-family: $font-family;
+        font-display: swap !important;
         transition: background-color .3s, border-color .3s;
         color: #999;
         border-radius: .3rem;

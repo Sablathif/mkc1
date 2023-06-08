@@ -403,6 +403,7 @@
 	text-align: center;
 	text-indent: 1px; // issue
 	line-height: 1.7em;
+    font-display: swap !important;
 
 	@include only-for-retina(1.5) {
 		text-indent: 0;

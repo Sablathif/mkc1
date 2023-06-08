@@ -131,6 +131,7 @@
             top: 50%;
             transform: translateY(-50%);
             font-family: "riode";
+            font-display: swap !important;
             font-size: 1.6rem;
             font-weight: 400;
             opacity: 0;
@@ -443,6 +444,7 @@
                 content: '\f105';
                 padding-right: .8rem;
                 font-family: 'Font Awesome 5 Free';
+                font-display: swap !important;
                 font-size: 1.3rem;
                 font-weight: 600;
                 color: #fff;

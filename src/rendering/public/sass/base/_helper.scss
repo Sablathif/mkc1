@@ -118,12 +118,15 @@
 // Font Family
 .font-primary {
     font-family: $font-family !important;
+    font-display: swap !important;
 }
 .font-secondary {
     font-family: $second-font-family !important;
+    font-display: swap !important;
 }
 .font-tertiary {
     font-family: $third-font-family !important;
+    font-display: swap !important;
 }
 
 // Font Weight

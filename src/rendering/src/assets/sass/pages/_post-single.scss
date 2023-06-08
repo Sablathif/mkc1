@@ -97,6 +97,7 @@
             font-size: 2.5rem;
             color: #222;
             line-height: 1;
+            font-display: swap !important;
 		}
     }
     // Post Author Detail
@@ -219,6 +220,7 @@
         font-weight: 400;
         line-height: 1;
         transition: all .35s ease .05s;
+        font-display: swap !important;
     }
     &.pager-link-prev {
         padding-right: 3rem;
