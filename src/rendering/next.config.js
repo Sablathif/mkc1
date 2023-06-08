@@ -7,6 +7,7 @@ const publicUrl = getPublicUrl();
 const withCss = require('@zeit/next-css');
 const withPurgeCss = require('next-purgecss');
 const OptimizePlugin = require('optimize-plugin');
+
 /**
  * @type {import('next').NextConfig}
  */
@@ -67,11 +68,9 @@ module.exports = () => {
     OptimizePlugin,
     withCss(
       withPurgeCss({
-        purgeCssPaths: [
-          'pages/**/*',
-          'components/**/*',
-          'other-components/**/*', // also scan other-components folder
-        ],
+        purgeCssPaths: ['./src/pages/**/*', './src/components/**/*'],
+        safelist: ['html', 'body'],
+        purgeCssEnabled: ({ dev, isServer }) => !dev && !isServer, // Only enable PurgeCSS for client-side production builds
       })
     )
   );
