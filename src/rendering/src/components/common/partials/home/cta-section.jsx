@@ -1,9 +1,8 @@
 import React, { useEffect } from 'react';
-import Reveal from 'react-awesome-reveal';
+// import Reveal from 'react-awesome-reveal';
 import ALink from '../../../../components/feature/custom-link';
-
 import { parallaxHandler } from '../../../../utils';
-import { blurIn } from '../../../../utils/data/keyframes';
+// import { blurIn } from '../../../../utils/data/keyframes';
 
 function CtaSection(props) {
   useEffect(() => {
