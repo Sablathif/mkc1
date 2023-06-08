@@ -68,6 +68,7 @@ module.exports = () => {
     OptimizePlugin,
     withCss(
       withPurgeCss({
+        content: ['./**/*.html'],
         purgeCssPaths: ['./src/pages/**/*', './src/components/**/*'],
         safelist: ['html', 'body'],
         purgeCssEnabled: ({ dev, isServer }) => !dev && !isServer, // Only enable PurgeCSS for client-side production builds
