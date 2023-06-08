@@ -4,7 +4,7 @@ function ImageSlide(props: any) {
   const data = props?.props?.props;
   return (
     <div
-      className="banner banner-fixed intro-slide1"
+      className="banner banner-fixed"
       style={{ backgroundColor: `${data?.fields?.BackgroundColor?.value}` }}
     >
       <figure>
