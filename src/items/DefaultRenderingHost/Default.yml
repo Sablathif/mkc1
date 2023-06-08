@@ -12,10 +12,10 @@ SharedFields:
   Value: 1
 - ID: "e32c1801-79b3-4fc1-a9c4-3c6e6c2968ae"
   Hint: ServerSideRenderingEngineApplicationUrl
-  Value: "https://xmc-14znhkjkgfiwyow0b42wwg.sitecorecloud.io/"
+  Value: "https://xmc-khscutykoyrmhjja4mvr3.sitecorecloud.io/"
 - ID: "fc76919b-0d7c-4732-865d-2af795fb38a4"
   Hint: ServerSideRenderingEngineEndpointUrl
-  Value: "https://xmc-14znhkjkgfiwyow0b42wwg.sitecorecloud.io:443/api/editing/render"
+  Value: "https://xmc-khscutykoyrmhjja4mvr3.sitecorecloud.io:443/api/editing/render"
 Languages:
 - Language: "de-DE"
   Versions:
