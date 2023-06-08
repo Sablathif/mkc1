@@ -49,48 +49,10 @@ stages:
           displayName: 'npm run build:local'
           workingDirectory: src/rendering
 
-- stage: Build_Storybook
-  displayName: "Build Website Storybook, Push to Chromatic"
-  dependsOn: []
-  jobs:
-    - job: Build
-      pool:
-        name: 'docker-ltsc2019-agents'
-      steps:
-        - task: NodeTool@0
-          inputs:
-            versionSpec: '16.15.1'
-          displayName: 'Install Node.js'
-        - task: Cache@2
-          displayName: "Cache npm packages"
-          inputs:
-            key: 'npm | "$(Agent.OS)" | $(Build.SourcesDirectory)/src/rendering/package-lock.json'
-            path: '$(Build.SourcesDirectory)/src/rendering/node_modules'
-            cacheHitVar: 'CacheRestored'
-        - script: |
-            npm install
-          displayName: 'npm install'
-          workingDirectory: src/rendering
-          condition: ne(variables['CacheRestored'],'true')
-        - script: |
-            npm run build-storybook
-          displayName: 'npm run build-storybook'
-          workingDirectory: src/rendering
-        - task: PublishPipelineArtifact@1
-          inputs:
-            targetPath: "src/rendering/storybook-static"
-            artifact: "Storybook"
-            publishLocation: "pipeline"
-        # - script: |
-        #     npx chromatic --project-token $(chromatic.project.token) --auto-accept-changes
-        #   displayName: 'Push to Chromatic'
-        #   workingDirectory: src/rendering
-
 - stage: Docker_Windows
   displayName: "Build Windows Images"
   dependsOn:
   - Build
-  - Build_Storybook
   jobs:
   - job: Build_Headless
     timeoutInMinutes: 120
