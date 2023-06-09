@@ -249,7 +249,6 @@ export default function FooterPanel() {
         <div className="footer-right">
           <div className="social-links">
             <ALink
-              href="#"
               className="social-link social-facebook fab fa-facebook-f"
               content={undefined}
               style={undefined}
@@ -257,7 +256,6 @@ export default function FooterPanel() {
               <span></span>
             </ALink>
             <ALink
-              href="#"
               className="social-link social-twitter fab fa-twitter"
               content={undefined}
               style={undefined}
@@ -265,7 +263,6 @@ export default function FooterPanel() {
               <span></span>
             </ALink>
             <ALink
-              href="#"
               className="social-link social-linkedin fab fa-linkedin-in"
               content={undefined}
               style={undefined}
