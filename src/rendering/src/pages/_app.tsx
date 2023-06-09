@@ -9,6 +9,8 @@ import '@fortawesome/fontawesome-svg-core/styles.css';
 config.autoAddCss = false;
 // END CUSTOMIZATION
 import 'assets/sass/style.scss';
+import 'assets/css/main.css';
+
 import { NextPage } from 'next';
 
 type NextPageWithLayout<P = unknown, IP = P> = NextPage<P, IP> & {

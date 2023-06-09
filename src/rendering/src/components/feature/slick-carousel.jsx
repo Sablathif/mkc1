@@ -3,8 +3,8 @@ if (typeof window !== 'undefined') {
   window.$ = window.jQuery = require('jquery');
 }
 
-import 'slick-carousel/slick/slick.css';
-import 'slick-carousel/slick/slick-theme.css';
+// import 'slick-carousel/slick/slick.css';
+// import 'slick-carousel/slick/slick-theme.css';
 import dynamic from 'next/dynamic';
 const Carousel = dynamic(() => import('react-slick'), {
   ssr: false,
