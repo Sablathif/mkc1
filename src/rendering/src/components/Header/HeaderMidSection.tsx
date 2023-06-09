@@ -21,11 +21,7 @@ export const Default = (props: HeaderMidSectionType): JSX.Element => (
         </div>
 
         <div className="header-right">
-          <ALink
-            className="icon-box icon-box-side"
-            content={undefined}
-            style={undefined}
-          >
+          <ALink className="icon-box icon-box-side" content={undefined} style={undefined}>
             <div className="icon-box-icon mr-0 mr-lg-2">
               <i className="d-icon-phone"></i>
             </div>
