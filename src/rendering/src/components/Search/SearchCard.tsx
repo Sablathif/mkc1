@@ -9,7 +9,7 @@ function SearchCard(props: any) {
       <div className="product text-left">
         <div className="image-wrap">
           <Image
-            src={item?.MediaList?.jsonValue[0]?.url}
+            src={'/-' + item?.MediaList?.jsonValue[0]?.url.split('/-').pop()}
             alt={`${item?.MediaList?.jsonValue[0]?.name}`}
             width={`${item?.MediaList?.jsonValue[0]?.fields?.Width?.value}`}
             height={`${item?.MediaList?.jsonValue[0]?.fields?.Height?.value}`}

@@ -8,13 +8,3 @@
   font-size: 20px;
   font-weight: bolder;
 }
-
-.headerRight {
-  margin-right: 15px;
-  font-weight: bolder;
-  float: right;
-}
-
-.headerTopRight {
-  display: flex;
-}
