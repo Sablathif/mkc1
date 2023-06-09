@@ -18,8 +18,8 @@ import { ApolloClient, InMemoryCache } from '@apollo/client';
 const API_KEY = '1047AEE5-9BCD-4DBF-9744-A26E12B79AB6';
 
 const client = new ApolloClient({
-  // uri: `https://cm.xmcloudcm.localhost/sitecore/api/graph/edge?sc_apikey=${API_KEY}`,
-  uri: `https://xmc-msti1lanndaj7y5vvvqry.sitecorecloud.io/sitecore/api/graph/edge?sc_apikey=${API_KEY}`,
+  uri: `https://cm.xmcloudcm.localhost/sitecore/api/graph/edge?sc_apikey=${API_KEY}`,
+  // uri: `https://xmc-msti1lanndaj7y5vvvqry.sitecorecloud.io/sitecore/api/graph/edge?sc_apikey=${API_KEY}`,
   cache: new InMemoryCache(),
 });
 
