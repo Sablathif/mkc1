@@ -1,4 +1,3 @@
-// import FooterComp from 'components/common/footer';
 import FooterComp from 'components/common/footer dynamic';
 import FooterType from './Footer.type';
 import { Suspense } from 'react';

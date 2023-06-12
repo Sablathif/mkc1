@@ -3,6 +3,7 @@ import ALink from 'components/feature/custom-link';
 import FooterInstagram from 'components/Footer/FooterInstagram';
 import FooterLeftIcons from 'components/Footer/FooterLeftIcons';
 import FooterSocialLinks from 'components/Footer/FooterSocialLinks';
+import FooterNavigationLinks from 'components/Footer/FooterNavigationLinks';
 export default function FooterDynamic(props: any) {
   const data = props?.props;
   return (
@@ -24,44 +25,9 @@ export default function FooterDynamic(props: any) {
         </div>
         <div className="footer-middle">
           <div className="row">
-            <div className="col-lg-3 col-md-6">
-              <div className="widget widget-info">
-                <h4 className="widget-title">Contact Info</h4>
-                <ul className="widget-body">
-                  <li>
-                    <RichText field={data?.fields?.FooterDescription} />
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <div className="col-lg-3 col-md-6">
-              <div className="widget ml-lg-4">
-                <h4 className="widget-title">
-                  {data?.fields?.FooterNavigation[1]?.fields?.NavigationName?.value}
-                </h4>
-                <ul className="widget-body">
-                  <li>
-                    <RichText
-                      field={data?.fields?.FooterNavigation[1]?.fields?.FooterNavigations}
-                    />
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <div className="col-lg-3 col-md-6">
-              <div className="widget ml-lg-4">
-                <h4 className="widget-title">
-                  {data?.fields?.FooterNavigation[0]?.fields?.NavigationName?.value}
-                </h4>
-                <ul className="widget-body">
-                  <li>
-                    <RichText
-                      field={data?.fields?.FooterNavigation[0]?.fields?.FooterNavigations}
-                    />
-                  </li>
-                </ul>
-              </div>
-            </div>
+            {data?.fields?.FooterNavigation?.map((datanav: any, index: any) => (
+              <FooterNavigationLinks props={datanav} index={index} key={index} />
+            ))}
             <div className="col-lg-3 col-md-6">
               <div className="widget widget-instagram">
                 <h4 className="widget-title">

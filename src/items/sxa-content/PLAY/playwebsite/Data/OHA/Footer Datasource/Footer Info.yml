@@ -24,8 +24,9 @@ Languages:
     - ID: "2ef59530-85ee-4e83-8f68-30cd4abe2ed1"
       Hint: FooterNavigation
       Value: |
-        {C138D98F-417A-4F3B-84FE-D25D9EB9EDB8}
+        {145FA7B0-51C9-4396-BFDD-F5229F89C6B5}
         {4387F0BC-18DE-4B9E-A835-1A4D2B227056}
+        {C138D98F-417A-4F3B-84FE-D25D9EB9EDB8}
     - ID: "30334d8b-eb34-47b3-936e-78d63625d14c"
       Hint: Title
       Value: Instagram
@@ -55,38 +56,13 @@ Languages:
       Value: Subscribe to our Newsletter
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9afd43f7-7f61-403d-ac9e-04d9ae5337e4"
+      Value: "8365d26c-16ad-4f7b-9537-9d4d978fd9f5"
     - ID: "a9b7ee6b-d85f-4cff-aa25-55367f6ad240"
       Hint: FooterCopyrightText
       Value: |
         Riode eCommerce © 2021. All Rights Reserved
         
         
-    - ID: "c150c562-a78c-4daa-8dfd-1a7224717cec"
-      Hint: FooterDescription
-      Value: |
-        <div>
-        <ul>
-            <li>
-            <label>Phone: </label>
-            Toll Free (123) 456-7890
-            </li>
-            <li>
-            <label>Email: </label>
-            mail@riode.com
-            </li>
-            <li>
-            <label>Address: </label>
-            123 Street Name, City, England
-            </li>
-            <li>
-            <label>WORKING DAYS / HOURS: </label>
-            </li>
-            <li>
-            Mon - Sun / 9:00 AM - 8:00 PM
-            </li>
-        </ul>
-        </div>
     - ID: "c4456aa7-eb30-4a56-87f6-21098947d463"
       Hint: SubscribeTitle
       Value: Get all the latest information, Sales and Offers.
