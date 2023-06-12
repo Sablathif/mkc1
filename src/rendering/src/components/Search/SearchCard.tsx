@@ -4,12 +4,13 @@ import Image from 'next/image';
 
 function SearchCard(props: any) {
   const item = props?.props;
+  console.log(item);
   return (
     <div key={item?.id} className="col-xs-6 col-lg-3 mb-4 mb-10">
       <div className="product text-left">
         <div className="image-wrap">
           <Image
-            src={'/-' + item?.MediaList?.jsonValue[0]?.url.split('/-').pop()}
+            src={'/' + item?.MediaList?.jsonValue[0]?.url.split('/-').pop()}
             alt={`${item?.MediaList?.jsonValue[0]?.name}`}
             width={`${item?.MediaList?.jsonValue[0]?.fields?.Width?.value}`}
             height={`${item?.MediaList?.jsonValue[0]?.fields?.Height?.value}`}
