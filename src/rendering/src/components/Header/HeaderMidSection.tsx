@@ -8,7 +8,7 @@ export const Default = (props: HeaderMidSectionType): JSX.Element => (
     <div className="header-middle sticky-header fix-top sticky-content">
       <div className="container">
         <div className="header-left">
-          <ALink className="logo" content={undefined} style={undefined}>
+          <ALink href="/" className="logo" content={undefined} style={undefined}>
             <Image
               src={'/-' + props?.fields?.Logo?.value?.src?.split('/-').pop()}
               alt={`${props?.fields?.Logo?.value?.alt}`}
@@ -21,7 +21,7 @@ export const Default = (props: HeaderMidSectionType): JSX.Element => (
         </div>
 
         <div className="header-right">
-          <ALink className="icon-box icon-box-side" content={undefined} style={undefined}>
+          <ALink href="#" className="icon-box icon-box-side" content={undefined} style={undefined}>
             <div className="icon-box-icon mr-0 mr-lg-2">
               <i className="d-icon-phone"></i>
             </div>
