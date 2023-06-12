@@ -2,7 +2,7 @@ import { RichText, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import ALink from 'components/feature/custom-link';
 import FooterInstagram from 'components/Footer/FooterInstagram';
 import FooterLeftIcons from 'components/Footer/FooterLeftIcons';
-import FooterSocialLinks from 'components/Footer/FooterSocialLinks';
+//import FooterSocialLinks from 'components/Footer/FooterSocialLinks';
 import FooterNavigationLinks from 'components/Footer/FooterNavigationLinks';
 export default function FooterDynamic(props: any) {
   const data = props?.props;
@@ -53,9 +53,9 @@ export default function FooterDynamic(props: any) {
           </div>
           <div className="footer-right">
             <div className="social-links">
-              {data?.fields?.FooterSocialLinks?.map((datasocial: any, index: any) => (
+              {/* {data?.fields?.FooterSocialLinks?.map((datasocial: any, index: any) => (
                 <FooterSocialLinks props={datasocial} index={index} key={index} />
-              ))}
+              ))} */}
             </div>
           </div>
         </div>
