@@ -55,7 +55,7 @@ Languages:
       Value: Subscribe to our Newsletter
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "24258bdf-22b3-4f79-96ce-798bfc12eb0d"
+      Value: "9afd43f7-7f61-403d-ac9e-04d9ae5337e4"
     - ID: "a9b7ee6b-d85f-4cff-aa25-55367f6ad240"
       Hint: FooterCopyrightText
       Value: |
@@ -66,35 +66,31 @@ Languages:
       Hint: FooterDescription
       Value: |
         <div>
-          <div>
-            <h4>Contact Info</h4>
-            <ul>
-              <li>
-                <label>Phone: </label>
-                Toll Free (123) 456-7890
-              </li>
-              <li>
-                <label>Email: </label>
-                mail@riode.com
-              </li>
-              <li>
-                <label>Address: </label>
-                123 Street Name, City, England
-              </li>
-              <li>
-                <label>WORKING DAYS / HOURS: </label>
-              </li>
-              <li>
-                Mon - Sun / 9:00 AM - 8:00 PM
-              </li>
-            </ul>
-          </div>
+        <ul>
+            <li>
+            <label>Phone: </label>
+            Toll Free (123) 456-7890
+            </li>
+            <li>
+            <label>Email: </label>
+            mail@riode.com
+            </li>
+            <li>
+            <label>Address: </label>
+            123 Street Name, City, England
+            </li>
+            <li>
+            <label>WORKING DAYS / HOURS: </label>
+            </li>
+            <li>
+            Mon - Sun / 9:00 AM - 8:00 PM
+            </li>
+        </ul>
         </div>
-        
     - ID: "c4456aa7-eb30-4a56-87f6-21098947d463"
       Hint: SubscribeTitle
       Value: Get all the latest information, Sales and Offers.
     - ID: "e400fa72-bb35-4305-8597-f7dc57712cc0"
       Hint: FooterLogo
       Value: |
-        <image mediaid="{2574004C-14A0-4364-BC61-F1E6E778F218}" />
+        <image mediaid="{16AE0C62-7FA2-4888-92AE-EF95A704DA4F}" />
