@@ -1,0 +1,13 @@
+﻿---
+ID: "02f81159-b6e4-4690-b0e6-e82fdc6e6aa1"
+Parent: "40d7bdda-fc07-4f28-af29-2650cac5b0c0"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/TwoColumnContent/TwoColumnContent/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4119d23d-0357-482e-a2c2-750c1b906a53"

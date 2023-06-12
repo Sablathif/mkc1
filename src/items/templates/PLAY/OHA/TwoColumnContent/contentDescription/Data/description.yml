@@ -1,0 +1,23 @@
+﻿---
+ID: "c42b4fe2-5649-456c-b04e-feff12b18e62"
+Parent: "ac85a3bd-b05f-45e7-9da7-c2df9c17014b"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/PLAY/OHA/TwoColumnContent/contentDescription/Data/description
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: /sitecore/system/Settings/Html Editor Profiles/Rich Text Full
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Rich Text
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7070bb95-5c39-4ec7-9718-59b68e259385"

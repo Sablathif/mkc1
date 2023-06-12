@@ -1,0 +1,27 @@
+﻿---
+ID: "cb8f0585-b77e-4150-8fdd-97f5291bfb03"
+Parent: "7c10a9c5-77f6-4a92-98ce-82ddc5930e92"
+Template: "5b9f9c37-6438-4c15-a196-b509447854af"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/about us/Page Components/TwoColumnContent/ContentList/RightImageContent
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d220eb50-0560-4cea-9326-3ca2fe6c0ec3"
+    - ID: "c42b4fe2-5649-456c-b04e-feff12b18e62"
+      Hint: description
+      Value: |
+        <div class="row align-items-center">
+        <div class="col-md-6 order-md-first mb-4">
+        <h5 class="section-subtitle lh-2 ls-md font-weight-normal mb-1">03. Our Store</h5>
+        <h3 class="section-title lh-1 font-weight-bold">Expect Restless<br />
+        Amazing Support</h3>
+        <p class="section-desc text-grey">Already millions of people are very satisfied by thi.<br />
+        s page builder and the number is growing more and more. Technolog<br />
+        developing, requirements are increasing. Riode has brought.</p>
+        <a href="~/link.aspx?_id=15B20460D0D74014A63DCEE29D88E146&amp;_z=z">Get Our Store<em class="d-icon-arrow-right"></em></a></div>
+        <div class="col-md-6 mb-4"><figure><span class="lazy-load-image-background opacity lazy-load-image-loaded" style="display: inline-block;"><img height="507" alt="Our Store" width="580" src="-/media/FD32472C298B466B8A9D7F6D309A8D6F.ashx" /></span></figure></div>
+        </div>
