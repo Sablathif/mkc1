@@ -4,9 +4,9 @@ import { SitecorePageProps } from 'lib/page-props';
 // DEMO TEAM CUSTOMIZATION - CDP and Sitecore Send integration. Per page layouts. Fonts and icons. etc.
 import { ReactElement } from 'react';
 import Head from 'next/head';
-import { config } from '@fortawesome/fontawesome-svg-core';
+// import { config } from '@fortawesome/fontawesome-svg-core';
 import '@fortawesome/fontawesome-svg-core/styles.css';
-config.autoAddCss = false;
+// config.autoAddCss = false;
 // END CUSTOMIZATION
 import 'assets/sass/style.scss';
 import 'assets/css/main.css';
