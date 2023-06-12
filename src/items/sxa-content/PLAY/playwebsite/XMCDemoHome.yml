@@ -19,7 +19,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{939A1958-9778-4976-AA2F-49CE338B4F41}" />
+    <image mediaid="{2C936B81-A31D-433F-AE13-B556C880BFAC}" />
 - ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
   Hint: __Security
   Value: |
@@ -174,14 +174,14 @@ Languages:
               s:ds="{1573F204-815B-421B-893F-19E0F360A7E2}"
               s:id="{4E292417-E5DF-4AE7-8E6D-D5FFBDAA8553}"
               s:par="CSSStyles="
-              s:ph="headless-main" />
+              s:ph="headless-main1" />
             <r
               uid="{FC89C8D3-E508-4BA8-96C2-353E80CED26F}"
               p:after="r[@uid='{FD22F944-73B7-4D11-A3C1-B7E866E9DA8F}']"
               s:ds="{62B5CBF5-B5D4-4717-A702-E233DC124A0F}"
               s:id="{60E46443-0BAD-5861-823D-75F620401573}"
               s:par="GridParameters=&amp;BannerType=SimpleBanner&amp;FieldNames=&amp;Styles=&amp;CSSStyles="
-              s:ph="headless-main" />
+              s:ph="headless-main1" />
             <r
               uid="{DF03C9DE-8C8D-4A6F-ABD7-2ACC6A770653}"
               p:after="r[@uid='{FC89C8D3-E508-4BA8-96C2-353E80CED26F}']"
@@ -223,7 +223,7 @@ Languages:
         </r>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "330911d1-aa8e-42dc-9b39-f3ab4514f4d8"
+      Value: "0bb2c294-7a81-4804-b5ea-57ab927cec11"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: XM Cloud Home
