@@ -6,10 +6,15 @@ import { parallaxHandler } from '../../../../utils';
 
 function CtaSection(props) {
   useEffect(() => {
-    window.addEventListener('scroll', parallaxHandler, true, { passive: true });
+    window.addEventListener(
+      'scroll',
+      parallaxHandler,
+      true,
+      passiveSupported ? { passive: true } : false
+    );
 
     return () => {
-      window.removeEventListener('scroll', parallaxHandler, true, { passive: true });
+      window.removeEventListener('scroll', parallaxHandler, true);
     };
   }, []);
   const data = props?.props?.fields;

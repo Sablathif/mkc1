@@ -12,10 +12,12 @@ function SearchForm() {
   const [timer, setTimer] = useState(null);
 
   useEffect(() => {
-    document.querySelector('body').addEventListener('click', onBodyClick, { passive: true });
+    document
+      .querySelector('body')
+      .addEventListener('click', onBodyClick, passiveSupported ? { passive: true } : false);
 
     return () => {
-      document.querySelector('body').removeEventListener('click', onBodyClick, { passive: true });
+      document.querySelector('body').removeEventListener('click', onBodyClick);
     };
   }, []);
 

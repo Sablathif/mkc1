@@ -292,7 +292,7 @@ export const videoHandler = (e) => {
         video.classList.remove('playing');
         video.classList.remove('paused');
       },
-      { passive: true }
+      passiveSupported ? { passive: true } : false
     );
   }
 };
