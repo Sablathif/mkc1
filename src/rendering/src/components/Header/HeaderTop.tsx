@@ -33,7 +33,6 @@ export const Default = (props: HeaderTopProps): JSX.Element => {
           <div className="header-right">
             <div className="dropdown">
               {props?.fields?.CurrencySelector?.map((data, index) => (
-                //
                 <>
                   {index == 0 ? (
                     <ALink href="#" className={undefined} content={undefined} style={undefined}>
@@ -47,7 +46,6 @@ export const Default = (props: HeaderTopProps): JSX.Element => {
 
               <ul className="dropdown-box">
                 {props?.fields?.CurrencySelector?.map((data) => (
-                  //
                   <>
                     <li>
                       <ALink href="#" className={undefined} content={undefined} style={undefined}>
@@ -61,7 +59,6 @@ export const Default = (props: HeaderTopProps): JSX.Element => {
 
             <div className="dropdown">
               {props?.fields?.LanguageSelector?.map((data, index) => (
-                //
                 <>
                   {index == 0 ? (
                     <ALink href="#" className={undefined} content={undefined} style={undefined}>
@@ -75,7 +72,6 @@ export const Default = (props: HeaderTopProps): JSX.Element => {
 
               <ul className="dropdown-box">
                 {props?.fields?.LanguageSelector?.map((data) => (
-                  //
                   <>
                     <li>
                       <ALink href="#" className={undefined} content={undefined} style={undefined}>
@@ -116,6 +112,3 @@ export const Default = (props: HeaderTopProps): JSX.Element => {
     </header>
   );
 };
-// export const Default = HeaderTop;
-
-// export default withDatasourceCheck()<HeaderTopProps>(HeaderTop);

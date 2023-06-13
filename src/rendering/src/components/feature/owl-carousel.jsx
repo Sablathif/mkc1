@@ -1,6 +1,4 @@
-//import React from 'react';
 import React, { useRef, useEffect } from 'react';
-// var $ = require('jquery');
 if (typeof window !== 'undefined') {
   window.$ = window.jQuery = require('jquery');
 }
@@ -9,10 +7,6 @@ const Carousel = dynamic(() => import('react-owl-carousel'), {
   ssr: false,
 });
 
-// const Carousel = dynamic(() => import('react-owl-carousel2'), {
-//   ssr: false,
-// });
-// let prevPath;
 function OwlCarousel(props) {
   const { adClass, options } = props;
   const carouselRef = useRef(null);
@@ -28,7 +22,6 @@ function OwlCarousel(props) {
     smartSpeed: 400,
     autoplay: false,
     autoHeight: false,
-    // autoplayTimeout: 5000,
   };
 
   useEffect(() => {

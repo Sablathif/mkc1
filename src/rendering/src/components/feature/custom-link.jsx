@@ -1,7 +1,4 @@
 import Link from 'next/link';
-
-//import { parseContent } from '~/utils';
-
 import parseContent from '../../utils';
 
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
