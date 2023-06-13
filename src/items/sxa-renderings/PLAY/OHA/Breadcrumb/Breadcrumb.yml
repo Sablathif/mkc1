@@ -1,0 +1,55 @@
+﻿---
+ID: "ef1606f2-65b1-4492-9e2e-3befbbc0e2f6"
+Parent: "66a2050a-7e0f-477d-90bb-4231eb8d3653"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Project/PLAY/OHA/Breadcrumb/Breadcrumb
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: Breadcrumb
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query($contextItem: String!, $language: String!) {
+          # Assume item id is available on page
+          item(path: $contextItem , language: $language) {
+            url {
+              path
+            }
+            name
+            displayName
+            title: field(name: "Title") {
+              value
+            }
+            pageTitle: field(name: "pageTitle") {
+              value
+            }
+            ancestors(
+              hasLayout: true
+              includeTemplateIDs: "6DB09CEF64A852A3A98038408109C4D7"
+            ) {
+              url {
+                path
+              }
+              name
+              displayName
+              title: field(name: "Title") {
+                value
+              }
+              pageTitle: field(name: "pageTitle") {
+                value
+              }
+            }
+          }
+        }
+- ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
+  Hint: Rendering Contents Resolver
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9e291106-e1c4-42e2-96ef-fe834a456081"
