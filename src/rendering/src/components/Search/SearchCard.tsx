@@ -1,6 +1,6 @@
 import { RichText } from '@sitecore-jss/sitecore-jss-nextjs';
 import ALink from 'components/feature/custom-link';
-import Image from 'next/image';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 
 function SearchCard(props: any) {
   const item = props?.props;
@@ -9,7 +9,7 @@ function SearchCard(props: any) {
     <div key={item?.id} className="col-xs-6 col-lg-3 mb-4 mb-10">
       <div className="product text-left">
         <div className="image-wrap">
-          <Image
+          <LazyLoadImage
             src={'/' + item?.MediaList?.jsonValue[0]?.url.split('/-').pop()}
             alt={`${item?.MediaList?.jsonValue[0]?.name}`}
             width={`${item?.MediaList?.jsonValue[0]?.fields?.Width?.value}`}

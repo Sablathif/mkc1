@@ -2,9 +2,7 @@ import React from 'react';
 import Reveal from 'react-awesome-reveal';
 import ALink from '../../../feature/custom-link';
 import { fadeInLeftShorter } from '../../../../utils/data/keyframes';
-// import Image from 'next/image';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
-
 function BannerCard(props, index) {
   const data = props.props;
   return (
@@ -54,9 +52,7 @@ function BannerCard(props, index) {
                 <h4 className="banner-subtitle text-uppercase font-weight-normal text-white">
                   {data?.fields?.SubTitle?.value}
                 </h4>
-
                 <hr className="banner-divider" />
-
                 <ALink
                   href={data?.fields?.CTALink?.value?.href}
                   className="btn btn-white btn-link btn-underline"

@@ -1,28 +1,22 @@
 import React, { useEffect, useState } from 'react';
 import { useRouter } from 'next/router';
 import ALink from '../../feature/custom-link';
-// import withApollo from '../../../../server/apollo';
 import { toDecimal } from '../../../utils';
-import Image from 'next/image';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 
 function SearchForm() {
   const router = useRouter();
   const [search, setSearch] = useState('');
-  // const [ searchProducts, { data } ] = useLazyQuery( GET_PRODUCTS );
   const [timer, setTimer] = useState(null);
-
   useEffect(() => {
     document.querySelector('body').addEventListener('click', onBodyClick, { passive: true });
-
     return () => {
       document.querySelector('body').removeEventListener('click', onBodyClick);
     };
   }, []);
-
   useEffect(() => {
     setSearch('');
   }, [router.query.slug]);
-
   useEffect(() => {
     if (search.length > 2) {
       if (timer) clearTimeout(timer);
@@ -34,56 +28,45 @@ function SearchForm() {
       setTimer(timerId);
     }
   }, [search]);
-
   useEffect(() => {
     document.querySelector('.header-search.show-results') &&
       document.querySelector('.header-search.show-results').classList.remove('show-results');
   }, [router.pathname]);
-
   function removeXSSAttacks(html) {
     const SCRIPT_REGEX = /<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi;
-
     // Removing the <script> tags
     while (SCRIPT_REGEX.test(html)) {
       html = html.replace(SCRIPT_REGEX, '');
     }
-
     // Removing all events from tags...
     html = html.replace(/ on\w+="[^"]*"/g, '');
-
     return {
       __html: html,
     };
   }
-
   function matchEmphasize(name) {
     let regExp = new RegExp(search, 'i');
     return name.replace(regExp, (match) => '<strong>' + match + '</strong>');
   }
-
   function onSearchClick(e) {
     e.preventDefault();
     e.stopPropagation();
     e.currentTarget.parentNode.classList.toggle('show');
   }
-
   function onBodyClick(e) {
     if (e.target.closest('.header-search'))
       return (
         e.target.closest('.header-search').classList.contains('show-results') ||
         e.target.closest('.header-search').classList.add('show-results')
       );
-
     document.querySelector('.header-search.show') &&
       document.querySelector('.header-search.show').classList.remove('show');
     document.querySelector('.header-search.show-results') &&
       document.querySelector('.header-search.show-results').classList.remove('show-results');
   }
-
   function onSearchChange(e) {
     setSearch(e.target.value);
   }
-
   function onSubmitSearchForm(e) {
     e.preventDefault();
     router.push({
@@ -93,7 +76,6 @@ function SearchForm() {
       },
     });
   }
-
   return (
     <div className="header-search hs-simple">
       <a href="#" className="search-toggle" role="button" onClick={onSearchClick}>
@@ -110,11 +92,9 @@ function SearchForm() {
           placeholder="Search..."
           required
         />
-
         <button className="btn btn-search" type="submit">
           <i className="d-icon-search"></i>
         </button>
-
         <div className="live-search-list bg-white scrollable">
           {search.length > 2 &&
             data &&
@@ -124,7 +104,7 @@ function SearchForm() {
                 className="autocomplete-suggestion"
                 key={`search-result-${index}`}
               >
-                <Image
+                <LazyLoadImage
                   effect="opacity"
                   src={process.env.NEXT_PUBLIC_ASSET_URI + product.pictures[0].url}
                   width={40}
@@ -160,4 +140,3 @@ function SearchForm() {
   );
 }
 export const Default = SearchForm;
-// export default withApollo({ ssr: typeof window === 'undefined' })(SearchForm);

@@ -3,9 +3,8 @@ import { Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import ALink from 'components/feature/custom-link';
 import OwlCarousel from 'components/feature/owl-carousel';
 import { mainSlider10 } from 'src/utils/data/carousel';
-import Image from 'next/image';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 import { videoHandler } from 'src/utils';
-
 function ClassicCard(props: any, index: any) {
   const item = props?.props;
   return (
@@ -22,7 +21,7 @@ function ClassicCard(props: any, index: any) {
         <>
           <figure className="post-media">
             <ALink href="#" className={undefined} content={undefined} style={undefined}>
-              <Image
+              <LazyLoadImage
                 src={'/-' + item.fields.blogimages.value.src.split('/-').pop()}
                 alt={item.fields.blogimages.value.alt}
                 width={item.fields.blogimages.value.width}
@@ -30,7 +29,6 @@ function ClassicCard(props: any, index: any) {
                 loading="lazy"
               />
             </ALink>
-
             <span className="video-play" onClick={videoHandler}></span>
             <video width="380">
               <source
@@ -52,7 +50,7 @@ function ClassicCard(props: any, index: any) {
                   options={mainSlider10}
                 >
                   <ALink href="#" className={undefined} content={undefined} style={undefined}>
-                    <Image
+                    <LazyLoadImage
                       src={'/-' + item.fields.blogimages.value.src.split('/-').pop()}
                       alt={item.fields.blogimages.value.alt}
                       width={item.fields.blogimages.value.width}
@@ -65,7 +63,7 @@ function ClassicCard(props: any, index: any) {
             ) : (
               <>
                 <ALink href="#" className={undefined} content={undefined} style={undefined}>
-                  <Image
+                  <LazyLoadImage
                     src={'/-' + item.fields.blogimages.value.src.split('/-').pop()}
                     alt={item.fields.blogimages.value.alt}
                     width={item.fields.blogimages.value.width}
@@ -78,7 +76,6 @@ function ClassicCard(props: any, index: any) {
           </figure>
         </>
       )}
-
       <div key={index} className="post-details">
         <div className="post-meta">
           by{' '}

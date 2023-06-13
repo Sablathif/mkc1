@@ -4,7 +4,7 @@ import ALink from 'components/feature/custom-link';
 import { videoHandler } from 'src/utils';
 import OwlCarousel from 'components/feature/owl-carousel';
 import { mainSlider20 } from 'src/utils/data/carousel';
-import Image from 'next/image';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 function GridSidebar(BlogProps: any) {
   const blog = BlogProps.BlogProps.fields.blog;
   return (
@@ -26,7 +26,7 @@ function GridSidebar(BlogProps: any) {
                             content={undefined}
                             style={undefined}
                           >
-                            <Image
+                            <LazyLoadImage
                               src={item.fields.blogimages.value.src}
                               alt={item.fields.blogimages.value.alt}
                               width={item.fields.blogimages.value.width}
@@ -60,7 +60,7 @@ function GridSidebar(BlogProps: any) {
                                   content={undefined}
                                   style={undefined}
                                 >
-                                  <Image
+                                  <LazyLoadImage
                                     src={'/-' + item.fields.blogimages.value.src.split('/-').pop()}
                                     alt={item.fields.blogimages.value.alt}
                                     width={item.fields.blogimages.value.width}
@@ -78,7 +78,7 @@ function GridSidebar(BlogProps: any) {
                                 content={undefined}
                                 style={undefined}
                               >
-                                <Image
+                                <LazyLoadImage
                                   src={'/-' + item.fields.blogimages.value.src.split('/-').pop()}
                                   alt={item.fields.blogimages.value.alt}
                                   width={item.fields.blogimages.value.width}
@@ -141,5 +141,4 @@ function GridSidebar(BlogProps: any) {
     </div>
   );
 }
-
 export default React.memo(GridSidebar);
