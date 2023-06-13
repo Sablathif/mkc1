@@ -16,7 +16,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{58713EDF-5EC5-4098-A36C-9CB373CC5165}" />
+    <image mediaid="{5D578094-0A49-47C9-9EB5-621DF0F8FE9E}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -78,7 +78,7 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "abf27232-b1c3-4a2d-aea8-d640ebc1072f"
+      Value: "abb011f5-ec84-4863-ad63-d27730639c42"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
-      Value: Blog Page
+      Value: Contact Us
