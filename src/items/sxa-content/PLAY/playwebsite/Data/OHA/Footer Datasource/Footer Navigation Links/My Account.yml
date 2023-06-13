@@ -8,17 +8,26 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "56737bb8-0e28-4485-95c7-477f9d4d9e5f"
-      Hint: FooterNavigationList
-      Value: |
-        {23A3579A-82D5-431C-8B2B-50584405A264}
-        {A24D0F1A-AC2B-4F7D-817B-A1F97FA6654C}
-        {7AA09F9D-B915-4E6D-BA19-545C6698D09E}
-        {409913E8-2D79-4601-A6A5-0B2267A7F581}
-        {85F7F5C2-50CC-488F-8B3C-836D87C216BB}
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ed9bc60b-52e1-4650-99a7-72a38f4ed471"
+      Value: "b29d9622-5f55-47f8-b37f-8333e11fd26f"
+    - ID: "9d50644a-793b-436a-9ad4-4e6fb9af6440"
+      Hint: FooterNavigations
+      Value: |
+        <div>
+        <ul>
+            <li>
+            <label><a href="~/link.aspx?_id=9C226991475E450B89B111F2C57D544D&amp;_z=z">about us</a></label></li>
+            <li>
+            <label><a href="~/link.aspx?_id=15B20460D0D74014A63DCEE29D88E146&amp;_z=z">Order History</a></label></li>
+            <li>
+            <label><a href="~/link.aspx?_id=15B20460D0D74014A63DCEE29D88E146&amp;_z=z">Returnst</a></label></li>
+            <li>
+            <label><a href="~/link.aspx?_id=15B20460D0D74014A63DCEE29D88E146&amp;_z=z">Customer Service</a></label></li>
+            <li>
+            <label><a href="~/link.aspx?_id=15B20460D0D74014A63DCEE29D88E146&amp;_z=z">Terms &amp; Conditions</a></label></li>
+        </ul>
+        </div>
     - ID: "b6484b56-c890-4d42-8a53-66b4880ff7a3"
       Hint: NavigationName
       Value: My Account

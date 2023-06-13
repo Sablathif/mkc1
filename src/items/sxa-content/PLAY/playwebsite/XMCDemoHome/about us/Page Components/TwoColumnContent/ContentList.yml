@@ -1,0 +1,18 @@
+﻿---
+ID: "7c10a9c5-77f6-4a92-98ce-82ddc5930e92"
+Parent: "5dd315b1-f015-4657-848e-c88f79dbfa9a"
+Template: "40d7bdda-fc07-4f28-af29-2650cac5b0c0"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/about us/Page Components/TwoColumnContent/ContentList
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bbb82ec3-0536-482c-99ef-d4b138f47b8b"
+    - ID: "a74d64da-ca10-42f6-ae74-09ee8de8672b"
+      Hint: contentList
+      Value: |
+        {4FE1346E-A6BE-425B-8627-372F26416784}
+        {CB8F0585-B77E-4150-8FDD-97F5291BFB03}

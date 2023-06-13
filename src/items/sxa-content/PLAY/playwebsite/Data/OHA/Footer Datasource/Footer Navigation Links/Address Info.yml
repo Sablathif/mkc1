@@ -1,0 +1,26 @@
+﻿---
+ID: "145fa7b0-51c9-4396-bfdd-f5229f89c6b5"
+Parent: "e52d9078-216a-4f9f-b21f-a98e2bb8916c"
+Template: "d62efcd7-f1eb-49e2-904b-0bc5b252b133"
+Path: /sitecore/content/PLAY/playwebsite/Data/OHA/Footer Datasource/Footer Navigation Links/Address Info
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8d71e439-6c0b-4542-9be5-fa3fb3758bd5"
+    - ID: "9d50644a-793b-436a-9ad4-4e6fb9af6440"
+      Hint: FooterNavigations
+      Value: |
+        <ul>
+            <li><label>Phone:&nbsp;</label>Toll Free (123) 456-7890</li>
+            <li><label>Email:&nbsp;</label>mail@riode.com</li>
+            <li><label>Address:&nbsp;</label>123 Street Name, City, England</li>
+            <li><label>WORKING DAYS / HOURS:</label></li>
+            <li>Mon - Sun / 9:00 AM - 8:00 PM</li>
+        </ul>
+    - ID: "b6484b56-c890-4d42-8a53-66b4880ff7a3"
+      Hint: NavigationName
+      Value: Address Info
