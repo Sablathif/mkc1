@@ -4,6 +4,7 @@ import FooterInstagram from 'components/Footer/FooterInstagram';
 import FooterLeftIcons from 'components/Footer/FooterLeftIcons';
 //import FooterSocialLinks from 'components/Footer/FooterSocialLinks';
 import FooterNavigationLinks from 'components/Footer/FooterNavigationLinks';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 export default function FooterDynamic(props: any) {
   const data = props?.props;
   return (
@@ -13,11 +14,11 @@ export default function FooterDynamic(props: any) {
           <div className="row align-items-center">
             <div className="col-lg-3">
               <ALink href="/" className="logo-footer" content={undefined} style={undefined}>
-                <img
+                <LazyLoadImage
                   src={'/-' + data?.fields?.FooterLogo?.value?.src?.split('/-').pop()}
-                  alt="logo-footer"
-                  width="154"
-                  height="43"
+                  alt={data?.fields?.FooterLogo?.value?.alt}
+                  width={data?.fields?.FooterLogo?.value?.width}
+                  height={data?.fields?.FooterLogo?.value?.height}
                 />
               </ALink>
             </div>

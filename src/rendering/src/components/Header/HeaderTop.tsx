@@ -1,7 +1,6 @@
 import { Text, Field, LinkField, Link } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
 import ALink from 'components/feature/custom-link';
-
 type HeaderTopProps = ComponentProps & {
   fields: {
     WelcomeMessage: Field<string>;
