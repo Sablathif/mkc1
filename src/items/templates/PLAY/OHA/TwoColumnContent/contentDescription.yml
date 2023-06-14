@@ -7,6 +7,12 @@ SharedFields:
 - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
   Hint: __Base template
   Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Value: 
+- ID: "f2db8ba1-e477-41f5-8ef5-22eefa8d2f6e"
+  Hint: __Enabled Views
+  Value: 
 Languages:
 - Language: en
   Versions:
@@ -14,4 +20,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "935140b8-125c-48e7-9e70-70dfdbe9ab68"
+      Value: "d0dc8769-fa5c-4806-87f4-090b297e6a2c"

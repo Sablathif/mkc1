@@ -3,6 +3,10 @@ ID: "4fe1346e-a6be-425b-8627-372f26416784"
 Parent: "7c10a9c5-77f6-4a92-98ce-82ddc5930e92"
 Template: "5b9f9c37-6438-4c15-a196-b509447854af"
 Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/about us/Page Components/TwoColumnContent/ContentList/LeftImageContent
+SharedFields:
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Value: 
 Languages:
 - Language: en
   Versions:
@@ -10,7 +14,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ff10293f-6d6b-4a1e-afff-bbaaf64c6a27"
+      Value: "9b2f0616-0fb4-4912-830f-08f33b07fd84"
     - ID: "c42b4fe2-5649-456c-b04e-feff12b18e62"
       Hint: description
       Value: |

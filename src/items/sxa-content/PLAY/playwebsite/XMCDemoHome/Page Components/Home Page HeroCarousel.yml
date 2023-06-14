@@ -23,13 +23,12 @@ Languages:
       Value: |
         {015FEEC5-4367-4B3D-AB3E-9A0EB067CF3C}
         {4A06032B-722D-4E6B-9AB5-A682E02B2BC2}
-        {6966F218-828B-40DC-BEA1-8D6DB95176CB}
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
       Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bc563c60-7298-47e3-8c92-a52f45a0c7f9"
+      Value: "9cde100c-75d0-40ea-8b26-e0b3d8e509fb"
 - Language: "fr-CA"
   Versions:
   - Version: 1

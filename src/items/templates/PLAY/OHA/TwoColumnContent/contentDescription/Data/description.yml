@@ -7,12 +7,18 @@ SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
   Value: /sitecore/system/Settings/Html Editor Profiles/Rich Text Full
+- ID: "39847666-389d-409b-95bd-f2016f11eed5"
+  Hint: Unversioned
+  Value: 
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: Rich Text
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 200
+- ID: "be351a73-fcb0-4213-93fa-c302d8ab4f51"
+  Hint: Shared
+  Value: 
 Languages:
 - Language: en
   Versions:
@@ -20,4 +26,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7070bb95-5c39-4ec7-9718-59b68e259385"
+      Value: "4e5af11b-e074-402c-9e5d-c6d515f8c9d2"
