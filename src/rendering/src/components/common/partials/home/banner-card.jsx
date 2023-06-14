@@ -2,8 +2,13 @@ import React from 'react';
 import Reveal from 'react-awesome-reveal';
 import ALink from '../../../feature/custom-link';
 import { fadeInLeftShorter } from '../../../../utils/data/keyframes';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
+import { useSitecoreContext } from '@sitecore-jss/sitecore-jss-nextjs';
+import dynamic from 'next/dynamic';
+const LazyLoadImage = dynamic(() => import('react-lazy-load-image-component'));
+const Image = dynamic(() => import('next/image'));
+
 function BannerCard(props, index) {
+  const { sitecoreContext } = useSitecoreContext();
   const data = props.props;
   return (
     <div className="col-lg-4 col-sm-6 mb-4" key={index}>
@@ -12,18 +17,28 @@ function BannerCard(props, index) {
           className={`banner banner-fixed banner-radius content-middle overlay-zoom ${data?.fields?.BannerType?.value}`}
         >
           <figure>
-            <LazyLoadImage
-              src={'/-' + data?.fields?.BackgroundImage?.value?.src?.split('/-').pop()}
-              alt="Banner Image"
-              effect="opacity, transform"
-              width={data?.fields?.BackgroundImage?.value?.width}
-              height={data?.fields?.BackgroundImage?.value?.height}
-              loading="lazy"
-            />
+            {sitecoreContext?.pageState === 'normal' ? (
+              <Image
+                src={'/-' + data?.fields?.BackgroundImage?.value?.src?.split('/-').pop()}
+                alt="Banner Image"
+                effect="opacity, transform"
+                width={data?.fields?.BackgroundImage?.value?.width}
+                height={data?.fields?.BackgroundImage?.value?.height}
+                loading="lazy"
+              />
+            ) : (
+              <LazyLoadImage
+                src={'/-' + data?.fields?.BackgroundImage?.value?.src?.split('/-').pop()}
+                alt="Banner Image"
+                effect="opacity, transform"
+                width={data?.fields?.BackgroundImage?.value?.width}
+                height={data?.fields?.BackgroundImage?.value?.height}
+                loading="lazy"
+              />
+            )}
           </figure>
           {data?.fields?.BannerType?.value?.toLowerCase() === 'banner-4' ? (
             <>
-              {' '}
               <div className="banner-content d-flex align-items-center w-100 text-left">
                 <div className="mr-auto mb-4 mb-md-0">
                   <h4 className="banner-subtitle text-white">

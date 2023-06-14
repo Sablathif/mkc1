@@ -7,7 +7,6 @@ import Head from 'next/head';
 import '@fortawesome/fontawesome-svg-core/styles.css';
 import 'assets/sass/style.scss';
 import 'assets/css/main.css';
-import { useRouter } from 'next/router';
 // END CUSTOMIZATION
 import { NextPage } from 'next';
 type NextPageWithLayout<P = unknown, IP = P> = NextPage<P, IP> & {
@@ -19,9 +18,6 @@ type AppPropsWithLayout = AppProps<SitecorePageProps> & {
 // END CUSTOMIZATION
 // DEMO TEAM CUSTOMIZATION (next line) - Different prop type. Add router.
 function App({ Component, pageProps }: AppPropsWithLayout): JSX.Element {
-  const router = useRouter();
-  const { sc_horizon } = router.query;
-  console.log('sc_mode', sc_horizon);
   const { dictionary } = pageProps;
   const getLayout = Component.getLayout ?? ((page) => page);
   const component = getLayout(<Component {...pageProps} />);

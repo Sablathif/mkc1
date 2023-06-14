@@ -7,11 +7,6 @@
                 "name": "DefaultRenderingHost",
                 "path": "/sitecore/system/Settings/Services/Rendering Hosts/Default",
                 "scope": "singleItem"
-            },
-            {
-                "name": "DefaultRenderingHostPlay",
-                "path": "/sitecore/system/Settings/Services/Rendering Hosts/Play",
-                "scope": "singleItem"
             }
         ]
     }
