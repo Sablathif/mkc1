@@ -1,4 +1,3 @@
-import React from 'react';
 import BreadcrumbType from './Breadcrumb.type';
 import ALink from 'components/feature/custom-link';
 
@@ -6,7 +5,6 @@ const Breadcrumb = (props: BreadcrumbType): JSX.Element => {
   console.log('Breadcrumb', props?.fields?.data?.item);
   const propItemAncestors = props?.fields?.data?.item?.ancestors;
   const breadcrumbs = [];
-  const sxaStyles = `${props?.params?.styles || ''}`;
   const pageItems = {
     title:
       props?.fields?.data?.item?.pageTitle != null
@@ -22,7 +20,6 @@ const Breadcrumb = (props: BreadcrumbType): JSX.Element => {
       breadcrumbs.push({
         title: parent?.pageTitle != null ? parent?.pageTitle?.value : parent?.title?.value,
         url: parent?.url?.path,
-        //className: 'inactive',
       });
     });
   }
@@ -47,24 +44,6 @@ const Breadcrumb = (props: BreadcrumbType): JSX.Element => {
       </div>
     </nav>
   );
-
-  // const breadcrumbListItems = breadcrumbs.reverse().map((bc, index) => (
-  //   <>
-  //     <li key={index}>
-  //       <a title={bc?.title} href={bc?.url}>
-  //         {bc?.title}
-  //       </a>
-  //     </li>
-  //   </>
-  // ));
-
-  // return (
-  //   <>
-  //     <nav className={`breadcrumb ${sxaStyles}`} aria-label="breadcrumbs">
-  //       <ol className="list">{breadcrumbListItems}</ol>
-  //     </nav>
-  //   </>
-  // );
 };
 
 export default Breadcrumb;
