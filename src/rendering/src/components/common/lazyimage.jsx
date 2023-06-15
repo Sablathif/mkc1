@@ -6,7 +6,7 @@ const Image = dynamic(() => import('next/image'));
 
 function LazyImage(props) {
   const { sitecoreContext } = useSitecoreContext();
-  // console.log('LazyImage', props.value);
+  console.log('sitecoreContext', sitecoreContext);
   return (
     <>
       {sitecoreContext & sitecoreContext.pageState & (sitecoreContext?.pageState === 'normal') ? (
