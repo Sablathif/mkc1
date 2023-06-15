@@ -21,6 +21,11 @@ const client = new ApolloClient({
   // uri: `https://cm.xmcloudcm.localhost/sitecore/api/graph/edge?sc_apikey=${API_KEY}`,
   uri: `https://xmc-4d5bao4pu1oqtch7xvzyao.sitecorecloud.io/sitecore/api/graph/edge?sc_apikey=${API_KEY}`,
   cache: new InMemoryCache(),
+  headers: {
+    fetchOptions: {
+      mode: 'no-cors',
+    },
+  },
 });
 
 export default client;

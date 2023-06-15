@@ -9,7 +9,7 @@ function LazyImage(props) {
   // console.log('LazyImage', props.value);
   return (
     <>
-      {sitecoreContext?.pageState === 'normal' ? (
+      {sitecoreContext & sitecoreContext.pageState & (sitecoreContext?.pageState === 'normal') ? (
         <Image
           src={props.value?.src}
           alt={`${props.value?.alt}`}
