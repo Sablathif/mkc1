@@ -7,6 +7,7 @@ import { useSitecoreContext } from '@sitecore-jss/sitecore-jss-nextjs';
 function LazyImage(props) {
   const { sitecoreContext } = useSitecoreContext();
   console.log('sitecoreContext', sitecoreContext);
+  console.log(props);
   return (
     <>
       <h1>{sitecoreContext}</h1>
