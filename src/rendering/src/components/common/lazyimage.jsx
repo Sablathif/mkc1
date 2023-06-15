@@ -1,15 +1,16 @@
 import React from 'react';
 import { useSitecoreContext } from '@sitecore-jss/sitecore-jss-nextjs';
-import dynamic from 'next/dynamic';
-const LazyLoadImage = dynamic(() => import('react-lazy-load-image-component'));
-const Image = dynamic(() => import('next/image'));
+// import dynamic from 'next/dynamic';
+// const LazyLoadImage = dynamic(() => import('react-lazy-load-image-component'));
+// const Image = dynamic(() => import('next/image'));
 
 function LazyImage(props) {
   const { sitecoreContext } = useSitecoreContext();
   console.log('sitecoreContext', sitecoreContext);
   return (
     <>
-      {sitecoreContext & sitecoreContext.pageState & (sitecoreContext?.pageState === 'normal') ? (
+      <h1>{sitecoreContext}</h1>
+      {/* {!sitecoreContext & sitecoreContext.pageState & (sitecoreContext?.pageState === 'normal') ? (
         <Image
           src={props.value?.src}
           alt={`${props.value?.alt}`}
@@ -25,7 +26,7 @@ function LazyImage(props) {
           height={`${props.value?.height}`}
           loading="lazy"
         />
-      )}
+      )} */}
     </>
   );
 }
