@@ -11,9 +11,9 @@ const HeroBanners: Record<string, any> = {
   SimpleBanner,
 };
 
-const HeroBanner = (props: HeroBannerType): JSX.Element => {
+export const Default = (props: HeroBannerType): JSX.Element => {
   const bannerType = props?.params.BannerType.toString();
   const Component = bannerType ? HeroBanners[bannerType] : SimpleBanner;
   return <Component props={props} />;
 };
-export const Default = HeroBanner;
+// export default HeroBanner;

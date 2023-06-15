@@ -1,10 +1,8 @@
 import React from 'react';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
 import ALink from 'components/feature/custom-link';
-
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 function PostEight(props) {
   const post = props.post;
-
   return (
     <div className={`post post-frame`}>
       <figure className="post-media">
@@ -39,5 +37,3 @@ function PostEight(props) {
   );
 }
 export default React.memo(PostEight);
-
-// export default PostEight;

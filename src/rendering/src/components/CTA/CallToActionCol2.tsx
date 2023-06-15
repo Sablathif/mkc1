@@ -1,8 +1,7 @@
 import { Field, ImageField, LinkField } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from '../../lib/component-props';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
 import ALink from '../../components/feature/custom-link';
-
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 type CallToActionCol2Props = ComponentProps & {
   fields: {
     Title: Field<string>;
@@ -22,7 +21,7 @@ type CallToActionCol2Props = ComponentProps & {
   };
 };
 
-const CallToActionCol2 = (props: CallToActionCol2Props): JSX.Element => (
+export const Default = (props: CallToActionCol2Props): JSX.Element => (
   <>
     <section className="mt-10 pt-4">
       <div className="container">
@@ -39,7 +38,7 @@ const CallToActionCol2 = (props: CallToActionCol2Props): JSX.Element => (
                         alt="banner"
                         width="580"
                         height="330"
-                        effect="opacity"
+                        // effect="opacity"
                       />
                     </figure>
                     <div className="banner-content">
@@ -73,7 +72,7 @@ const CallToActionCol2 = (props: CallToActionCol2Props): JSX.Element => (
                         alt="banner"
                         width="580"
                         height="330"
-                        effect="opacity"
+                        // effect="opacity"
                       />
                     </figure>
                     <div className="banner-content">
@@ -112,5 +111,4 @@ const CallToActionCol2 = (props: CallToActionCol2Props): JSX.Element => (
   </>
 );
 
-//export default withDatasourceCheck()<ProductCategoryProps>(ProductCategory);
-export const Default = CallToActionCol2;
+// export const Default = CallToActionCol2;

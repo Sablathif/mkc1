@@ -1,6 +1,5 @@
-import { LazyLoadImage } from 'react-lazy-load-image-component';
 import ALink from '../../../feature/custom-link';
-
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 function CategorySectionCard(props, index) {
   const data = props?.props;
   return (
@@ -12,12 +11,11 @@ function CategorySectionCard(props, index) {
               src={'/-' + data?.fields?.Image?.value?.src.split('/-').pop()}
               alt="Intro Slider"
               effect="opacity; transform"
-              width={280}
-              height={280}
+              width={data?.fields?.Image?.value?.width}
+              height={data?.fields?.Image?.value?.height}
               loading="lazy"
             />
           </figure>
-
           <div className="category-content">
             <h4 className="category-name font-weight-bold ls-l">{data?.fields?.Title?.value}</h4>
           </div>
@@ -26,5 +24,4 @@ function CategorySectionCard(props, index) {
     </div>
   );
 }
-
 export default CategorySectionCard;

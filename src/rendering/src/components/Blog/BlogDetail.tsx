@@ -1,8 +1,7 @@
 import { Text, RichText } from '@sitecore-jss/sitecore-jss-nextjs';
 import ALink from 'components/feature/custom-link';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
 import BlogDetailType from './BlogDetail.type';
-
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 const BlogDetail = (props: BlogDetailType): JSX.Element => (
   <div className="container">
     <div className="row gutter-lg">

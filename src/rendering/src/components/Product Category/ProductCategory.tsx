@@ -11,10 +11,10 @@ const Categories: Record<string, any> = {
   Image,
   Ellipse,
 };
-const ProductCategory = (props: ProductCategoryType): JSX.Element => {
+export const Default = (props: ProductCategoryType): JSX.Element => {
   const listingType = props?.params.ListingType.toString();
   const Component = listingType ? Categories[listingType] : Image;
   return <Component props={props} />;
 };
 
-export const Default = ProductCategory;
+// export const Default = ProductCategory;

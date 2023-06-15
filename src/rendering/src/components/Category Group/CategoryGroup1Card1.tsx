@@ -1,8 +1,7 @@
 import React from 'react';
 import ALink from 'components/feature/custom-link';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
 import CategoryGroup1Card2 from './CategoryGroup1Card2';
-
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 function CategoryGroup1Card1(props: any, index: any) {
   const item = props?.props;
   return (
@@ -19,7 +18,7 @@ function CategoryGroup1Card1(props: any, index: any) {
             alt={item?.image?.alt}
             width={item?.image?.width}
             height={item?.image?.height}
-            effect="opacity"
+            // effect="opacity"
           />
         </figure>
       </ALink>

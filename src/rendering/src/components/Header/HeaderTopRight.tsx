@@ -7,7 +7,6 @@ import {
 } from '@sitecore-jss/sitecore-jss-nextjs';
 
 import { ComponentProps } from 'lib/component-props';
-import Styles from './HeaderNavigation.module.css';
 
 type HeaderTopRightProps = ComponentProps & {
   fields: {
@@ -18,7 +17,7 @@ type HeaderTopRightProps = ComponentProps & {
 };
 
 const HeaderTopRight = (props: HeaderTopRightProps): JSX.Element => (
-  <div className={Styles.headerTopRight}>
+  <div>
     <h5>
       <RichText field={props.fields.CallUs} />
     </h5>

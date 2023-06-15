@@ -1,8 +1,6 @@
 import React from 'react';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
-
 import ALink from 'components/feature/custom-link';
-
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 function PostTwo(props) {
   const { post, adClass = '', isLazy = false } = props;
 
@@ -32,7 +30,6 @@ function PostTwo(props) {
           </ALink>
         )}
       </figure>
-
       <div className="post-details">
         <div className="post-meta">
           <ALink href="#" className="post-date">
@@ -51,5 +48,4 @@ function PostTwo(props) {
     </div>
   );
 }
-
 export default PostTwo;

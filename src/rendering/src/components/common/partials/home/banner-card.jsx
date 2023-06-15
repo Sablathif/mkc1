@@ -1,8 +1,8 @@
 import React from 'react';
 import Reveal from 'react-awesome-reveal';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
 import ALink from '../../../feature/custom-link';
 import { fadeInLeftShorter } from '../../../../utils/data/keyframes';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 function BannerCard(props, index) {
   const data = props.props;
   return (
@@ -16,8 +16,8 @@ function BannerCard(props, index) {
               src={'/-' + data?.fields?.BackgroundImage?.value?.src?.split('/-').pop()}
               alt="Banner Image"
               effect="opacity, transform"
-              width={100}
-              height={220}
+              width={data?.fields?.BackgroundImage?.value?.width}
+              height={data?.fields?.BackgroundImage?.value?.height}
               loading="lazy"
             />
           </figure>
@@ -52,9 +52,7 @@ function BannerCard(props, index) {
                 <h4 className="banner-subtitle text-uppercase font-weight-normal text-white">
                   {data?.fields?.SubTitle?.value}
                 </h4>
-
                 <hr className="banner-divider" />
-
                 <ALink
                   href={data?.fields?.CTALink?.value?.href}
                   className="btn btn-white btn-link btn-underline"

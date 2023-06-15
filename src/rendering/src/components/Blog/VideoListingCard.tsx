@@ -2,7 +2,6 @@ import React from 'react';
 import { videoHandler } from 'src/utils';
 import ALink from 'components/feature/custom-link';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
-
 function VideoListingCard(props: any) {
   const item = props?.props?.props?.props;
   return (

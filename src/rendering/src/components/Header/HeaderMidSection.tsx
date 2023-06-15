@@ -1,9 +1,8 @@
 import ALink from 'components/feature/custom-link';
 import HeaderSearch from 'components/Header/HeaderSearch';
-import { LazyLoadImage } from 'react-lazy-load-image-component';
 import HeaderMidSectionType from './HeaderMidSection.type';
-
-const HeaderMidSection = (props: HeaderMidSectionType): JSX.Element => (
+import { LazyLoadImage } from 'react-lazy-load-image-component';
+export const Default = (props: HeaderMidSectionType): JSX.Element => (
   <header className="header header-border">
     <div className="header-middle sticky-header fix-top sticky-content">
       <div className="container">
@@ -19,35 +18,14 @@ const HeaderMidSection = (props: HeaderMidSectionType): JSX.Element => (
           </ALink>
           <HeaderSearch />
         </div>
-
         <div className="header-right">
-          <ALink
-            href="tel:#"
-            className="icon-box icon-box-side"
-            content={undefined}
-            style={undefined}
-          >
+          <ALink href="#" className="icon-box icon-box-side" content={undefined} style={undefined}>
             <div className="icon-box-icon mr-0 mr-lg-2">
               <i className="d-icon-phone"></i>
             </div>
-            {/* <div className="icon-box-content d-lg-show">
-              <h4 className="icon-box-title">
-                <RichText field={props.fields.CallUsNow} />
-              </h4>
-            </div> */}
           </ALink>
-          {/* <span className="divider"></span>
-          <ALink href="#" className="wishlist" content={undefined} style={undefined}>
-            <i className="d-icon-heart"></i>
-          </ALink>
-          <span className="divider"></span> */}
-
-          {/* <CartMenu /> */}
         </div>
       </div>
     </div>
   </header>
 );
-export const Default = HeaderMidSection;
-
-// export default withDatasourceCheck()<HeaderMidSectionProps>(HeaderMidSection);

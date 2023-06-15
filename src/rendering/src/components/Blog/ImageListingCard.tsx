@@ -1,7 +1,6 @@
 import React from 'react';
 import ALink from 'components/feature/custom-link';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
-
 function ImageListingCard(props: any) {
   const item = props?.props?.props?.props;
   return (

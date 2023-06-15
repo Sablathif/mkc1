@@ -20,6 +20,7 @@
                 // Body
                 body: (
                     font-family: $font-family,
+                    font-display: swap,
                     font-size: 1.4rem,
                     line-height: 1.6,
                     color: $body-color
@@ -152,6 +153,7 @@
         border: 0;
         padding: 0;
         font-family: $font-family;
+        font-display: swap !important;
         &:focus {
             outline: 0;
         }

@@ -17,8 +17,11 @@ import HeaderCdpMessageBar from './components/HeaderCdpMessageBar';
 import { isEditingOrPreviewingPage } from './utils/helpers/LayoutServiceHelper';
 // END CUSTOMIZATION
 // DEMO TEAM CUSTOMIZATION - Sitecore Search integration
-import { QueryClientProvider } from '@tanstack/react-query';
-import { queryClient } from './utils/helpers/ContentSearchHelper';
+// import { QueryClientProvider } from '@tanstack/react-query';
+// import { queryClient } from './utils/helpers/ContentSearchHelper';
+import { ApolloProvider } from '@apollo/client';
+import client from './../server/apollo';
+
 // END CUSTOMIZATION
 
 // Prefix public assets with a public URL to enable compatibility with Sitecore Experience Editor.
@@ -80,7 +83,7 @@ const Layout = ({ layoutData }: LayoutProps): JSX.Element => {
 
       {/* root placeholder for the app, which we add components to using route data */}
       {/* DEMO TEAM CUSTOMIZATION - Add a QueryClientProvider. Add CSS classes when Sitecore editors are active. Add HeaderCdpMessageBar. Remove sections inner divs. */}
-      <QueryClientProvider client={queryClient}>
+      <ApolloProvider client={client}>
         <div className={mainClassPageEditing}>
           <header className={isExperienceEditorActiveCssClass}>
             {route && <Placeholder name="headless-header" rendering={route} />}
@@ -91,7 +94,7 @@ const Layout = ({ layoutData }: LayoutProps): JSX.Element => {
           </main>
           <footer>{route && <Placeholder name="headless-footer" rendering={route} />}</footer>
         </div>
-      </QueryClientProvider>
+      </ApolloProvider>
       {/* END CUSTOMIZATION */}
     </>
   );

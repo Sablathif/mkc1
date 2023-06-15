@@ -1,7 +1,6 @@
 import React from 'react';
 import ALink from 'components/feature/custom-link';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
-
 function CategoryBannerStyleCard(props: any, index: any) {
   const data = props?.props;
   return (
@@ -27,7 +26,7 @@ function CategoryBannerStyleCard(props: any, index: any) {
               alt={`${data?.fields?.BackgroundImage?.value?.alt}`}
               width="585"
               height={data?.fields?.BannerType?.value.toString() === 'height-x2' ? '397' : '205'}
-              effect="opacity"
+              // effect="opacity"
             />
           </figure>
         </ALink>

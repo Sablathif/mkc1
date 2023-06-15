@@ -3,7 +3,6 @@ import Reveal from 'react-awesome-reveal';
 import { fadeIn } from '../../../../utils/data/keyframes';
 import OwlCarousel from '../../../feature/owl-carousel';
 import { productSlider } from '../../../../utils/data/carousel';
-// import { ProductTwo } from '../../../feature/product/product-two';
 function BestCollection(props) {
   const { /*products*/ loading } = props;
   return (

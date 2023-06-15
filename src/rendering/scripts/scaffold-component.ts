@@ -18,10 +18,10 @@ import fs from 'fs';
 import path from 'path';
 import chalk from 'chalk';
 import generateComponentSrc from './templates/component-src';
-import generateStorySrc from './templates/story-src'; // DEMO TEAM CUSTOMIZATION - Add Storybook story scaffolding
+// import generateStorySrc from './templates/story-src'; // DEMO TEAM CUSTOMIZATION - Add Storybook story scaffolding
 
 const componentRootPath = 'src/components';
-const storyRootPath = 'src/stories'; // DEMO TEAM CUSTOMIZATION - Add Storybook story scaffolding
+// const storyRootPath = 'src/stories'; // DEMO TEAM CUSTOMIZATION - Add Storybook story scaffolding
 
 // Matches component names that start with a capital letter, and contain only letters, number,
 // underscores, or dashes. Optionally, the component name can be preceded by a relative path
@@ -54,13 +54,13 @@ if (!componentOutputPath) {
   throw `Skipping creating ${componentArg}; already exists.`;
 }
 
-const storyFilename = `${componentName}.stories.tsx`;
+// const storyFilename = `${componentName}.stories.tsx`;
 
-const storyOutputPath = scaffoldFile(
-  storyRootPath,
-  generateStorySrc(componentName, componentPath),
-  storyFilename
-);
+// const storyOutputPath = scaffoldFile(
+//   storyRootPath,
+//   generateStorySrc(componentName, componentPath),
+//   storyFilename
+// );
 // END CUSTOMIZATION
 
 console.log(
@@ -71,10 +71,10 @@ Next steps:`)
 
 // DEMO TEAM CUSTOMIZATION - Reworked next steps order and content
 console.log(`* Implement the React component in ${chalk.green(componentOutputPath)}`);
-if (storyOutputPath) {
-  console.log(`* Test the component in Storybook by running ${chalk.green('jss storybook')}.`);
-  console.log(`* Add mock data as needed in the ${chalk.green(storyOutputPath)} Storybook story.`);
-}
+// if (storyOutputPath) {
+//   console.log(`* Test the component in Storybook by running ${chalk.green('jss storybook')}.`);
+//   console.log(`* Add mock data as needed in the ${chalk.green(storyOutputPath)} Storybook story.`);
+// }
 console.log(`* Manually create the rendering item and datasource template in Sitecore.`);
 console.log(`* Add the component to a route using Sitecore Experience Editor, and test it.`);
 // END CUSTOMIZATION
