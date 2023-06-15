@@ -10,7 +10,7 @@ function LazyImage(props) {
   console.log(props);
   return (
     <>
-      <h1>{sitecoreContext}</h1>
+      <h1>asmita</h1>
       {/* {!sitecoreContext & sitecoreContext.pageState & (sitecoreContext?.pageState === 'normal') ? (
         <Image
           src={props.value?.src}
