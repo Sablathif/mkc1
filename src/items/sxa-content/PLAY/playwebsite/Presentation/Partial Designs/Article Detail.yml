@@ -1,0 +1,41 @@
+﻿---
+ID: "5c9b9119-8894-42f8-839a-d22a838f979e"
+Parent: "acee8ee1-8f3a-4901-982e-40d501989f64"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/PLAY/playwebsite/Presentation/Partial Designs/Article Detail
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "article-detail"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{915D4A0E-2464-4110-B3D7-5AB921E72DB1}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5ED0A33A-5A27-4EA6-A3D8-C1C3959246D8}">
+              <p:d />
+            </r>
+            <r
+              uid="{266063B6-A2EA-41AA-A4DF-AFE0ED5DD32B}"
+              s:ds="{62F1C814-0045-440F-A8A5-E750AEDCFDC3}"
+              s:id="{48EFA154-00F0-4A6B-A269-C7FD30F39D18}"
+              s:par="CSSStyles"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "98e64577-2095-434e-af60-6839b3314aed"

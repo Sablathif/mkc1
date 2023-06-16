@@ -1,0 +1,46 @@
+﻿---
+ID: "9cf54f91-c1b3-4a28-9788-7a42492e7639"
+Parent: "acee8ee1-8f3a-4901-982e-40d501989f64"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/PLAY/playwebsite/Presentation/Partial Designs/About Us
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "about-us"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{950A5623-5A98-417D-BD90-6FC56C526F8A}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{A778DA15-EFA7-43EF-B52D-A6FB91C2B3F8}"
+              p:before="*"
+              s:ds="{AA889234-5668-461A-AEEC-5E4625C5B19E}"
+              s:id="{60E46443-0BAD-5861-823D-75F620401573}"
+              s:par="FieldNames&amp;CacheClearingBehavior=Clear+on+publish&amp;Styles&amp;CSSStyles&amp;GridParameters&amp;BannerType=BannerWithoutCTA"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{17B8A866-A67A-4977-9CB7-9CA50C7C351F}"
+              p:after="*[1=2]"
+              s:ds="{7C10A9C5-77F6-4A92-98CE-82DDC5930E92}"
+              s:id="{C3E5B823-4709-45A3-981A-B9478ABE1621}"
+              s:par="CSSStyles"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b7d2ea75-840b-4544-9682-854942aaaba2"
