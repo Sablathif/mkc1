@@ -13,26 +13,13 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{A836EBAD-7A94-4DE3-BBF8-793200C6EC4A}" />
+    <image mediaid="{A888B679-AF32-4A1A-BC74-32226819E6C5}" />
 - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
   Hint: __Default workflow
   Value: 
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
-  Value: |
-    <r xmlns:p="p" xmlns:s="s"
-      p:p="1">
-      <d
-        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-        <r
-          uid="{5ED0A33A-5A27-4EA6-A3D8-C1C3959246D8}"
-          s:ds=""
-          s:id="{2F9D05FD-8E58-56CC-B586-41A3EC155CD7}"
-          s:par=""
-          s:ph="/headless-main"
-          s:ccb="Clear on publish" />
-      </d>
-    </r>
+  Value: 
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{4692FE56-0DE5-467D-9ED2-CF11494701BA}"
@@ -66,7 +53,7 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4793639d-c573-4e4b-a24e-7d91584b061f"
+      Value: "4740355a-1789-4f55-a30b-5774bd3c49ec"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Explore Fashion Trending For Women In Autumn 2022
