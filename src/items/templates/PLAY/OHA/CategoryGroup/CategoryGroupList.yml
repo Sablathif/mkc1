@@ -7,6 +7,9 @@ SharedFields:
 - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
   Hint: __Base template
   Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{81CDAFA0-5172-4E9B-B5CB-3948DB4BF9E6}"
 Languages:
 - Language: en
   Versions:
@@ -14,4 +17,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d6f3a183-0b5b-4030-8e79-29c8fb215209"
+      Value: "feef140d-32d9-4902-bb6c-0bd05e7ae66f"

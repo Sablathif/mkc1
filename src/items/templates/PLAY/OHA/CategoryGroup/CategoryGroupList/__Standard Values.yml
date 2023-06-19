@@ -1,0 +1,13 @@
+﻿---
+ID: "81cdafa0-5172-4e9b-b5cb-3948db4bf9e6"
+Parent: "5b1d692d-7d08-42e5-97f6-82b8c7864b29"
+Template: "5b1d692d-7d08-42e5-97f6-82b8c7864b29"
+Path: /sitecore/templates/Project/PLAY/OHA/CategoryGroup/CategoryGroupList/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cf722657-c20c-4642-9d3a-3f23054d12f1"

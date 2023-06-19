@@ -64,16 +64,14 @@ Languages:
               s:ph="headless-main"
               s:ccb="Clear on publish" />
             <r
-              uid="{A16343D7-7E70-4762-A06E-5B942955A4EB}"
+              uid="{B2EBA322-87AB-45A6-9E23-97C67D54B931}"
               p:after="r[@uid='{A778DA15-EFA7-43EF-B52D-A6FB91C2B3F8}']"
-              s:ds="{937CB3AA-0883-4D8F-A242-16A623AFCD2F}"
               s:id="{1C1FC053-EC78-4B8F-AB05-6CEF601D9B2B}"
-              s:par="CSSStyles"
-              s:ph="headless-main"
-              s:ccb="Clear on publish" />
+              s:par="componentTitle&amp;categories"
+              s:ph="headless-main" />
             <r
               uid="{BFBC7DA7-D414-4BAB-BF76-D8BE36F51F75}"
-              p:after="r[@uid='{A16343D7-7E70-4762-A06E-5B942955A4EB}']"
+              p:after="r[@uid='{B2EBA322-87AB-45A6-9E23-97C67D54B931}']"
               s:ds="{836DF427-37F5-4C30-8E28-C9A34D18A215}"
               s:id="{EA63DC31-3AE7-4FE1-B248-2A230EDAF806}"
               s:par="CacheClearingBehavior=Clear+on+publish&amp;CSSStyles"
@@ -94,7 +92,7 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8409e53b-2120-4cd2-972e-c835d9a1d5d4"
+      Value: "9138198b-9271-45e0-b796-6b448b64f0cc"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Product Category
