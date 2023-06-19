@@ -1,16 +1,11 @@
 {
-    "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+    "$schema": "./../.sitecore/schemas/ModuleFile.schema.json",
     "namespace": "RenderingHost",
     "items": {
         "includes": [
             {
                 "name": "DefaultRenderingHost",
                 "path": "/sitecore/system/Settings/Services/Rendering Hosts/Default",
-                "scope": "singleItem"
-            },
-            {
-                "name": "DefaultRenderingHostPlay",
-                "path": "/sitecore/system/Settings/Services/Rendering Hosts/Play",
                 "scope": "singleItem"
             }
         ]

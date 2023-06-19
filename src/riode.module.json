@@ -1,0 +1,31 @@
+{
+    "$schema": "./../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "XMCloudSite",
+    "reference": [
+        "InitItems"
+    ],
+    "items": {
+        "includes": [
+            {
+                "name": "xmcloud-placeholder",
+                "path": "/sitecore/layout/Placeholder Settings/Project/XMCloudSite",
+                "allowedPushOperations": "CreateUpdateAndDelete"
+            },
+            {
+                "name": "xmcloud-templates",
+                "path": "/sitecore/Templates/Project/XMCloudSite",
+                "allowedPushOperations": "CreateUpdateAndDelete"
+            },
+            {
+                "name": "contentRoot",
+                "path": "/sitecore/content",
+                "allowedPushOperations": "CreateUpdateAndDelete"
+            },
+            {
+                "name": "xmcloud-media",
+                "path": "/sitecore/Media Library/Project/XMCloudSite",
+                "allowedPushOperations": "CreateUpdateAndDelete"
+            }
+        ]
+    }
+}
