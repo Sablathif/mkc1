@@ -1,0 +1,28 @@
+﻿---
+ID: "484fa039-0671-41bd-95fc-c81280a1daef"
+Parent: "0406c8ca-6820-475c-89d2-167099367d78"
+Template: "845821c8-5442-4acb-afee-8c4f5ce7d17d"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/about us/Page Components/StatsCard/StatsCardListing
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3960734a-60a7-431f-a1ad-016fd9599fa5"
+      Hint: StatsItems
+      Value: |
+        {DB34766D-0FC3-4E65-ADF7-6CD2EFBAA162}
+        {48F103CD-AB0F-4A7A-9383-FDA768C8B649}
+        {7B0959AD-A332-42E8-8BD9-00EA6B1A493A}
+    - ID: "76e36821-6bcc-4ab7-b2f9-3a71b9ce45db"
+      Hint: Description
+      Value: Lorem quis bibendum auctar, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
+    - ID: "8ccbb5d7-94b4-4610-a673-d63aa6e7d982"
+      Hint: SubTitle
+      Value: Provide perfect and practical services
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac085029-6768-4991-990f-b5fa1e655dc8"
+    - ID: "aa0c9e59-7c48-4f8f-8238-617a3014b581"
+      Hint: Title
+      Value: 01. What We Do

@@ -1,0 +1,13 @@
+﻿---
+ID: "0406c8ca-6820-475c-89d2-167099367d78"
+Parent: "57553199-8463-4925-aba8-2430f91c8114"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/about us/Page Components/StatsCard
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ecffef96-a2ed-4030-979f-c75d6a569962"

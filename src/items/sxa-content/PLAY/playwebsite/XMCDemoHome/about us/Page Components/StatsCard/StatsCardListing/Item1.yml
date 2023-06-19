@@ -1,0 +1,22 @@
+﻿---
+ID: "db34766d-0fc3-4e65-adf7-6cd2efbaa162"
+Parent: "484fa039-0671-41bd-95fc-c81280a1daef"
+Template: "2eafde78-86a4-4c78-af67-7ccb6aba887b"
+Path: /sitecore/content/PLAY/playwebsite/XMCDemoHome/about us/Page Components/StatsCard/StatsCardListing/Item1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "69818c05-6cf3-43be-804f-8610d30ccd29"
+      Hint: Description
+      Value: Lorem ipsum dolor sit amet, conctetur adipisci elit. viverra erat orci.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4336625d-651f-4cfd-958c-05f66bbce43d"
+    - ID: "badb154f-5421-4ee3-81f2-2f7ae5474763"
+      Hint: Number
+      Value: 35
+    - ID: "d2b0dde0-6b2a-41d9-aca4-f58446cd9433"
+      Hint: Title
+      Value: Business Year

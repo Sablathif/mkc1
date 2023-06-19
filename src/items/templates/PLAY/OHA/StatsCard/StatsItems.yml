@@ -1,0 +1,17 @@
+﻿---
+ID: "2eafde78-86a4-4c78-af67-7ccb6aba887b"
+Parent: "fb6039b8-ff00-4aa4-8f77-f07317346064"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/PLAY/OHA/StatsCard/StatsItems
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9b1ffda5-b46f-4ccb-a340-88c477b99d86"

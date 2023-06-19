@@ -64,8 +64,16 @@ Languages:
               s:ph="headless-main"
               s:ccb="Clear on publish" />
             <r
-              uid="{3BE7BE0E-00D7-4E62-BCF8-8CA76B4DC87B}"
+              uid="{A0789DC1-D830-4F1F-B6D2-D14EFE4B4CF4}"
               p:after="r[@uid='{A778DA15-EFA7-43EF-B52D-A6FB91C2B3F8}']"
+              s:ds="{484FA039-0671-41BD-95FC-C81280A1DAEF}"
+              s:id="{01CAC217-515F-4232-9FDF-38CAC274DD14}"
+              s:par="CSSStyles"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{3BE7BE0E-00D7-4E62-BCF8-8CA76B4DC87B}"
+              p:after="r[@uid='{A0789DC1-D830-4F1F-B6D2-D14EFE4B4CF4}']"
               s:ds="{345BBEEC-A220-4736-AF18-EF4AB1879380}"
               s:id="{2702C90A-5DCE-4B64-BE2C-7F0470DB1931}"
               s:par="CacheClearingBehavior=Clear+on+publish&amp;CSSStyles"
@@ -94,7 +102,7 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b5721091-70ba-4ff0-b2fa-e02c8def17a9"
+      Value: "cced0b7a-c127-4881-9664-18758314f4d7"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Blog Page

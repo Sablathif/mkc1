@@ -1,0 +1,13 @@
+﻿---
+ID: "e9f66349-c790-43b4-96cf-fca6194171c6"
+Parent: "845821c8-5442-4acb-afee-8c4f5ce7d17d"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/PLAY/OHA/StatsCard/StatsCard/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3d128246-4ccc-4785-a50b-0471e5d411a6"

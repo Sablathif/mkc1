@@ -1,0 +1,20 @@
+﻿---
+ID: "01cac217-515f-4232-9fdf-38cac274dd14"
+Parent: "2f247fd1-0ce0-4418-9db5-26da49f575c7"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Project/PLAY/OHA/StatsCard/StatsCard
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: StatsCard
+- ID: "f6677a49-0a1d-4bad-b8ba-4f0f22bdee64"
+  Hint: Additional compatible templates
+  Value: "{845821C8-5442-4ACB-AFEE-8C4F5CE7D17D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9cef7f56-9418-4bb4-9a58-2f69c7ee7ee0"
