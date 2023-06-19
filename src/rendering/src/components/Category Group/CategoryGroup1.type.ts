@@ -1,28 +1,44 @@
-import { Field, ImageField, LinkField, TextField } from '@sitecore-jss/sitecore-jss-nextjs';
-type CategoryGroup1Props = {
-  item: {
-    componentTitle: Field<string>;
-    categories: {
-      name: Field<string>;
-      targetItems: Categories[];
+import { ComponentProps } from 'lib/component-props';
+type CategoryGroup1Props = ComponentProps & {
+  fields: {
+    data: {
+      item: {
+        componentTitle: { value: string };
+        categories: {
+          targetItems: [
+            {
+              name: string;
+              title: { value: string };
+              listingType: { value: string };
+              iconClassName: { value: string };
+              image: { src: string; alt: string; width: string; height: string };
+              backgroudColour: { value: string };
+              categoryURL: {
+                name: string;
+                value: string;
+                id: string;
+                linkType: string;
+                url: string;
+              };
+              categoryItems: {
+                targetItems: [
+                  {
+                    itemName: { value: string };
+                    itemUrl: {
+                      name: string;
+                      value: string;
+                      id: string;
+                      linkType: string;
+                      url: string;
+                    };
+                  }
+                ];
+              };
+            }
+          ];
+        };
+      };
     };
   };
-};
-
-type Categories = {
-  title: TextField;
-  listingType: TextField;
-  iconClassName: TextField;
-  image: ImageField;
-  backgroudColour: TextField;
-  categoryURL: LinkField;
-  categoryItems: {
-    name: Field<string>;
-    targetItems: CategoryItems[];
-  };
-};
-type CategoryItems = {
-  itemName: TextField;
-  itemUrl: LinkField;
 };
 export default CategoryGroup1Props;

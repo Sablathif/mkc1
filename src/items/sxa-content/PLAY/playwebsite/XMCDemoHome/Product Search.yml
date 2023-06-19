@@ -16,7 +16,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{0F33A600-E38A-45AF-8BF6-5EE55AD2F588}" />
+    <image mediaid="{226E69FC-3D8B-4FEE-A8CA-6A2B1E33B7AE}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -69,7 +69,7 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1d9d3947-477f-4a19-a1f1-74e57c667674"
+      Value: "be7c4818-65fd-48f1-a8da-539dc1ccfa4d"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
-      Value: Product Search Page
+      Value: Product Search

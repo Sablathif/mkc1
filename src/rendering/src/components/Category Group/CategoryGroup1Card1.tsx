@@ -14,7 +14,7 @@ function CategoryGroup1Card1(props: any, index: any) {
       >
         <figure className="category-media">
           <LazyLoadImage
-            src={item?.image?.src}
+            src={'/-' + item?.image?.src?.split('/-').pop()}
             alt={item?.image?.alt}
             width={item?.image?.width}
             height={item?.image?.height}

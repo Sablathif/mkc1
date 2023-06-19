@@ -19,7 +19,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{6CB56F17-66F5-42CA-9D0A-5CFA1769DF63}" />
+    <image mediaid="{1A50CF0D-ACE5-4184-8864-C43520DDA2E1}" />
 - ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
   Hint: __Security
   Value: |
@@ -78,10 +78,10 @@ Languages:
         </r>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "525f1688-045a-4499-a10d-5ee3beab5197"
+      Value: "17b08296-57d6-4cc0-994a-3a81dbf87668"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
-      Value: XM Cloud Home
+      Value: Home
 - Language: "fr-CA"
   Versions:
   - Version: 1

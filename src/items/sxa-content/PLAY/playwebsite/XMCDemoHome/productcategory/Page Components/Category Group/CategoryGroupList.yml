@@ -12,11 +12,11 @@ Languages:
       Hint: categories
       Value: |
         {4DF99147-774C-49ED-9E41-2F78023C2FDA}
-        {55B1671B-AC53-4B51-98E9-7C93E6EC0E3C}
         {1A82C9E2-0384-412E-B97F-34FE9A649EEF}
+        {55B1671B-AC53-4B51-98E9-7C93E6EC0E3C}
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6ac2a5b8-930d-49c7-849a-04fc73d561bd"
+      Value: "1def32c1-918b-47ee-aa75-07af6aac536d"
     - ID: "a69835ab-a0b7-4e3d-a68b-2efc6754c871"
       Hint: componentTitle
       Value: Category Group 1

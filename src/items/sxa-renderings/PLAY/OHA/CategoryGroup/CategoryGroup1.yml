@@ -7,12 +7,82 @@ SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
   Value: CategoryGroup1
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query {
+        # path can be an item tree path or GUID-based id
+        item(
+          path: "{937CB3AA-0883-4D8F-A242-16A623AFCD2F}"
+          language: "en"
+        ) {
+          # items can be cast to a Template type with inline fragments
+          ... on CategoryGroupList {
+            componentTitle {
+              value
+            }
+            categories {
+              name
+              targetItems {
+                id
+                name
+                ... on Categories {
+                  title {
+                    value
+                  }
+                  listingType {
+                    value
+                  }
+                  iconClassName {
+                    value
+                  }
+                  image {
+                    src
+                    alt
+                    width
+                    height
+                    src
+                  }
+                  backgroudColour {
+                    value
+                  }
+                  categoryURL {
+                    name
+                    value
+                    id
+                    linkType
+                    url
+                  }
+                  categoryItems {
+                    name
+                    targetItems {
+                      ... on CategoryItems {
+                        itemName {
+                          value
+                        }
+                        itemUrl {
+                          name
+                          value
+                          id
+                          linkType
+                          url
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+          # fields can be cast to a Field type with inline fragments
+        }
+      }
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
   Value: /sitecore/templates/Project/PLAY/OHA/CategoryGroup/Article
 - ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
   Hint: Rendering Contents Resolver
-  Value: "{5F8249B6-9290-4061-BD92-8DD72C7C6F7C}"
+  Value: 
 - ID: "f6677a49-0a1d-4bad-b8ba-4f0f22bdee64"
   Hint: Additional compatible templates
   Value: "{5B1D692D-7D08-42E5-97F6-82B8C7864B29}"
@@ -23,4 +93,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3d55a1a3-8227-4b8d-8d21-2110be86592e"
+      Value: "8fdd401c-abe6-4b9a-aafc-c45ca7bd9168"
