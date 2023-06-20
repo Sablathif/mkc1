@@ -79,10 +79,10 @@ SharedFields:
       }
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
-  Value: /sitecore/templates/Project/PLAY/OHA/CategoryGroup/Article
+  Value: 
 - ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
   Hint: Parameters Template
-  Value: "{5B1D692D-7D08-42E5-97F6-82B8C7864B29}"
+  Value: 
 - ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
   Hint: Rendering Contents Resolver
   Value: 
@@ -96,4 +96,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b17af43d-6bb7-4049-b22b-4e528bc4ff11"
+      Value: "8c24f785-71f4-4562-804d-81ad1666173b"

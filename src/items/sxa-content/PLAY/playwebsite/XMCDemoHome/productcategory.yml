@@ -66,9 +66,11 @@ Languages:
             <r
               uid="{B2EBA322-87AB-45A6-9E23-97C67D54B931}"
               p:after="r[@uid='{A778DA15-EFA7-43EF-B52D-A6FB91C2B3F8}']"
+              s:ds="{937CB3AA-0883-4D8F-A242-16A623AFCD2F}"
               s:id="{1C1FC053-EC78-4B8F-AB05-6CEF601D9B2B}"
-              s:par="componentTitle&amp;categories"
-              s:ph="headless-main" />
+              s:par="CSSStyles"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
             <r
               uid="{BFBC7DA7-D414-4BAB-BF76-D8BE36F51F75}"
               p:after="r[@uid='{B2EBA322-87AB-45A6-9E23-97C67D54B931}']"
@@ -92,7 +94,7 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9138198b-9271-45e0-b796-6b448b64f0cc"
+      Value: "78bc2a02-44e1-498d-a76c-7b4bc9f8eeb0"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Product Category
