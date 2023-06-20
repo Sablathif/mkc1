@@ -1,5 +1,4 @@
 //import CountUp from 'react-countup';
-import { RichText } from '@sitecore-jss/sitecore-jss-nextjs';
 function StatsCardData(props: any) {
   const data = props?.props;
   return (
