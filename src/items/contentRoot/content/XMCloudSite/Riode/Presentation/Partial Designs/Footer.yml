@@ -1,0 +1,68 @@
+﻿---
+ID: "c1ce1473-a255-4a9d-82dd-4894008e4375"
+Parent: "3034231c-f22c-4868-955c-777c03a34889"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/XMCloudSite/Riode/Presentation/Partial Designs/Footer
+BranchID: "8204a950-cbaa-4d06-878b-11ced5ddc1ad"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{8DDE1031-C866-4EBA-830A-FE85DA4DF406}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b1C6C490C-7CA9-436A-8060-D9C70111C0D7%7d%7c%7b9A150E94-2703-46E9-8C7E-4842E93228D9%7d%7c%7b474AD792-4A07-483C-8FA0-50DDC1DE1CED%7d%7c%7b21D53018-533B-4696-A3DA-E480B0D0466B%7d%7c%7bFAAA4F65-D93F-4968-B6A2-F25734D20833%7d%7c%7b87E8E6E2-7611-422D-8C13-EF46D46498FE%7d%7c%7b8BE6D599-539A-495F-A03E-297D9C279806%7d%7c%7b8E703A4A-3CC4-44C6-9315-0C056D741FF9%7d%7c%7b233DE20B-A864-4BEE-9421-0EED0DD641B3%7d%7c%7bB3D87617-612B-4FDD-A7A3-145974FFDBB2%7d%7c%7bE03DF6BD-80C4-4E81-BE8C-5118BFA17072%7d%7c%7b27CEFB4F-9D8B-40FB-84A4-077D80A46A71%7d%7c%7bEA873525-C7D4-4504-9FCE-C4ABBB684F99%7d%7c%7b04312378-1172-42D6-9C6F-271C19E4CF5E%7d%7c%7b452F5AC0-29C1-448A-89FC-27077A89F745%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-footer" />
+        <r
+          uid="{76FF4C5C-78E0-44C2-B9D8-E0026B9E0A13}"
+          p:after="r[@uid='{8DDE1031-C866-4EBA-830A-FE85DA4DF406}']"
+          s:ds="local:/Data/Address"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b8E7A29CD-FD79-4D10-9003-211A633679DC%7d&amp;FieldNames=%7bCC1C4D22-E5A7-41AC-864A-0B24328DCD6D%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+        <r
+          uid="{BCC4A082-5B9E-41BF-B243-59585CD31B77}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Contact info"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b8E7A29CD-FD79-4D10-9003-211A633679DC%7d&amp;FieldNames=%7bCC1C4D22-E5A7-41AC-864A-0B24328DCD6D%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EDB00EAA-5ACA-4C4D-8B88-3195D992F980}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230619T111416Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "349a4c49-6dbd-4bbf-a010-66d3615a53c1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230619T111419Z
