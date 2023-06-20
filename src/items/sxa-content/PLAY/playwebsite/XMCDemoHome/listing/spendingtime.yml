@@ -13,7 +13,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{525EF202-EB4B-4659-ADC3-A020A8CF4402}" />
+    <image mediaid="{726F12CE-BE08-4082-8AA0-A4C8444A8233}" />
 - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
   Hint: __Default workflow
   Value: 
@@ -53,7 +53,14 @@ Languages:
               <p:d />
             </r>
             <r
+              uid="{8E1DC6A2-E6C8-46F6-BF3C-9E604D76FBF0}"
+              p:before="*"
+              s:id="{EF1606F2-65B1-4492-9E2E-3BEFBBC0E2F6}"
+              s:par="CacheClearingBehavior=Clear%20on%20publish&amp;CSSStyles"
+              s:ph="headless-main" />
+            <r
               uid="{266063B6-A2EA-41AA-A4DF-AFE0ED5DD32B}"
+              p:after="*[1=2]"
               s:ds="{CBFF5882-F01B-4CA0-AF96-491C5F919212}"
               s:id="{48EFA154-00F0-4A6B-A269-C7FD30F39D18}"
               s:par="CSSStyles"
@@ -66,7 +73,7 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "aa6783f3-b1e6-4e74-b88b-03853f220186"
+      Value: "1b893e27-7098-4121-a98c-015b72a708a2"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: The Best Choice For Spending Time

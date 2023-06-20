@@ -13,7 +13,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{BDB45331-71FC-4EB4-A50C-3603488493DC}" />
+    <image mediaid="{6B7CF2B6-4DF5-4563-8062-4F1743A755FF}" />
 - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
   Hint: __Default workflow
   Value: 
@@ -53,7 +53,14 @@ Languages:
               <p:d />
             </r>
             <r
+              uid="{21B9ACD8-AA62-4891-B8BE-B835F00BB92B}"
+              p:before="*"
+              s:id="{EF1606F2-65B1-4492-9E2E-3BEFBBC0E2F6}"
+              s:par="CacheClearingBehavior=Clear%20on%20publish&amp;CSSStyles"
+              s:ph="headless-main" />
+            <r
               uid="{266063B6-A2EA-41AA-A4DF-AFE0ED5DD32B}"
+              p:after="*[1=2]"
               s:ds="{7A286300-341F-4724-B0A3-447EEF7E0567}"
               s:id="{48EFA154-00F0-4A6B-A269-C7FD30F39D18}"
               s:par="CSSStyles"
@@ -66,7 +73,7 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "cef99cec-833a-4952-a153-5b75d38f0146"
+      Value: "9b693659-8747-4170-8cd6-c0449cd7e73b"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Explore Fashion IPad And Accessories

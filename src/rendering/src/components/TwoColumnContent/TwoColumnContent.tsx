@@ -4,13 +4,11 @@ import TwoColumnContentPropsType from './TwoColumnContent.type';
 
 const TwoColumnContentListing = (props: TwoColumnContentPropsType): JSX.Element => {
   return (
-    <>
+    <div className="section container">
       {props?.fields?.contentList?.map((item, index) => (
-        <div className="container" key={index}>
-          <RichText field={item?.fields?.description} />
-        </div>
+        <RichText field={item?.fields?.description} key={index} />
       ))}
-    </>
+    </div>
   );
 };
 

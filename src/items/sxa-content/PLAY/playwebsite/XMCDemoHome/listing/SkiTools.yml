@@ -13,7 +13,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{A915257F-A35E-4CFC-9A5F-51FDB4985F1F}" />
+    <image mediaid="{D9DBD1A5-A5DD-47F8-86E0-ADA64681E2FC}" />
 - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
   Hint: __Default workflow
   Value: 
@@ -56,7 +56,14 @@ Languages:
               <p:d />
             </r>
             <r
+              uid="{8266CDB6-A48A-47EF-8410-F8CDDA24D9FE}"
+              p:before="*"
+              s:id="{EF1606F2-65B1-4492-9E2E-3BEFBBC0E2F6}"
+              s:par="CacheClearingBehavior=Clear%20on%20publish&amp;CSSStyles"
+              s:ph="headless-main" />
+            <r
               uid="{266063B6-A2EA-41AA-A4DF-AFE0ED5DD32B}"
+              p:after="*[1=2]"
               s:ds="{B07EBC26-4F73-4ED5-A8D5-F07A654475F4}"
               s:id="{48EFA154-00F0-4A6B-A269-C7FD30F39D18}"
               s:par="CSSStyles"
@@ -69,7 +76,7 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bb789a5e-d162-4c86-8237-bf1d2af0b3c9"
+      Value: "9e863da4-769e-4c35-85a8-831ab4c0c7e0"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Complete Set Of Ski Tools For Everyone

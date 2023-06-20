@@ -17,9 +17,6 @@ SharedFields:
   Hint: __Thumbnail
   Value: |
     <image mediaid="{88BE5413-8D22-4EA7-B347-642A6C85AC28}" />
-- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
-  Hint: __Renderings
-  Value: 
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{4692FE56-0DE5-467D-9ED2-CF11494701BA}"
@@ -77,7 +74,7 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "29dfeaf3-40a3-4907-947a-df2129b9da10"
+      Value: "9ac90ebb-2e12-4e2b-9e22-a7c1f732afde"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: About Us

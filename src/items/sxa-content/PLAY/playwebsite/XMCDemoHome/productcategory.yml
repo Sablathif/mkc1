@@ -56,8 +56,14 @@ Languages:
               <p:d />
             </r>
             <r
-              uid="{A778DA15-EFA7-43EF-B52D-A6FB91C2B3F8}"
+              uid="{0C707D44-E4EA-4D80-804F-4CB898C0DE39}"
               p:before="*"
+              s:id="{EF1606F2-65B1-4492-9E2E-3BEFBBC0E2F6}"
+              s:par="CacheClearingBehavior=Clear%20on%20publish&amp;CSSStyles"
+              s:ph="headless-main" />
+            <r
+              uid="{A778DA15-EFA7-43EF-B52D-A6FB91C2B3F8}"
+              p:after="r[@uid='{0C707D44-E4EA-4D80-804F-4CB898C0DE39}']"
               s:ds="{AF8CC5C3-3121-4DBF-8C59-3AC009E6B3C8}"
               s:id="{60E46443-0BAD-5861-823D-75F620401573}"
               s:par="FieldNames&amp;CacheClearingBehavior=Clear+on+publish&amp;Styles&amp;CSSStyles&amp;GridParameters&amp;BannerType=BannerWithoutCTA"
@@ -94,7 +100,7 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "78bc2a02-44e1-498d-a76c-7b4bc9f8eeb0"
+      Value: "2dfafacb-e015-47de-876f-5d0655afb9b0"
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Product Category

@@ -10,7 +10,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{950A5623-5A98-417D-BD90-6FC56C526F8A}" />
+    <image mediaid="{EA80F5F5-1EAD-4C73-AD8E-320F56FC4B12}" />
 Languages:
 - Language: en
   Versions:
@@ -24,8 +24,14 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{A778DA15-EFA7-43EF-B52D-A6FB91C2B3F8}"
+              uid="{BFE2FB69-388C-4C7D-8120-6361FEA3EC81}"
               p:before="*"
+              s:id="{EF1606F2-65B1-4492-9E2E-3BEFBBC0E2F6}"
+              s:par="CacheClearingBehavior=Clear%20on%20publish&amp;CSSStyles"
+              s:ph="headless-main" />
+            <r
+              uid="{A778DA15-EFA7-43EF-B52D-A6FB91C2B3F8}"
+              p:after="r[@uid='{BFE2FB69-388C-4C7D-8120-6361FEA3EC81}']"
               s:ds="{AA889234-5668-461A-AEEC-5E4625C5B19E}"
               s:id="{60E46443-0BAD-5861-823D-75F620401573}"
               s:par="FieldNames&amp;CacheClearingBehavior=Clear+on+publish&amp;Styles&amp;CSSStyles&amp;GridParameters&amp;BannerType=BannerWithoutCTA"
@@ -43,4 +49,4 @@ Languages:
         </r>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b7d2ea75-840b-4544-9682-854942aaaba2"
+      Value: "7fcb827a-052b-4fc6-878b-e4e1a7a95c96"
