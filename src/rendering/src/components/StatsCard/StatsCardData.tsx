@@ -19,7 +19,7 @@ function StatsCardData(props: any) {
         <h5 className="count-title font-weight-bold text-body ls-md">
           {data?.fields?.Title?.value}
         </h5>
-        <RichText className="text-grey mb-0" field={data?.fields?.Description} />
+        <p className="text-grey mb-0">{data?.fields?.Description.value}</p>
       </div>
     </div>
   );
