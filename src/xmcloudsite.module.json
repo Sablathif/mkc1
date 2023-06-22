@@ -12,6 +12,10 @@
                 "allowedPushOperations": "CreateUpdateAndDelete"
             },
             {
+                "name": "xmcloud-renderings",
+                "path": "/sitecore/layout/Renderings/Project/XMCloudSite"
+            },
+            {
                 "name": "xmcloud-templates",
                 "path": "/sitecore/Templates/Project/XMCloudSite",
                 "allowedPushOperations": "CreateUpdateAndDelete"
@@ -24,6 +28,11 @@
             {
                 "name": "xmcloud-media",
                 "path": "/sitecore/Media Library/Project/XMCloudSite",
+                "allowedPushOperations": "CreateUpdateAndDelete"
+            },
+            {
+                "name": "xmcloud-default-renderings",
+                "path": "/sitecore/templates/Branches/Feature/JSS Experience Accelerator/Page Content",
                 "allowedPushOperations": "CreateUpdateAndDelete"
             }
         ]
