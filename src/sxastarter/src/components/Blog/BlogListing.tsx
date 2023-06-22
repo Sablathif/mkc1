@@ -8,11 +8,13 @@ import {
   ImageField,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import Reveal from 'react-awesome-reveal';
-import { fadeIn } from '../utils/data/keyframes';
-import { mainSlider6 } from '../utils/data/carousel';
+import { fadeIn } from '../../utils/data/keyframes';
+import { mainSlider6 } from '../../utils/data/carousel';
 import OwlCarousel from 'components/feature/owl-carousel';
 import PostEight from 'components/feature/post/post-eight';
 import { ComponentProps } from 'lib/component-props';
+import ListingCard from './ListingCard';
+import ClassicCard from './ClassicCard';
 
 interface Fields {
   Blogs: Blog[];
@@ -42,10 +44,19 @@ export const Default = (props: BlogListingProps): JSX.Element => {
   // // console.log(id);
   console.log(props);
   return (
-    // <div className={`component ${props.params.styles}`} id={id ? id : undefined} tabIndex={1}>
-    <div>
-      <div className="component-content">
-        <p>BlogListing Default Component</p>
+    <div className="page-content with-sidebar">
+      <div className="container">
+        <div className="row gutter-lg">
+          <div className="col-lg-12">
+            <div className="posts">
+              {props?.fields?.Blogs && props?.fields?.Blogs?.length
+                ? props?.fields?.Blogs?.slice(0, 4).map((post, index) => (
+                    <ListingCard props={post} index={index} key={index} />
+                  ))
+                : ''}
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   );
@@ -53,21 +64,16 @@ export const Default = (props: BlogListingProps): JSX.Element => {
 export const Classic = (props: BlogListingProps): JSX.Element => {
   console.log(props.params);
   return (
-    // <div className={`component ${props.params.styles}`} id={id ? id : undefined} tabIndex={1}>
-    // <div>
-    //   <div className="component-content">
-    //     <p>BlogListing Classic Component</p>
-    //   </div>
-    // </div>
     <div className="page-content with-sidebar">
       <div className="container">
         <div className="row gutter-lg">
           <div className="col-lg-12">
             <div className="posts">
-              jkj
-              {/* {blog?.map((item: any, index: any) => (
-                <ListingCard props={item} index={index} key={index} />
-              ))} */}
+              {props?.fields?.Blogs && props?.fields?.Blogs?.length
+                ? props?.fields?.Blogs?.slice(0, 4).map((post, index) => (
+                    <ClassicCard props={post} index={index} key={index} />
+                  ))
+                : ''}
             </div>
           </div>
         </div>

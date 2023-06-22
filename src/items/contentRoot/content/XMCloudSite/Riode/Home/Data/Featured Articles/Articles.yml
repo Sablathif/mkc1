@@ -22,16 +22,17 @@ Languages:
         {1E5E0497-C5D5-4AD1-AE0C-5A9AEB42F81C}
         {6D741BDB-EF28-4F7D-9BE7-632BE939F35F}
         {E33289AF-A1F4-4467-AAB9-55FD6EA2FD28}
+        {EBAC152A-66EF-4E51-8B23-00A09F72B1EE}
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f934708c-a53b-4337-8bc5-bce2f3f9991c"
+      Value: "5afc620b-7e8c-4661-bcdc-176ba542b2fd"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\asmita.parkar@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230621T180413Z
+      Value: 20230622T101943Z
     - ID: "fdeae247-fff6-4c50-bc42-e68ff0b550ee"
       Hint: title
       Value: Featured Articles

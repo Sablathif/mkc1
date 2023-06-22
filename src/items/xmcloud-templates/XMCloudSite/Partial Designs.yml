@@ -1,6 +1,6 @@
 ﻿---
 ID: "77a97932-717d-40af-b9bb-43f8636c75f8"
-Parent: "87c7f989-1509-465a-94ab-c6d43bfa1b7a"
+Parent: "73047d2c-c404-466d-bdb4-1f2bc9f77c1f"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
 Path: /sitecore/templates/Project/XMCloudSite/Partial Designs
 SharedFields:
@@ -31,11 +31,11 @@ Languages:
         sitecore\asmita.parkar@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1ef6763d-363a-4b11-82b3-365f6f0ee394"
+      Value: "db87be29-69c2-42b6-8d15-c40a69532489"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\asmita.parkar@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230619T104517Z
+      Value: 20230622T140052Z

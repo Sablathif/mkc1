@@ -13,9 +13,12 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "0f1a1b5a-8ada-4c51-b591-292455d23551"
       Hint: heading
-      Value: Explore Fashion Trending For Women In Autumn 2021
+      Value: <p>Exploredfs Fashion Trending For Women In Autumn 2021</p>
     - ID: "21270559-d67a-4b29-aa47-a65d2199a9ad"
       Hint: ctaText
       Value: Read More
@@ -36,7 +39,7 @@ Languages:
         sitecore\asmita.parkar@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3901d2e3-23a3-4d96-a0c1-27d1b862e525"
+      Value: "1de5c055-4bd1-4d71-9cfa-5e925afef43f"
     - ID: "91323520-a6ea-4b45-99dd-35e2f47ba17c"
       Hint: author
       Value: $author
@@ -55,7 +58,7 @@ Languages:
       Value: 4
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230621T141113Z
+      Value: 20230622T113332Z
     - ID: "e368d4c0-dd28-4b09-a01f-b46d40ae76b1"
       Hint: month
       Value: Mar
