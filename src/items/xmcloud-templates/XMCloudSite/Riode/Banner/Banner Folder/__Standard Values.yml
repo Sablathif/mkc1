@@ -1,14 +1,15 @@
 ﻿---
-ID: "d7e0dbfc-276e-4df9-b99b-7b75bd28a80d"
-Parent: "92980d20-7310-4b07-989d-b5bd2f192943"
-Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
-Path: /sitecore/content/XMCloudSite/Riode/Presentation/Available Renderings/Riode
+ID: "9425f7aa-29f8-42fe-ad42-ff5e3f6bd942"
+Parent: "3b706afe-21af-4121-8163-a9b7fa13a299"
+Template: "3b706afe-21af-4121-8163-a9b7fa13a299"
+Path: /sitecore/templates/Project/XMCloudSite/Riode/Banner/Banner Folder/__Standard Values
 SharedFields:
-- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
-  Hint: Renderings
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
   Value: |
-    {D9D4CCE4-FD07-4D41-9AB0-F0CF7B911119}
-    {BECE056A-3EB2-43C5-9751-48F43683B44B}
+    {3B706AFE-21AF-4121-8163-A9B7FA13A299}
+    {4F5BD5B4-CDF8-4909-8DFA-8D9B1949C8C8}
+    {61BE6F7D-3A37-45F8-924F-F8FEDC8F7A05}
 Languages:
 - Language: en
   Versions:
@@ -16,7 +17,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20230621T105250Z
+      Value: 20230622T174717Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -27,11 +28,11 @@ Languages:
         sitecore\asmita.parkar@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "dcfa50bf-6c73-4f3b-84bf-822445f3f965"
+      Value: "b24dffea-6fc4-418f-ac77-e60bdd97640f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\asmita.parkar@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230622T182327Z
+      Value: 20230622T181414Z

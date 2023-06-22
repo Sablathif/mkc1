@@ -46,7 +46,7 @@ SharedFields:
   Value: "{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}"
 - ID: "e8881464-38af-4655-be4a-ee10586578a2"
   Hint: Templates
-  Value: "{87C7F989-1509-465A-94AB-C6D43BFA1B7A}"
+  Value: "{73047D2C-C404-466D-BDB4-1F2BC9F77C1F}"
 - ID: "f29428d5-1285-48b8-a884-44057965829a"
   Hint: RenderingsPath
   Value: "{9167B6A3-A8FA-4FF6-AB08-95A94B334A6F}"
@@ -71,11 +71,11 @@ Languages:
         sitecore\asmita.parkar@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7f88dca8-36e8-472f-b988-b99e82155309"
+      Value: "b01a39cb-06fb-4dff-b1dd-f94fc6190b18"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\asmita.parkar@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230619T111407Z
+      Value: 20230622T140248Z

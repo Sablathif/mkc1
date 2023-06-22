@@ -1,0 +1,17 @@
+﻿---
+ID: "61be6f7d-3a37-45f8-924f-f8fedc8f7a05"
+Parent: "f6c997e4-e883-4152-97a7-a2eaa1b12a00"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/XMCloudSite/Riode/Banner/Banner
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a0d8a64a-3d1a-43d7-b9de-477e59f555fe"
