@@ -1,7 +1,7 @@
 import React from 'react';
 import {
-  ComponentParams,
-  ComponentRendering,
+  // ComponentParams,
+  // ComponentRendering,
   Text,
   Field,
   LinkField,
