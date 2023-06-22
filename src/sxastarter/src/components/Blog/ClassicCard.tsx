@@ -50,7 +50,7 @@ function ClassicCard(props: any, index: any) {
                   adClass="owl-theme owl-dot-inner owl-dot-white gutter-no"
                   options={mainSlider10}
                 >
-                  <Link href="#" className={undefined} content={undefined} style={undefined}>
+                  <Link href="#" className={undefined} style={undefined}>
                     <LazyLoadImage
                       src={'/-' + item.fields.blogimages.value.src.split('/-').pop()}
                       alt={item.fields.blogimages.value.alt}
@@ -63,7 +63,7 @@ function ClassicCard(props: any, index: any) {
               </>
             ) : (
               <>
-                <Link href="#" className={undefined} content={undefined} style={undefined}>
+                <Link href="#" className={undefined} style={undefined}>
                   <LazyLoadImage
                     src={'/-' + item.fields.blogimages.value.src.split('/-').pop()}
                     alt={item.fields.blogimages.value.alt}
@@ -80,11 +80,11 @@ function ClassicCard(props: any, index: any) {
       <div key={index} className="post-details">
         <div className="post-meta">
           by{' '}
-          <Link href="#" className="post-author" content={undefined} style={undefined}>
+          <Link href="#" className="post-author" style={undefined}>
             <Text field={item.fields.author} />
           </Link>{' '}
           on{' '}
-          <Link href="#" className="post-date" content={undefined} style={undefined}>
+          <Link href="#" className="post-date" style={undefined}>
             {new Date(item.fields.date.value).toLocaleDateString('en-US', {
               year: 'numeric',
               month: 'short',
@@ -93,12 +93,12 @@ function ClassicCard(props: any, index: any) {
             })}
           </Link>{' '}
           |{' '}
-          <Link href="#" className="post-comment" content={undefined} style={undefined}>
+          <Link href="#" className="post-comment" style={undefined}>
             <span>{item.fields.comment.value}</span> Comments
           </Link>
         </div>
         <h4 className="post-title">
-          <Link href="#" className="" content={undefined} style={undefined}>
+          <Link href="#" className="" style={undefined}>
             <Text field={item.fields.heading} />
           </Link>
         </h4>
@@ -108,7 +108,6 @@ function ClassicCard(props: any, index: any) {
         <Link
           href={item.fields.ctaLink.value.href}
           className="btn btn-link btn-underline btn-primary"
-          content={undefined}
           style={undefined}
         >
           <Text field={item.fields.ctaText} />
