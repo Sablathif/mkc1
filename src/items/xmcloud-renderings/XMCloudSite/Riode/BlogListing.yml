@@ -7,6 +7,12 @@ SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
   Value: BlogListing
+- ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
+  Hint: Datasource Template
+  Value: /sitecore/templates/Project/XMCloudSite/Riode/Blog/Blog Listing
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{B3FE44BB-1732-439F-9EA8-322698B12E69}"
 - ID: "f6677a49-0a1d-4bad-b8ba-4f0f22bdee64"
   Hint: Additional compatible templates
   Value: "{CF110858-A489-4BA5-9B13-6738EE16492A}"
@@ -32,11 +38,11 @@ Languages:
         sitecore\asmita.parkar@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5ea39dfd-3b28-4c7b-8caa-3c6d91d9689f"
+      Value: "7c2ca77a-424a-4855-bd9c-cd2e47e5e016"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\asmita.parkar@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230621T184717Z
+      Value: 20230622T073156Z
