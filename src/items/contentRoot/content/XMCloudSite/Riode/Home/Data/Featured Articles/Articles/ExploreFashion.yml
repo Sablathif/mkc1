@@ -1,0 +1,65 @@
+﻿---
+ID: "1e5e0497-c5d5-4ad1-ae0c-5a9aeb42f81c"
+Parent: "3a8e57ef-4ae3-49b3-96c1-d80834f78416"
+Template: "712d948c-01a1-4f39-9bb7-547e9c427703"
+Path: /sitecore/content/XMCloudSite/Riode/Home/Data/Featured Articles/Articles/ExploreFashion
+BranchID: "e9777f2d-2846-4bf3-8ad2-f714bd58e1be"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{64AFE353-FE9B-44AA-8A6B-6338FEF8CE6E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0f1a1b5a-8ada-4c51-b591-292455d23551"
+      Hint: heading
+      Value: Explore Fashion Trending For Women In Autumn 2021
+    - ID: "21270559-d67a-4b29-aa47-a65d2199a9ad"
+      Hint: ctaText
+      Value: Read More
+    - ID: "23ab5230-d093-40f3-9bfc-f5bcff6c7fc5"
+      Hint: ctaLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="thumbnail" target="" querystring="" id="{B2B35EF3-C801-4265-8287-0039DAAC2B60}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230621T140640Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3901d2e3-23a3-4d96-a0c1-27d1b862e525"
+    - ID: "91323520-a6ea-4b45-99dd-35e2f47ba17c"
+      Hint: author
+      Value: $author
+    - ID: "b2073b4c-279f-4fe9-bee1-7f3902310187"
+      Hint: description
+      Value: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit.
+    - ID: "b98c23a3-da47-4090-b373-9ebc255dd4b9"
+      Hint: date
+      Value: 20230621T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "d237a48f-fdb9-4523-a4bb-d83198928448"
+      Hint: day
+      Value: 4
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230621T141113Z
+    - ID: "e368d4c0-dd28-4b09-a01f-b46d40ae76b1"
+      Hint: month
+      Value: Mar
+    - ID: "ff7e9294-fa0e-4036-8c72-221ae48d9307"
+      Hint: blogimages
+      Value: |
+        <image mediaid="{04DAD0FD-DB66-4070-881F-17264CA257E1}" alt="cover" height="" width="" hspace="" vspace="" />

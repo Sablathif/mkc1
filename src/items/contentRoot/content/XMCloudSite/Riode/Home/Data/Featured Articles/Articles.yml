@@ -1,0 +1,37 @@
+﻿---
+ID: "3a8e57ef-4ae3-49b3-96c1-d80834f78416"
+Parent: "96ffc7ea-339f-484a-8d3e-3060c915705a"
+Template: "cf110858-a489-4ba5-9b13-6738ee16492a"
+Path: /sitecore/content/XMCloudSite/Riode/Home/Data/Featured Articles/Articles
+BranchID: "e9777f2d-2846-4bf3-8ad2-f714bd58e1be"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{51A12975-606E-4A1F-BFC1-CF46D6EC16EB}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230621T140640Z
+    - ID: "4d20c740-b5cb-4324-9304-8ce89b16c6f6"
+      Hint: Blogs
+      Value: |
+        {1E5E0497-C5D5-4AD1-AE0C-5A9AEB42F81C}
+        {6D741BDB-EF28-4F7D-9BE7-632BE939F35F}
+        {E33289AF-A1F4-4467-AAB9-55FD6EA2FD28}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f934708c-a53b-4337-8bc5-bce2f3f9991c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230621T180413Z
+    - ID: "fdeae247-fff6-4c50-bc42-e68ff0b550ee"
+      Hint: title
+      Value: Featured Articles

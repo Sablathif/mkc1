@@ -1,0 +1,37 @@
+﻿---
+ID: "64afe353-fe9b-44aa-8a6b-6338fef8ce6e"
+Parent: "51a12975-606e-4a1f-bfc1-cf46d6ec16eb"
+Template: "712d948c-01a1-4f39-9bb7-547e9c427703"
+Path: /sitecore/templates/Project/XMCloudSite/Riode/Blog/Blog Listing Branch/$name/Blog
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230621T133125Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d7768967-d2a0-4faa-95f8-0adc9db92756"
+    - ID: "91323520-a6ea-4b45-99dd-35e2f47ba17c"
+      Hint: author
+      Value: $author
+    - ID: "b98c23a3-da47-4090-b373-9ebc255dd4b9"
+      Hint: date
+      Value: $date
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230621T133153Z
