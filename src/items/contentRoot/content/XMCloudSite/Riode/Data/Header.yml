@@ -1,0 +1,23 @@
+﻿---
+ID: "19c26aa2-b891-4117-b545-3daa2fd87bf7"
+Parent: "1cfc4f4f-0451-405e-a7bd-0ada0a7c513c"
+Template: "90c8a58e-36b8-4286-b286-158f8281272e"
+Path: /sitecore/content/XMCloudSite/Riode/Data/Header
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230622T144349Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f1f43b8d-6ce4-47e4-b625-3374bbdad3d0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230622T144349Z
