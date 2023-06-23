@@ -88,6 +88,7 @@ const RecipePrep = (props: RecipePrepDetailsProps): JSX.Element => {
                     alt={props.fields.ChefImage.value.alt}
                     width={props.fields.ChefImage.value.width}
                     height={props.fields.ChefImage.value.height}
+                    loading="lazy"
                   />
                 </a>
               </div>

@@ -3,15 +3,36 @@
     display: flex;
 }
 .promoCard .cardContent {
-    padding: 50px 30px;
+    position: relative;
+}
+
+.promoCard .cardContent img{
     background-color: #da291c;
     width: 100%;
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    max-width: 1366px;
     margin: 0 auto;
+    height: 380px;
 }
+
+@media (max-width:992px){
+    .promoCard .cardContent img{
+    height: 410px;}
+    .promoCard .cardContent .content{
+        top: 20px;
+        left: 15px;
+        right: 15px;
+    }
+    }
+
+.promoCard .cardContent .content{
+   position: absolute;
+   top: 50px;
+   left: 30px;
+   right: 30px;
+}
+
 .promoCard h3 {
     color: #fff;
     font-size: 42px;

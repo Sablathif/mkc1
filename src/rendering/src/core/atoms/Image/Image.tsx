@@ -20,7 +20,7 @@ type ImageProps = {
   field: ImageField;
   className?: string;
   priority?: boolean;
-  loading?: "lazy" | "eager";
+  loading?: 'lazy' | 'eager';
 };
 
 const Image = ({ field, className, priority, loading }: ImageProps): JSX.Element => {

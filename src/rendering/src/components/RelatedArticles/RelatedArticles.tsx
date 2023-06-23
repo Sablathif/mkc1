@@ -1,10 +1,11 @@
-import { Field, Image, ImageField, LinkField, Text } from '@sitecore-jss/sitecore-jss-nextjs';
+import { Field, ImageField, LinkField, Text } from '@sitecore-jss/sitecore-jss-nextjs';
 import 'bootstrap-icons/font/bootstrap-icons.css';
 import 'bootstrap/dist/css/bootstrap.css';
 import { ComponentProps } from 'lib/component-props';
 import Link from 'next/link';
 import { useState } from 'react';
 import styles from './RelatedArticles.module.scss';
+import Image from 'src/core/atoms/Image';
 
 type RelatedArticlesProps = ComponentProps & {
   fields: {
@@ -54,7 +55,7 @@ const RelatedArticles = (props: RelatedArticlesProps): JSX.Element => {
                   <Image
                     field={item.fields.Image}
                     className="card-img-top rounded-0"
-                    alt="Card image cap"
+                    loading="lazy"
                   />
                   <div className="card-body">
                     <Link
