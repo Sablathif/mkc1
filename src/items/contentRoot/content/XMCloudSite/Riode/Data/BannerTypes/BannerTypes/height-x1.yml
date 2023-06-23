@@ -1,8 +1,8 @@
 ﻿---
-ID: "87c7f989-1509-465a-94ab-c6d43bfa1b7a"
-Parent: "825b30b4-b40b-422e-9920-23a1b6bda89c"
-Template: "77157d54-90c8-4014-9b9e-540d24e71d03"
-Path: /sitecore/templates/Project/XMCloudSite
+ID: "87f1118f-beab-4f4a-8891-63524ea3aa39"
+Parent: "bd32e4b7-c0c9-4fed-a43b-f0ef9e29d461"
+Template: "2b54befd-9006-4b9b-a452-d4678dc09c09"
+Path: "/sitecore/content/XMCloudSite/Riode/Data/BannerTypes/BannerTypes/height-x1"
 Languages:
 - Language: en
   Versions:
@@ -10,22 +10,22 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20230619T104516Z
+      Value: 20230623T072414Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\asmita.parkar@altudo.co
+        sitecore\nawaz.mehdi@altudo.co
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\asmita.parkar@altudo.co
+        sitecore\nawaz.mehdi@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "39139abe-9d31-4e80-99bb-b8ae61f9dad6"
+      Value: "3ef4abfe-e4b1-4b27-9831-3929935879c8"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\asmita.parkar@altudo.co
+        sitecore\nawaz.mehdi@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230619T104516Z
+      Value: 20230623T075738Z
