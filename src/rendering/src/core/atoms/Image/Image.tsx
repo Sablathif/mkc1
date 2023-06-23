@@ -20,9 +20,10 @@ type ImageProps = {
   field: ImageField;
   className?: string;
   priority?: boolean;
+  loading?: "lazy" | "eager";
 };
 
-const Image = ({ field, className, priority }: ImageProps): JSX.Element => {
+const Image = ({ field, className, priority, loading }: ImageProps): JSX.Element => {
   const { sitecoreContext } = useSitecoreContext();
   const isEditing = sitecoreContext && sitecoreContext.pageEditing;
 
@@ -36,12 +37,13 @@ const Image = ({ field, className, priority }: ImageProps): JSX.Element => {
   if (src) {
     return (
       <NextImage
-        src={src.slice(9)}
+        src={'/-' + src.split('/-').pop()}
         alt={alt}
         width={width || 60}
         height={height || 60}
         className={className}
         priority={priority}
+        loading={loading}
       />
     );
   }

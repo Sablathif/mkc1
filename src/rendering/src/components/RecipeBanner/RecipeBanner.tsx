@@ -1,7 +1,8 @@
 import React from 'react';
+import { ImageField } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
 import Styles from './banner.module.scss';
-import { ImageField } from '@sitecore-jss/sitecore-jss-nextjs';
+import Image from 'src/core/atoms/Image';
 
 type RecipeBannerProps = ComponentProps & {
   fields: {
@@ -11,7 +12,6 @@ type RecipeBannerProps = ComponentProps & {
 };
 
 const RecipeBanner = (props: RecipeBannerProps): JSX.Element => {
-  const imgsrc = '/-' + props.fields.Desktop_Image.value.src.split('/-').pop();
   return (
     <div className="container-fluid">
       <div className="row">
@@ -19,7 +19,7 @@ const RecipeBanner = (props: RecipeBannerProps): JSX.Element => {
           <div className="row">
             <div className="col-12 p-0">
               <div className={Styles.fullBanner}>
-                {props.fields?.Desktop_Image.value.src ? <img src={imgsrc} alt="image" /> : null}
+                <Image field={props.fields.Desktop_Image} priority={true} />
               </div>
             </div>
           </div>
