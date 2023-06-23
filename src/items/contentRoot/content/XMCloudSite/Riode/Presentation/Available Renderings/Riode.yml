@@ -9,6 +9,8 @@ SharedFields:
   Value: |
     {D9D4CCE4-FD07-4D41-9AB0-F0CF7B911119}
     {BECE056A-3EB2-43C5-9751-48F43683B44B}
+    {DC3F47D7-8647-4872-8AFC-8A1F857B5359}
+    {61757195-1C1A-45C7-BFD4-B7507238900A}
 Languages:
 - Language: en
   Versions:
@@ -27,11 +29,11 @@ Languages:
         sitecore\asmita.parkar@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "dcfa50bf-6c73-4f3b-84bf-822445f3f965"
+      Value: "dce44cc3-9d62-437d-8c24-fd67530d6419"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\asmita.parkar@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230622T182327Z
+      Value: 20230623T204528Z

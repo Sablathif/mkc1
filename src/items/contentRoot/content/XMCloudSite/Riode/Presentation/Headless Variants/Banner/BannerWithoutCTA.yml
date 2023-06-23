@@ -10,6 +10,10 @@ SharedFields:
   Value: "{B695CE00-6587-4353-B9A0-868EBDB94AB9}"
 Languages:
 - Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Banner Without CTA
   Versions:
   - Version: 1
     Fields:
@@ -26,11 +30,11 @@ Languages:
         sitecore\asmita.parkar@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c3df2026-f248-4aa1-94a0-2ba697dc944c"
+      Value: "d23e2e1b-ed5e-4c97-8575-2c236f3833c5"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\asmita.parkar@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230622T181124Z
+      Value: 20230623T193524Z

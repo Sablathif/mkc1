@@ -1,0 +1,31 @@
+﻿---
+ID: "04bbaf7d-10bb-4a8b-ac28-101cdc4c7ae4"
+Parent: "8d1eac63-fae5-4673-b20a-00b40f12e079"
+Template: "35e75c72-4985-4e09-88c3-0eac6cd1e64f"
+Path: /sitecore/templates/Project/XMCloudSite/Riode/Global Data/Media Type/Media Type Branch
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230623T184633Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9126adc-9fd0-4c33-a0d0-bd42091bd302"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230623T184633Z

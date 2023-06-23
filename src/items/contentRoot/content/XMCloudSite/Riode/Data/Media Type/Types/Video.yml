@@ -1,0 +1,26 @@
+﻿---
+ID: "75a6f301-7a5a-438f-857f-7e00ced93c62"
+Parent: "35e7d077-0aa7-49a8-b571-fbfa52c1bf4d"
+Template: "ef9c94f8-27a7-42f1-a934-fbe9bf5d368b"
+Path: /sitecore/content/XMCloudSite/Riode/Data/Media Type/Types/Video
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230623T185402Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c03f106e-a48c-47d6-bdd8-11a8b9761725"
+    - ID: "9077a87a-a25e-4592-8840-6c6875289994"
+      Hint: Type
+      Value: Video
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230623T185405Z

@@ -1,0 +1,40 @@
+﻿---
+ID: "acfad1bb-9ace-41c9-843c-b8232ccd59aa"
+Parent: "d0aa0359-2e45-4952-8f6b-62d330853b9b"
+Template: "41a51cc2-1263-4e07-80ca-842b4a4f918f"
+Path: /sitecore/content/XMCloudSite/Riode/Home/Data/Stat Counter/Counter Progress/Counter 1
+BranchID: "fa9aa060-0f70-409e-b54f-17a87fdc4f57"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{7FC869AE-6D70-465F-BC7F-418FEA82E011}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "07163a84-0dea-4e6f-8e63-23364716af33"
+      Hint: CountUp
+      Value: 35
+    - ID: "19d61184-c18e-40be-8525-0a951245bb71"
+      Hint: Description
+      Value: |
+        <p class="text-grey mb-0">Lorem ipsum dolor sit<br />
+        amet, conctetur adipisci elit. viverra erat orci.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230623T204716Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "daa32185-cc25-44b9-a460-f7990576432a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "d6fd7458-9e33-41fb-880d-2c4e971dda0c"
+      Hint: SubTitle
+      Value: |
+        <h5 class="count-title font-weight-bold text-body ls-md">Business Year</h5>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230623T205353Z

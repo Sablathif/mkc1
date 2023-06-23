@@ -5,6 +5,7 @@ import { ReactElement } from 'react';
 import { NextPage } from 'next';
 import Head from 'next/head';
 import 'assets/sass/style.scss';
+import 'assets/css/main.css';
 
 type NextPageWithLayout<P = unknown, IP = P> = NextPage<P, IP> & {
   getLayout?: (page: ReactElement) => ReactElement;

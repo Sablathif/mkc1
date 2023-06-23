@@ -40,9 +40,6 @@ type BlogListingProps = ComponentProps & {
 };
 
 export const Default = (props: BlogListingProps): JSX.Element => {
-  // const id = props.fields.Blogs;
-  // // console.log(id);
-  console.log(props);
   return (
     <div className="page-content with-sidebar">
       <div className="container">
@@ -62,7 +59,6 @@ export const Default = (props: BlogListingProps): JSX.Element => {
   );
 };
 export const Classic = (props: BlogListingProps): JSX.Element => {
-  console.log(props.params);
   return (
     <div className="page-content with-sidebar">
       <div className="container">
@@ -82,8 +78,6 @@ export const Classic = (props: BlogListingProps): JSX.Element => {
   );
 };
 export const FeaturedArticle = (props: BlogListingProps): JSX.Element => {
-  // const posts = props.fields.Blogs;
-  // console.log(posts[0].fields.ctaText);
   return (
     <section className="blog-post-wrapper mt-6 mt-md-10 pt-7">
       <Reveal keyframes={fadeIn} duration={1000} triggerOnce>

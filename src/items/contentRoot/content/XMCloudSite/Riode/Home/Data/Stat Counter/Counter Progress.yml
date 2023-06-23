@@ -1,0 +1,45 @@
+﻿---
+ID: "d0aa0359-2e45-4952-8f6b-62d330853b9b"
+Parent: "a1160633-845e-4833-b839-c693879ef8e6"
+Template: "c04221e6-1101-4419-9103-16097d2af0bf"
+Path: /sitecore/content/XMCloudSite/Riode/Home/Data/Stat Counter/Counter Progress
+BranchID: "fa9aa060-0f70-409e-b54f-17a87fdc4f57"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{DDD35D72-89FD-4819-BBD2-0EE7563239FC}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fbf67e3-da50-4afc-bf6c-0c91f69dd6e6"
+      Hint: SubTitle
+      Value: |
+        <h3 class="section-title lh-1 font-weight-bold" style="color: #222222; margin: 0px 0px 2.2rem; letter-spacing: -0.06em; line-height: 1;">Provide perfect and practical services</h3>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230623T204716Z
+    - ID: "58e5cb55-2812-45f9-b279-e5e6c3b1dd8d"
+      Hint: Description
+      Value: |
+        <span style="color: #666666;">Lorem quis bibendum auctar, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</span>
+    - ID: "7cf2cbb2-9ce8-47ba-ac67-d4cf52766cc8"
+      Hint: CounterCards
+      Value: |
+        {ACFAD1BB-9ACE-41C9-843C-B8232CCD59AA}
+        {D1C835AB-5560-43E3-9C18-0B255B01A4CE}
+        {4E9FED6E-C127-48B9-9261-90B9DFE4F4E5}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ea4c40b-1c33-427d-8a0f-36ce1b682534"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230623T210600Z
+    - ID: "e6eac684-05ee-4347-aed7-602c92922fa2"
+      Hint: Title
+      Value: 01. What We Do

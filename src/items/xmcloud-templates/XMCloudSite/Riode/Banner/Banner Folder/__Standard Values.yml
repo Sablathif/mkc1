@@ -10,6 +10,10 @@ SharedFields:
     {3B706AFE-21AF-4121-8163-A9B7FA13A299}
     {4F5BD5B4-CDF8-4909-8DFA-8D9B1949C8C8}
     {61BE6F7D-3A37-45F8-924F-F8FEDC8F7A05}
+    {7921E700-6073-4FC9-B864-7D2C97F410CC}
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: "{AB86861A-6030-46C5-B394-E8F99E8B87DB}"
 Languages:
 - Language: en
   Versions:
@@ -28,11 +32,11 @@ Languages:
         sitecore\asmita.parkar@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b24dffea-6fc4-418f-ac77-e60bdd97640f"
+      Value: "f4826a05-7262-470a-9561-81f29187be5b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\asmita.parkar@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230622T181414Z
+      Value: 20230623T183755Z

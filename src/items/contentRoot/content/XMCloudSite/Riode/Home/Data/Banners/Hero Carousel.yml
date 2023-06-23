@@ -1,0 +1,42 @@
+﻿---
+ID: "f20a7db0-28f0-45fa-a327-1b53e6fdb2de"
+Parent: "9e753b96-14fc-4d95-b510-a6f39ac99b25"
+Template: "4f5bd5b4-cdf8-4909-8dfa-8d9b1949c8c8"
+Path: /sitecore/content/XMCloudSite/Riode/Home/Data/Banners/Hero Carousel
+BranchID: "7921e700-6073-4fc9-b864-7d2c97f410cc"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{DE20228B-32CF-4FB0-BD36-46E91916345B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230623T183920Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f78b15c5-23df-4043-80a9-9db3734848ac"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230623T190842Z
+    - ID: "e4f4ae10-0e66-4e6a-af4c-11fec20ff37f"
+      Hint: Banners
+      Value: |
+        {A086D3E1-F269-4A93-A1D1-4C4DAD36B11E}
+        {04FA0C1B-1DE1-4B06-83BC-A5CFA3BB83D5}
+        {E24ECB78-6D3C-48A6-9DEB-9F0D50B28B12}
