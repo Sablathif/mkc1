@@ -1,6 +1,6 @@
 import React from 'react';
 import { ComponentProps } from 'lib/component-props';
-import { Field, ImageField, LinkField, RichText, Text } from '@sitecore-jss/sitecore-jss-nextjs';
+import { Field, RichText } from '@sitecore-jss/sitecore-jss-nextjs';
 
 interface Fields {
   contentList: [
@@ -24,6 +24,5 @@ export const Default = (props: TwoColumnContentProps): JSX.Element => {
         <RichText field={item?.fields?.description} key={index} />
       ))}
     </div>
-    // <p>TwoColumnContent Component</p>
   );
 };

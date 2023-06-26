@@ -1,0 +1,45 @@
+﻿---
+ID: "cc537757-22e2-4abf-9f71-978761593c8c"
+Parent: "07f0037a-57a0-4fbe-a420-822d0dc883ac"
+Template: "d1629509-f4fc-4a95-9523-db842f1d6ac9"
+Path: /sitecore/content/XMCloudSite/Riode/Home/Data/Two Column Content/ContentList/RightImageContent
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230626T110548Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "75d7aa71-3091-4b65-95e6-70068b81603b"
+      Hint: description
+      Value: |
+        <div class="row align-items-center">
+        <div class="col-md-6 order-md-first mb-4">
+        <h5 class="section-subtitle lh-2 ls-md font-weight-normal mb-1">03. Our Store</h5>
+        <h3 class="section-title lh-1 font-weight-bold">Expect Restless<br />
+        Amazing Support</h3>
+        <p class="section-desc text-grey">Already millions of people are very satisfied by thi.<br />
+        s page builder and the number is growing more and more. Technolog<br />
+        developing, requirements are increasing. Riode has brought.</p>
+        <a href="~/link.aspx?_id=B2B35EF3C801426582870039DAAC2B60&amp;_z=z">Get Our Store<em class="d-icon-arrow-right"></em></a></div>
+        <div class="col-md-6 mb-4"><figure><span class="lazy-load-image-background opacity lazy-load-image-loaded" style="display: inline-block;"><img height="507" alt="store" width="580" src="-/media/BA707E659A6340BAA242A303DD9FB2FB.ashx" /></span></figure></div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9dc67bd7-3ebe-4e63-8067-2b838f4e02b5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230626T111200Z

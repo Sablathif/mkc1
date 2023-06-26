@@ -1,0 +1,45 @@
+﻿---
+ID: "fba9a511-46e1-4663-afc6-44bf75a1739f"
+Parent: "07f0037a-57a0-4fbe-a420-822d0dc883ac"
+Template: "d1629509-f4fc-4a95-9523-db842f1d6ac9"
+Path: /sitecore/content/XMCloudSite/Riode/Home/Data/Two Column Content/ContentList/LeftImageContent
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230626T110534Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "75d7aa71-3091-4b65-95e6-70068b81603b"
+      Hint: description
+      Value: |
+        <div class="row align-items-center">
+        <div class="col-md-7 mb-4"><figure><span class="lazy-load-image-background opacity lazy-load-image-loaded" style="display: inline-block;"><img height="507" alt="customer" width="580" src="-/media/2A084E119FC74C1CAC95374150953A72.ashx" /></span></figure></div>
+        <div class="col-md-5 mb-4">
+        <h5 class="section-subtitle lh-2 ls-md font-weight-normal">02. Happy Customer</h5>
+        <h3 class="section-title lh-1 font-weight-bold">Provide fashionable and<br />
+        qualifed products</h3>
+        <p class="section-desc text-grey">Already millions of people are very satisfied by thi.<br />
+        s page builder and the number is growing more and more. Technolog<br />
+        developing, requirements are increasing. Riode has brought.</p>
+        <a href="~/link.aspx?_id=B2B35EF3C801426582870039DAAC2B60&amp;_z=z">Visit Our Store<em class="d-icon-arrow-right"></em></a></div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9a53fe4f-e32e-494a-b754-1dde4c1c2b06"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230626T111054Z
