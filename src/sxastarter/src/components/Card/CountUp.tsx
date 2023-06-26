@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import Style from './CountUp.module.css';
 const CountUpComponent = ({ endValue, duration }: { endValue: any; duration: any }) => {
   const [count, setCount] = useState(0);
   const increment = endValue / (duration * 60); // Calculate the increment per frame
