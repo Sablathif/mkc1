@@ -1,0 +1,31 @@
+﻿---
+ID: "77061c0a-15c3-4adf-8f1f-b2df9323377b"
+Parent: "8ea1ac39-3642-4c36-a8ac-2ff8271a6e86"
+Template: "8ea1ac39-3642-4c36-a8ac-2ff8271a6e86"
+Path: /sitecore/templates/Project/XMCloudSite/Riode/CategoryGroupList/Rendering Parameters/CategoryGroupList/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230622T073202Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7e5d19a4-fd75-4e75-8dc7-00b231daccd9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230626T131037Z

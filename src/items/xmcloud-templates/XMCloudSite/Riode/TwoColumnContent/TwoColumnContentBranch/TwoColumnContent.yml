@@ -1,0 +1,31 @@
+﻿---
+ID: "f23e5d72-7c40-4ee4-a3f5-d2278b4491dc"
+Parent: "74b7a5b8-00f4-4c3f-9ff2-f52985c32a69"
+Template: "2af79598-fe59-4eb3-90df-cfba9cc5457b"
+Path: /sitecore/templates/Project/XMCloudSite/Riode/TwoColumnContent/TwoColumnContentBranch/TwoColumnContent
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230626T105736Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "938911cb-9d29-49e8-bcff-00d586ad57df"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230626T105736Z

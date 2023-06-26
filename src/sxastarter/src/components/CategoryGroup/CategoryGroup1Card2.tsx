@@ -1,18 +1,13 @@
 import React from 'react';
-import ALink from 'components/feature/custom-link';
+import Link from 'next/link';
 
 function CategoryGroup1Card2(props: any, index: any) {
   const categoryItem = props?.props;
   return (
     <li key={index}>
-      <ALink
-        href={categoryItem?.itemUrl?.url}
-        className={undefined}
-        content={undefined}
-        style={undefined}
-      >
+      <Link href={categoryItem?.itemUrl?.url} className={undefined} style={undefined}>
         {categoryItem?.itemName?.value}
-      </ALink>
+      </Link>
     </li>
   );
 }

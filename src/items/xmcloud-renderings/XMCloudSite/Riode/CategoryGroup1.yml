@@ -30,21 +30,12 @@ SharedFields:
                   title {
                     value
                   }
-                  listingType {
-                    value
-                  }
-                  iconClassName {
-                    value
-                  }
                   image {
                     src
                     alt
                     width
                     height
                     src
-                  }
-                  backgroudColour {
-                    value
                   }
                   categoryURL {
                     name
@@ -101,11 +92,11 @@ Languages:
         sitecore\nawaz.mehdi@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d883c2ec-ea2c-49ce-a856-3c955acb4020"
+      Value: "c903f803-2fd4-42f5-97e8-02e2e0fc6023"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\nawaz.mehdi@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230626T140517Z
+      Value: 20230626T141754Z

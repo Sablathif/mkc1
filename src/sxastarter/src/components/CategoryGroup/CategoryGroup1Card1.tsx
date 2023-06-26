@@ -1,37 +1,26 @@
 import React from 'react';
-import ALink from 'components/feature/custom-link';
+import Link from 'next/link';
 import CategoryGroup1Card2 from './CategoryGroup1Card2';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 function CategoryGroup1Card1(props: any, index: any) {
   const item = props?.props;
   return (
     <div className="category category-group-image" key={index}>
-      <ALink
-        href={item?.categoryURL?.url}
-        className={undefined}
-        content={undefined}
-        style={undefined}
-      >
+      <Link href={item?.categoryURL?.url} className={undefined} style={undefined}>
         <figure className="category-media">
           <LazyLoadImage
             src={'/-' + item?.image?.src?.split('/-').pop()}
             alt={item?.image?.alt}
             width={item?.image?.width}
             height={item?.image?.height}
-            // effect="opacity"
           />
         </figure>
-      </ALink>
+      </Link>
       <div className="category-content">
         <h4 className="category-name">
-          <ALink
-            href={item?.categoryURL?.url}
-            className={undefined}
-            content={undefined}
-            style={undefined}
-          >
+          <Link href={item?.categoryURL?.url} className={undefined} style={undefined}>
             {item?.title?.value}
-          </ALink>
+          </Link>
         </h4>
         <ul className="category-list">
           {item?.categoryItems?.targetItems &&

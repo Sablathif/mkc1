@@ -1,0 +1,37 @@
+﻿---
+ID: "63550763-b9fa-4be8-b691-124297da0467"
+Parent: "5dc16071-85b5-430f-a6fd-1fab615cf6d6"
+Template: "5dc16071-85b5-430f-a6fd-1fab615cf6d6"
+Path: /sitecore/templates/Project/XMCloudSite/Riode/CategoryGroupList/CategoryGroup1Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {6BA811C2-3702-4FD1-A0DA-EA6421439372}
+    {5DC16071-85B5-430F-A6FD-1FAB615CF6D6}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230621T131927Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ebde733-3d76-46ed-9d06-a40117e4afe3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230626T131934Z
