@@ -1,0 +1,51 @@
+﻿---
+ID: "4dc1094c-2ff2-4d8e-b473-37572d4f1e0f"
+Parent: "062b8d0a-b6f3-40db-8b64-19364982c7e4"
+Template: "3825fe6a-6ca1-489b-a7c9-c3b4b3b38272"
+Path: /sitecore/system/Settings/Html Editor Profiles/Rich Text Full/Snippets/LeftImageContent
+SharedFields:
+- ID: "7dff83d2-e609-4c5f-99a9-13ec8536d65b"
+  Hint: Value
+  Value: |
+    <div class="row align-items-center">
+    <div class="col-md-7 mb-4"><figure><span class=" lazy-load-image-background opacity lazy-load-image-loaded" style="display: inline-block;"><img height="507" alt="Happy Customer" width="580" src="-/media/2B72538B9E5248179AED64173611046F.ashx?h=507&amp;w=580" style="height: 507px; width: 580px;" /></span></figure></div>
+    <div class="col-md-5 mb-4">
+    <h5 class="section-subtitle lh-2 ls-md font-weight-normal">02. Happy Customer</h5>
+    <h3 class="section-title lh-1 font-weight-bold">Provide fashionable and<br />
+    qualifed products</h3>
+    <p class="section-desc text-grey">Already millions of people are very satisfied by thi.<br />
+    s page builder and the number is growing more and more. Technolog<br />
+    developing, requirements are increasing. Riode has brought.</p>
+    <a href="~/link.aspx?_id=15B20460D0D74014A63DCEE29D88E146&amp;_z=z">Visit Our Store<em class="d-icon-arrow-right"></em></a></div>
+    </div>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20071101T100751
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4eb6e5de-eff9-4cdc-9264-55ccab928a4e"
+    - ID: "8e5179b0-2a09-4624-885d-619c0e3d0390"
+      Hint: Header
+      Value: Left Image Content
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20060131T143707
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230612T124117Z
