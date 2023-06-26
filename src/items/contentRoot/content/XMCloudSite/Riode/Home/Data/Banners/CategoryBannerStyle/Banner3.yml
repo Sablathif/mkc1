@@ -8,9 +8,6 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "08b09dfb-91c3-4496-9bea-8d2ec22e7a70"
-      Hint: BannerType
-      Value: "height-x2"
     - ID: "0b0ec71f-866d-42f1-940d-905d676de684"
       Hint: Title
       Value: Accessories
@@ -40,17 +37,20 @@ Languages:
         sitecore\asmita.parkar@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e2b1b106-a40d-4f11-856f-b01146db84c8"
+      Value: "8d23af9f-2fb7-4aee-8fc4-4d3764e7d8e1"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\nawaz.mehdi@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230626T051849Z
+      Value: 20230626T095448Z
     - ID: "df08957b-e019-4862-a95f-707922cc2b17"
       Hint: CTAText
       Value: Shop Now
+    - ID: "e8e86824-671e-4ab3-9528-3b2701576dc4"
+      Hint: BannerType
+      Value: "height-x2"
     - ID: "e90ca7ff-8416-449c-8372-98d865400789"
       Hint: Description
       Value: Products

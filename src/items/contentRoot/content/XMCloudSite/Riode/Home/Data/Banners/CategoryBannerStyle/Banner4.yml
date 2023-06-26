@@ -8,9 +8,6 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "08b09dfb-91c3-4496-9bea-8d2ec22e7a70"
-      Hint: BannerType
-      Value: "height-x1"
     - ID: "0b0ec71f-866d-42f1-940d-905d676de684"
       Hint: Title
       Value: Denim Essentials
@@ -40,17 +37,20 @@ Languages:
         sitecore\asmita.parkar@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b6303447-9213-406e-bed2-d5b25986570b"
+      Value: "61725aaa-6536-478d-88b7-f2795b5f12c4"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\nawaz.mehdi@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230626T051902Z
+      Value: 20230626T095458Z
     - ID: "df08957b-e019-4862-a95f-707922cc2b17"
       Hint: CTAText
       Value: Shop Now
+    - ID: "e8e86824-671e-4ab3-9528-3b2701576dc4"
+      Hint: BannerType
+      Value: "height-x1"
     - ID: "e90ca7ff-8416-449c-8372-98d865400789"
       Hint: Description
       Value: Products

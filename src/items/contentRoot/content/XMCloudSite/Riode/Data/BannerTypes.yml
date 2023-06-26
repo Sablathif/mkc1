@@ -1,16 +1,20 @@
 ﻿---
-ID: "35c46af4-2ad3-4f0a-a66a-cf247b23d2da"
+ID: "77ac5ec9-48af-4f64-8a57-9aa8eb1acf7d"
 Parent: "1cfc4f4f-0451-405e-a7bd-0ada0a7c513c"
-Template: "be3a02fc-ef49-44b0-ac4f-347e7f7a1206"
+Template: "27ec8c89-4486-4a30-9853-41ef304431ac"
 Path: /sitecore/content/XMCloudSite/Riode/Data/BannerTypes
 Languages:
 - Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Banner Types
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20230623T075611Z
+      Value: 20230626T093343Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -21,11 +25,11 @@ Languages:
         sitecore\nawaz.mehdi@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "74229a50-17f9-4b34-a3f1-74525ce21329"
+      Value: "e267aa8c-7b55-4621-a839-5290736325ae"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\nawaz.mehdi@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230623T075811Z
+      Value: 20230626T093409Z

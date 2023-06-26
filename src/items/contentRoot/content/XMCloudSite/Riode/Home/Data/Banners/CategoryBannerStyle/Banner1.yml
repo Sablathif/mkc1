@@ -8,9 +8,6 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "08b09dfb-91c3-4496-9bea-8d2ec22e7a70"
-      Hint: BannerType
-      Value: "height-x2"
     - ID: "0b0ec71f-866d-42f1-940d-905d676de684"
       Hint: Title
       Value: Comfort Dresses
@@ -40,17 +37,20 @@ Languages:
         sitecore\asmita.parkar@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6efa4149-c2bf-4c90-a0aa-1bcf6dde5312"
+      Value: "ed20a31b-0ea6-42a7-8fcd-4c87ffaf2dd5"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\nawaz.mehdi@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230626T051830Z
+      Value: 20230626T095429Z
     - ID: "df08957b-e019-4862-a95f-707922cc2b17"
       Hint: CTAText
       Value: Shop Now
+    - ID: "e8e86824-671e-4ab3-9528-3b2701576dc4"
+      Hint: BannerType
+      Value: "height-x2"
     - ID: "e90ca7ff-8416-449c-8372-98d865400789"
       Hint: Description
       Value: Products
