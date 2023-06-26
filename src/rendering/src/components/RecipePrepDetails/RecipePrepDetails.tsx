@@ -1,6 +1,7 @@
 import { RichText } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
 import Styles from './recipePrep.module.scss';
+import Image from 'src/core/atoms/Image';
 
 export type RecipePrepDetailsProps = ComponentProps & {
   fields: {
@@ -52,7 +53,6 @@ export type RecipePrepDetailsProps = ComponentProps & {
 };
 
 const RecipePrep = (props: RecipePrepDetailsProps): JSX.Element => {
-  const imgsrc = '/-' + props.fields.ChefImage.value.src.split('/-').pop();
   return (
     <div className="container">
       <div className="row">
@@ -83,13 +83,7 @@ const RecipePrep = (props: RecipePrepDetailsProps): JSX.Element => {
             <div className={'row ' + Styles.bg}>
               <div className={Styles.column1}>
                 <a href="/">
-                  <img
-                    src={imgsrc}
-                    alt={props.fields.ChefImage.value.alt}
-                    width={props.fields.ChefImage.value.width}
-                    height={props.fields.ChefImage.value.height}
-                    loading="lazy"
-                  />
+                  <Image field={props.fields.ChefImage} loading="lazy" />
                 </a>
               </div>
               <div className={Styles.column2}>

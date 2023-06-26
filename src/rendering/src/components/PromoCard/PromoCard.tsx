@@ -1,5 +1,7 @@
-import { ComponentProps } from 'lib/component-props';
+import React from 'react';
 import Styles from './PromoCard.module.scss';
+import { ComponentProps } from 'lib/component-props';
+import Image from 'src/core/atoms/Image';
 
 export type PromoCardProps = ComponentProps & {
   fields: {
@@ -24,16 +26,11 @@ export type PromoCardProps = ComponentProps & {
 };
 
 const NewsLetter = (props: PromoCardProps): JSX.Element => {
-  const bgimage = '/-' + props.fields.CardImage.value.src.split('/-').pop();
   return (
     <>
-      <div
-        className={Styles.newsletter}
-        style={{
-          backgroundImage: `url(${bgimage})`,
-        }}
-      >
-        <div className="container-fluid">
+      <div className={Styles.newsletter}>
+        <Image field={props.fields.CardImage} loading="lazy" />
+        <div className={'container-fluid ' + Styles.content}>
           <div className={`${Styles.newsletterRow} row`}>
             <div className="col-lg-5">
               <h3>{props.fields.CardTitle.value}</h3>

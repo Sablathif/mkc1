@@ -1,5 +1,6 @@
 import { ComponentProps } from 'lib/component-props';
 import Styles from './SocialMedia.module.scss';
+import Image from 'src/core/atoms/Image';
 
 type Item = {
   id: string;
@@ -38,7 +39,7 @@ export type SocialIconsProps = ComponentProps & {
 const SocialIcon = (props: SocialIconsProps): JSX.Element => {
   const icon = props.fields.items.map((item: Item) => ({
     title: item.fields.IconTitle.value,
-    src: item.fields.Icon.value.src,
+    src: item.fields.Icon,
     alt: item.fields.Icon.value.alt,
     href: item.fields.Link.value.href,
   }));
@@ -51,7 +52,7 @@ const SocialIcon = (props: SocialIconsProps): JSX.Element => {
             <li key={Index}>
               <a href={SocialIcon.href}>
                 <div className={Styles.mediaIcon}>
-                  <img src={'/-' + SocialIcon.src.split('/-').pop()} alt={SocialIcon.alt} />
+                  <Image field={SocialIcon.src} />
                 </div>
                 <div className={Styles.title}>{SocialIcon.title}</div>
               </a>
