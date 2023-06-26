@@ -1,0 +1,38 @@
+﻿---
+ID: "5252ba83-7613-4e7f-9326-4edc481b958f"
+Parent: "5610d656-b162-4014-a33e-25a17c820919"
+Template: "0ed32c13-6334-4bca-95b4-a89c7a0d7242"
+Path: /sitecore/content/XMCloudSite/Riode/Data/CategoryItems/PCGaming
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: PC Gaming
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230626T134114Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "56346234-d844-4197-aed2-d333ef70ec7e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "d4cfba23-629c-41bc-aa81-7a7ea6cf0ecc"
+      Hint: itemName
+      Value: PC Gaming
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230626T134119Z

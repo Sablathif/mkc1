@@ -1,0 +1,32 @@
+﻿---
+ID: "773650be-7a11-4757-b4b3-9e0cb7349bc2"
+Parent: "7e339723-10e7-4cd5-9161-05d30bb5f67f"
+Template: "6ba811c2-3702-4fd1-a0da-ea6421439372"
+Path: /sitecore/content/XMCloudSite/Riode/Home/Data/CategoryGroup1/CategoryGroupList
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230626T134638Z
+    - ID: "2fc9385d-c11b-43fb-a64f-ff720fbd8065"
+      Hint: categories
+      Value: |
+        {B4D7F9CF-7528-45AB-9E3E-FBA9E9C4392A}
+        {494E8CFB-2657-4A17-9ACA-CF2D97DEAE23}
+        {B648BC76-1856-4896-A4FF-453BA3F192A9}
+    - ID: "3093e61e-1d75-45a5-bf2b-b6c383ae5d60"
+      Hint: componentTitle
+      Value: Category Group 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1579c417-bf39-4a18-b772-aee7b7a9df41"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230626T140244Z

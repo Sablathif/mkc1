@@ -1,0 +1,38 @@
+﻿---
+ID: "b648bc76-1856-4896-a4ff-453ba3f192a9"
+Parent: "773650be-7a11-4757-b4b3-9e0cb7349bc2"
+Template: "9a933f31-e717-409c-be3a-56f39b6f5621"
+Path: /sitecore/content/XMCloudSite/Riode/Home/Data/CategoryGroup1/CategoryGroupList/Computers
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230626T134649Z
+    - ID: "78ec603d-080e-4f05-b711-d7e416bdfe03"
+      Hint: categoryItems
+      Value: |
+        {5F9ED00D-3DD5-4B8B-85AF-6AF4EBBF97B4}
+        {DBD257AD-7D63-4D8E-9911-C3C86CDC52AD}
+        {97BF7674-4FBB-40FB-B7FE-82F150D7D909}
+        {5252BA83-7613-4E7F-9326-4EDC481B958F}
+        {7A4A0425-CBBB-49DC-AF10-92BDDD01826F}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "80e65248-5c24-4217-9ee8-4d94571a89ce"
+    - ID: "90510cf3-90f4-48a2-8841-fd70fa45063c"
+      Hint: title
+      Value: Computers
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "d7d9eaaa-159e-4614-b893-5b3d41984e2b"
+      Hint: image
+      Value: |
+        <image mediaid="{806F3FEA-9164-4BCC-B3E1-436010AA5B79}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230626T135554Z

@@ -1,0 +1,111 @@
+﻿---
+ID: "adc64449-c435-4021-96b7-a7246a404769"
+Parent: "059b82f8-6a24-4dd8-9889-d0656fd61d55"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Project/XMCloudSite/Riode/CategoryGroup1
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: CategoryGroup1
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query {
+        # path can be an item tree path or GUID-based id
+        item(
+          path: "{773650BE-7A11-4757-B4B3-9E0CB7349BC2}"
+          language: "en"
+        ) {
+          # items can be cast to a Template type with inline fragments
+          ... on CategoryGroupList {
+            componentTitle {
+              value
+            }
+            categories {
+              name
+              targetItems {
+                id
+                name
+                ... on Categories {
+                  title {
+                    value
+                  }
+                  listingType {
+                    value
+                  }
+                  iconClassName {
+                    value
+                  }
+                  image {
+                    src
+                    alt
+                    width
+                    height
+                    src
+                  }
+                  backgroudColour {
+                    value
+                  }
+                  categoryURL {
+                    name
+                    value
+                    id
+                    linkType
+                    url
+                  }
+                  categoryItems {
+                    name
+                    targetItems {
+                      ... on CategoryItems {
+                        itemName {
+                          value
+                        }
+                        itemUrl {
+                          name
+                          value
+                          id
+                          linkType
+                          url
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+          # fields can be cast to a Field type with inline fragments
+        }
+      }
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{8EA1AC39-3642-4C36-A8AC-2FF8271A6E86}"
+- ID: "f6677a49-0a1d-4bad-b8ba-4f0f22bdee64"
+  Hint: Additional compatible templates
+  Value: "{6BA811C2-3702-4FD1-A0DA-EA6421439372}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230626T112929Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d883c2ec-ea2c-49ce-a856-3c955acb4020"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230626T140517Z
