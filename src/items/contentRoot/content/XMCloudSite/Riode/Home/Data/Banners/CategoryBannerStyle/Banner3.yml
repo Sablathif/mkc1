@@ -26,7 +26,7 @@ Languages:
     - ID: "47fd91ea-1825-442d-9373-7c5c805830c8"
       Hint: BackgroundImage
       Value: |
-        <image mediaid="{76EB033E-780D-45F5-BF48-E447204B88FA}" />
+        <image mediaid="{D53F1612-264F-4917-8DF4-7E9F3D640B6B}" />
     - ID: "52538d72-9bea-455f-8707-7a81d0a53508"
       Hint: SubTitle
       Value: 17
@@ -40,14 +40,14 @@ Languages:
         sitecore\asmita.parkar@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "852f5868-1720-4385-8f13-dea51cb764be"
+      Value: "e2b1b106-a40d-4f11-856f-b01146db84c8"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\nawaz.mehdi@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230623T075742Z
+      Value: 20230626T051849Z
     - ID: "df08957b-e019-4862-a95f-707922cc2b17"
       Hint: CTAText
       Value: Shop Now

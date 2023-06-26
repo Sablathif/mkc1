@@ -22,7 +22,7 @@ function ListingCard(props: any, index: any) {
       >
         <Link href="#" className={undefined} style={undefined}>
           <LazyLoadImage
-            src={'/-' + item?.fields?.blogimages?.value?.src?.split('/-').pop()}
+            src={item?.fields?.blogimages?.value?.src}
             alt={item?.fields?.blogimages?.value?.alt}
             width={item?.fields?.blogimages?.value?.width}
             height={item?.fields?.blogimages?.value?.height}

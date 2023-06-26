@@ -11,7 +11,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{48D53BAE-D27A-4223-96B6-507EF236D6EE}" />
+    <image mediaid="{A8A0678D-BAEA-4A3B-927A-028D6683CF94}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -55,11 +55,11 @@ Languages:
         sitecore\asmita.parkar@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bcbead1f-3392-4f28-8562-3b21bbb24653"
+      Value: "e47c5a71-72f9-42d0-bbfb-81f4865c009d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\asmita.parkar@altudo.co
+        sitecore\nawaz.mehdi@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230619T111432Z
+      Value: 20230626T043352Z
