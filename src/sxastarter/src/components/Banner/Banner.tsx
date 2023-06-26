@@ -25,7 +25,9 @@ export const Default = (props: BannerProps): JSX.Element => {
       className="banner banner-background parallax text-center"
       // data-option="{'speed': 4}"
       style={{
-        backgroundImage: `url(${props?.fields?.BackgroundImage?.value?.src})`,
+        backgroundImage: `url(${
+          '/-' + props?.fields?.BackgroundImage?.value?.src?.split('/-').pop()
+        })`,
         backgroundColor: '#313237',
       }}
     >
@@ -65,7 +67,9 @@ export const BoxedBanner = (props: BannerProps): JSX.Element => {
         <div
           className="shop-boxed-banner banner mb-lg-6"
           style={{
-            backgroundImage: `url(${props?.fields?.BackgroundImage?.value?.src})`,
+            backgroundImage: `url(${
+              '/-' + props?.fields?.BackgroundImage?.value?.src?.split('/-').pop()
+            })`,
             backgroundColor: '#f2f2f3',
           }}
         >
@@ -95,7 +99,9 @@ export const BannerWithoutCTA = (props: BannerProps): JSX.Element => {
     <section
       className="page-header pl-4 pr-4"
       style={{
-        backgroundImage: `url(${props?.fields?.BackgroundImage?.value?.src})`,
+        backgroundImage: `url(${
+          '/-' + props?.fields?.BackgroundImage?.value?.src?.split('/-').pop()
+        })`,
         backgroundColor: '#3C63A4',
       }}
     >

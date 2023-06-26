@@ -1,0 +1,38 @@
+﻿---
+ID: "d1ef53c4-ece6-44e3-b354-c039e03ddbfe"
+Parent: "19c26aa2-b891-4117-b545-3daa2fd87bf7"
+Template: "be87d5f3-2032-490e-9171-6433cc381825"
+Path: /sitecore/content/XMCloudSite/Riode/Presentation/Partial Designs/Header/Data/Header/Header
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230622T144406Z
+    - ID: "686d283f-af38-45ed-90a8-96d989ed9541"
+      Hint: Logo
+      Value: |
+        <image mediaid="{99CCB0EE-5D8A-4A4A-9414-A87636E88813}" />
+    - ID: "88b3756d-6b9e-4675-8608-c950640d93b4"
+      Hint: Navigation
+      Value: |
+        {B22578D4-E74B-4D95-B0F2-E48A97393DEB}
+        {5C6F377A-FC8A-44CD-810F-6B0DFEE4304B}
+        {B9953354-1593-48F9-A79A-3BF890B36A03}
+        {1AEAB264-5FF5-4658-BE9D-3BC5FA23C02A}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a8b3b177-717a-4600-9f08-d72c33ba5608"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230626T124538Z
+    - ID: "f9451165-723c-4198-b419-7414d65f810c"
+      Hint: TargetUrl
+      Value: |
+        <link class="" id="{BBE0D1F8-2C0B-4B03-AD85-78653FD2F572}" querystring="" anchor="" target="" title="test" linktype="internal" text="" url="/XMCloudSite/Riode/About" />

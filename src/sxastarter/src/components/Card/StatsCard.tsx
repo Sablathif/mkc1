@@ -29,7 +29,7 @@ export const Default = (props: StatsCardProps): JSX.Element => {
   // const id = props.params.RenderingIdentifier;
 
   return (
-    <div className="page-content mt-10 pt-10">
+    <div className="page-content mt-10">
       <Reveal keyframes={fadeIn} delay={50} duration={1000} triggerOnce>
         <section className="about-section pb-10">
           <div className="container">

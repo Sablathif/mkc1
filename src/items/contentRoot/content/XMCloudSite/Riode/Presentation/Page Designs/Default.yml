@@ -6,7 +6,11 @@ Path: /sitecore/content/XMCloudSite/Riode/Presentation/Page Designs/Default
 SharedFields:
 - ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
   Hint: PartialDesigns
-  Value: "{C1CE1473-A255-4A9D-82DD-4894008E4375}|{DBCF9BDE-E0EC-46AE-AF26-1C20992CE89E}"
+  Value: "{DBCF9BDE-E0EC-46AE-AF26-1C20992CE89E}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{4A5E7379-62F7-4303-9F4F-27C55933EF2C}" />
 Languages:
 - Language: en
   Versions:
@@ -25,11 +29,11 @@ Languages:
         sitecore\asmita.parkar@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "95e24f24-3db0-4a9e-8f7d-8db074fe1dd0"
+      Value: "69166e11-486c-44b0-a74d-26844b466a3e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\asmita.parkar@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230619T111419Z
+      Value: 20230626T125344Z

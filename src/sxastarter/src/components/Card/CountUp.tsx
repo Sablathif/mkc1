@@ -24,7 +24,7 @@ const CountUpComponent = ({ endValue, duration }: { endValue: any; duration: any
   }, [endValue, increment]);
 
   return (
-    <div className={`${Style.countto} finished`}>
+    <div className="count-to">
       <span>{count.toFixed(0)}</span>
     </div>
   );

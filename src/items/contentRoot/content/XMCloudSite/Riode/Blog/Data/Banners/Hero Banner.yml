@@ -1,8 +1,8 @@
 ﻿---
-ID: "241b8f32-efa6-413f-b6f9-1647bee2e1a5"
-Parent: "9e753b96-14fc-4d95-b510-a6f39ac99b25"
+ID: "b487b235-965b-4c42-ac02-bb67f30f05d6"
+Parent: "e3391099-517b-434d-958d-b331076effbd"
 Template: "61be6f7d-3a37-45f8-924f-f8fedc8f7a05"
-Path: /sitecore/content/XMCloudSite/Riode/Home/Data/Banners/Hero Banner
+Path: /sitecore/content/XMCloudSite/Riode/Blog/Data/Banners/Hero Banner
 Languages:
 - Language: en
   Versions:
@@ -24,7 +24,7 @@ Languages:
     - ID: "47fd91ea-1825-442d-9373-7c5c805830c8"
       Hint: BackgroundImage
       Value: |
-        <image mediaid="{90868FF9-33C7-4441-9AA2-40FEADDE85B4}" />
+        <image mediaid="{76EB033E-780D-45F5-BF48-E447204B88FA}" />
     - ID: "52538d72-9bea-455f-8707-7a81d0a53508"
       Hint: SubTitle
       Value: Online
@@ -38,14 +38,14 @@ Languages:
         sitecore\asmita.parkar@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a552b712-d5ff-45b2-a0a9-a45aa87e01f5"
+      Value: "44d78061-47aa-46e3-aea6-8818275918b7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\asmita.parkar@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230626T130040Z
+      Value: 20230622T182023Z
     - ID: "df08957b-e019-4862-a95f-707922cc2b17"
       Hint: CTAText
       Value: Read More

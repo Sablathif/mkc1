@@ -10,7 +10,7 @@ function PostEight(props) {
       <figure className="post-media">
         <Link href={post.ctaLink.value.href}>
           <LazyLoadImage
-            src={post?.blogimages?.value?.src}
+            src={'/-' + post?.blogimages?.value?.src.split('/-').pop()}
             alt={post?.blogimages?.value?.alt}
             width={post?.blogimages?.value?.width}
             height={post?.blogimages?.value?.height}

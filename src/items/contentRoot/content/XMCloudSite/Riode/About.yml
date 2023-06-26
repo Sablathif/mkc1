@@ -1,8 +1,8 @@
 ﻿---
 ID: "bbe0d1f8-2c0b-4b03-ad85-78653fd2f572"
-Parent: "b2b35ef3-c801-4265-8287-0039daac2b60"
+Parent: "ce42493d-fe07-4e3d-84bf-d623dabe2304"
 Template: "05f4fcea-5d68-4cd4-a4bc-c9b1c2a02cfb"
-Path: /sitecore/content/XMCloudSite/Riode/Home/About
+Path: /sitecore/content/XMCloudSite/Riode/About
 BranchID: "aa757cc9-f2da-4f78-a33d-9d382d5fcf92"
 SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"

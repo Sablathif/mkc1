@@ -1,8 +1,8 @@
 ﻿---
 ID: "19c26aa2-b891-4117-b545-3daa2fd87bf7"
-Parent: "1cfc4f4f-0451-405e-a7bd-0ada0a7c513c"
+Parent: "3bdde930-0cee-46f5-837f-5d47a4427daf"
 Template: "90c8a58e-36b8-4286-b286-158f8281272e"
-Path: /sitecore/content/XMCloudSite/Riode/Data/Header
+Path: /sitecore/content/XMCloudSite/Riode/Presentation/Partial Designs/Header/Data/Header
 Languages:
 - Language: en
   Versions:

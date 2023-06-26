@@ -21,11 +21,14 @@ Languages:
         sitecore\asmita.parkar@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "044211f2-c6b5-473d-a34c-c10ef81a3b24"
+      Value: "b670dd7d-0111-4f6c-a740-b291d2126152"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\asmita.parkar@altudo.co
+    - ID: "c1a5c359-cb1f-4eb1-bbf4-164536c79c84"
+      Hint: Navigations
+      Value: "{B22578D4-E74B-4D95-B0F2-E48A97393DEB}"
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230622T143558Z
+      Value: 20230626T105724Z

@@ -42,6 +42,30 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{B80E172B-5AD2-4675-8C7A-B6AEE52363AC}">
+              <p:d />
+            </r>
+            <r
+              uid="{566C03CC-6A64-4320-98E9-7B73913FABF1}"
+              s:ds="local:/Data/Header/Header"
+              s:id="{2A1F35C1-CB6B-436B-AB25-0627B18322CC}"
+              s:par="GridParameters&amp;FieldNames=%7B96F2349F-72B4-43E3-806A-9EDAC0F427A3%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-header"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{42010E0F-D9BB-48D1-B100-82EFF86D419A}">
+              <p:d />
+            </r>
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20230619T111416Z
@@ -55,11 +79,11 @@ Languages:
         sitecore\asmita.parkar@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bcbead1f-3392-4f28-8562-3b21bbb24653"
+      Value: "1d0984a6-3c46-47f6-ba2a-cf01462b202b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\asmita.parkar@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230619T111432Z
+      Value: 20230626T125452Z
