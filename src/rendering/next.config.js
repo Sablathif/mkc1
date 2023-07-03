@@ -14,6 +14,14 @@ const nextConfig = {
   // Allow specifying a distinct distDir when concurrently running app in a container
   distDir: process.env.NEXTJS_DIST_DIR || '.next',
 
+  images: {
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "**",
+      },
+    ],
+  },
   // Make the same PUBLIC_URL available as an environment variable on the client bundle
   env: {
     PUBLIC_URL: publicUrl,
@@ -72,10 +80,7 @@ const nextConfig = {
 
 module.exports = () => {
   // Run the base config through any configured plugins
-  images: {
-    domains: [
-      'xmc-altudo1-sitecorepra14b9-mccormickdev.sitecorecloud.io'
-    ]
-  }
   return Object.values(plugins).reduce((acc, plugin) => plugin(acc), nextConfig);
 }
+
+
