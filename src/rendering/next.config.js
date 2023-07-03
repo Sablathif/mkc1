@@ -27,7 +27,7 @@ const nextConfig = {
     domains: [
       'xmc-altudo1-sitecorepra14b9-mccormickdev.sitecorecloud.io'
     ]
-  }
+  },
   // Make the same PUBLIC_URL available as an environment variable on the client bundle
   env: {
     PUBLIC_URL: publicUrl,
