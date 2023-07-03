@@ -72,5 +72,10 @@ const nextConfig = {
 
 module.exports = () => {
   // Run the base config through any configured plugins
+  images: {
+    domains: [
+      'xmc-altudo1-sitecorepra14b9-mccormickdev.sitecorecloud.io'
+    ]
+  }
   return Object.values(plugins).reduce((acc, plugin) => plugin(acc), nextConfig);
 }
