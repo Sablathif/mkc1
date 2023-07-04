@@ -180,9 +180,9 @@
 
 @import '../../../node_modules/react-loading-skeleton/dist/skeleton.css';
 
-main {
-  display: block !important;
-}
+@import './poerreview.css';
+
+@import './Richtexthtml.css';
 
 footer {
   background-color: #ededed !important;

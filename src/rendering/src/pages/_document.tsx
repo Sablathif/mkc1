@@ -1,6 +1,6 @@
 // TODO: Remove the below eslint disable when eslint-config-next is updated to support tsx files for that validation
 // eslint-disable-next-line @next/next/no-document-import-in-page
-import Document, { Head, Html, Main, NextScript } from 'next/document';
+import Document, { Html, Head, Main, NextScript } from 'next/document';
 
 class MyDocument extends Document {
   render(): JSX.Element {
@@ -12,15 +12,38 @@ class MyDocument extends Document {
             rel="stylesheet"
           />
           <script
-            src="https://ui.powerreviews.com/stable/4.1/ui.js"
             type="text/javascript"
+            src="https://cdn-prod.securiti.ai/consent/auto_blocking/83bbef3c-9911-47cd-b325-8725673c2ab8/cfbaed94-437e-437f-b36c-4d67cd5254b1.js"
             async
-            defer
           ></script>
         </Head>
         <body>
           <Main />
           <NextScript />
+          <script
+            defer
+            src="https://sdks.shopifycdn.com/js-buy-sdk/v2/latest/index.umd.min.js"
+          ></script>
+          <script
+            type="text/javascript"
+            async
+            src="https://cdn.whisk.com/sdk/shopping-list.js"
+          ></script>
+          <script
+            type="text/javascript"
+            src="//destinilocators.com/mccormickcompany/pdpwidget/install/"
+            async
+          ></script>
+          <script
+            type="text/javascript"
+            src="//ui.powerreviews.com/stable/4.1/ui.js"
+            async
+          ></script>
+          <script
+            type="text/javascript"
+            src="https://connect.facebook.net/en_US/all.js"
+            async
+          ></script>
         </body>
       </Html>
     );
