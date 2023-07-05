@@ -41,6 +41,7 @@ const FrenchsHeader = (props: FrenchsHeaderProps): JSX.Element => {
   //     .find((item) => item.name === 'Logo')
   //     ?.fields.Image?.value.src.split('/-')
   //     .pop();
+  //
   const links = fields.items
     .filter((item) => item.name.startsWith('Link'))
     .map((item) => ({
