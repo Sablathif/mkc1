@@ -58,7 +58,6 @@ const FrenchsHeader = (props: FrenchsHeaderProps): JSX.Element => {
   return (
     <section className="full-width w-100">
       <header>
-        <span>test</span>
         <nav
           className="navbar navbar-expand-md navbar-light bg-light"
           style={{
