@@ -4,7 +4,6 @@ import 'bootstrap/dist/css/bootstrap.css';
 import { ComponentProps } from 'lib/component-props';
 import { useState } from 'react';
 import styles from './FrenchsHeader.module.scss';
-import Image from 'src/core/atoms/Image';
 
 type Item = {
   id: string;
@@ -35,13 +34,12 @@ export type FrenchsHeaderProps = ComponentProps & {
 
 const FrenchsHeader = (props: FrenchsHeaderProps): JSX.Element => {
   const { fields } = props;
-  // const logoSrc =
-  //   '/-' +
-  //   fields.items
-  //     .find((item) => item.name === 'Logo')
-  //     ?.fields.Image?.value.src.split('/-')
-  //     .pop();
-  //
+  const logoSrc =
+    '/-' +
+    fields.items
+      .find((item) => item.name === 'Logo')
+      ?.fields.Image?.value.src.split('/-')
+      .pop();
   const links = fields.items
     .filter((item) => item.name.startsWith('Link'))
     .map((item) => ({
@@ -58,19 +56,24 @@ const FrenchsHeader = (props: FrenchsHeaderProps): JSX.Element => {
   return (
     <section className="full-width w-100">
       <header>
-        <span>test</span>
         <nav
           className="navbar navbar-expand-md navbar-light bg-light"
           style={{
             backgroundImage:
-              'url("/-/media/Project/PLAY/playwebsite/media/img/icons/bg_header_frenchs.jpg?h=66&iar=0&w=1200&hash=539838FCEDD56C49AEAF209ABDAAC139")',
+              'url("https://www.mccormick.com/-/media/themes/oneweb/mccormickus/frenchs/images/theme-images/bg_header_frenchs.jpg")',
             backgroundRepeat: 'no-repeat',
             backgroundSize: 'cover',
           }}
         >
           <div className="container-fluid">
             <a className="navbar-brand ml-5" href="/">
-              <Image field={fields.items.find((item) => item.name === 'Logo').fields.Image} />
+              <img
+                src={logoSrc}
+                alt="Logo"
+                width="100"
+                height="150"
+                style={{ marginTop: '-60%' }}
+              />
             </a>
             <button
               className="navbar-toggler border-0"
