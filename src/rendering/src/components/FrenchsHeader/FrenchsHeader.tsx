@@ -4,6 +4,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import { ComponentProps } from 'lib/component-props';
 import { useState } from 'react';
 import styles from './FrenchsHeader.module.scss';
+import Image from 'src/core/atoms/Image';
 
 type Item = {
   id: string;
@@ -34,12 +35,12 @@ export type FrenchsHeaderProps = ComponentProps & {
 
 const FrenchsHeader = (props: FrenchsHeaderProps): JSX.Element => {
   const { fields } = props;
-  const logoSrc =
-    '/-' +
-    fields.items
-      .find((item) => item.name === 'Logo')
-      ?.fields.Image?.value.src.split('/-')
-      .pop();
+  // const logoSrc =
+  //   '/-' +
+  //   fields.items
+  //     .find((item) => item.name === 'Logo')
+  //     ?.fields.Image?.value.src.split('/-')
+  //     .pop();
   const links = fields.items
     .filter((item) => item.name.startsWith('Link'))
     .map((item) => ({
@@ -67,13 +68,7 @@ const FrenchsHeader = (props: FrenchsHeaderProps): JSX.Element => {
         >
           <div className="container-fluid">
             <a className="navbar-brand ml-5" href="/">
-              <img
-                src={logoSrc}
-                alt="Logo"
-                width="100"
-                height="150"
-                style={{ marginTop: '-60%' }}
-              />
+              <Image field={fields.items.find((item) => item.name === 'Logo').fields.Image} />
             </a>
             <button
               className="navbar-toggler border-0"
