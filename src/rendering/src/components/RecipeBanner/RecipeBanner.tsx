@@ -1,7 +1,7 @@
 import React from 'react';
 import { ImageField } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
-import Image from 'next/image';
+import Image from 'src/core/atoms/Image';
 import Head from 'next/head';
 
 // var  backgroundPosition: "center",
@@ -49,10 +49,8 @@ const RecipeBanner = (props: RecipeBannerProps): JSX.Element => {
               <div className="col-12 p-0">
                 <div className="fullBanner">
                   <Image
-                    src={'/-' + props.fields.Desktop_Image.value.src.split('/-').pop()}
-                    alt="banner image"
-                    height={props.fields.Desktop_Image.value.height}
-                    width={props.fields.Desktop_Image.value.width}
+                    field={props.fields.Desktop_Image}
+                    priority={true}
                   />
                 </div>
               </div>
