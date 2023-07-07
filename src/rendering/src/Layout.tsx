@@ -74,11 +74,6 @@ const Layout = ({ layoutData }: LayoutProps): JSX.Element => {
         <title>{pageTitle}</title>
         <link rel="icon" href={`${publicUrl}/favicon.ico`} />
         <meta name="robots" content="noindex" />
-        <link
-          rel="preload"
-          as="image"
-          href="/_next/image?url=%2F-%2Fmedia%2FProject%2FPLAY%2Fplaywebsite%2Fmedia%2Fimg%2FRecipeTest%2Ffrenchs-green-bean-casserole-recipe.png%3Fh%3D774%26iar%3D0%26w%3D1376%26hash%3D25DDE1E7EB969851C3A0F976A2AB419B&w=3840&q=75"
-        />
       </Head>
 
       {/* root placeholder for the app, which we add components to using route data */}
