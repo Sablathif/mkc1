@@ -48,10 +48,7 @@ const RecipeBanner = (props: RecipeBannerProps): JSX.Element => {
             <div className="row">
               <div className="col-12 p-0">
                 <div className="fullBanner">
-                  <Image
-                    field={props.fields.Desktop_Image}
-                    priority={true}
-                  />
+                  <Image field={props.fields.Desktop_Image} priority={true} />
                 </div>
               </div>
             </div>
