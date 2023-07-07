@@ -1,20 +1,20 @@
 /**
  * This Layout is needed for Starter Kit.
  */
+import React, { useEffect } from 'react'; // DEMO TEAM CUSTOMIZATION - Log page views
 import Head from 'next/head';
-import { useEffect } from 'react'; // DEMO TEAM CUSTOMIZATION - Log page views
 // DEMO TEAM CUSTOMIZATION - Add LayoutServicePageState
 import {
-  Field,
-  LayoutServiceData,
   Placeholder,
   getPublicUrl,
+  LayoutServiceData,
+  Field,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import Scripts from 'src/Scripts';
 // DEMO TEAM CUSTOMIZATION - CDP and Sitecore Send integration
+import { trackViewEvent } from './services/TrackingService';
 import HeaderCdpMessageBar from './components/HeaderCdpMessageBar';
 import { isEditingOrPreviewingPage } from './helpers/LayoutServiceHelper';
-import { trackViewEvent } from './services/TrackingService';
 // END CUSTOMIZATION
 // DEMO TEAM CUSTOMIZATION - Sitecore Search integration
 import { QueryClientProvider } from '@tanstack/react-query';
@@ -74,6 +74,11 @@ const Layout = ({ layoutData }: LayoutProps): JSX.Element => {
         <title>{pageTitle}</title>
         <link rel="icon" href={`${publicUrl}/favicon.ico`} />
         <meta name="robots" content="noindex" />
+        <link
+          rel="preload"
+          as="image"
+          href="/_next/image?url=%2F-%2Fmedia%2FProject%2FPLAY%2Fplaywebsite%2Fmedia%2Fimg%2FRecipeTest%2Ffrenchs-green-bean-casserole-recipe.png%3Fh%3D774%26iar%3D0%26w%3D1376%26hash%3D25DDE1E7EB969851C3A0F976A2AB419B&w=3840&q=75"
+        />
       </Head>
 
       {/* root placeholder for the app, which we add components to using route data */}
