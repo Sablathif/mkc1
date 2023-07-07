@@ -36,7 +36,7 @@ const RecipeBanner = (props: RecipeBannerProps): JSX.Element => {
             position: relative; 
           } 
 
-          .fullBanner Image{
+          .fullBanner img{
             object-fit: cover;
             width: 100%;
           }
