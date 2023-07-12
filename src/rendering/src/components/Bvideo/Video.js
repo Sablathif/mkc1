@@ -3,7 +3,7 @@ import ReactPlayerLoader from "@brightcove/react-player-loader";
 const onFailure = () => console.log("player error");
 const onSuccess = () => console.log("player success");
 
-const VideoPlayer = () => {
+const VideoPlayer = React.lazy( () => {
   return (
     <ReactPlayerLoader
       id="playlist-player-id"
@@ -18,5 +18,5 @@ const VideoPlayer = () => {
       }}
     />
   );
-};
+});
 export default VideoPlayer;
