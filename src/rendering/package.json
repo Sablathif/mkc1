@@ -45,8 +45,6 @@
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
     "@fortawesome/react-fontawesome": "^0.1.14",
     "@next/bundle-analyzer": "^12.2.4",
-    "@radix-ui/react-icons": "^1.1.1",
-    "@reduxjs/toolkit": "^1.9.5",
     "@sitecore-discover/react": "^0.2.6",
     "@sitecore-discover/ui": "^1.0.0-alpha.7",
     "@sitecore-jss/sitecore-jss-nextjs": "^21.1.1",
