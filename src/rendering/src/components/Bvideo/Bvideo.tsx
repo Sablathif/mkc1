@@ -1,9 +1,10 @@
-import VideoPlayer from './Video';
+import dynamic from 'next/dynamic';
 
+const ComponentWithNoSSR = dynamic(() => import('./Video'), { ssr: false });
 function Bvideo() {
   return (
     <>
-      <VideoPlayer />
+      <ComponentWithNoSSR />
     </>
   );
 }
