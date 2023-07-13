@@ -1,13 +1,7 @@
 import dynamic from 'next/dynamic';
 
-const ComponentWithNoSSR = dynamic(() => import('./PowerReview'), { ssr: false });
+const PowerReview = dynamic(() => import('./PowerReview'), { ssr: false });
 
-function PowerReviewDynamic() {
-  return (
-    <div>
-      <ComponentWithNoSSR />
-    </div>
-  );
+export default function PowerReviewDynamic() {
+  return <PowerReview />;
 }
-
-export default PowerReviewDynamic;
